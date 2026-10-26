@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Widisha Bandi,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,7.85,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Karan Tak,B.Tech AI & ML,FastAPI;Flask;LLM Deployment,8.46,AI Agentic Engineer,Agent API Backend;LLM Service API,2,8
+2026-04-17,Darpan Anand,B.Tech Computer Science (AI),Search APIs;External Tools;Plugins,7.54,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Nakul Gour,B.Tech AI,Multi-Agent Systems;Agent Collaboration,9.67,AI Agentic Engineer,Agent Swarm Simulation,1,5
+2026-04-17,Banjeet Contractor,MCA Artificial Intelligence,Tree of Thoughts;Planning;Reasoning,9.3,AI Agentic Engineer,,0,8
+2026-04-17,Oliver Bir,MCA Artificial Intelligence,AWS;Serverless;LLM Deployment,7.81,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,5
+2026-04-17,Ojas Tank,B.Tech AI & ML,Agent Memory;Conversation Memory;Context Handling,9.57,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,6
+2026-04-17,Vritti Dixit,B.Tech AI & ML,Agent Memory;Conversation Memory;Context Handling,9.79,AI Agentic Engineer,,0,4
+2026-04-17,Theodore Dora,B.Tech Computer Science (AI),TensorFlow;CNN;Computer Vision,7.9,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Baghyawati Prabhu,MCA Artificial Intelligence,Agent Memory;Conversation Memory;Context Handling,7.83,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,7
+2026-04-17,Sai Sekhon,B.Tech AI,TensorFlow;CNN;Computer Vision,7.65,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Om Pradhan,B.Tech AI & ML,Python;Machine Learning;Scikit-learn,7.74,AI Agentic Engineer,ML Pipeline System;Classification Model,2,6
+2026-04-17,Pallavi Chander,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,9.57,AI Agentic Engineer,Autonomous AI Agent,1,8
+2026-04-17,Gaurika Singh,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.23,AI Agentic Engineer,Dockerized Agent System;Containerized AI Pipeline,2,5
+2026-04-17,Isha Deo,B.Tech AI,PyTorch;Deep Learning;Neural Networks,9.62,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,4
+2026-04-17,Yashawini Chhabra,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.45,AI Agentic Engineer,,0,7
+2026-04-17,Wishi Vora,B.Tech AI,AWS;Serverless;LLM Deployment,7.77,AI Agentic Engineer,Serverless AI Agent;Cloud Deployed Agent System,2,5
+2026-04-17,Frado Subramanian,B.Tech Computer Science (AI),Agent Memory;Conversation Memory;Context Handling,8.61,AI Agentic Engineer,Context-aware Assistant;Persistent Memory Chatbot,2,7
+2026-04-17,Samarth Banerjee,B.Tech AI,LangGraph;Multi-step Reasoning;Agents,9.6,AI Agentic Engineer,Tool-using Agent;Multi-step Agent Workflow,2,8
+2026-04-17,Yamini Dube,B.Tech AI,AWS;Serverless;LLM Deployment,9.4,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,6
+2026-04-17,Ojasvi Baria,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,7.48,AI Agentic Engineer,AI Chatbot,1,5
+2026-04-17,Aishani Mangal,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.28,AI Agentic Engineer,Dockerized Agent System,1,8
+2026-04-17,Thomas Hans,B.Tech AI,FastAPI;Flask;LLM Deployment,9.21,AI Agentic Engineer,LLM Service API,1,6
+2026-04-17,Advay Patla,B.Tech AI,Tree of Thoughts;Planning;Reasoning,8.05,AI Agentic Engineer,,0,8
+2026-04-17,Lajita Kuruvilla,B.Tech Computer Science (AI),AWS;Serverless;LLM Deployment,8.6,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,6
+2026-04-17,Christopher Doshi,B.Tech AI,AWS;Serverless;LLM Deployment,7.86,AI Agentic Engineer,Serverless AI Agent,1,5
+2026-04-17,Qadim Gala,B.Tech AI,Multi-Agent Systems;Agent Collaboration,9.73,AI Agentic Engineer,Multi-Agent Collaboration System,1,8
+2026-04-17,Wakeeta Pall,B.Tech AI & ML,Docker;CI/CD;MLOps,8.51,AI Agentic Engineer,Containerized AI Pipeline,1,5
+2026-04-17,Hemani Gole,B.Tech AI,API Integration;Tool Calling;Function Calling,8.96,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,5
+2026-04-17,Nicholas Srivastava,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,8.98,AI Agentic Engineer,Task-solving Agent;Tool-using Agent;Autonomous AI Agent;Multi-step Agent Workflow;Graph-based Agent System,5,8
+2026-04-17,Aachal Pau,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,8.79,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,5
+2026-04-17,Champak Nazareth,B.Tech AI,Python;Machine Learning;Scikit-learn,9.07,AI Agentic Engineer,Classification Model;ML Pipeline System,2,4
+2026-04-17,Ati Chada,B.Tech Computer Science (AI),ReAct;Chain-of-Thought;Prompting,7.25,AI Agentic Engineer,Reasoning + Acting Bot,1,6
+2026-04-17,Avni Bassi,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,8.57,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,7
+2026-04-17,Ira Kapadia,B.Tech AI & ML,Python;Machine Learning;Scikit-learn,7.87,AI Agentic Engineer,ML Pipeline System,1,4
+2026-04-17,Simon Ghosh,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,9.79,AI Agentic Engineer,,0,8
+2026-04-17,Manan Warrior,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,8.06,AI Agentic Engineer,Semantic Retrieval System;Vector Search Engine,2,5
+2026-04-17,Alka Dugal,B.Tech AI & ML,Docker;CI/CD;MLOps,7.2,AI Agentic Engineer,Dockerized Agent System;Containerized AI Pipeline,2,6
+2026-04-17,Nathaniel Kannan,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,9.74,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,5
+2026-04-17,Tanay Gopal,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,7.3,AI Agentic Engineer,,0,6
+2026-04-17,Arya Pandit,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,9.78,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,6
+2026-04-17,Mohini Butala,MCA Artificial Intelligence,Docker;CI/CD;MLOps,7.66,AI Agentic Engineer,Dockerized Agent System;Containerized AI Pipeline,2,7
+2026-04-17,Tripti Borde,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,8.15,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,6
+2026-04-17,Ronith Rai,B.Tech Computer Science (AI),GCP;Vertex AI;LLM Ops,9.58,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Advika Bose,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,8.37,AI Agentic Engineer,Agent Swarm Simulation,1,5
+2026-04-17,Divya Butala,B.Tech AI,Autonomous Agents;Task Planning;Execution Engines,7.76,AI Agentic Engineer,Autonomous Workflow System;Task-solving Agent,2,7
+2026-04-17,Ojasvi Viswanathan,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,8.42,AI Agentic Engineer,,0,6
+2026-04-17,Keya Chatterjee,B.Tech Computer Science (AI),Search APIs;External Tools;Plugins,9.51,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Jagvi Karan,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,9.53,AI Agentic Engineer,,0,6
+2026-04-17,Tanvi Parmar,B.Tech AI,Python;Machine Learning;Scikit-learn,9.6,AI Agentic Engineer,Classification Model;ML Pipeline System,2,7
+2026-04-17,Kabir Lall,B.Tech AI & ML,Autonomous Agents;Task Planning;Execution Engines,9.33,AI Agentic Engineer,Self-tasking AI Agent;Tool-using Agent;Autonomous AI Agent;Task-solving Agent,4,4
+2026-04-17,Vasana Garde,MCA Artificial Intelligence,Python;Machine Learning;Scikit-learn,9.61,AI Agentic Engineer,ML Pipeline System;Classification Model,2,5
+2026-04-17,Chavvi Shroff,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,8.25,AI Agentic Engineer,ML Pipeline System;Classification Model,2,6
+2026-04-17,Utkarsh Ramachandran,B.Tech AI,Tree of Thoughts;Planning;Reasoning,8.96,AI Agentic Engineer,,0,6
+2026-04-17,Jeet Karpe,B.Tech AI,FastAPI;Flask;LLM Deployment,9.24,AI Agentic Engineer,LLM Service API,1,4
+2026-04-17,Sai Luthra,B.Tech AI & ML,Transformers;BERT;HuggingFace,9.51,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,8
+2026-04-17,Anya Chawla,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,7.22,AI Agentic Engineer,,0,5
+2026-04-17,Vihaan Das,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,7.58,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,4
+2026-04-17,Lakshmi Iyengar,B.Tech Computer Science (AI),Autonomous Agents;Task Planning;Execution Engines,7.58,AI Agentic Engineer,,0,7
+2026-04-17,Dayamai Chacko,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,7.36,AI Agentic Engineer,Content Generator;AI Chatbot;LLM Assistant,3,5
+2026-04-17,Yagnesh Das,B.Tech AI,Docker;CI/CD;MLOps,7.92,AI Agentic Engineer,Dockerized Agent System,1,5
+2026-04-17,Umang Wadhwa,B.Tech AI,PyTorch;Deep Learning;Neural Networks,8.53,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,5
+2026-04-17,Urvi Saini,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.74,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,4
+2026-04-17,Zaitra Radhakrishnan,B.Tech Computer Science (AI),PyTorch;Deep Learning;Neural Networks,8.94,AI Agentic Engineer,Neural Network Project,1,8
+2026-04-17,Nakul Puri,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.31,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,5
+2026-04-17,Hemangini Ravi,B.Tech AI,Docker;CI/CD;MLOps,9.49,AI Agentic Engineer,Dockerized Agent System;Containerized AI Pipeline,2,7
+2026-04-17,Chakradhar Bedi,B.Tech AI,LangGraph;Multi-step Reasoning;Agents,9.17,AI Agentic Engineer,,0,4
+2026-04-17,Henry Tandon,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,9.04,AI Agentic Engineer,Task-solving Agent;Autonomous AI Agent;Tool-using Agent;Graph-based Agent System;Multi-step Agent Workflow,5,7
+2026-04-17,Indali Hans,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.16,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,8
+2026-04-17,Sai Chandran,B.Tech AI & ML,Transformers;BERT;HuggingFace,8.05,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Darsh Sankar,MCA Artificial Intelligence,AWS;Serverless;LLM Deployment,7.93,AI Agentic Engineer,Serverless AI Agent;Cloud Deployed Agent System,2,6
+2026-04-17,Gauri Gupta,B.Tech AI & ML,GCP;Vertex AI;LLM Ops,7.19,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Timothy Bajaj,B.Tech AI,GCP;Vertex AI;LLM Ops,9.28,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Ridhi Savant,MCA Artificial Intelligence,PyTorch;Deep Learning;Neural Networks,7.79,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,7
+2026-04-17,Vasana Devi,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,8.86,AI Agentic Engineer,LLM Assistant;AI Chatbot;Content Generator,3,6
+2026-04-17,Kamala Ramakrishnan,MCA Artificial Intelligence,Transformers;BERT;HuggingFace,7.55,AI Agentic Engineer,BERT Classifier;Text Generation Model,2,6
+2026-04-17,Manya Barman,B.Tech AI,Python;Machine Learning;Scikit-learn,8.86,AI Agentic Engineer,Classification Model;ML Pipeline System,2,5
+2026-04-17,Aarini Kalita,B.Tech AI,Search APIs;External Tools;Plugins,9.08,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Daksh Kala,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.72,AI Agentic Engineer,LLM Service API;Agent API Backend,2,6
+2026-04-17,Raghav Ray,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,8.16,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,8
+2026-04-17,Ucchal Banik,B.Tech Computer Science (AI),Agent Memory;Conversation Memory;Context Handling,8.34,AI Agentic Engineer,,0,5
+2026-04-17,Isaiah Jayaraman,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,7.28,AI Agentic Engineer,Semantic Retrieval System;Vector Search Engine,2,4
+2026-04-17,Ubika Dash,B.Tech AI & ML,API Integration;Tool Calling;Function Calling,7.03,AI Agentic Engineer,,0,4
+2026-04-17,Ethan Choudhry,MCA Artificial Intelligence,Python;Machine Learning;Scikit-learn,9.75,AI Agentic Engineer,,0,4
+2026-04-17,Ishwar Sathe,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,7.72,AI Agentic Engineer,Task-solving Agent;Autonomous AI Agent;Tool-using Agent,3,7
+2026-04-17,Alka Deep,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,7.35,AI Agentic Engineer,AI Chatbot;Content Generator,2,6
+2026-04-17,Adya Bava,B.Tech AI,Multi-Agent Systems;Agent Collaboration,8.61,AI Agentic Engineer,,0,8
+2026-04-17,Logan Raman,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.51,AI Agentic Engineer,Reasoning + Acting Bot,1,7
+2026-04-17,Fiyaz Shenoy,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,8.41,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Januja Dalal,B.Tech AI & ML,AWS;Serverless;LLM Deployment,8.23,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,7
+2026-04-17,Tamanna Char,MCA Artificial Intelligence,Tree of Thoughts;Planning;Reasoning,9.36,AI Agentic Engineer,,0,5
+2026-04-17,Anvi Mital,B.Tech AI & ML,PyTorch;Deep Learning;Neural Networks,7.55,AI Agentic Engineer,Neural Network Project;Deep Learning Model,2,4
+2026-04-17,Jack Ramaswamy,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,8.28,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,7
+2026-04-17,Vivaan Ravi,B.Tech AI & ML,TensorFlow;CNN;Computer Vision,7.31,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Wridesh Ghose,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,8.2,AI Agentic Engineer,Autonomous AI Agent,1,6
+2026-04-17,Ryan Gandhi,B.Tech Computer Science (AI),LangChain;Agents;Tool Usage,9.75,AI Agentic Engineer,Autonomous AI Agent;Task-solving Agent;LangChain Agent System;Tool-using Agent,4,5
+2026-04-17,Rachita Radhakrishnan,B.Tech AI & ML,API Integration;Tool Calling;Function Calling,8.23,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,8
+2026-04-17,Saanvi Manne,B.Tech Computer Science (AI),LangChain;Agents;Tool Usage,7.93,AI Agentic Engineer,,0,5
+2026-04-17,Unni Vala,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,9.73,AI Agentic Engineer,LLM Service API;Agent API Backend,2,7
+2026-04-17,Rohan Vig,B.Tech AI,FastAPI;Flask;LLM Deployment,7.44,AI Agentic Engineer,LLM Service API;Agent API Backend,2,6
+2026-04-17,Inaya Chaudhary,MCA Artificial Intelligence,TensorFlow;CNN;Computer Vision,9.77,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Lucky Nayak,MCA Artificial Intelligence,Docker;CI/CD;MLOps,8.67,AI Agentic Engineer,Dockerized Agent System,1,4
+2026-04-17,Benjamin Kapur,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,8.6,AI Agentic Engineer,Tool-using Agent,1,5
+2026-04-17,Patrick Sinha,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.95,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,5
+2026-04-17,Matthew Anand,MCA Artificial Intelligence,Docker;CI/CD;MLOps,7.74,AI Agentic Engineer,,0,5
+2026-04-17,Anamika Ravel,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,7.48,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,4
+2026-04-17,Lakshmi Varghese,B.Tech AI,Transformers;BERT;HuggingFace,9.08,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,7
+2026-04-17,Chanchal Dhingra,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,8.52,AI Agentic Engineer,Autonomous AI Agent;Tool-using Agent,2,6
+2026-04-17,Anita Upadhyay,MCA Artificial Intelligence,FastAPI;Flask;LLM Deployment,9.27,AI Agentic Engineer,LLM Service API;Agent API Backend,2,5
+2026-04-17,Odika Sagar,B.Tech AI & ML,GCP;Vertex AI;LLM Ops,8.22,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Tanay Padmanabhan,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,7.76,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,4
+2026-04-17,Azad Kota,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,7.98,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,7
+2026-04-17,Riya Rattan,B.Tech AI,Multi-Agent Systems;Agent Collaboration,7.77,AI Agentic Engineer,,0,5
+2026-04-17,Pooja Rao,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,9.32,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,8
+2026-04-17,Hritik Chawla,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,7.1,AI Agentic Engineer,Multi-step Agent Workflow,1,5
+2026-04-17,Laban Vora,B.Tech Computer Science (AI),Multi-Agent Systems;Agent Collaboration,9.27,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,5
+2026-04-17,Samaksh Raman,B.Tech AI,Docker;CI/CD;MLOps,7.71,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,5
+2026-04-17,Mason Oommen,MCA Artificial Intelligence,Docker;CI/CD;MLOps,9.68,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,8
+2026-04-17,Vasana Sankar,B.Tech AI & ML,Transformers;BERT;HuggingFace,7.99,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,6
+2026-04-17,Indali Sodhi,B.Tech AI,Multi-Agent Systems;Agent Collaboration,9.22,AI Agentic Engineer,Multi-Agent Collaboration System;Agent Swarm Simulation,2,6
+2026-04-17,Abhimanyu Divan,B.Tech AI,GCP;Vertex AI;LLM Ops,7.47,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Sanaya Singhal,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,9.49,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,6
+2026-04-17,Fariq Dugal,B.Tech Computer Science (AI),GCP;Vertex AI;LLM Ops,9.11,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Gayathri Padmanabhan,B.Tech Computer Science (AI),ReAct;Chain-of-Thought;Prompting,7.5,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,5
+2026-04-17,Wishi Khalsa,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.01,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,4
+2026-04-17,Pahal Samra,B.Tech Computer Science (AI),Agent Memory;Conversation Memory;Context Handling,8.61,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,5
+2026-04-17,Ekta Sur,B.Tech AI & ML,Multi-Agent Systems;Agent Collaboration,7.39,AI Agentic Engineer,Multi-Agent Collaboration System;Agent Swarm Simulation,2,4
+2026-04-17,Theodore Rao,B.Tech AI & ML,FastAPI;Flask;LLM Deployment,8.62,AI Agentic Engineer,Agent API Backend,1,5
+2026-04-17,Hemal Patel,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,7.5,AI Agentic Engineer,Tool-using Agent;Graph-based Agent System;Task-solving Agent,3,6
+2026-04-17,Chaman Kakar,B.Tech AI,TensorFlow;CNN;Computer Vision,9.55,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Jeet Tank,B.Tech AI & ML,Search APIs;External Tools;Plugins,7.61,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Krish Wali,B.Tech AI,GCP;Vertex AI;LLM Ops,9.68,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Edhitha Bumb,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,7.85,AI Agentic Engineer,Dockerized Agent System,1,6
+2026-04-17,Megha Rana,B.Tech AI & ML,Python;Machine Learning;Scikit-learn,8.45,AI Agentic Engineer,ML Pipeline System;Classification Model,2,4
+2026-04-17,Shravya Garde,B.Tech Computer Science (AI),Tree of Thoughts;Planning;Reasoning,7.89,AI Agentic Engineer,,0,7
+2026-04-17,Arjun Karpe,B.Tech Computer Science (AI),ReAct;Chain-of-Thought;Prompting,9.49,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,7
+2026-04-17,Urishilla Bhattacharyya,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,8.39,AI Agentic Engineer,Content Generator;LLM Assistant;AI Chatbot,3,8
+2026-04-17,Niharika Dhar,B.Tech AI,Search APIs;External Tools;Plugins,8.26,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Ekani Dayal,B.Tech AI & ML,GCP;Vertex AI;LLM Ops,9.23,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Darpan Ramanathan,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.02,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,5
+2026-04-17,Prisha Babu,B.Tech AI & ML,ReAct;Chain-of-Thought;Prompting,9.08,AI Agentic Engineer,,0,8
+2026-04-17,Upma Sheth,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,7.74,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,8
+2026-04-17,Baljiwan Dalal,B.Tech AI,Tree of Thoughts;Planning;Reasoning,7.81,AI Agentic Engineer,,0,5
+2026-04-17,Yug Sagar,B.Tech AI,FastAPI;Flask;LLM Deployment,7.21,AI Agentic Engineer,,0,4
+2026-04-17,Abhiram Sura,MCA Artificial Intelligence,AWS;Serverless;LLM Deployment,8.82,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,8
+2026-04-17,Yashasvi Dora,MCA Artificial Intelligence,Autonomous Agents;Task Planning;Execution Engines,8.89,AI Agentic Engineer,Task-solving Agent;Autonomous AI Agent,2,8
+2026-04-17,Vivaan Padmanabhan,B.Tech AI & ML,Tree of Thoughts;Planning;Reasoning,8.65,AI Agentic Engineer,Multi-step Reasoning Engine,1,4
+2026-04-17,Agastya Thaker,B.Tech AI & ML,RAG;Vector DB;Embeddings,7.32,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,6
+2026-04-17,Anita Sangha,B.Tech AI & ML,Agent Memory;Conversation Memory;Context Handling,8.3,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,4
+2026-04-17,Lajita Pau,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,8.28,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,7
+2026-04-17,Tristan Sekhon,MCA Artificial Intelligence,Autonomous Agents;Task Planning;Execution Engines,8.47,AI Agentic Engineer,Autonomous AI Agent;Task-solving Agent;Autonomous Workflow System;Self-tasking AI Agent,4,8
+2026-04-17,Hritik Sandal,B.Tech AI,Search APIs;External Tools;Plugins,8.49,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Anika Ramesh,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,8.88,AI Agentic Engineer,Tool-using Agent;Multi-step Agent Workflow;Autonomous AI Agent;Graph-based Agent System,4,5
+2026-04-17,Kiaan Kota,B.Tech AI,LangChain;Agents;Tool Usage,7.17,AI Agentic Engineer,LangChain Agent System;LLM Workflow Automation;Tool-using Agent;Autonomous AI Agent,4,7
+2026-04-17,Jason Bhatt,B.Tech Computer Science (AI),Search APIs;External Tools;Plugins,7.25,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Kala Ben,B.Tech Computer Science (AI),Search APIs;External Tools;Plugins,7.78,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Nandini Venkatesh,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.54,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,7
+2026-04-17,Charvi Dua,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.2,AI Agentic Engineer,Knowledge Retrieval Assistant,1,5
+2026-04-17,Tara Nigam,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,9.05,AI Agentic Engineer,Document Q&A System,1,6
+2026-04-17,Alexander Ranganathan,B.Tech Computer Science (AI),Tree of Thoughts;Planning;Reasoning,8.62,AI Agentic Engineer,Multi-step Reasoning Engine;Planning-based AI Agent,2,7
+2026-04-17,Chatura Singh,B.Tech Computer Science (AI),Multi-Agent Systems;Agent Collaboration,8.53,AI Agentic Engineer,Multi-Agent Collaboration System;Agent Swarm Simulation,2,8
+2026-04-17,Harinakshi Chatterjee,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,9.79,AI Agentic Engineer,Multi-step Agent Workflow;Tool-using Agent;Autonomous AI Agent,3,8
+2026-04-17,Jacob Dar,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,8.37,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Vedant Master,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,8.7,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Yatan Minhas,MCA Artificial Intelligence,Transformers;BERT;HuggingFace,7.55,AI Agentic Engineer,BERT Classifier;Text Generation Model,2,6
+2026-04-17,Brinda Bhalla,B.Tech Computer Science (AI),LangChain;Agents;Tool Usage,7.87,AI Agentic Engineer,Task-solving Agent;LangChain Agent System,2,8
+2026-04-17,Nidhi Mitter,B.Tech AI & ML,FastAPI;Flask;LLM Deployment,9.69,AI Agentic Engineer,,0,8
+2026-04-17,Zilmil Butala,MCA Artificial Intelligence,API Integration;Tool Calling;Function Calling,8.9,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,7
+2026-04-17,Indira Khare,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,9.46,AI Agentic Engineer,,0,6
+2026-04-17,Chakradhar Warrior,MCA Artificial Intelligence,Tree of Thoughts;Planning;Reasoning,8.57,AI Agentic Engineer,Planning-based AI Agent;Multi-step Reasoning Engine,2,8
+2026-04-17,Max Memon,B.Tech AI & ML,Search APIs;External Tools;Plugins,8.17,AI Agentic Engineer,,0,5
+2026-04-17,Ikshita Nazareth,MCA Artificial Intelligence,Agent Memory;Conversation Memory;Context Handling,9.79,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,8
+2026-04-17,Ekaja Pillay,B.Tech AI & ML,FastAPI;Flask;LLM Deployment,7.1,AI Agentic Engineer,Agent API Backend;LLM Service API,2,4
+2026-04-17,Gaurika Gera,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,8.85,AI Agentic Engineer,,0,4
+2026-04-17,Aarna Sarkar,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.2,AI Agentic Engineer,,0,6
+2026-04-17,Upma Venkatesh,B.Tech AI & ML,Python;Machine Learning;Scikit-learn,9.07,AI Agentic Engineer,ML Pipeline System,1,5
+2026-04-17,Chasmum Gill,B.Tech AI,TensorFlow;CNN;Computer Vision,7.59,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Upasna Bobal,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,7.61,AI Agentic Engineer,Agent Swarm Simulation,1,6
+2026-04-17,Fiyaz Sant,MCA Artificial Intelligence,Multi-Agent Systems;Agent Collaboration,7.73,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,6
+2026-04-17,Urvi Venkatesh,B.Tech Computer Science (AI),TensorFlow;CNN;Computer Vision,7.87,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Rishi Wadhwa,B.Tech Computer Science (AI),Tree of Thoughts;Planning;Reasoning,7.74,AI Agentic Engineer,Planning-based AI Agent;Multi-step Reasoning Engine,2,7
+2026-04-17,Urishilla Ahuja,B.Tech AI,Autonomous Agents;Task Planning;Execution Engines,9.01,AI Agentic Engineer,Autonomous AI Agent;Task-solving Agent,2,8
+2026-04-17,Tanish Morar,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,8.08,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,7
+2026-04-17,Matthew Sampath,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,8.31,AI Agentic Engineer,Autonomous AI Agent;Multi-step Agent Workflow,2,8
+2026-04-17,Urvi Cherian,B.Tech AI & ML,LangChain;Agents;Tool Usage,7.81,AI Agentic Engineer,LLM Workflow Automation;Autonomous AI Agent;LangChain Agent System;Tool-using Agent;Task-solving Agent,5,5
+2026-04-17,Yug Chawla,B.Tech AI,LangGraph;Multi-step Reasoning;Agents,9.43,AI Agentic Engineer,Tool-using Agent;Autonomous AI Agent,2,6
+2026-04-17,Andrew Dua,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,8.96,AI Agentic Engineer,,0,5
+2026-04-17,Yutika Sarna,B.Tech AI,FAISS;ChromaDB;Retrieval,9.1,AI Agentic Engineer,Semantic Retrieval System,1,6
+2026-04-17,Abhimanyu Wason,B.Tech AI & ML,AWS;Serverless;LLM Deployment,9.78,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,8
+2026-04-17,Vansha Morar,B.Tech Computer Science (AI),API Integration;Tool Calling;Function Calling,7.06,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,6
+2026-04-17,Ekaja Kanda,B.Tech AI & ML,API Integration;Tool Calling;Function Calling,8.38,AI Agentic Engineer,,0,5
+2026-04-17,Sara Som,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,8.26,AI Agentic Engineer,LLM Assistant;Content Generator;AI Chatbot,3,8
+2026-04-17,Raghav Wagle,B.Tech AI,Transformers;BERT;HuggingFace,8.37,AI Agentic Engineer,BERT Classifier;Text Generation Model,2,7
+2026-04-17,Chatresh Malhotra,B.Tech Computer Science (AI),Tree of Thoughts;Planning;Reasoning,9.27,AI Agentic Engineer,Multi-step Reasoning Engine;Planning-based AI Agent,2,7
+2026-04-17,Pallavi Sinha,B.Tech AI & ML,Docker;CI/CD;MLOps,7.42,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,8
+2026-04-17,Yashica Menon,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,9.53,AI Agentic Engineer,,0,6
+2026-04-17,Advik Chandran,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,9.68,AI Agentic Engineer,,0,4
+2026-04-17,Max Naidu,B.Tech AI & ML,Transformers;BERT;HuggingFace,7.67,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Falan Tak,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,8.16,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,4
+2026-04-17,Chaman Mohan,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,7.74,AI Agentic Engineer,,0,8
+2026-04-17,Orinder Edwin,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,8.26,AI Agentic Engineer,AI Chatbot,1,7
+2026-04-17,Thomas Din,B.Tech Computer Science (AI),Multi-Agent Systems;Agent Collaboration,9.39,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,6
+2026-04-17,Jasmit Venkataraman,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,7.03,AI Agentic Engineer,Classification Model,1,5
+2026-04-17,Yauvani Pal,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.36,AI Agentic Engineer,Dockerized Agent System;Containerized AI Pipeline,2,7
+2026-04-17,Netra Chopra,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,9.48,AI Agentic Engineer,ReAct Agent System;Reasoning + Acting Bot,2,4
+2026-04-17,Maanav Mittal,B.Tech AI & ML,AWS;Serverless;LLM Deployment,8.71,AI Agentic Engineer,,0,6
+2026-04-17,Siddharth Kumer,B.Tech AI & ML,ReAct;Chain-of-Thought;Prompting,7.57,AI Agentic Engineer,ReAct Agent System;Reasoning + Acting Bot,2,7
+2026-04-17,Pratyush Balasubramanian,B.Tech AI & ML,PyTorch;Deep Learning;Neural Networks,8.71,AI Agentic Engineer,Neural Network Project;Deep Learning Model,2,6
+2026-04-17,Udarsh Krishna,B.Tech Computer Science (AI),TensorFlow;CNN;Computer Vision,8.98,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Arya Balasubramanian,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,7.08,AI Agentic Engineer,,0,4
+2026-04-17,Rachita Mohanty,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,9.46,AI Agentic Engineer,,0,8
+2026-04-17,Yashoda Srivastava,B.Tech AI & ML,Search APIs;External Tools;Plugins,9.57,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Yashodhara Kothari,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,9.14,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Barkha Sunder,B.Tech AI,Python;Machine Learning;Scikit-learn,9.73,AI Agentic Engineer,Classification Model;ML Pipeline System,2,8
+2026-04-17,Rishi Dutta,MCA Artificial Intelligence,LLMs;Prompt Engineering;OpenAI API,8.23,AI Agentic Engineer,,0,5
+2026-04-17,Ryan Doshi,B.Tech AI,FAISS;ChromaDB;Retrieval,8.45,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,6
+2026-04-17,Riya Prasad,B.Tech AI,RAG;Vector DB;Embeddings,8.34,AI Agentic Engineer,Knowledge Retrieval Assistant;Document Q&A System,2,7
+2026-04-17,Amruta Kadakia,B.Tech AI & ML,RAG;Vector DB;Embeddings,9.5,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,4
+2026-04-17,Panini Dayal,B.Tech AI & ML,PyTorch;Deep Learning;Neural Networks,9.71,AI Agentic Engineer,Deep Learning Model,1,7
+2026-04-17,Rachit Natarajan,B.Tech AI & ML,Transformers;BERT;HuggingFace,9.1,AI Agentic Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Rachana Dubey,B.Tech Computer Science (AI),Agent Memory;Conversation Memory;Context Handling,8.74,AI Agentic Engineer,Persistent Memory Chatbot,1,6
+2026-04-17,Dayamai Nazareth,B.Tech Computer Science (AI),Autonomous Agents;Task Planning;Execution Engines,8.5,AI Agentic Engineer,Self-tasking AI Agent;Autonomous Workflow System;Tool-using Agent,3,4
+2026-04-17,Dakshesh Toor,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,8.33,AI Agentic Engineer,Classification Model;ML Pipeline System,2,7
+2026-04-17,Ladli Baral,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.99,AI Agentic Engineer,Agent API Backend;LLM Service API,2,7
+2026-04-17,Tristan Reddy,B.Tech AI,Autonomous Agents;Task Planning;Execution Engines,8.07,AI Agentic Engineer,Self-tasking AI Agent;Autonomous Workflow System;Task-solving Agent;Autonomous AI Agent,4,7
+2026-04-17,Vaishnavi Wadhwa,B.Tech AI,Search APIs;External Tools;Plugins,7.33,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Ubika Shroff,B.Tech AI,PyTorch;Deep Learning;Neural Networks,9.62,AI Agentic Engineer,Neural Network Project;Deep Learning Model,2,8
+2026-04-17,Michael Wali,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,9.28,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Oviya Sandal,B.Tech AI,Search APIs;External Tools;Plugins,9.01,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Dakshesh Agrawal,MCA Artificial Intelligence,Agent Memory;Conversation Memory;Context Handling,7.17,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,5
+2026-04-17,Gopal Swamy,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,8.97,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Suhani Karpe,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,7.1,AI Agentic Engineer,LLM Workflow Automation;Tool-using Agent;Autonomous AI Agent;Task-solving Agent,4,5
+2026-04-17,Leela Magar,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,7.0,AI Agentic Engineer,,0,5
+2026-04-17,Charan Tak,B.Tech AI & ML,ReAct;Chain-of-Thought;Prompting,7.37,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,4
+2026-04-17,Kritika Seth,MCA Artificial Intelligence,TensorFlow;CNN;Computer Vision,8.94,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Upma Patel,MCA Artificial Intelligence,FastAPI;Flask;LLM Deployment,7.46,AI Agentic Engineer,Agent API Backend;LLM Service API,2,7
+2026-04-17,Yauvani Memon,B.Tech AI,Search APIs;External Tools;Plugins,9.77,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Odika Chopra,B.Tech AI & ML,Multi-Agent Systems;Agent Collaboration,8.38,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,4
+2026-04-17,Chandani Choudhary,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,9.65,AI Agentic Engineer,Agent API Backend,1,4
+2026-04-17,Liam Sarin,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,7.87,AI Agentic Engineer,,0,5
+2026-04-17,Lekha Shah,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,9.79,AI Agentic Engineer,AI Prototype,1,7
+2026-04-17,Neha Singhal,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,9.54,AI Agentic Engineer,,0,8
+2026-04-17,Naksh Dhawan,B.Tech AI,FastAPI;Flask;LLM Deployment,7.52,AI Agentic Engineer,,0,5
+2026-04-17,Krisha Sekhon,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,7.73,AI Agentic Engineer,Task-solving Agent;Multi-step Agent Workflow,2,6
+2026-04-17,Xiti Parmer,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,8.26,AI Agentic Engineer,Autonomous AI Agent;LLM Workflow Automation;Task-solving Agent;LangChain Agent System,4,5
+2026-04-17,Sara Raghavan,B.Tech Computer Science (AI),ReAct;Chain-of-Thought;Prompting,7.5,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,6
+2026-04-17,Timothy Raman,B.Tech Computer Science (AI),LangGraph;Multi-step Reasoning;Agents,8.55,AI Agentic Engineer,,0,6
+2026-04-17,Vrishti Kale,MCA Artificial Intelligence,Transformers;BERT;HuggingFace,9.48,AI Agentic Engineer,BERT Classifier;Text Generation Model,2,4
+2026-04-17,Arunima Choudhry,B.Tech AI & ML,Agent Memory;Conversation Memory;Context Handling,8.58,AI Agentic Engineer,Context-aware Assistant;Persistent Memory Chatbot,2,8
+2026-04-17,Jeet Atwal,B.Tech Computer Science (AI),GCP;Vertex AI;LLM Ops,9.44,AI Agentic Engineer,,0,4
+2026-04-17,Caleb Cherian,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,9.06,AI Agentic Engineer,Autonomous AI Agent;LangChain Agent System;LLM Workflow Automation;Tool-using Agent;Task-solving Agent,5,4
+2026-04-17,Daksh Ram,B.Tech AI & ML,API Integration;Tool Calling;Function Calling,9.65,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,5
+2026-04-17,Ryan Purohit,B.Tech AI,Agent Memory;Conversation Memory;Context Handling,8.12,AI Agentic Engineer,Context-aware Assistant;Persistent Memory Chatbot,2,7
+2026-04-17,Jagat Bajwa,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.88,AI Agentic Engineer,Agent API Backend;LLM Service API,2,5
+2026-04-17,Faqid Vyas,B.Tech AI & ML,PyTorch;Deep Learning;Neural Networks,8.86,AI Agentic Engineer,,0,4
+2026-04-17,Harini Edwin,B.Tech AI,Tree of Thoughts;Planning;Reasoning,8.31,AI Agentic Engineer,Multi-step Reasoning Engine;Planning-based AI Agent,2,6
+2026-04-17,Jhalak Sharaf,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,7.91,AI Agentic Engineer,LLM Assistant;Content Generator;AI Chatbot,3,8
+2026-04-17,Ganga Dewan,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,7.82,AI Agentic Engineer,ML Pipeline System,1,8
+2026-04-17,Ubika Ahuja,MCA Artificial Intelligence,Tree of Thoughts;Planning;Reasoning,8.91,AI Agentic Engineer,Planning-based AI Agent,1,7
+2026-04-17,Nidra Borde,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,8.75,AI Agentic Engineer,LLM Workflow Automation;Tool-using Agent;LangChain Agent System;Task-solving Agent;Autonomous AI Agent,5,8
+2026-04-17,Nisha Chopra,B.Tech Computer Science (AI),TensorFlow;CNN;Computer Vision,7.11,AI Agentic Engineer,,0,4
+2026-04-17,Henry Mannan,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,7.08,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,6
+2026-04-17,Darsh Bhalla,B.Tech Computer Science (AI),FastAPI;Flask;LLM Deployment,8.81,AI Agentic Engineer,Agent API Backend;LLM Service API,2,8
+2026-04-17,Ronith Agate,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,9.09,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,6
+2026-04-17,George Vasa,B.Tech AI & ML,LangGraph;Multi-step Reasoning;Agents,8.11,AI Agentic Engineer,Autonomous AI Agent;Graph-based Agent System,2,7
+2026-04-17,Damini Edwin,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,7.26,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Edhitha Dhar,B.Tech AI,Python;Machine Learning;Scikit-learn,7.61,AI Agentic Engineer,Classification Model,1,8
+2026-04-17,Aashi Minhas,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,8.97,AI Agentic Engineer,,0,4
+2026-04-17,Saanvi Chhabra,B.Tech AI,AWS;Serverless;LLM Deployment,9.61,AI Agentic Engineer,,0,7
+2026-04-17,Arin Gala,B.Tech AI,LangChain;Agents;Tool Usage,8.53,AI Agentic Engineer,LangChain Agent System;Task-solving Agent;LLM Workflow Automation,3,5
+2026-04-17,Omisha More,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.85,AI Agentic Engineer,,0,8
+2026-04-17,Eiravati Gole,B.Tech Computer Science (AI),PyTorch;Deep Learning;Neural Networks,8.13,AI Agentic Engineer,Neural Network Project,1,6
+2026-04-17,Meghana Sur,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.01,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,4
+2026-04-17,Fariq Suresh,B.Tech AI,Docker;CI/CD;MLOps,9.61,AI Agentic Engineer,Dockerized Agent System,1,6
+2026-04-17,Girindra Dugar,B.Tech Computer Science (AI),AWS;Serverless;LLM Deployment,7.78,AI Agentic Engineer,Serverless AI Agent;Cloud Deployed Agent System,2,8
+2026-04-17,Janani Goel,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,7.51,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,4
+2026-04-17,Kamala Oza,B.Tech Computer Science (AI),Agent Memory;Conversation Memory;Context Handling,7.67,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,4
+2026-04-17,Turvi Chakrabarti,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,8.83,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,6
+2026-04-17,Joshua Wali,B.Tech AI & ML,Autonomous Agents;Task Planning;Execution Engines,7.63,AI Agentic Engineer,Self-tasking AI Agent;Autonomous AI Agent,2,8
+2026-04-17,Lopa Lad,B.Tech AI & ML,API Integration;Tool Calling;Function Calling,9.22,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,7
+2026-04-17,Chakradhar Shah,MCA Artificial Intelligence,Python;Machine Learning;Scikit-learn,7.97,AI Agentic Engineer,Classification Model;ML Pipeline System,2,5
+2026-04-17,Shivansh Peri,B.Tech AI & ML,RAG;Vector DB;Embeddings,7.53,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,8
+2026-04-17,Nihal Dugal,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,9.19,AI Agentic Engineer,Autonomous AI Agent,1,6
+2026-04-17,Bhanumati Wagle,MCA Artificial Intelligence,PyTorch;Deep Learning;Neural Networks,8.24,AI Agentic Engineer,Deep Learning Model,1,8
+2026-04-17,Vivaan Kalla,B.Tech AI,RAG;Vector DB;Embeddings,7.95,AI Agentic Engineer,,0,5
+2026-04-17,Balhaar Aggarwal,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,7.76,AI Agentic Engineer,Vector Search Engine,1,7
+2026-04-17,Upasna Dhar,B.Tech AI,Python;Machine Learning;Scikit-learn,8.74,AI Agentic Engineer,,0,5
+2026-04-17,Alexander Puri,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,8.46,AI Agentic Engineer,ML Pipeline System;Classification Model,2,7
+2026-04-17,Saanvi Vohra,MCA Artificial Intelligence,PyTorch;Deep Learning;Neural Networks,8.32,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,8
+2026-04-17,Henry Mann,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,9.51,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Parth Nagar,B.Tech AI & ML,Tree of Thoughts;Planning;Reasoning,7.16,AI Agentic Engineer,Multi-step Reasoning Engine;Planning-based AI Agent,2,8
+2026-04-17,Luke Choudhury,MCA Artificial Intelligence,FastAPI;Flask;LLM Deployment,7.27,AI Agentic Engineer,LLM Service API,1,7
+2026-04-17,Yochana Pingle,B.Tech AI,Search APIs;External Tools;Plugins,7.2,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Rachita Pathak,B.Tech AI,AWS;Serverless;LLM Deployment,8.32,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,7
+2026-04-17,Divya Nath,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,7.56,AI Agentic Engineer,Reasoning + Acting Bot;ReAct Agent System,2,8
+2026-04-17,Manthan Karnik,B.Tech AI & ML,Autonomous Agents;Task Planning;Execution Engines,8.41,AI Agentic Engineer,Tool-using Agent;Task-solving Agent;Self-tasking AI Agent;Autonomous AI Agent,4,5
+2026-04-17,Gaurang Narula,B.Tech AI & ML,Search APIs;External Tools;Plugins,7.29,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Ishita Din,MCA Artificial Intelligence,PyTorch;Deep Learning;Neural Networks,8.06,AI Agentic Engineer,Neural Network Project,1,6
+2026-04-17,Vivaan Parmar,B.Tech AI & ML,Agent Memory;Conversation Memory;Context Handling,8.09,AI Agentic Engineer,Persistent Memory Chatbot;Context-aware Assistant,2,8
+2026-04-17,Rishi Tak,B.Tech AI,RAG;Vector DB;Embeddings,8.44,AI Agentic Engineer,Knowledge Retrieval Assistant,1,7
+2026-04-17,Idika Trivedi,B.Tech Computer Science (AI),LangChain;Agents;Tool Usage,7.54,AI Agentic Engineer,,0,6
+2026-04-17,Jeet Puri,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,8.73,AI Agentic Engineer,Knowledge Retrieval Assistant,1,8
+2026-04-17,Orinder Acharya,B.Tech AI,Transformers;BERT;HuggingFace,8.19,AI Agentic Engineer,BERT Classifier;Text Generation Model,2,6
+2026-04-17,Pavani Kohli,B.Tech AI,AWS;Serverless;LLM Deployment,7.96,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,7
+2026-04-17,Falguni Varghese,B.Tech AI & ML,Docker;CI/CD;MLOps,7.14,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,6
+2026-04-17,Karan Kadakia,B.Tech Computer Science (AI),PyTorch;Deep Learning;Neural Networks,7.7,AI Agentic Engineer,,0,8
+2026-04-17,Leela Kapadia,B.Tech Computer Science (AI),PyTorch;Deep Learning;Neural Networks,7.92,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,7
+2026-04-17,Dayita Borah,MCA Artificial Intelligence,ReAct;Chain-of-Thought;Prompting,9.13,AI Agentic Engineer,ReAct Agent System;Reasoning + Acting Bot,2,8
+2026-04-17,Ishwar Grover,B.Tech Computer Science (AI),AWS;Serverless;LLM Deployment,7.92,AI Agentic Engineer,Cloud Deployed Agent System,1,7
+2026-04-17,Wriddhish Rout,MCA Artificial Intelligence,LangChain;Agents;Tool Usage,9.77,AI Agentic Engineer,LangChain Agent System;Task-solving Agent;LLM Workflow Automation;Autonomous AI Agent;Tool-using Agent,5,6
+2026-04-17,Nirja Krishna,B.Tech AI & ML,Tree of Thoughts;Planning;Reasoning,9.55,AI Agentic Engineer,Multi-step Reasoning Engine;Planning-based AI Agent,2,4
+2026-04-17,Avi Tak,B.Tech Computer Science (AI),API Integration;Tool Calling;Function Calling,9.51,AI Agentic Engineer,Tool Calling Assistant;API-integrated Agent,2,4
+2026-04-17,Bhavya Pandit,B.Tech AI & ML,Autonomous Agents;Task Planning;Execution Engines,9.65,AI Agentic Engineer,,0,8
+2026-04-17,Laban Maharaj,B.Tech AI & ML,LangChain;Agents;Tool Usage,8.6,AI Agentic Engineer,Task-solving Agent;Tool-using Agent;LangChain Agent System;Autonomous AI Agent;LLM Workflow Automation,5,5
+2026-04-17,Vihaan Bhalla,MCA Artificial Intelligence,Python;Machine Learning;Scikit-learn,8.37,AI Agentic Engineer,Classification Model;ML Pipeline System,2,8
+2026-04-17,Chaitanya Padmanabhan,B.Tech AI & ML,FAISS;ChromaDB;Retrieval,8.45,AI Agentic Engineer,Semantic Retrieval System;Vector Search Engine,2,4
+2026-04-17,Zayan Dass,B.Tech AI & ML,LangChain;Agents;Tool Usage,8.04,AI Agentic Engineer,,0,6
+2026-04-17,Anthony Tank,B.Tech AI,FAISS;ChromaDB;Retrieval,9.27,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,5
+2026-04-17,Eta Wadhwa,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,7.95,AI Agentic Engineer,Containerized AI Pipeline;Dockerized Agent System,2,5
+2026-04-17,Hredhaan Nagar,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,9.15,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,6
+2026-04-17,Advik Dewan,B.Tech Computer Science (AI),GCP;Vertex AI;LLM Ops,8.43,AI Agentic Engineer,AI Prototype,1,4
+2026-04-17,Nisha Taneja,B.Tech Computer Science (AI),LangChain;Agents;Tool Usage,7.67,AI Agentic Engineer,,0,4
+2026-04-17,Gopal Salvi,B.Tech AI & ML,ReAct;Chain-of-Thought;Prompting,8.63,AI Agentic Engineer,,0,7
+2026-04-17,Edhitha Kadakia,B.Tech AI & ML,Docker;CI/CD;MLOps,9.53,AI Agentic Engineer,Dockerized Agent System,1,6
+2026-04-17,Ria Dyal,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,9.4,AI Agentic Engineer,AI Prototype,1,6
+2026-04-17,Qarin Khanna,B.Tech AI & ML,ReAct;Chain-of-Thought;Prompting,7.26,AI Agentic Engineer,ReAct Agent System;Reasoning + Acting Bot,2,5
+2026-04-17,Harsh Grover,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,8.83,AI Agentic Engineer,Semantic Retrieval System,1,8
+2026-04-17,David Sathe,B.Tech AI,FAISS;ChromaDB;Retrieval,8.72,AI Agentic Engineer,Semantic Retrieval System;Vector Search Engine,2,6
+2026-04-17,Kabir Sahni,B.Tech AI,API Integration;Tool Calling;Function Calling,9.24,AI Agentic Engineer,API-integrated Agent;Tool Calling Assistant,2,4
+2026-04-17,Ladli Nayak,B.Tech Computer Science (AI),AWS;Serverless;LLM Deployment,8.97,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,5
+2026-04-17,Jeevika Nori,B.Tech AI,Python;Machine Learning;Scikit-learn,7.11,AI Agentic Engineer,,0,7
+2026-04-17,Jairaj Agate,MCA Artificial Intelligence,AWS;Serverless;LLM Deployment,9.69,AI Agentic Engineer,Cloud Deployed Agent System;Serverless AI Agent,2,8
+2026-04-17,Fitan Jha,B.Tech AI,API Integration;Tool Calling;Function Calling,9.08,AI Agentic Engineer,API-integrated Agent,1,5
+2026-04-17,Vanya Mangal,B.Tech AI,AWS;Serverless;LLM Deployment,8.5,AI Agentic Engineer,Serverless AI Agent;Cloud Deployed Agent System,2,7
+2026-04-17,Yochana Ravi,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,8.71,AI Agentic Engineer,Document Q&A System;Knowledge Retrieval Assistant,2,4
+2026-04-17,Charles D’Alia,MCA Artificial Intelligence,LangGraph;Multi-step Reasoning;Agents,8.81,AI Agentic Engineer,Graph-based Agent System;Autonomous AI Agent;Multi-step Agent Workflow,3,7
+2026-04-17,Simon Dugar,B.Tech AI & ML,FAISS;ChromaDB;Retrieval,7.35,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,7
+2026-04-17,Oviya Deol,B.Tech AI & ML,Multi-Agent Systems;Agent Collaboration,8.66,AI Agentic Engineer,Agent Swarm Simulation;Multi-Agent Collaboration System,2,5
+2026-04-17,Zarna Saxena,B.Tech AI,Tree of Thoughts;Planning;Reasoning,7.11,AI Agentic Engineer,Multi-step Reasoning Engine,1,4
+2026-04-17,Amrita Raghavan,B.Tech AI,FAISS;ChromaDB;Retrieval,9.57,AI Agentic Engineer,Vector Search Engine;Semantic Retrieval System,2,5
+2026-04-17,Andrew Pillai,B.Tech AI,FastAPI;Flask;LLM Deployment,7.28,AI Agentic Engineer,,0,7
+2026-04-17,Janani Goswami,B.Tech Computer Science (AI),Search APIs;External Tools;Plugins,8.81,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Nikita Natt,MCA Artificial Intelligence,GCP;Vertex AI;LLM Ops,8.16,AI Agentic Engineer,AI Prototype,1,5
+2026-04-17,Andrew Muni,MCA Artificial Intelligence,Search APIs;External Tools;Plugins,8.38,AI Agentic Engineer,AI Prototype,1,8
+2026-04-17,Wyatt Bhat,B.Tech AI,LangGraph;Multi-step Reasoning;Agents,9.72,AI Agentic Engineer,Tool-using Agent;Autonomous AI Agent,2,5
+2026-04-17,Yamini Bhargava,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,7.69,AI Agentic Engineer,ML Pipeline System;Classification Model,2,6
+2026-04-17,Ladli Dutt,B.Tech Computer Science (AI),Python;Machine Learning;Scikit-learn,8.44,AI Agentic Engineer,Classification Model;ML Pipeline System,2,5
+2026-04-17,Ekta Mani,B.Tech AI,Docker;CI/CD;MLOps,9.26,AI Agentic Engineer,,0,4
+2026-04-17,Nimrat Yohannan,B.Tech AI,PyTorch;Deep Learning;Neural Networks,7.97,AI Agentic Engineer,Deep Learning Model;Neural Network Project,2,5
+2026-04-17,Zayyan Srivastava,B.Tech Computer Science (AI),Multi-Agent Systems;Agent Collaboration,8.32,AI Agentic Engineer,Multi-Agent Collaboration System,1,5

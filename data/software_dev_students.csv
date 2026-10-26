@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+4/17/2026,Naina Kaur,B.Tech Computer Science,Python;Swift;Java;Tailwind CSS;Laravel;Oracle DB;Postman,8.6,Software Development,Video Streaming Platform,1,1
+4/17/2026,Kritika Tiwari,B.Tech CSE (Cybersecurity),C;Java;Go;Jenkins;Kubernetes;Burp Suite;Ethical Hacking,8.4,Software Development,Hospital Management API,1,2
+4/17/2026,Yash Banerjee,B.Tech Information Technology,Rust;Kotlin;GraphQL;Spring Boot;PHP;Redis;XML;Jira,8.1,Software Development,News Aggregator;Food Ordering Website,2,4
+4/17/2026,Harsh Shukla,B.Tech Information Technology,TypeScript;Java;Swift;React;Tailwind CSS;Kotlin;Go;PostgreSQL;JSON,8.0,Software Development,Bank Transaction System,1,4
+4/17/2026,Shubham Jain,M.Tech Software Engineering,Tailwind CSS;Vue.js;Django;SQLite;Figma;VS Code,8.5,Software Development,Todo Web App;Blog Platform,2,6
+4/17/2026,Nisha Iyer,B.Tech CSE (Full Stack),JavaScript;React;Next.js;Kotlin;Laravel;Supabase;Oracle DB;Jira;IntelliJ IDEA,9.6,Software Development,Project Management Tool;Video Streaming Platform,2,8
+4/17/2026,Manish Jain,B.Tech CSE (Full Stack),Bootstrap;CSS;Node.js;Laravel;.NET;DynamoDB;MySQL;JSON,8.2,Software Development,REST API Development,1,6
+4/17/2026,Mayank Iyer,B.Tech Computer Science,Kotlin;Java;C++;REST API;Tailwind CSS;Python;SQLite;JSON,7.2,Software Development,CRM System,1,1
+4/17/2026,Akash Kaur,MCA Software Development,Python;C;Swift;CSS;Ruby on Rails;Spring Boot;DynamoDB;IntelliJ IDEA,7.4,Software Development,Food Ordering Website,1,3
+4/17/2026,Meghna Agarwal,B.Tech CSE (DevOps),Ansible;CI/CD;Jenkins;AWS;GitHub Actions;Microservices;PHP;PostgreSQL;Firebase,7.0,Software Development,,0,4
+4/17/2026,Akash Roy,B.Tech CSE (DevOps),Linux;CI/CD;Git;Kotlin;Firebase,8.3,Software Development,Library Management System,1,6
+4/17/2026,Siddharth Oswal,B.Tech CSE (Cybersecurity),Kotlin;Java;CI/CD;Azure;Wireshark;Ethical Hacking;Linux,8.3,Software Development,Student Result System;Employee Management System;Infrastructure as Code,3,7
+4/17/2026,Ayush Doshi,B.Sc Computer Science,C;Go;jQuery;REST API;Firebase;Jira,7.9,Software Development,REST API Development,1,3
+4/17/2026,Dev Rao,B.Tech CSE (DevOps),Git;Terraform;GCP;Spring Boot;MongoDB,8.1,Software Development,Inventory Management System;CRM System;AWS Cloud Deployment;Microservices Architecture,4,7
+4/17/2026,Aman Sharma,BCA Software Engineering,GraphQL;jQuery;REST API;Flask;C#;MongoDB;Firebase;Jira;Postman,7.5,Software Development,Real-time Chat App,1,6
+4/17/2026,Riya Krishnan,B.Tech CSE (DevOps),Git;GCP;Docker;Spring Boot;Firebase,7.8,Software Development,Library Management System;Kubernetes Deployment;Infrastructure as Code,3,7
+4/17/2026,Kritika Oswal,B.Tech CSE (Mobile Development),React Native;iOS;Xamarin;Flask;IntelliJ IDEA;Figma,6.9,Software Development,,0,2
+4/17/2026,Lakshmi Ghosh,B.Tech Software Engineering,TypeScript;React;Python;FastAPI;Firebase;Figma;IntelliJ IDEA,8.6,Software Development,Student Result System;Travel Booking Website;Full Stack Blog App;Movie Review Website;Real-time Collaboration Tool,5,8
+4/17/2026,Krish Chauhan,B.Tech Software Engineering,Next.js;TypeScript;Flask;Supabase;Firebase;Jira;Figma,7.7,Software Development,,0,1
+4/17/2026,Meghna Rajput,B.Tech Computer Science,TypeScript;Java;JavaScript;Next.js;PHP;Kotlin;Oracle DB;VS Code,8.2,Software Development,Travel Booking Website;Video Streaming Platform,2,2
+4/17/2026,Arjun Dubey,B.Tech CSE (Mobile Development),Flutter;iOS;Flask;Postman;Agile,8.3,Software Development,ERP System,1,2
+4/17/2026,Kavya Chatterjee,M.Tech Software Engineering,GraphQL;React;Ruby;Oracle DB;IntelliJ IDEA,8.6,Software Development,E-commerce Website;Payment Gateway Integration;Hospital Management API,3,6
+4/17/2026,Mayank Desai,B.Tech Software Engineering,REST API;HTML;Express.js;Django;SQLite;Redis;Jira,8.6,Software Development,CRM System;Hospital Management API,2,6
+4/17/2026,Yash Lodha,B.Tech CSE (DevOps),Terraform;GCP;GitHub Actions;Git;Microservices;MongoDB;Redis,8.3,Software Development,,0,1
+4/17/2026,Neha Srivastava,M.Tech Software Engineering,Node.js;Bootstrap;TypeScript;C#;Redis;Scrum,9.6,Software Development,CRM System,1,4
+4/17/2026,Reema Saxena,B.Tech CSE (Mobile Development),Kotlin;Android;React Native;Go;C#;Scrum;Figma,8.2,Software Development,Issue Tracking System,1,3
+4/17/2026,Aman Doshi,M.Tech Software Engineering,Bootstrap;GraphQL;C#;PHP;Redis;Jira;Scrum,8.4,Software Development,Job Portal;Microservices Architecture,2,6
+4/17/2026,Sonam Pillai,M.Tech Software Engineering,Tailwind CSS;CSS;PHP;Go;PostgreSQL;Firebase;Jira;XML,7.4,Software Development,,0,3
+4/17/2026,Rohan Pillai,B.Tech CSE (Mobile Development),Flutter;Xamarin;Kotlin;REST API;Scrum,8.2,Software Development,Notes App;Online Learning Platform,2,1
+4/17/2026,Raj Mishra,M.Tech Software Engineering,HTML;TypeScript;React;.NET;Cassandra;REST API;JSON,9.1,Software Development,Movie Review Website;Job Portal;Freelance Marketplace;Social Media App;Inventory Management System,5,7
+4/17/2026,Rohan Jain,B.Tech Information Technology,Python;JavaScript;Rust;Next.js;Django;Flask;SQLite;JSON;VS Code,8.5,Software Development,Job Portal;Notification Service,2,3
+4/17/2026,Kavya Saxena,B.Tech CSE (DevOps),AWS;Git;CI/CD;Nginx;Microservices;Ruby;Supabase,8.5,Software Development,Online Learning Platform;Order Management API;Project Management Tool;ERP System,4,7
+4/17/2026,Tanya Parikh,M.Tech Software Engineering,Express.js;React;C#;.NET;Oracle DB;Scrum;IntelliJ IDEA,8.9,Software Development,Real-time Chat App;Online Quiz Platform,2,1
+4/17/2026,Preeti Verma,B.Tech Software Engineering,JavaScript;REST API;Express.js;Java;Oracle DB;SQLite,7.1,Software Development,Portfolio Website;Hospital Management API,2,6
+4/17/2026,Kritika Chauhan,B.Tech Software Engineering,HTML;Next.js;TypeScript;FastAPI;PostgreSQL;Postman,8.6,Software Development,Payment Gateway Integration,1,1
+4/17/2026,Karan Pillai,B.Sc Computer Science,Swift;Python;Next.js;Angular;MongoDB;PostgreSQL;Figma,8.1,Software Development,Inventory Management System,1,2
+4/17/2026,Divya Doshi,BCA Software Engineering,Next.js;React;CSS;Spring Boot;Supabase;PostgreSQL;Agile,7.3,Software Development,Bank Transaction System,1,2
+4/17/2026,Aditya Chaudhary,B.Tech CSE (Cybersecurity),Go;TypeScript;Ansible;Kubernetes;Cryptography;Linux;Metasploit,8.0,Software Development,Load Balancer Setup;Infrastructure as Code;CI/CD Pipeline Setup;Authentication System,4,8
+4/17/2026,Vikas Pandey,B.Tech Software Engineering,GraphQL;Express.js;React;Laravel;Microservices;SQLite;MySQL;Agile;IntelliJ IDEA,7.6,Software Development,Food Ordering Website;Hospital Management API,2,5
+4/17/2026,Bhavna Sharma,B.Tech CSE (DevOps),Docker;CI/CD;AWS;PHP;Ruby;Cassandra,8.2,Software Development,Docker Containerization;Infrastructure as Code;Bank Transaction System;Hospital Management API,4,8
+4/17/2026,Ishita Desai,B.Tech CSE (Cloud Computing),Terraform;Linux;GitHub Actions;Azure;C#;Kotlin;SQLite;Cassandra,8.1,Software Development,Notification Service,1,2
+4/17/2026,Jay Parikh,B.Tech CSE (DevOps),Kubernetes;CI/CD;Ansible;Azure;Jenkins;Spring Boot;Ruby on Rails;Redis,8.7,Software Development,Order Management API,1,4
+4/17/2026,Aditya Bhatt,B.Tech CSE (DevOps),Jenkins;Git;Ansible;Kotlin;Python;PostgreSQL;MySQL,7.6,Software Development,AWS Cloud Deployment;Student Result System;Issue Tracking System,3,8
+4/17/2026,Ishan Mehta,BCA Software Engineering,CSS;Bootstrap;Tailwind CSS;Python;Supabase;VS Code;Jira,7.9,Software Development,E-commerce Website,1,2
+4/17/2026,Jyoti Banerjee,B.Tech CSE (Mobile Development),Xamarin;Swift;.NET;Microservices;XML;Scrum,7.9,Software Development,Attendance App;URL Shortener,2,2
+4/17/2026,Rahul Chauhan,B.Sc Computer Science,Java;Python;TypeScript;MongoDB;Scrum,9.0,Software Development,Project Management Tool;Payment Gateway Integration;E-commerce Website;Food Ordering Website,4,8
+4/17/2026,Sourav Bhatt,B.Tech Information Technology,C++;Python;JavaScript;Node.js;PHP;Firebase;Figma,8.3,Software Development,Digital Wallet App;Issue Tracking System,2,3
+4/17/2026,Sourav Rao,B.Tech Software Engineering,Next.js;Angular;GraphQL;Flask;PHP;Cassandra;PostgreSQL;Scrum,8.0,Software Development,Online Learning Platform;ERP System;Authentication System,3,6
+4/17/2026,Shalini Ghosh,B.Tech CSE (Mobile Development),Xamarin;Kotlin;Laravel;Java;REST API,7.6,Software Development,Real-time Collaboration Tool;Online Learning Platform,2,5
+4/17/2026,Naina Menon,B.Tech Software Engineering,Vue.js;Node.js;GraphQL;Go;Spring Boot;SQLite;REST API;Figma,8.1,Software Development,Movie Review Website;Collaborative Code Editor;News Aggregator;ERP System;Employee Management System,5,7
+4/17/2026,Sahil Kapoor,B.Tech Software Engineering,REST API;TypeScript;HTML;C#;Java;DynamoDB;XML,7.5,Software Development,URL Shortener,1,4
+4/17/2026,Varsha Menon,B.Tech Software Engineering,Tailwind CSS;Bootstrap;Kotlin;Redis;JSON,7.5,Software Development,Video Streaming Platform;News Aggregator,2,7
+4/17/2026,Jay Lodha,B.Tech CSE (Full Stack),GraphQL;Next.js;Angular;C#;Ruby on Rails;Cassandra;Firebase;JSON;IntelliJ IDEA,7.2,Software Development,News Aggregator;Food Ordering Website;Travel Booking Website,3,3
+4/17/2026,Sneha Rajput,B.Tech Computer Science,JavaScript;Rust;Java;TypeScript;Express.js;FastAPI;PHP;DynamoDB;REST API;Agile,9.1,Software Development,REST API Development;Issue Tracking System;Bank Transaction System,3,4
+4/17/2026,Rajat Patil,BCA Software Engineering,Vue.js;Next.js;Kotlin;Ruby;Oracle DB;MongoDB;Postman;IntelliJ IDEA,7.4,Software Development,Job Portal;Real-time Collaboration Tool,2,2
+4/17/2026,Tanvi Iyer,B.Tech Computer Science,Go;Java;Express.js;FastAPI;Laravel;Oracle DB;Agile,8.2,Software Development,CRM System;Video Streaming Platform;E-commerce Website;Job Portal;REST API Development,5,7
+4/17/2026,Mansi Doshi,B.Tech Information Technology,C++;Go;jQuery;.NET;MongoDB;Postman;XML,8.1,Software Development,Travel Booking Website;REST API Development,2,6
+4/17/2026,Tanvi Chaudhary,B.Tech CSE (Mobile Development),iOS;Xamarin;Laravel;XML;Jira,8.4,Software Development,Shopping App;Campus Navigator App;Collaborative Code Editor;URL Shortener;Quiz Game App,5,8
+4/17/2026,Pooja Chauhan,B.Sc Computer Science,Rust;JavaScript;CSS;SQLite;Redis;Figma;REST API,8.4,Software Development,Social Media App;REST API Development;Bank Transaction System;Issue Tracking System;Student Result System,5,7
+4/17/2026,Divya Malhotra,M.Tech Software Engineering,HTML;REST API;Tailwind CSS;Flask;Java;Supabase;Figma;Jira,7.9,Software Development,REST API Development;Inventory Management System,2,6
+4/17/2026,Shalini Naik,M.Tech Software Engineering,Tailwind CSS;CSS;Flask;MySQL;SQLite;VS Code,8.6,Software Development,URL Shortener;Recipe Sharing Platform;Notification Service,3,7
+4/17/2026,Tanvi Krishnan,B.Tech Information Technology,JavaScript;Rust;Next.js;REST API;Ruby;Spring Boot;Cassandra;IntelliJ IDEA,7.9,Software Development,Order Management API;URL Shortener;Employee Management System,3,4
+4/17/2026,Gaurav Tripathi,B.Tech Computer Science,Kotlin;C++;Rust;Tailwind CSS;Next.js;Laravel;C#;SQLite;Jira,7.4,Software Development,Food Ordering Website;Job Portal;Collaborative Code Editor;Inventory Management System,4,6
+4/17/2026,Poonam Chaudhary,B.Tech Software Engineering,HTML;GraphQL;.NET;Spring Boot;Firebase;Scrum,8.3,Software Development,Recipe Sharing Platform;E-commerce Website;Real-time Chat App,3,8
+4/17/2026,Manish Chaudhary,B.Sc Computer Science,Rust;Go;HTML;Next.js;Firebase;Cassandra;Jira;Agile,8.9,Software Development,Authentication System,1,6
+4/17/2026,Om Kaur,B.Tech CSE (Cybersecurity),Python;C;Nginx;Wireshark;Cryptography;Bash,8.7,Software Development,Notification Service;REST API Development,2,2
+4/17/2026,Garima Agarwal,B.Tech CSE (Cloud Computing),Nginx;Kubernetes;Linux;Git;Ruby on Rails;Python;DynamoDB,8.2,Software Development,,0,1
+4/17/2026,Zain Pandey,B.Tech CSE (Mobile Development),Android;iOS;React Native;Python;JSON;VS Code,8.6,Software Development,Cab Booking App,1,2
+4/17/2026,Sonam Roy,B.Tech Software Engineering,TypeScript;React;Bootstrap;Kotlin;Cassandra;MySQL;REST API,8.6,Software Development,Job Portal,1,2
+4/17/2026,Dev Joshi,MCA Software Development,C++;Java;Bootstrap;Tailwind CSS;C#;Laravel;DynamoDB;REST API;JSON,7.7,Software Development,Video Streaming Platform;Movie Review Website,2,7
+4/17/2026,Rahul Reddy,B.Tech CSE (Cybersecurity),Go;TypeScript;AWS;Nginx;Ethical Hacking;Burp Suite;Nmap;Cryptography,7.9,Software Development,Bank Transaction System;Two-Factor Auth System,2,3
+4/17/2026,Gaurav Joshi,B.Tech Software Engineering,CSS;Next.js;REST API;Ruby;Python;Supabase;VS Code;Scrum,7.7,Software Development,Online Booking System;Project Management Tool;Library Management System;Food Ordering Website,4,6
+4/17/2026,Uday Srivastava,B.Tech Software Engineering,JavaScript;Tailwind CSS;Django;Ruby on Rails;SQLite;VS Code;Figma,7.2,Software Development,Hospital Management API,1,1
+4/17/2026,Ankit Mishra,B.Tech Information Technology,TypeScript;Swift;C;REST API;Laravel;Oracle DB;IntelliJ IDEA,7.7,Software Development,,0,1
+4/17/2026,Tanvi Agarwal,BCA Software Engineering,Express.js;Vue.js;JavaScript;Flask;Kotlin;Supabase;PostgreSQL;IntelliJ IDEA,8.7,Software Development,,0,2
+4/17/2026,Preeti Reddy,B.Tech CSE (Cybersecurity),Go;JavaScript;Python;GitHub Actions;Ethical Hacking;Metasploit;OWASP,8.9,Software Development,Library Management System,1,5
+4/17/2026,Harshita Singh,B.Tech Computer Science,JavaScript;Python;jQuery;Flask;FastAPI;PostgreSQL;REST API,8.2,Software Development,Food Ordering Website;ERP System;URL Shortener;Student Result System,4,7
+4/17/2026,Dev Tripathi,M.Tech Software Engineering,Node.js;HTML;Microservices;Spring Boot;Supabase;Oracle DB;Scrum;Figma,7.8,Software Development,Employee Management System,1,2
+4/17/2026,Mohit Chatterjee,B.Tech CSE (Cybersecurity),C++;Go;Swift;AWS;Nmap;Linux;Ethical Hacking;Wireshark,8.9,Software Development,Penetration Testing Tool,1,4
+4/17/2026,Dev Krishnan,B.Sc Computer Science,Kotlin;Swift;GraphQL;SQLite;MongoDB;VS Code,7.5,Software Development,Movie Review Website,1,3
+4/17/2026,Jyoti Patel,B.Sc Computer Science,Java;Rust;jQuery;Bootstrap;Supabase;SQLite;IntelliJ IDEA;REST API,8.8,Software Development,Freelance Marketplace;Online Booking System;Student Result System,3,5
+4/17/2026,Sneha Mehta,B.Tech Information Technology,Rust;C;Kotlin;REST API;Angular;Go;PostgreSQL;JSON,8.5,Software Development,Issue Tracking System,1,1
+4/17/2026,Poonam Yadav,MCA Software Development,Kotlin;Java;C;CSS;jQuery;Spring Boot;DynamoDB;Postman,8.2,Software Development,Freelance Marketplace;Notification Service;Library Management System;Portfolio Website,4,8
+4/17/2026,Kavya Patil,MCA Software Development,TypeScript;C++;CSS;Flask;Microservices;Supabase;Agile,8.8,Software Development,Issue Tracking System,1,2
+4/17/2026,Yash Bhatia,B.Sc Computer Science,Java;C++;JavaScript;Tailwind CSS;jQuery;MongoDB;DynamoDB;Scrum,8.1,Software Development,Real-time Chat App;Library Management System,2,5
+4/17/2026,Sakshi Yadav,B.Tech CSE (Cloud Computing),Kubernetes;Docker;Jenkins;PHP;SQLite,8.2,Software Development,REST API Development;Microservices Architecture,2,3
+4/17/2026,Nitin Desai,B.Tech CSE (Mobile Development),Kotlin;Flutter;C#;Jira;REST API,7.4,Software Development,Campus Navigator App;News App;Project Management Tool,3,8
+4/17/2026,Om Dubey,B.Sc Computer Science,Rust;JavaScript;Go;REST API;Supabase;Figma,7.6,Software Development,Employee Management System,1,1
+4/17/2026,Anjali Nair,M.Tech Software Engineering,Angular;CSS;Flask;DynamoDB;MongoDB;VS Code;Jira,8.7,Software Development,Blog Platform,1,1
+4/17/2026,Sneha Dubey,B.Tech CSE (Cloud Computing),Docker;GitHub Actions;CI/CD;Git;Microservices;Spring Boot;MongoDB;Supabase,7.1,Software Development,,0,1
+4/17/2026,Rashmi Desai,B.Tech CSE (Full Stack),Express.js;Bootstrap;HTML;Java;Firebase;MongoDB;VS Code;Figma,8.2,Software Development,Authentication System;CRM System,2,4
+4/17/2026,Ishan Menon,B.Tech CSE (Mobile Development),Kotlin;Swift;Figma,8.5,Software Development,Cab Booking App;Campus Navigator App,2,7
+4/17/2026,Divya Chaudhary,B.Tech CSE (Full Stack),TypeScript;Vue.js;PHP;Oracle DB;Postman;Scrum,8.7,Software Development,CRM System,1,1
+4/17/2026,Yash Pandey,M.Tech Software Engineering,jQuery;Bootstrap;Python;Java;DynamoDB;SQLite;REST API,8.1,Software Development,URL Shortener;CRM System;News Aggregator;Collaborative Code Editor,4,8
+4/17/2026,Sumit Yadav,B.Tech Computer Science,C;TypeScript;Node.js;Flask;Java;Firebase;Agile;Postman,8.6,Software Development,Full Stack Blog App,1,2
+4/17/2026,Ishita Parikh,B.Tech CSE (Cybersecurity),TypeScript;Java;Rust;GitHub Actions;GCP;Ethical Hacking;Nmap;Bash,7.8,Software Development,Load Balancer Setup;Penetration Testing Tool;Notification Service;Payment Gateway Integration,4,7
+4/17/2026,Vikas Nair,B.Tech Software Engineering,Tailwind CSS;Angular;REST API;Laravel;Kotlin;MongoDB;Cassandra;Postman,8.0,Software Development,Project Management Tool;CRM System;Blog Platform,3,7
+4/17/2026,Abhishek Krishnan,M.Tech Software Engineering,HTML;JavaScript;Java;Python;Firebase;Agile;Scrum,6.9,Software Development,Job Portal,1,1
+4/17/2026,Alok Dubey,B.Tech CSE (Cybersecurity),Swift;Java;AWS;GitHub Actions;Metasploit;Wireshark;Ethical Hacking;Network Security,8.1,Software Development,Network Intrusion Detection;Authentication System;Log Monitoring Dashboard;Automated Testing Framework;Employee Management System,5,7
+4/17/2026,Rahul Chatterjee,B.Tech Information Technology,Python;C++;Java;Express.js;Microservices;Cassandra;Agile,7.5,Software Development,URL Shortener;Video Streaming Platform;Payment Gateway Integration,3,6
+4/17/2026,Tushar Shah,M.Tech Software Engineering,jQuery;Vue.js;Spring Boot;MongoDB;REST API,9.0,Software Development,Movie Review Website;URL Shortener,2,6
+4/17/2026,Komal Joshi,B.Tech Software Engineering,Node.js;Next.js;REST API;PHP;C#;Supabase;PostgreSQL;Agile,8.3,Software Development,Travel Booking Website,1,2
+4/17/2026,Yash Kumar,B.Tech CSE (DevOps),Linux;Kubernetes;Ansible;AWS;GCP;Ruby on Rails;DynamoDB,8.4,Software Development,Hospital Management API;Online Learning Platform;Bank Transaction System;Infrastructure as Code,4,6
+4/17/2026,Sahil Yadav,B.Sc Computer Science,Java;JavaScript;C++;Bootstrap;MongoDB;XML;Postman,8.5,Software Development,,0,1
+4/17/2026,Nisha Patil,B.Tech CSE (Mobile Development),Kotlin;iOS;Swift;Laravel;Go;REST API,8.8,Software Development,Issue Tracking System;Full Stack Blog App,2,5
+4/17/2026,Tushar Iyer,B.Tech Software Engineering,JavaScript;Express.js;.NET;Microservices;SQLite;Agile,7.7,Software Development,Order Management API;Blog Platform;URL Shortener,3,6
+4/17/2026,Alok Krishnan,B.Tech CSE (DevOps),GitHub Actions;CI/CD;Azure;Flask;Firebase;MongoDB,8.6,Software Development,ERP System;Library Management System;Microservices Architecture;Notification Service;Payment Gateway Integration,5,7
+4/17/2026,Mayank Menon,B.Tech CSE (DevOps),Azure;Jenkins;Nginx;Git;C#;Firebase;Supabase,8.5,Software Development,Bank Transaction System,1,6
+4/17/2026,Simran Banerjee,B.Sc Computer Science,JavaScript;Kotlin;C;Node.js;Redis;Scrum;Agile,8.4,Software Development,Payment Gateway Integration,1,4
+4/17/2026,Dev Shukla,B.Tech CSE (DevOps),Nginx;GCP;Jenkins;Linux;Python;Oracle DB,8.3,Software Development,Full Stack Blog App;Collaborative Code Editor;REST API Development,3,6
+4/17/2026,Piyush Banerjee,B.Tech CSE (DevOps),GCP;Git;Ansible;Terraform;Kotlin;Cassandra;DynamoDB,7.4,Software Development,Notification Service,1,3
+4/17/2026,Mayank Tripathi,B.Tech CSE (Mobile Development),Swift;React Native;Xamarin;Kotlin;Laravel;REST API;Postman,8.4,Software Development,Notes App;Online Learning Platform,2,6
+4/17/2026,Ekta Bhatia,M.Tech Software Engineering,Bootstrap;Express.js;Go;Ruby;MySQL;IntelliJ IDEA;JSON,7.6,Software Development,Payment Gateway Integration;Collaborative Code Editor;Online Quiz Platform,3,7
+4/17/2026,Varsha Kaur,B.Tech CSE (Cloud Computing),Azure;GitHub Actions;AWS;C#;Oracle DB,7.6,Software Development,AWS Cloud Deployment;Load Balancer Setup;Inventory Management System;Notification Service;Issue Tracking System,5,8
+4/17/2026,Tanvi Shukla,MCA Software Development,Rust;Kotlin;TypeScript;Vue.js;Laravel;.NET;Firebase;Figma,7.8,Software Development,Microservices Architecture;Todo Web App;Employee Management System,3,5
+4/17/2026,Riya Srivastava,B.Tech CSE (DevOps),Jenkins;Nginx;Docker;Linux;GCP;Microservices;C#;MongoDB;Redis,8.0,Software Development,,0,1
+4/17/2026,Dhruv Srivastava,B.Tech CSE (Cybersecurity),Rust;Python;Kotlin;GCP;Ansible;Cryptography;Ethical Hacking;Wireshark,8.2,Software Development,Password Manager;Network Intrusion Detection,2,4
+4/17/2026,Rashmi Nair,B.Sc Computer Science,C;Kotlin;Node.js;Cassandra;Firebase;Agile;Figma,9.1,Software Development,News Aggregator;Issue Tracking System,2,1
+4/17/2026,Rajat Bose,M.Tech Software Engineering,GraphQL;JavaScript;Microservices;Ruby on Rails;MySQL;REST API;IntelliJ IDEA,9.6,Software Development,Full Stack Blog App;Student Result System;Online Quiz Platform;Food Ordering Website,4,5
+4/17/2026,Hitesh Saxena,B.Tech Information Technology,Kotlin;Swift;Rust;REST API;Flask;Django;PostgreSQL;IntelliJ IDEA,7.6,Software Development,Portfolio Website;Library Management System;Payment Gateway Integration,3,5
+4/17/2026,Chhavi Doshi,B.Tech CSE (Cloud Computing),Linux;Terraform;AWS;PHP;FastAPI;Oracle DB,8.0,Software Development,Library Management System;CI/CD Pipeline Setup,2,3
+4/17/2026,Sarthak Shukla,B.Tech CSE (Cloud Computing),Nginx;Jenkins;GitHub Actions;Ansible;Flask;Firebase;MySQL,7.9,Software Development,Microservices Architecture,1,2
+4/17/2026,Ishita Doshi,B.Tech CSE (DevOps),Nginx;Jenkins;Docker;Ansible;GitHub Actions;Django;Cassandra,8.8,Software Development,Issue Tracking System;Inventory Management System,2,6
+4/17/2026,Rohan Doshi,B.Tech CSE (Mobile Development),Swift;Flutter;Spring Boot;Laravel;Postman,9.0,Software Development,Shopping App;Medicine Reminder App,2,4
+4/17/2026,Vikas Murthy,B.Tech CSE (Cybersecurity),Python;Rust;GCP;Network Security;OWASP;Cryptography,7.5,Software Development,AWS Cloud Deployment,1,1
+4/17/2026,Uday Trivedi,B.Tech Computer Science,JavaScript;C;Python;HTML;FastAPI;Kotlin;PostgreSQL;VS Code,8.1,Software Development,Notification Service;Movie Review Website,2,8
+4/17/2026,Krish Patil,B.Sc Computer Science,TypeScript;Go;Rust;Node.js;CSS;SQLite;IntelliJ IDEA,8.8,Software Development,Food Ordering Website;Portfolio Website,2,3
+4/17/2026,Akash Bhatia,B.Tech CSE (Cybersecurity),Kotlin;Go;Python;Azure;Cryptography;Metasploit;Wireshark,8.2,Software Development,,0,2
+4/17/2026,Preeti Chaudhary,B.Tech CSE (Mobile Development),iOS;Xamarin;Spring Boot;REST API,7.4,Software Development,,0,1
+4/17/2026,Aryan Tripathi,B.Tech CSE (Cybersecurity),Kotlin;Python;Kubernetes;Metasploit;Wireshark;Burp Suite;Bash,7.7,Software Development,Secure File Transfer System;AWS Cloud Deployment,2,6
+4/17/2026,Swati Tiwari,BCA Software Engineering,Angular;HTML;TypeScript;Go;DynamoDB;Cassandra;Agile,9.0,Software Development,E-commerce Website;Issue Tracking System;Student Result System,3,6
+4/17/2026,Aman Mishra,B.Tech CSE (DevOps),CI/CD;Nginx;Jenkins;Kubernetes;Microservices;Java;Oracle DB;DynamoDB,7.9,Software Development,Student Result System,1,3
+4/17/2026,Pranav Saxena,B.Sc Computer Science,Rust;TypeScript;MySQL;Scrum;Postman,8.5,Software Development,Library Management System;Inventory Management System,2,4
+4/17/2026,Aditya Agarwal,B.Tech CSE (Cloud Computing),Docker;Ansible;Azure;CI/CD;Linux;Microservices;Django;Redis;Oracle DB,7.9,Software Development,Online Learning Platform;Order Management API;Student Result System;Collaborative Code Editor,4,8
+4/17/2026,Sonam Menon,B.Tech CSE (Cybersecurity),Rust;TypeScript;GitHub Actions;Nmap;Network Security;Wireshark,8.2,Software Development,REST API Development;Inventory Management System;Microservices Architecture,3,7
+4/17/2026,Aman Ghosh,B.Tech CSE (Cloud Computing),GCP;Terraform;Ansible;GitHub Actions;Ruby;Ruby on Rails;Cassandra;Supabase,8.1,Software Development,Online Learning Platform;Microservices Architecture,2,3
+4/17/2026,Krish Trivedi,B.Tech CSE (DevOps),Kubernetes;GCP;Terraform;Git;Ruby on Rails;MySQL,8.3,Software Development,,0,4
+4/17/2026,Manish Sharma,B.Tech CSE (Cloud Computing),Azure;GitHub Actions;Git;Linux;Nginx;Java;Microservices;MySQL;Supabase,7.6,Software Development,Bank Transaction System;Docker Containerization;Digital Wallet App,3,5
+4/17/2026,Varsha Doshi,BCA Software Engineering,CSS;GraphQL;Django;Supabase;Agile;Figma,8.3,Software Development,Payment Gateway Integration;Authentication System;Student Result System;ERP System,4,7
+4/17/2026,Poonam Lodha,B.Tech Computer Science,Go;Swift;TypeScript;Express.js;MySQL;VS Code,8.0,Software Development,Library Management System;Issue Tracking System;Social Media App;Real-time Collaboration Tool;E-commerce Website,5,8
+4/17/2026,Rajat Agarwal,M.Tech Software Engineering,Angular;HTML;CSS;Microservices;PHP;MongoDB;Postman;Jira,7.3,Software Development,Student Result System;Freelance Marketplace;Online Quiz Platform;Payment Gateway Integration;Portfolio Website,5,7
+4/17/2026,Shalini Bose,MCA Software Development,Java;C++;TypeScript;CSS;Django;Ruby on Rails;PostgreSQL;XML;Scrum,7.7,Software Development,Hospital Management API,1,6
+4/17/2026,Payal Menon,B.Tech CSE (Cloud Computing),GCP;AWS;Ansible;Kubernetes;Spring Boot;Ruby;Firebase;PostgreSQL,8.5,Software Development,Notification Service;Collaborative Code Editor,2,3
+4/17/2026,Hitesh Joshi,B.Tech Computer Science,Rust;TypeScript;JavaScript;Python;Oracle DB;JSON;XML,8.4,Software Development,News Aggregator;Student Result System;URL Shortener,3,7
+4/17/2026,Gaurav Banerjee,B.Tech CSE (Mobile Development),Xamarin;Flutter;Android;C#;Microservices;JSON,9.6,Software Development,Medicine Reminder App;Shopping App,2,3
+4/17/2026,Shubham Bhatia,B.Tech Information Technology,Java;C++;Swift;Angular;Node.js;.NET;Ruby;PostgreSQL;Figma;Jira,7.3,Software Development,Online Quiz Platform;Collaborative Code Editor;Social Media App;Event Management System,4,8
+4/17/2026,Tushar Sharma,BCA Software Engineering,REST API;Bootstrap;Node.js;.NET;FastAPI;Supabase;MongoDB;Agile;Jira,7.8,Software Development,Library Management System;Todo Web App;Online Quiz Platform;Payment Gateway Integration;Employee Management System,5,7
+4/17/2026,Aman Rajput,BCA Software Engineering,CSS;Bootstrap;React;Go;Cassandra;REST API,8.2,Software Development,CRM System;E-commerce Website;Todo Web App,3,5
+4/17/2026,Krish Jain,B.Tech Information Technology,JavaScript;Java;jQuery;Node.js;.NET;Supabase;XML;Scrum,6.9,Software Development,Employee Management System;Video Streaming Platform;Digital Wallet App;News Aggregator,4,7
+4/17/2026,Hitesh Patil,B.Tech CSE (Cloud Computing),Terraform;GitHub Actions;Kubernetes;Linux;Git;Ruby;FastAPI;PostgreSQL;MySQL,7.9,Software Development,,0,2
+4/17/2026,Sonam Parikh,B.Tech CSE (DevOps),Linux;Ansible;Nginx;CI/CD;Azure;C#;.NET;SQLite,8.9,Software Development,Infrastructure as Code;Serverless Application,2,5
+4/17/2026,Kunal Srivastava,B.Tech Information Technology,Rust;Python;Swift;Express.js;CSS;Kotlin;Microservices;Cassandra;VS Code;Figma,8.2,Software Development,Todo Web App;Blog Platform,2,1
+4/17/2026,Vishal Lodha,B.Tech Software Engineering,GraphQL;Next.js;PHP;DynamoDB;Agile,6.8,Software Development,Digital Wallet App;Online Booking System,2,4
+4/17/2026,Diya Verma,M.Tech Software Engineering,Express.js;Bootstrap;C#;Java;Firebase;VS Code;XML,7.6,Software Development,REST API Development,1,3
+4/17/2026,Pooja Kaur,B.Tech Information Technology,Kotlin;TypeScript;Go;Bootstrap;CSS;FastAPI;Ruby on Rails;Cassandra;Figma,8.9,Software Development,REST API Development,1,3
+4/17/2026,Uday Kaur,B.Tech CSE (Full Stack),Next.js;JavaScript;TypeScript;C#;Laravel;Supabase;Scrum;IntelliJ IDEA,7.8,Software Development,Digital Wallet App;Employee Management System;Freelance Marketplace;Inventory Management System,4,8
+4/17/2026,Sourav Kumar,B.Tech CSE (Full Stack),REST API;Express.js;Bootstrap;Ruby on Rails;MySQL;Cassandra;Jira,8.8,Software Development,Inventory Management System;Food Ordering Website;Microservices Architecture;Freelance Marketplace,4,8
+4/17/2026,Dhruv Ghosh,B.Tech Computer Science,JavaScript;C;React;TypeScript;Python;Ruby;Cassandra;JSON;XML,6.8,Software Development,Authentication System,1,2
+4/17/2026,Trisha Dubey,B.Tech CSE (DevOps),Nginx;Ansible;Azure;C#;Firebase,7.5,Software Development,Infrastructure as Code;Video Streaming Platform;Serverless Application,3,8
+4/17/2026,Rishabh Agarwal,M.Tech Software Engineering,REST API;Next.js;Bootstrap;Python;Laravel;Firebase;Postman,10.0,Software Development,Food Ordering Website;Recipe Sharing Platform;Freelance Marketplace,3,6
+4/17/2026,Vikas Bhatt,B.Tech Information Technology,Swift;JavaScript;C++;jQuery;Microservices;Java;Redis;IntelliJ IDEA,8.2,Software Development,Order Management API;CRM System,2,4
+4/17/2026,Kunal Ghosh,B.Sc Computer Science,Go;Swift;Rust;Tailwind CSS;Oracle DB;Agile;REST API,9.1,Software Development,Portfolio Website;News Aggregator;Collaborative Code Editor,3,8
+4/17/2026,Naina Oswal,M.Tech Software Engineering,REST API;CSS;jQuery;Django;C#;Cassandra;Agile;Figma,7.8,Software Development,Project Management Tool;Collaborative Code Editor;Real-time Collaboration Tool;News Aggregator,4,8
+4/17/2026,Mayank Rao,B.Tech CSE (Cybersecurity),Go;Python;Terraform;Cryptography;Metasploit;Ethical Hacking,8.9,Software Development,Hospital Management API;AWS Cloud Deployment,2,6
+4/17/2026,Poonam Shah,B.Tech Computer Science,JavaScript;Python;Go;Next.js;Java;Firebase;VS Code;IntelliJ IDEA,7.6,Software Development,Library Management System;Todo Web App,2,8
+4/17/2026,Meghna Desai,B.Tech CSE (Full Stack),CSS;React;Node.js;Kotlin;PostgreSQL;Agile;Figma,7.8,Software Development,URL Shortener,1,3
+4/17/2026,Nisha Doshi,B.Tech CSE (Full Stack),TypeScript;Bootstrap;Laravel;Cassandra;Jira;IntelliJ IDEA,8.9,Software Development,ERP System;Real-time Collaboration Tool;URL Shortener;Video Streaming Platform;Order Management API,5,8
+4/17/2026,Amit Srivastava,BCA Software Engineering,jQuery;JavaScript;React;Go;Spring Boot;DynamoDB;Postman;Figma,7.8,Software Development,Event Management System;REST API Development,2,4
+4/17/2026,Diya Malhotra,B.Sc Computer Science,Python;Rust;CSS;React;Supabase;PostgreSQL;Agile,8.5,Software Development,Movie Review Website;Project Management Tool;Job Portal,3,7
+4/17/2026,Deepak Sharma,B.Tech Information Technology,C;Swift;TypeScript;Angular;C#;Kotlin;Oracle DB;JSON,8.1,Software Development,Inventory Management System,1,3
+4/17/2026,Dhruv Krishnan,B.Tech CSE (Cloud Computing),GCP;GitHub Actions;AWS;Flask;Firebase;MySQL,8.2,Software Development,AWS Cloud Deployment,1,2
+4/17/2026,Uday Oswal,M.Tech Software Engineering,CSS;HTML;Kotlin;MongoDB;Agile;JSON,9.6,Software Development,URL Shortener;Hospital Management API,2,5
+4/17/2026,Jay Patil,B.Tech Computer Science,Go;JavaScript;C++;Next.js;Bootstrap;.NET;Cassandra;Postman;REST API,8.4,Software Development,Social Media App,1,3
+4/17/2026,Ishan Tiwari,M.Tech Software Engineering,HTML;REST API;Django;Cassandra;Scrum;IntelliJ IDEA,7.9,Software Development,Collaborative Code Editor;Movie Review Website;E-commerce Website,3,3
+4/17/2026,Raj Kapoor,B.Tech CSE (Cloud Computing),Ansible;GitHub Actions;Jenkins;Docker;Spring Boot;PHP;MongoDB,8.3,Software Development,Automated Testing Framework;URL Shortener,2,1
+4/17/2026,Sourav Patil,B.Tech Information Technology,C++;Kotlin;Rust;Vue.js;Flask;Supabase;XML;Jira,8.9,Software Development,CRM System;Online Quiz Platform;Video Streaming Platform,3,8
+4/17/2026,Rohan Patel,B.Tech Computer Science,C;Python;TypeScript;Vue.js;Ruby;Oracle DB;VS Code;Jira,7.8,Software Development,Travel Booking Website;Authentication System;News Aggregator;E-commerce Website;Food Ordering Website,5,8
+4/17/2026,Swati Chaudhary,M.Tech Software Engineering,Express.js;Next.js;CSS;PHP;Oracle DB;XML,8.1,Software Development,URL Shortener,1,1
+4/17/2026,Rishabh Malhotra,B.Tech Information Technology,Go;TypeScript;Kotlin;Angular;React;Django;MongoDB;IntelliJ IDEA,8.7,Software Development,Video Streaming Platform;Student Result System,2,6
+4/17/2026,Pranav Rao,B.Tech Information Technology,JavaScript;C++;Kotlin;jQuery;Ruby on Rails;Supabase;Jira,8.6,Software Development,REST API Development,1,6
+4/17/2026,Zain Tripathi,B.Tech CSE (DevOps),Terraform;Jenkins;Ansible;Java;Cassandra;DynamoDB,8.2,Software Development,Load Balancer Setup;Serverless Application;CI/CD Pipeline Setup,3,8
+4/17/2026,Chirag Patil,B.Tech CSE (Cloud Computing),CI/CD;AWS;GitHub Actions;Laravel;PostgreSQL;MySQL,7.7,Software Development,,0,2
+4/17/2026,Nisha Rao,B.Tech CSE (Full Stack),GraphQL;REST API;Spring Boot;Java;MySQL;MongoDB;Scrum,9.1,Software Development,Digital Wallet App,1,3
+4/17/2026,Siddharth Rajput,B.Tech CSE (Cybersecurity),C;Python;Azure;AWS;OWASP;Network Security;Ethical Hacking;Cryptography,8.4,Software Development,REST API Development;Kubernetes Deployment;Serverless Application,3,7
+4/17/2026,Tanvi Pandey,B.Sc Computer Science,Go;TypeScript;jQuery;SQLite;DynamoDB;Scrum;Figma,8.4,Software Development,,0,4
+4/17/2026,Siddharth Singh,B.Tech CSE (Cybersecurity),Swift;Python;Java;CI/CD;Wireshark;Metasploit;Network Security;Nmap,8.7,Software Development,Serverless Application;Library Management System,2,4
+4/17/2026,Zain Mishra,B.Tech CSE (Full Stack),Bootstrap;Vue.js;Microservices;Laravel;SQLite;XML,9.3,Software Development,Digital Wallet App;Inventory Management System;Collaborative Code Editor;ERP System,4,8
+4/17/2026,Chirag Tiwari,B.Tech CSE (Mobile Development),Android;Swift;Java;FastAPI;IntelliJ IDEA,7.8,Software Development,Food Delivery App;Weather App;Fitness Tracker App,3,6
+4/17/2026,Kunal Roy,M.Tech Software Engineering,jQuery;CSS;Spring Boot;FastAPI;Supabase;PostgreSQL;Figma;Agile,8.4,Software Development,Todo Web App;Employee Management System;Digital Wallet App;Movie Review Website,4,7
+4/17/2026,Sunita Chatterjee,MCA Software Development,Swift;Java;Angular;Next.js;Python;Microservices;MySQL;XML;Postman,8.5,Software Development,Authentication System;Online Quiz Platform,2,3
+4/17/2026,Hitesh Menon,B.Tech CSE (Full Stack),Next.js;CSS;React;FastAPI;Python;SQLite;Postman;Figma,8.4,Software Development,Real-time Collaboration Tool;Full Stack Blog App,2,6
+4/17/2026,Ayush Shukla,B.Tech CSE (Cybersecurity),Java;Go;Rust;GitHub Actions;GCP;Ethical Hacking;OWASP;Wireshark,9.1,Software Development,Serverless Application;Password Manager,2,3
+4/17/2026,Sumit Verma,MCA Software Development,C++;Swift;TypeScript;GraphQL;Python;Kotlin;PostgreSQL;Agile,7.5,Software Development,Online Booking System;Freelance Marketplace;Food Ordering Website;Project Management Tool,4,8
+4/17/2026,Harsh Saxena,B.Tech CSE (Cloud Computing),AWS;Ansible;GCP;Go;Flask;Firebase;PostgreSQL,7.7,Software Development,Freelance Marketplace,1,1
+4/17/2026,Manish Singh,MCA Software Development,Go;C++;REST API;Tailwind CSS;Django;Spring Boot;MySQL;IntelliJ IDEA,7.1,Software Development,Student Result System;Blog Platform;Social Media App;Todo Web App;Inventory Management System,5,8
+4/17/2026,Gaurav Lodha,B.Tech CSE (DevOps),Kubernetes;GitHub Actions;AWS;Ansible;.NET;Redis,6.9,Software Development,Hospital Management API;Employee Management System;AWS Cloud Deployment;REST API Development,4,8
+4/17/2026,Varsha Oswal,B.Tech Software Engineering,Tailwind CSS;Vue.js;Ruby;Laravel;DynamoDB;Scrum,8.5,Software Development,Payment Gateway Integration;Social Media App;Student Result System;ERP System,4,8
+4/17/2026,Diya Bhatt,B.Tech Computer Science,C++;Rust;JavaScript;Ruby;Firebase;Postman,7.6,Software Development,Full Stack Blog App;Online Quiz Platform,2,7
+4/17/2026,Mansi Patel,B.Tech CSE (Mobile Development),React Native;Kotlin;Android;C#;JSON;Agile,8.7,Software Development,Video Streaming Platform,1,1
+4/17/2026,Garima Murthy,BCA Software Engineering,Node.js;JavaScript;Laravel;PostgreSQL;Figma,7.6,Software Development,Inventory Management System;Portfolio Website;Todo Web App;Online Quiz Platform,4,6
+4/17/2026,Jyoti Pillai,B.Tech Computer Science,JavaScript;Go;Bootstrap;Java;C#;SQLite;Postman,8.2,Software Development,Inventory Management System,1,6
+4/17/2026,Uday Rajput,B.Tech CSE (Cybersecurity),Python;Java;Ansible;Azure;Metasploit;Nmap;Ethical Hacking,6.8,Software Development,Load Balancer Setup;Student Result System,2,4
+4/17/2026,Sakshi Naik,B.Tech CSE (DevOps),Git;GCP;Kubernetes;Docker;Kotlin;PHP;MongoDB;DynamoDB,8.3,Software Development,Payment Gateway Integration;AWS Cloud Deployment;Library Management System,3,4
+4/17/2026,Arjun Iyer,B.Tech Computer Science,Python;JavaScript;TypeScript;Node.js;Go;MySQL;Agile,8.1,Software Development,Movie Review Website;Project Management Tool;Freelance Marketplace;URL Shortener,4,8
+4/17/2026,Yash Srivastava,B.Tech CSE (Full Stack),Next.js;REST API;GraphQL;Flask;Oracle DB;IntelliJ IDEA,8.8,Software Development,E-commerce Website;Blog Platform;News Aggregator,3,4
+4/17/2026,Sonam Verma,B.Sc Computer Science,Rust;Java;Bootstrap;Firebase;XML;Figma,7.4,Software Development,Bank Transaction System;Student Result System,2,5
+4/17/2026,Rahul Iyer,B.Tech Information Technology,Swift;C++;C;TypeScript;Tailwind CSS;Flask;Go;PostgreSQL;VS Code;Agile,9.1,Software Development,Inventory Management System;Online Quiz Platform,2,5
+4/17/2026,Manish Murthy,B.Tech CSE (Cloud Computing),Nginx;Linux;AWS;Go;Python;Cassandra,8.1,Software Development,ERP System;CRM System,2,5
+4/17/2026,Amit Parikh,B.Tech Computer Science,TypeScript;Python;GraphQL;Tailwind CSS;PHP;Flask;MongoDB;Figma,8.5,Software Development,URL Shortener;Movie Review Website;Library Management System,3,5
+4/17/2026,Poonam Joshi,B.Tech CSE (Cloud Computing),CI/CD;Ansible;Jenkins;AWS;FastAPI;Flask;Cassandra;PostgreSQL,8.4,Software Development,Automated Testing Framework;Issue Tracking System,2,8
+4/17/2026,Om Krishnan,B.Tech Software Engineering,TypeScript;Angular;Node.js;Ruby on Rails;MongoDB;Agile,7.5,Software Development,Digital Wallet App;ERP System;Todo Web App,3,8
+4/17/2026,Vikram Jain,B.Tech CSE (Full Stack),Tailwind CSS;HTML;REST API;Flask;Django;Supabase,8.6,Software Development,,0,2
+4/17/2026,Neha Jain,BCA Software Engineering,Node.js;Express.js;GraphQL;Java;SQLite;Agile,8.2,Software Development,Payment Gateway Integration,1,1
+4/17/2026,Raj Desai,MCA Software Development,Java;C++;Go;JavaScript;CSS;Flask;Redis;JSON;XML,7.5,Software Development,URL Shortener;Bank Transaction System,2,6
+4/17/2026,Sakshi Srivastava,B.Tech CSE (Cloud Computing),Nginx;AWS;Git;Django;Firebase,8.1,Software Development,Kubernetes Deployment,1,3
+4/17/2026,Aman Jain,B.Tech Information Technology,Swift;C;Tailwind CSS;Java;PostgreSQL;REST API;Scrum,7.4,Software Development,Project Management Tool,1,2
+4/17/2026,Varsha Patel,B.Tech CSE (Cloud Computing),Terraform;Nginx;Git;Jenkins;AWS;Go;Supabase;MongoDB,7.1,Software Development,,0,2
+4/17/2026,Piyush Patil,B.Tech Information Technology,TypeScript;Go;JavaScript;HTML;Microservices;Django;Cassandra;Jira;Postman,8.8,Software Development,Todo Web App,1,1
+4/17/2026,Divya Oswal,B.Tech CSE (Cybersecurity),C++;Kotlin;Ansible;Ethical Hacking;Metasploit;Wireshark;OWASP,8.7,Software Development,Load Balancer Setup;Penetration Testing Tool,2,8
+4/17/2026,Aryan Malhotra,MCA Software Development,Go;C++;Kotlin;HTML;MongoDB;Agile;REST API,8.2,Software Development,ERP System;Notification Service;Bank Transaction System;Digital Wallet App,4,5
+4/17/2026,Ishan Tripathi,BCA Software Engineering,Angular;REST API;Node.js;Ruby;C#;PostgreSQL;Postman,9.3,Software Development,Real-time Chat App,1,2
+4/17/2026,Riya Ghosh,B.Sc Computer Science,Java;Go;TypeScript;REST API;Cassandra;VS Code;Scrum,8.1,Software Development,Microservices Architecture;Hospital Management API,2,8
+4/17/2026,Shalini Murthy,M.Tech Software Engineering,Tailwind CSS;REST API;PHP;Microservices;Oracle DB,7.7,Software Development,Movie Review Website;Project Management Tool;Full Stack Blog App,3,7
+4/17/2026,Nisha Shah,B.Tech CSE (DevOps),Azure;Kubernetes;Docker;Nginx;Django;FastAPI;MySQL;DynamoDB,8.9,Software Development,Project Management Tool;CRM System,2,4
+4/17/2026,Rishabh Joshi,B.Tech CSE (Cybersecurity),Swift;Rust;C++;Azure;GitHub Actions;OWASP;Network Security,8.7,Software Development,Serverless Application;Docker Containerization,2,1
+4/17/2026,Lakshmi Jain,B.Tech Information Technology,Rust;TypeScript;REST API;HTML;Ruby on Rails;Cassandra;JSON,8.6,Software Development,Todo Web App;Social Media App;Food Ordering Website,3,6
+4/17/2026,Aarav Saxena,MCA Software Development,Kotlin;Swift;TypeScript;HTML;.NET;MongoDB;VS Code;Figma,7.9,Software Development,REST API Development;Bank Transaction System;Real-time Collaboration Tool,3,7
+4/17/2026,Kritika Gupta,B.Sc Computer Science,Rust;Swift;Express.js;DynamoDB;JSON,8.0,Software Development,Project Management Tool;ERP System;Movie Review Website;Freelance Marketplace;Event Management System,5,7
+4/17/2026,Hitesh Shukla,B.Sc Computer Science,Kotlin;Go;Swift;Angular;SQLite;Redis;IntelliJ IDEA;XML,7.4,Software Development,URL Shortener;Hospital Management API;Real-time Chat App,3,5
+4/17/2026,Piyush Agarwal,B.Tech CSE (Mobile Development),Kotlin;React Native;iOS;PHP;VS Code;Agile,8.7,Software Development,Issue Tracking System;Freelance Marketplace;Online Learning Platform;Digital Wallet App,4,8
+4/17/2026,Tanya Malhotra,BCA Software Engineering,TypeScript;CSS;C#;MySQL;Jira,8.1,Software Development,Issue Tracking System;Project Management Tool;Library Management System,3,5
+4/17/2026,Pranav Naik,B.Tech CSE (DevOps),GitHub Actions;Azure;Docker;Kotlin;Firebase;DynamoDB,9.2,Software Development,AWS Cloud Deployment;Project Management Tool;ERP System,3,5
+4/17/2026,Shruti Kapoor,B.Tech CSE (DevOps),Git;Ansible;Jenkins;Laravel;Firebase;SQLite,8.2,Software Development,Payment Gateway Integration;Bank Transaction System,2,4
+4/17/2026,Payal Mishra,B.Sc Computer Science,Java;Swift;Node.js;Oracle DB;JSON;Figma,7.4,Software Development,Microservices Architecture,1,3
+4/17/2026,Priya Bhatt,B.Tech CSE (Full Stack),JavaScript;Vue.js;Ruby;Cassandra;DynamoDB;VS Code;Agile,6.7,Software Development,Freelance Marketplace,1,2
+4/17/2026,Kritika Bose,B.Tech CSE (DevOps),Docker;GitHub Actions;CI/CD;Terraform;FastAPI;Microservices;Firebase;DynamoDB,8.0,Software Development,CI/CD Pipeline Setup;Serverless Application;Online Learning Platform;Video Streaming Platform;Library Management System,5,8
+4/17/2026,Nisha Chatterjee,B.Tech CSE (Mobile Development),Android;Kotlin;C#;Ruby;Scrum,8.2,Software Development,Cab Booking App;CRM System,2,1
+4/17/2026,Sonam Rao,B.Tech CSE (Cybersecurity),JavaScript;Python;GCP;Docker;Cryptography;Linux,9.2,Software Development,REST API Development,1,1
+4/17/2026,Reema Jain,B.Tech CSE (Cloud Computing),AWS;Docker;CI/CD;GCP;Nginx;Kotlin;MySQL,7.7,Software Development,,0,2
+4/17/2026,Nikhil Chauhan,B.Tech CSE (DevOps),Linux;CI/CD;Jenkins;C#;.NET;Oracle DB;SQLite,8.3,Software Development,Serverless Application,1,1
+4/17/2026,Tanya Sharma,B.Sc Computer Science,Swift;C;Vue.js;Redis;XML;VS Code,7.9,Software Development,Blog Platform;Project Management Tool;Recipe Sharing Platform,3,7
+4/17/2026,Tanya Tiwari,B.Tech CSE (Full Stack),jQuery;GraphQL;TypeScript;Go;Python;SQLite;MySQL;VS Code,9.5,Software Development,,0,1
+4/17/2026,Harshita Tripathi,B.Tech CSE (DevOps),Docker;Jenkins;CI/CD;GitHub Actions;Terraform;Microservices;Go;MongoDB,8.5,Software Development,Authentication System;AWS Cloud Deployment,2,5
+4/17/2026,Anjali Iyer,B.Sc Computer Science,JavaScript;C++;CSS;React;SQLite;Supabase;Jira,9.0,Software Development,,0,2
+4/17/2026,Deepak Yadav,MCA Software Development,Rust;TypeScript;JavaScript;Bootstrap;Ruby;FastAPI;Oracle DB;Postman,7.8,Software Development,Notification Service;URL Shortener;Bank Transaction System,3,7
+4/17/2026,Riya Iyer,B.Tech CSE (Cybersecurity),JavaScript;Rust;C++;Terraform;Ethical Hacking;Metasploit;Cryptography;Linux,9.2,Software Development,Kubernetes Deployment,1,4
+4/17/2026,Dev Trivedi,B.Tech Software Engineering,REST API;TypeScript;Ruby on Rails;Supabase;Firebase;JSON,8.1,Software Development,Issue Tracking System;Notification Service;Blog Platform;Authentication System,4,8
+4/17/2026,Garima Trivedi,B.Tech Information Technology,Rust;Kotlin;Node.js;PHP;Java;Firebase;JSON,9.5,Software Development,Movie Review Website;Issue Tracking System,2,3
+4/17/2026,Chhavi Oswal,B.Tech CSE (Full Stack),Vue.js;HTML;React;Django;Spring Boot;SQLite;Firebase;Jira,7.1,Software Development,Authentication System;Collaborative Code Editor;Event Management System;Real-time Collaboration Tool,4,7
+4/17/2026,Swati Jain,B.Tech Information Technology,Swift;Kotlin;Java;Tailwind CSS;Node.js;Laravel;Go;PostgreSQL;Scrum;Jira,8.1,Software Development,Student Result System;CRM System;Project Management Tool,3,7
+4/17/2026,Jyoti Sharma,B.Tech CSE (DevOps),Azure;Kubernetes;CI/CD;PHP;Firebase;MongoDB,8.4,Software Development,ERP System,1,2
+4/17/2026,Vikram Trivedi,B.Tech Software Engineering,Tailwind CSS;Express.js;REST API;Laravel;Oracle DB;Jira,8.7,Software Development,,0,1
+4/17/2026,Garima Shah,B.Tech CSE (Full Stack),GraphQL;Bootstrap;Java;Redis;JSON,9.0,Software Development,Social Media App;ERP System,2,1
+4/17/2026,Rahul Rao,B.Tech CSE (Mobile Development),Xamarin;Flutter;iOS;Ruby on Rails;XML;IntelliJ IDEA,8.0,Software Development,CRM System;Quiz Game App,2,3
+4/17/2026,Mohit Trivedi,B.Sc Computer Science,Rust;C++;Python;Node.js;JavaScript;MySQL;JSON,8.7,Software Development,Digital Wallet App;Social Media App;Movie Review Website;Project Management Tool;E-commerce Website,5,7
+4/17/2026,Tanya Krishnan,B.Tech Software Engineering,Express.js;Tailwind CSS;Microservices;Oracle DB;Agile;Postman,7.7,Software Development,Social Media App;Portfolio Website;Order Management API,3,7
+4/17/2026,Garima Parikh,M.Tech Software Engineering,Node.js;JavaScript;.NET;Ruby;PostgreSQL;XML;JSON,7.9,Software Development,Video Streaming Platform,1,1
+4/17/2026,Swati Sharma,BCA Software Engineering,Next.js;jQuery;C#;FastAPI;MongoDB;XML;Figma,8.4,Software Development,Online Booking System;Online Quiz Platform;Notification Service;Hospital Management API,4,5
+4/17/2026,Shruti Tripathi,B.Tech CSE (Cloud Computing),GCP;Nginx;Azure;Kubernetes;PHP;Microservices;Redis;Supabase,7.3,Software Development,Serverless Application;Hospital Management API;Video Streaming Platform;Microservices Architecture,4,7
+4/17/2026,Harsh Agarwal,B.Tech CSE (DevOps),Nginx;GitHub Actions;GCP;Linux;Python;MySQL;PostgreSQL,7.7,Software Development,Real-time Collaboration Tool;Infrastructure as Code,2,3
+4/17/2026,Deepak Chauhan,B.Tech CSE (Cloud Computing),Docker;Linux;Git;AWS;Laravel;Go;Supabase;MySQL,9.2,Software Development,Payment Gateway Integration;Bank Transaction System;Kubernetes Deployment;Digital Wallet App,4,8
+4/17/2026,Swati Desai,B.Tech CSE (Cloud Computing),Kubernetes;Terraform;Git;GitHub Actions;CI/CD;Python;Redis,7.8,Software Development,CRM System;Payment Gateway Integration;CI/CD Pipeline Setup,3,7
+4/17/2026,Deepak Joshi,B.Tech CSE (DevOps),Ansible;GCP;Linux;GitHub Actions;Ruby on Rails;Flask;Supabase,8.8,Software Development,Student Result System;Authentication System;ERP System;Digital Wallet App,4,7
+4/17/2026,Hitesh Das,B.Tech Software Engineering,Vue.js;CSS;jQuery;Microservices;PHP;Cassandra;Oracle DB;Jira;Agile,8.0,Software Development,Real-time Chat App;Online Learning Platform;Social Media App;Video Streaming Platform,4,8
+4/17/2026,Sarthak Mehta,BCA Software Engineering,Tailwind CSS;Next.js;Ruby;Oracle DB;SQLite;Figma,8.2,Software Development,Digital Wallet App,1,6
+4/17/2026,Rashmi Kapoor,MCA Software Development,Swift;JavaScript;Next.js;.NET;Firebase;Jira,8.5,Software Development,REST API Development;Payment Gateway Integration,2,5
+4/17/2026,Lakshmi Srivastava,B.Tech CSE (Full Stack),CSS;GraphQL;Laravel;Java;Cassandra;XML;Agile,6.5,Software Development,Hospital Management API;News Aggregator,2,5
+4/17/2026,Diya Tiwari,B.Tech CSE (Mobile Development),Android;Swift;.NET;PHP;JSON,8.3,Software Development,Issue Tracking System;Medicine Reminder App,2,6
+4/17/2026,Varsha Murthy,B.Tech CSE (Cybersecurity),C;Swift;Python;Linux;Docker;Burp Suite;Metasploit;Cryptography,7.8,Software Development,Inventory Management System;Hospital Management API;Penetration Testing Tool;Bank Transaction System;Student Result System,5,8
+4/17/2026,Pranav Chaudhary,M.Tech Software Engineering,Vue.js;REST API;Node.js;.NET;Python;Supabase;VS Code,8.1,Software Development,Movie Review Website;Online Booking System;Portfolio Website,3,5
+4/17/2026,Piyush Patel,M.Tech Software Engineering,Express.js;jQuery;Python;Cassandra;MongoDB;REST API;Figma,8.2,Software Development,Freelance Marketplace,1,1
+4/17/2026,Chirag Agarwal,B.Tech Information Technology,C++;Rust;TypeScript;Vue.js;GraphQL;FastAPI;Java;Oracle DB;Agile,9.4,Software Development,Video Streaming Platform;Movie Review Website,2,4
+4/17/2026,Sourav Srivastava,MCA Software Development,Rust;C++;Go;Express.js;Tailwind CSS;Ruby on Rails;MongoDB;Scrum;XML,8.3,Software Development,Employee Management System,1,3
+4/17/2026,Varun Lodha,B.Tech Information Technology,Swift;Go;JavaScript;jQuery;REST API;Kotlin;Laravel;DynamoDB;Scrum;IntelliJ IDEA,8.0,Software Development,Event Management System;REST API Development;Microservices Architecture,3,3
+4/17/2026,Varsha Parikh,B.Tech Software Engineering,JavaScript;Node.js;Spring Boot;Cassandra;Postman,8.3,Software Development,,0,2
+4/17/2026,Lakshmi Patel,B.Tech Software Engineering,Angular;React;REST API;.NET;Go;MongoDB;Postman,7.5,Software Development,Employee Management System,1,1
+4/17/2026,Rashmi Iyer,B.Tech CSE (DevOps),GCP;Azure;Kubernetes;Nginx;Laravel;Supabase;Oracle DB,7.4,Software Development,Issue Tracking System;Hospital Management API;Infrastructure as Code;Video Streaming Platform,4,5
+4/17/2026,Uday Dubey,BCA Software Engineering,JavaScript;Angular;HTML;PHP;SQLite;REST API;JSON,8.1,Software Development,Todo Web App,1,1
+4/17/2026,Riya Bhatia,B.Tech Computer Science,JavaScript;Python;C;React;Node.js;C#;Django;MongoDB;Scrum;Jira,8.1,Software Development,Authentication System;Payment Gateway Integration,2,4
+4/17/2026,Poonam Parikh,B.Tech CSE (DevOps),AWS;CI/CD;Docker;Kubernetes;Flask;Cassandra,8.8,Software Development,Freelance Marketplace;Payment Gateway Integration;Notification Service,3,8
+4/17/2026,Akash Patel,B.Tech Computer Science,Java;C++;Angular;JavaScript;Kotlin;Firebase;IntelliJ IDEA,8.6,Software Development,CRM System;Employee Management System;Collaborative Code Editor,3,7
+4/17/2026,Varsha Gupta,MCA Software Development,Java;C;jQuery;Node.js;PHP;Cassandra;Jira,8.2,Software Development,Full Stack Blog App;Video Streaming Platform;Payment Gateway Integration,3,5
+4/17/2026,Amit Patil,B.Tech CSE (Cybersecurity),C;Python;Ansible;Docker;Wireshark;OWASP;Nmap;Burp Suite,9.6,Software Development,Password Manager;Infrastructure as Code,2,3
+4/17/2026,Anjali Murthy,B.Tech Software Engineering,Express.js;Tailwind CSS;Angular;FastAPI;Firebase;Jira,7.9,Software Development,Freelance Marketplace;Hospital Management API;Real-time Chat App,3,7
+4/17/2026,Jay Tripathi,B.Tech CSE (Cloud Computing),Git;Linux;Azure;FastAPI;Firebase,8.3,Software Development,AWS Cloud Deployment;Online Learning Platform;REST API Development;Log Monitoring Dashboard,4,6
+4/17/2026,Karan Menon,B.Tech CSE (Cloud Computing),GCP;Terraform;GitHub Actions;Azure;Java;SQLite;MongoDB,8.4,Software Development,Freelance Marketplace;Video Streaming Platform;Bank Transaction System;Payment Gateway Integration,4,5
+4/17/2026,Chhavi Mishra,B.Tech CSE (DevOps),GitHub Actions;Ansible;Azure;Jenkins;Spring Boot;Cassandra,8.1,Software Development,Digital Wallet App;Project Management Tool,2,6
+4/17/2026,Nitin Verma,B.Tech CSE (Mobile Development),Xamarin;Swift;iOS;Kotlin;Spring Boot;Jira;JSON,8.6,Software Development,Shopping App;Video Streaming Platform;News App;Food Delivery App,4,8
+4/17/2026,Kavya Lodha,MCA Software Development,C++;Kotlin;HTML;Python;MySQL;VS Code,7.9,Software Development,Travel Booking Website;Real-time Chat App;Inventory Management System;Project Management Tool,4,7
+4/17/2026,Abhishek Tiwari,B.Tech CSE (Mobile Development),Android;iOS;Microservices;Ruby on Rails;REST API,8.2,Software Development,Digital Wallet App,1,1
+4/17/2026,Kritika Dubey,M.Tech Software Engineering,REST API;Bootstrap;PHP;Java;Redis;Jira,8.5,Software Development,REST API Development;Travel Booking Website,2,4
+4/17/2026,Preeti Pandey,B.Tech CSE (Mobile Development),Swift;Kotlin;Spring Boot;REST API;Scrum,8.1,Software Development,,0,2
+4/17/2026,Nitin Das,BCA Software Engineering,Tailwind CSS;JavaScript;TypeScript;Microservices;FastAPI;DynamoDB;SQLite;Scrum;XML,8.4,Software Development,Microservices Architecture;Portfolio Website,2,4
+4/17/2026,Anjali Parikh,B.Tech Information Technology,Rust;Swift;Go;Next.js;Flask;Supabase;JSON,7.7,Software Development,Inventory Management System;Portfolio Website;Food Ordering Website,3,3
+4/17/2026,Rahul Kapoor,B.Tech Computer Science,Kotlin;Swift;Java;HTML;FastAPI;Python;MongoDB;Agile;Jira,8.3,Software Development,Issue Tracking System,1,2
+4/17/2026,Rahul Trivedi,B.Tech Software Engineering,jQuery;Express.js;JavaScript;Ruby on Rails;Kotlin;Supabase;Postman;Scrum,9.3,Software Development,Bank Transaction System,1,2
+4/17/2026,Yash Reddy,BCA Software Engineering,REST API;jQuery;Kotlin;Oracle DB;Figma,7.7,Software Development,Authentication System,1,3
+4/17/2026,Shalini Trivedi,BCA Software Engineering,jQuery;Bootstrap;REST API;Django;Redis;Oracle DB;IntelliJ IDEA,8.1,Software Development,Online Quiz Platform,1,6
+4/17/2026,Ayush Das,BCA Software Engineering,CSS;Node.js;TypeScript;Ruby;Kotlin;MongoDB;JSON;Jira,7.3,Software Development,Travel Booking Website;Payment Gateway Integration,2,4
+4/17/2026,Rohan Mehta,B.Tech Information Technology,TypeScript;C++;Kotlin;Node.js;Vue.js;Django;FastAPI;SQLite;Figma,8.3,Software Development,Online Learning Platform;Travel Booking Website;E-commerce Website,3,3
+4/17/2026,Rajat Yadav,B.Sc Computer Science,Java;C++;Kotlin;React;Redis;Agile,8.1,Software Development,Library Management System;Real-time Chat App;Video Streaming Platform;Real-time Collaboration Tool,4,8
+4/17/2026,Sarthak Das,B.Tech CSE (Cybersecurity),C;Go;Jenkins;Network Security;Metasploit,7.9,Software Development,Docker Containerization;Authentication System,2,4
+4/17/2026,Ayush Iyer,B.Sc Computer Science,C++;Go;Tailwind CSS;REST API;PostgreSQL;MySQL;Scrum;Jira,8.9,Software Development,CRM System;Digital Wallet App,2,2
+4/17/2026,Tanya Joshi,B.Tech CSE (Full Stack),TypeScript;Express.js;Java;DynamoDB;Agile;REST API,8.1,Software Development,Online Learning Platform;Recipe Sharing Platform;Todo Web App;Online Booking System,4,7
+4/17/2026,Chirag Jain,B.Tech Information Technology,C;Kotlin;JavaScript;Microservices;C#;MongoDB;Scrum,7.3,Software Development,Issue Tracking System;Travel Booking Website,2,4
+4/17/2026,Meghna Bhatia,B.Tech CSE (Mobile Development),Flutter;Swift;iOS;Go;XML,8.1,Software Development,News App;Freelance Marketplace;CRM System,3,4
+4/17/2026,Krish Reddy,B.Tech CSE (Full Stack),Vue.js;CSS;Python;MongoDB;MySQL;Scrum;XML,7.9,Software Development,Portfolio Website;Real-time Collaboration Tool,2,5
+4/17/2026,Karan Mishra,B.Tech Computer Science,Swift;Python;Kotlin;Tailwind CSS;FastAPI;PostgreSQL;IntelliJ IDEA;JSON,9.1,Software Development,Employee Management System;Movie Review Website;Bank Transaction System;CRM System,4,8
+4/17/2026,Rashmi Kumar,B.Tech CSE (Full Stack),React;HTML;Ruby;Java;Oracle DB;Firebase;Jira,9.5,Software Development,Inventory Management System;Event Management System;Authentication System;Online Booking System;REST API Development,5,8
+4/17/2026,Ishita Patil,B.Tech Computer Science,TypeScript;Go;C;Express.js;Ruby on Rails;Java;Firebase;Postman;JSON,8.8,Software Development,Online Booking System;Online Quiz Platform;Payment Gateway Integration;Online Learning Platform,4,7
+4/17/2026,Diya Bhatia,B.Tech Information Technology,Java;Go;JavaScript;Next.js;.NET;Cassandra;JSON,9.0,Software Development,Hospital Management API,1,3
+4/17/2026,Payal Verma,B.Tech CSE (Full Stack),Bootstrap;Next.js;React;Spring Boot;Flask;MongoDB;PostgreSQL;VS Code,8.9,Software Development,ERP System;Library Management System;Online Quiz Platform;Hospital Management API,4,8
+4/17/2026,Komal Shah,BCA Software Engineering,HTML;jQuery;JavaScript;Laravel;Ruby on Rails;MongoDB;IntelliJ IDEA,8.2,Software Development,Job Portal;Library Management System,2,5
+4/17/2026,Mansi Mishra,B.Tech Software Engineering,React;HTML;Java;.NET;Cassandra;DynamoDB;XML,8.0,Software Development,Real-time Chat App;Social Media App;News Aggregator,3,8
+4/17/2026,Kavya Rao,B.Tech Software Engineering,React;TypeScript;Laravel;Go;MySQL;IntelliJ IDEA,8.7,Software Development,Online Quiz Platform;Food Ordering Website;Student Result System,3,3
+4/17/2026,Vikram Joshi,B.Tech Computer Science,Go;Java;Tailwind CSS;Laravel;Supabase;REST API,8.4,Software Development,News Aggregator;Inventory Management System;Hospital Management API;Employee Management System,4,6
+4/17/2026,Aman Mehta,BCA Software Engineering,Angular;Express.js;Spring Boot;SQLite;DynamoDB;JSON;Jira,7.9,Software Development,Travel Booking Website,1,2
+4/17/2026,Gaurav Pillai,M.Tech Software Engineering,Node.js;Bootstrap;Vue.js;PHP;Laravel;MongoDB;Cassandra;REST API;IntelliJ IDEA,7.4,Software Development,REST API Development;Full Stack Blog App,2,4
+4/17/2026,Jay Verma,B.Tech CSE (Cybersecurity),Python;Go;Git;GitHub Actions;Linux;Wireshark;Network Security,7.6,Software Development,Payment Gateway Integration;Order Management API;Notification Service,3,5
+4/17/2026,Vikas Patil,B.Tech Computer Science,TypeScript;Swift;Next.js;Bootstrap;Ruby on Rails;MongoDB;Agile,7.5,Software Development,Project Management Tool;E-commerce Website;Event Management System;Travel Booking Website,4,6
+4/17/2026,Mansi Iyer,B.Tech CSE (DevOps),Azure;AWS;Git;GCP;Laravel;Kotlin;DynamoDB;Supabase,9.0,Software Development,Online Learning Platform;Automated Testing Framework;REST API Development,3,6
+4/17/2026,Siddharth Verma,MCA Software Development,Kotlin;Java;Go;Bootstrap;Ruby on Rails;Redis;Postman;Figma,8.3,Software Development,Payment Gateway Integration;Notification Service,2,7
+4/17/2026,Payal Bhatia,B.Tech CSE (Cloud Computing),Jenkins;Kubernetes;Docker;GitHub Actions;Git;Microservices;Cassandra,7.1,Software Development,Issue Tracking System,1,3
+4/17/2026,Tanvi Bhatia,MCA Software Development,C++;Kotlin;React;.NET;Oracle DB;Postman,8.2,Software Development,Food Ordering Website;ERP System;Bank Transaction System;News Aggregator,4,5
+4/17/2026,Aryan Nair,B.Tech CSE (DevOps),Ansible;Jenkins;Git;Linux;Nginx;FastAPI;Firebase,8.0,Software Development,Employee Management System;REST API Development;Microservices Architecture;Serverless Application,4,8
+4/17/2026,Aditya Chatterjee,B.Tech CSE (DevOps),Docker;CI/CD;GCP;GitHub Actions;Terraform;Flask;Python;Supabase;Firebase,8.9,Software Development,,0,3
+4/17/2026,Komal Saxena,B.Tech CSE (DevOps),Git;Kubernetes;Nginx;Azure;Spring Boot;MySQL;PostgreSQL,7.9,Software Development,Order Management API;Full Stack Blog App;Payment Gateway Integration;Infrastructure as Code,4,8
+4/17/2026,Priya Ghosh,B.Tech CSE (Full Stack),REST API;jQuery;Spring Boot;.NET;Cassandra;Supabase;Jira,8.4,Software Development,Job Portal;Movie Review Website;Real-time Chat App,3,3
+4/17/2026,Vikas Iyer,B.Tech CSE (Cybersecurity),C++;Rust;GitHub Actions;OWASP;Cryptography;Metasploit,8.3,Software Development,Library Management System;Load Balancer Setup,2,3
+4/17/2026,Hitesh Kapoor,B.Tech CSE (DevOps),Docker;Jenkins;GCP;Azure;AWS;Django;Laravel;DynamoDB,7.4,Software Development,Project Management Tool;Automated Testing Framework;Full Stack Blog App,3,3
+4/17/2026,Pranav Desai,B.Tech CSE (Mobile Development),Xamarin;Flutter;Swift;PHP;Kotlin;IntelliJ IDEA,8.1,Software Development,Video Streaming Platform;Collaborative Code Editor;Food Delivery App,3,8
+4/17/2026,Bhavna Nair,B.Tech CSE (Cybersecurity),JavaScript;Go;Linux;Bash;Nmap,8.0,Software Development,AWS Cloud Deployment;Password Manager,2,6
+4/17/2026,Gaurav Agarwal,B.Tech CSE (Full Stack),jQuery;JavaScript;.NET;Oracle DB;Cassandra;Jira,8.0,Software Development,REST API Development;Recipe Sharing Platform;ERP System;Order Management API,4,5
+4/17/2026,Sonam Tripathi,B.Tech CSE (Full Stack),HTML;Vue.js;TypeScript;Java;PostgreSQL;Redis;Jira,7.7,Software Development,Real-time Chat App;Event Management System;Online Quiz Platform;REST API Development,4,7
+4/17/2026,Trisha Agarwal,B.Sc Computer Science,Rust;Java;TypeScript;SQLite;Oracle DB;Figma,9.1,Software Development,,0,3
+4/17/2026,Nisha Verma,B.Tech CSE (Full Stack),Tailwind CSS;Node.js;JavaScript;Python;Cassandra;Oracle DB;REST API,8.2,Software Development,Microservices Architecture;Online Quiz Platform;Recipe Sharing Platform;E-commerce Website,4,7
+4/17/2026,Nitin Reddy,B.Tech CSE (Mobile Development),Swift;Flutter;Kotlin;Scrum;JSON,8.1,Software Development,Freelance Marketplace,1,1
+4/17/2026,Alok Kaur,B.Tech CSE (Mobile Development),Kotlin;Android;iOS;.NET;PHP;JSON,8.1,Software Development,,0,2
+4/17/2026,Mansi Parikh,B.Sc Computer Science,Kotlin;JavaScript;GraphQL;DynamoDB;MySQL;REST API;JSON,8.9,Software Development,Payment Gateway Integration;Recipe Sharing Platform,2,6
+4/17/2026,Arjun Desai,B.Tech CSE (Mobile Development),Kotlin;Swift;React Native;Go;XML;IntelliJ IDEA,7.8,Software Development,News App,1,1
+4/17/2026,Lakshmi Verma,B.Tech Information Technology,C++;Java;Swift;Angular;JavaScript;Flask;Ruby on Rails;Redis;VS Code,7.2,Software Development,Employee Management System;Movie Review Website,2,3
+4/17/2026,Sarthak Desai,B.Tech CSE (Cloud Computing),Kubernetes;GCP;Git;GitHub Actions;Python;Cassandra,7.4,Software Development,Library Management System;Video Streaming Platform;Microservices Architecture;Inventory Management System,4,7
+4/17/2026,Divya Trivedi,MCA Software Development,JavaScript;C++;C#;.NET;Redis;JSON;Jira,7.5,Software Development,Travel Booking Website;Online Booking System;Full Stack Blog App,3,8
+4/17/2026,Varun Murthy,B.Sc Computer Science,C++;Kotlin;REST API;Node.js;SQLite;Redis;VS Code;Figma,8.8,Software Development,REST API Development;Freelance Marketplace;Online Quiz Platform;Real-time Collaboration Tool,4,7
+4/17/2026,Vishal Doshi,M.Tech Software Engineering,Vue.js;TypeScript;Go;PostgreSQL;Scrum,8.4,Software Development,Library Management System;Inventory Management System;REST API Development,3,8
+4/17/2026,Arjun Verma,B.Tech CSE (Mobile Development),Android;Swift;Laravel;VS Code,8.4,Software Development,Shopping App;Full Stack Blog App,2,2
+4/17/2026,Preeti Naik,B.Sc Computer Science,C++;Java;Angular;Express.js;Cassandra;Scrum;Agile,8.2,Software Development,Bank Transaction System;Library Management System;Online Booking System,3,5
+4/17/2026,Sarthak Chauhan,B.Tech CSE (Full Stack),CSS;Express.js;React;Python;Go;PostgreSQL;MongoDB;Jira;VS Code,9.2,Software Development,Real-time Collaboration Tool;Collaborative Code Editor;CRM System;Bank Transaction System,4,8
+4/17/2026,Sahil Patil,B.Tech CSE (Cybersecurity),Rust;Java;Git;Nmap;Metasploit;Cryptography;Burp Suite,7.9,Software Development,Log Monitoring Dashboard,1,1
+4/17/2026,Sakshi Pillai,BCA Software Engineering,REST API;Next.js;jQuery;PHP;MySQL;VS Code,8.7,Software Development,Student Result System;Blog Platform,2,6

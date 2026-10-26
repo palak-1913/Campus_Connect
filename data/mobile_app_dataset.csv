@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Nathan Kapadia,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,9.04,Mobile App Developer,API Integrated Mobile App,1,4
+2026-04-17,Abha Chana,MCA,Offline Storage;Caching;SQLite,8.52,Mobile App Developer,Offline Storage App;Local Data Persistence System,2,6
+2026-04-17,Benjamin Nagar,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,7.44,Mobile App Developer,Backend-connected App;API Integrated Mobile App,2,8
+2026-04-17,Omya Kapadia,BCA,Performance Optimization;Memory Management,8.27,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,6
+2026-04-17,Faras Grewal,B.Tech Computer Science,Redux;State Management;React Native,8.4,Mobile App Developer,Cross-platform UI App,1,7
+2026-04-17,Indali Sharma,BCA,Swift;iOS;UIKit;CoreData,8.68,Mobile App Developer,iOS Shopping App;iOS Fitness Tracker;Custom UI Components;Mobile UI Design System,4,5
+2026-04-17,Ojas Hayer,B.Tech Computer Science,Mobile Security;Encryption;Secure Storage,9.11,Mobile App Developer,Secure Login System;Encrypted Mobile App,2,7
+2026-04-17,Upkaar Yadav,B.Tech Computer Science,UI Design;UX Principles;Material Design,9.42,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,4
+2026-04-17,Fiyaz Dave,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,9.35,Mobile App Developer,Realtime Chat App;Notification-based App;Push Notification System;Auth System with Firebase,4,7
+2026-04-17,Keya Kaur,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,7.38,Mobile App Developer,Realtime Chat App;Auth System with Firebase;Notification-based App;Push Notification System,4,4
+2026-04-17,Yash Ravel,B.Tech Mobile Computing,Kotlin;Android;MVVM;Firebase,8.57,Mobile App Developer,Task Manager App;Android E-commerce App;MVVM App Architecture;Realtime Chat App;Auth System with Firebase,5,8
+2026-04-17,Tara Srinivasan,MCA,Java;Android;SQLite;XML,6.78,Mobile App Developer,Offline Storage App;Local Data Persistence System;Notes App;Android E-commerce App;Task Manager App,5,4
+2026-04-17,Vivaan Sethi,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,8.01,Mobile App Developer,Expense Tracker App;Backend-connected App;Cross-platform Chat App;API Integrated Mobile App;Auth System with Firebase,5,7
+2026-04-17,Shivansh Magar,B.Tech Computer Science,Kotlin;Android;MVVM;Firebase,7.44,Mobile App Developer,Android E-commerce App;Notes App;Task Manager App;MVVM App Architecture,4,6
+2026-04-17,Vivaan Ghose,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,8.81,Mobile App Developer,Backend-connected App;Cross-platform Chat App;Auth System with Firebase;Expense Tracker App,4,5
+2026-04-17,Gautami Dada,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,6.57,Mobile App Developer,Mobile Social App;Cross-platform UI App,2,5
+2026-04-17,Udarsh Nadig,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,8.52,Mobile App Developer,Local Data Persistence System;Offline Storage App,2,4
+2026-04-17,David Venkatesh,MCA,Kotlin;Android;MVVM;Firebase,7.42,Mobile App Developer,Realtime Chat App;Android E-commerce App;Notes App;MVVM App Architecture,4,5
+2026-04-17,Tanmayi Sule,MCA,Play Store;App Store;Release Management,9.19,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Tanveer Chanda,MCA,Swift;iOS;UIKit;CoreData,6.73,Mobile App Developer,iOS Shopping App;Mobile UI Design System,2,5
+2026-04-17,Patrick Mahajan,B.Tech Mobile Computing,Mobile Security;Encryption;Secure Storage,7.18,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,4
+2026-04-17,Ati Choudhry,BCA,Swift;iOS;UIKit;CoreData,8.62,Mobile App Developer,iOS Fitness Tracker;Mobile UI Design System;iOS Shopping App,3,7
+2026-04-17,Jatin Srivastava,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,9.13,Mobile App Developer,Expense Tracker App;Backend-connected App;Realtime Chat App,3,8
+2026-04-17,Ikshita Borah,MCA,Redux;State Management;React Native,6.84,Mobile App Developer,Complex UI State System;State Management App,2,5
+2026-04-17,Vrishti Deo,MCA,CI/CD;Fastlane;App Deployment,6.89,Mobile App Developer,Mobile App Project,1,7
+2026-04-17,Fariq Varkey,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,6.68,Mobile App Developer,iOS Shopping App;Realtime Chat App;Auth System with Firebase;Custom UI Components,4,7
+2026-04-17,Charvi Wali,B.Tech Computer Science,Java;Android;SQLite;XML,9.27,Mobile App Developer,Offline Storage App;Android E-commerce App;Notes App;Task Manager App;Local Data Persistence System,5,7
+2026-04-17,Manan Jhaveri,BCA,Swift;iOS;SwiftUI;Firebase,7.07,Mobile App Developer,Custom UI Components;Mobile UI Design System;Realtime Chat App,3,8
+2026-04-17,Yashvi Sood,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,7.26,Mobile App Developer,Local Data Persistence System,1,8
+2026-04-17,Adya Raju,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,9.24,Mobile App Developer,iOS Fitness Tracker;iOS Shopping App;Custom UI Components,3,8
+2026-04-17,Priya Chauhan,B.Tech Computer Science,Mobile Security;Encryption;Secure Storage,8.05,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,7
+2026-04-17,Samarth Ganguly,MCA,Flutter;Dart;Firebase;REST API,7.79,Mobile App Developer,Realtime Chat App;Backend-connected App;Cross-platform Chat App;API Integrated Mobile App;Auth System with Firebase,5,8
+2026-04-17,Bhavika Dugal,BCA,Performance Optimization;Memory Management,9.28,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,7
+2026-04-17,Atharv Dugar,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,7.78,Mobile App Developer,Mobile UI Design System,1,5
+2026-04-17,Ekansh Dhawan,BCA,Flutter;Dart;Firebase;REST API,8.32,Mobile App Developer,Realtime Chat App;Expense Tracker App;Cross-platform Chat App,3,5
+2026-04-17,Turvi Butala,MCA,UI Design;UX Principles;Material Design,8.96,Mobile App Developer,,0,8
+2026-04-17,Praneel Mishra,MCA,Play Store;App Store;Release Management,8.58,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Priya Kata,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,7.8,Mobile App Developer,Mobile Social App;Complex UI State System;State Management App;Cross-platform UI App,4,5
+2026-04-17,Mekhala Manne,BCA,Redux;State Management;React Native,8.9,Mobile App Developer,Complex UI State System;State Management App,2,6
+2026-04-17,Noah Jayaraman,B.Tech Mobile Computing,Bloc;Provider;Flutter State Management,8.21,Mobile App Developer,Cross-platform Chat App;Expense Tracker App;E-commerce Mobile App,3,7
+2026-04-17,Osha Karan,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,7.86,Mobile App Developer,State Management App;Mobile Social App,2,7
+2026-04-17,Suhani Baral,BCA,Swift;iOS;SwiftUI;Firebase,6.52,Mobile App Developer,iOS Shopping App;Mobile UI Design System,2,7
+2026-04-17,Jairaj Gulati,B.Tech Computer Science,Responsive UI;Animations;User Experience,7.13,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,6
+2026-04-17,Kabir Mand,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,7.5,Mobile App Developer,,0,7
+2026-04-17,Jagrati Devi,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,7.92,Mobile App Developer,Local Data Persistence System;Offline Storage App,2,4
+2026-04-17,Adweta Tailor,MCA,Java;Android;SQLite;XML,6.89,Mobile App Developer,Offline Storage App,1,8
+2026-04-17,Triveni Bhardwaj,MCA,Swift;iOS;UIKit;CoreData,9.5,Mobile App Developer,Custom UI Components;Mobile UI Design System;iOS Shopping App;iOS Fitness Tracker,4,4
+2026-04-17,Upasna Malhotra,B.Tech Computer Science,Java;Android;SQLite;XML,9.31,Mobile App Developer,Offline Storage App;Notes App;Local Data Persistence System;Task Manager App;Android E-commerce App,5,5
+2026-04-17,Odika Sachar,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,7.5,Mobile App Developer,,0,8
+2026-04-17,Aishani Dhingra,MCA,Swift;iOS;SwiftUI;Firebase,9.05,Mobile App Developer,,0,4
+2026-04-17,Maya Mangat,BCA,Bloc;Provider;Flutter State Management,6.64,Mobile App Developer,E-commerce Mobile App;Cross-platform Chat App;Expense Tracker App,3,8
+2026-04-17,Laksh Char,B.Tech Mobile Computing,Responsive UI;Animations;User Experience,8.14,Mobile App Developer,,0,6
+2026-04-17,Hemal Biswas,MCA,Kotlin;Android;MVVM;Firebase,6.76,Mobile App Developer,Auth System with Firebase,1,4
+2026-04-17,Radhika Merchant,B.Tech Mobile Computing,Swift;iOS;UIKit;CoreData,7.42,Mobile App Developer,Custom UI Components;iOS Fitness Tracker,2,8
+2026-04-17,Indali Palla,MCA,Mobile APIs;REST API;JSON;Authentication,8.64,Mobile App Developer,,0,5
+2026-04-17,Sudiksha Shan,BCA,Mobile Security;Encryption;Secure Storage,8.33,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,8
+2026-04-17,Ishwar Banerjee,B.Tech Mobile Computing,Mobile Security;Encryption;Secure Storage,7.95,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,7
+2026-04-17,Devika Doctor,B.Tech Mobile Computing,Responsive UI;Animations;User Experience,7.36,Mobile App Developer,,0,7
+2026-04-17,Sarthak Thakkar,B.Tech Mobile Computing,Bloc;Provider;Flutter State Management,6.53,Mobile App Developer,,0,8
+2026-04-17,Lavanya Apte,B.Tech Computer Science,Bloc;Provider;Flutter State Management,9.19,Mobile App Developer,Cross-platform Chat App;Expense Tracker App;E-commerce Mobile App,3,5
+2026-04-17,Girish Baria,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,7.17,Mobile App Developer,Mobile Social App;Complex UI State System,2,8
+2026-04-17,Zashil Mohanty,B.Tech Mobile Computing,Mobile Security;Encryption;Secure Storage,8.72,Mobile App Developer,,0,5
+2026-04-17,Falguni Walla,BCA,UI Design;UX Principles;Material Design,6.95,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,8
+2026-04-17,Ladli Bora,MCA,React Native;JavaScript;Redux;API Integration,7.21,Mobile App Developer,Cross-platform UI App,1,5
+2026-04-17,Jasmit Dugar,MCA,Mobile APIs;REST API;JSON;Authentication,8.47,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,4
+2026-04-17,Ojasvi Mane,BCA,Swift;iOS;UIKit;CoreData,9.26,Mobile App Developer,Custom UI Components;iOS Fitness Tracker;iOS Shopping App,3,5
+2026-04-17,Raghav Suri,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,6.92,Mobile App Developer,Push Notification System;Realtime Chat App,2,4
+2026-04-17,Charles Dass,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,7.72,Mobile App Developer,Push Notification System;Auth System with Firebase;Notification-based App;Realtime Chat App,4,5
+2026-04-17,Darpan Chakrabarti,BCA,CI/CD;Fastlane;App Deployment,8.38,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Anvi Kadakia,MCA,Kotlin;Android;MVVM;Firebase,7.64,Mobile App Developer,Auth System with Firebase;Realtime Chat App,2,8
+2026-04-17,Umang Sengupta,BCA,Responsive UI;Animations;User Experience,9.49,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,7
+2026-04-17,Bhavya Sidhu,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,8.73,Mobile App Developer,Offline Storage App;Local Data Persistence System,2,4
+2026-04-17,Ishwar Rastogi,BCA,UI Design;UX Principles;Material Design,6.8,Mobile App Developer,,0,4
+2026-04-17,Rudra Tank,B.Tech Computer Science,Java;Android;SQLite;XML,6.73,Mobile App Developer,Notes App;Android E-commerce App;Local Data Persistence System,3,4
+2026-04-17,Sathvik Khalsa,BCA,Kotlin;Android;MVVM;Firebase,7.79,Mobile App Developer,MVVM App Architecture;Modern Android App,2,4
+2026-04-17,Baljiwan Kanda,B.Tech Computer Science,Kotlin;Android;MVVM;Firebase,6.75,Mobile App Developer,Auth System with Firebase;Android E-commerce App;Modern Android App;Notes App;Realtime Chat App,5,8
+2026-04-17,Onveer Soni,MCA,Bloc;Provider;Flutter State Management,9.45,Mobile App Developer,Cross-platform Chat App;Expense Tracker App;E-commerce Mobile App,3,8
+2026-04-17,Michael Nayar,B.Tech Computer Science,Responsive UI;Animations;User Experience,7.78,Mobile App Developer,,0,5
+2026-04-17,Divya Edwin,MCA,Kotlin;Android;MVVM;Firebase,9.46,Mobile App Developer,Modern Android App;Auth System with Firebase;Task Manager App;MVVM App Architecture;Notes App,5,4
+2026-04-17,Aachal Murthy,B.Tech Computer Science,Play Store;App Store;Release Management,7.02,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Logan Dora,B.Tech Computer Science,Swift;iOS;UIKit;CoreData,7.44,Mobile App Developer,iOS Fitness Tracker,1,8
+2026-04-17,Lavanya Zacharia,MCA,Kotlin;Android;MVVM;Firebase,8.39,Mobile App Developer,Notes App;Task Manager App;Realtime Chat App,3,4
+2026-04-17,Saumya Narang,B.Tech Mobile Computing,React Native;JavaScript;Redux;API Integration,8.66,Mobile App Developer,,0,4
+2026-04-17,Mahika Badal,MCA,Mobile APIs;REST API;JSON;Authentication,7.91,Mobile App Developer,,0,8
+2026-04-17,Fariq Bhatt,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,7.46,Mobile App Developer,,0,7
+2026-04-17,Yuvraj Sathe,MCA,Java;Android;SQLite;XML,8.8,Mobile App Developer,Task Manager App;Local Data Persistence System,2,4
+2026-04-17,Vedika Rau,B.Tech Computer Science,Mobile Security;Encryption;Secure Storage,8.54,Mobile App Developer,Secure Login System;Encrypted Mobile App,2,6
+2026-04-17,Nilima Mukherjee,BCA,Java;Android;SQLite;XML,8.85,Mobile App Developer,Task Manager App;Notes App;Offline Storage App;Local Data Persistence System,4,5
+2026-04-17,Charita Wagle,MCA,Java;Android;SQLite;XML,8.95,Mobile App Developer,Notes App;Offline Storage App;Task Manager App,3,4
+2026-04-17,Ranbir Bora,MCA,Kotlin;Android;MVVM;Firebase,7.63,Mobile App Developer,Notes App,1,7
+2026-04-17,Damini Datta,MCA,Play Store;App Store;Release Management,8.01,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Bahadurjit Taneja,MCA,UI Design;UX Principles;Material Design,8.01,Mobile App Developer,,0,4
+2026-04-17,Michael Pall,B.Tech Mobile Computing,Kotlin;Android;MVVM;Firebase,8.96,Mobile App Developer,Modern Android App,1,4
+2026-04-17,Caleb Malhotra,MCA,CI/CD;Fastlane;App Deployment,6.62,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Nathaniel Pall,MCA,Performance Optimization;Memory Management,8.94,Mobile App Developer,,0,7
+2026-04-17,Raagini Srivastava,MCA,Mobile Security;Encryption;Secure Storage,8.56,Mobile App Developer,Encrypted Mobile App,1,8
+2026-04-17,Chakradhar Sastry,BCA,Redux;State Management;React Native,9.14,Mobile App Developer,,0,7
+2026-04-17,Bahadurjit Sathe,B.Tech Mobile Computing,React Native;JavaScript;Redux;API Integration,9.33,Mobile App Developer,Cross-platform UI App;Complex UI State System;Mobile Social App,3,8
+2026-04-17,Shravya Madan,BCA,Java;Android;SQLite;XML,7.31,Mobile App Developer,Offline Storage App,1,8
+2026-04-17,Lavanya Pandit,MCA,Push Notifications;Firebase;Cloud Messaging,8.0,Mobile App Developer,Realtime Chat App;Notification-based App;Auth System with Firebase;Push Notification System,4,6
+2026-04-17,Charvi Oommen,MCA,React Native;JavaScript;Redux;API Integration,9.27,Mobile App Developer,Complex UI State System;Cross-platform UI App;State Management App,3,7
+2026-04-17,Liam Puri,MCA,Kotlin;Android;MVVM;Firebase,8.14,Mobile App Developer,Realtime Chat App;Auth System with Firebase;Android E-commerce App;Modern Android App;Task Manager App,5,6
+2026-04-17,Qarin Kapadia,B.Tech Mobile Computing,Redux;State Management;React Native,8.25,Mobile App Developer,Complex UI State System;Cross-platform UI App;Mobile Social App;State Management App,4,8
+2026-04-17,Bachittar Ahluwalia,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,8.68,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,7
+2026-04-17,Jason Bedi,MCA,UI Design;UX Principles;Material Design,7.87,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,4
+2026-04-17,Isha Swaminathan,MCA,UI Design;UX Principles;Material Design,7.95,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,5
+2026-04-17,Kritika Narang,BCA,Kotlin;Android;MVVM;Firebase,8.37,Mobile App Developer,,0,4
+2026-04-17,Ishwar Gaba,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,8.93,Mobile App Developer,State Management App;Mobile Social App;Complex UI State System,3,4
+2026-04-17,Hemang Saxena,MCA,Play Store;App Store;Release Management,6.7,Mobile App Developer,Mobile App Project,1,6
+2026-04-17,Baljiwan Gala,BCA,Redux;State Management;React Native,6.61,Mobile App Developer,Cross-platform UI App;Complex UI State System;State Management App;Mobile Social App,4,7
+2026-04-17,Damini Sarma,MCA,Kotlin;Android;MVVM;Firebase,7.92,Mobile App Developer,Realtime Chat App;Android E-commerce App;Task Manager App,3,8
+2026-04-17,Raagini Raj,B.Tech Mobile Computing,Play Store;App Store;Release Management,7.63,Mobile App Developer,,0,4
+2026-04-17,Raagini Mand,MCA,Play Store;App Store;Release Management,7.73,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Laksh Singh,B.Tech Computer Science,UI Design;UX Principles;Material Design,8.64,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,5
+2026-04-17,Ishaan Gera,B.Tech Computer Science,Play Store;App Store;Release Management,9.18,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Chandani Narasimhan,B.Tech Mobile Computing,Kotlin;Android;MVVM;Firebase,8.77,Mobile App Developer,Modern Android App;Task Manager App;Auth System with Firebase,3,7
+2026-04-17,Nikita Saxena,MCA,Kotlin;Android;MVVM;Firebase,6.54,Mobile App Developer,Modern Android App,1,5
+2026-04-17,Jacob Mohan,BCA,Swift;iOS;UIKit;CoreData,8.91,Mobile App Developer,iOS Fitness Tracker;Custom UI Components,2,5
+2026-04-17,Daniel Nadig,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,7.24,Mobile App Developer,Notification-based App;Realtime Chat App;Auth System with Firebase;Push Notification System,4,8
+2026-04-17,Nitara Bhatia,MCA,CI/CD;Fastlane;App Deployment,8.87,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Gagan Sastry,MCA,Kotlin;Android;MVVM;Firebase,8.46,Mobile App Developer,Android E-commerce App;Realtime Chat App;Task Manager App;Modern Android App;Auth System with Firebase,5,6
+2026-04-17,Daksh Badami,BCA,Java;Android;SQLite;XML,6.9,Mobile App Developer,Local Data Persistence System,1,7
+2026-04-17,Thomas Singh,BCA,Performance Optimization;Memory Management,7.02,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,7
+2026-04-17,Sanya Kapadia,MCA,Swift;iOS;SwiftUI;Firebase,8.17,Mobile App Developer,Realtime Chat App;Mobile UI Design System;Custom UI Components;iOS Fitness Tracker,4,7
+2026-04-17,Warinder Kumer,MCA,Flutter;Dart;Firebase;REST API,7.37,Mobile App Developer,Auth System with Firebase;Expense Tracker App;E-commerce Mobile App;Realtime Chat App,4,5
+2026-04-17,Vamakshi Basak,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,8.96,Mobile App Developer,Custom UI Components;iOS Shopping App;Auth System with Firebase;iOS Fitness Tracker,4,4
+2026-04-17,Ishanvi Sarkar,B.Tech Mobile Computing,Mobile APIs;REST API;JSON;Authentication,6.79,Mobile App Developer,Backend-connected App;API Integrated Mobile App,2,8
+2026-04-17,Zilmil Mander,B.Tech Computer Science,Redux;State Management;React Native,7.74,Mobile App Developer,State Management App;Mobile Social App;Cross-platform UI App;Complex UI State System,4,6
+2026-04-17,Daniel Bose,BCA,Offline Storage;Caching;SQLite,7.11,Mobile App Developer,Local Data Persistence System;Offline Storage App,2,8
+2026-04-17,Qarin Sibal,B.Tech Mobile Computing,Java;Android;SQLite;XML,8.42,Mobile App Developer,,0,7
+2026-04-17,Qadim Dutt,BCA,Mobile APIs;REST API;JSON;Authentication,8.5,Mobile App Developer,,0,8
+2026-04-17,Yahvi Sem,BCA,Performance Optimization;Memory Management,8.73,Mobile App Developer,,0,6
+2026-04-17,Pranav Hora,BCA,Kotlin;Android;MVVM;Firebase,7.06,Mobile App Developer,Notes App;Android E-commerce App,2,7
+2026-04-17,Yash Sarma,MCA,React Native;JavaScript;Redux;API Integration,9.2,Mobile App Developer,Complex UI State System;State Management App,2,8
+2026-04-17,Nilima Khosla,BCA,Kotlin;Android;MVVM;Firebase,9.34,Mobile App Developer,MVVM App Architecture;Notes App;Android E-commerce App,3,7
+2026-04-17,Maanas Padmanabhan,B.Tech Computer Science,Bloc;Provider;Flutter State Management,7.29,Mobile App Developer,Expense Tracker App;E-commerce Mobile App;Cross-platform Chat App,3,8
+2026-04-17,Krish Dash,B.Tech Computer Science,Bloc;Provider;Flutter State Management,8.71,Mobile App Developer,,0,7
+2026-04-17,Krish Chad,MCA,Push Notifications;Firebase;Cloud Messaging,8.33,Mobile App Developer,,0,7
+2026-04-17,Sudiksha Menon,MCA,Bloc;Provider;Flutter State Management,6.66,Mobile App Developer,E-commerce Mobile App;Cross-platform Chat App;Expense Tracker App,3,8
+2026-04-17,Fariq Bhatt,B.Tech Mobile Computing,Responsive UI;Animations;User Experience,7.76,Mobile App Developer,Custom UI Components,1,6
+2026-04-17,Umang Nath,MCA,UI Design;UX Principles;Material Design,8.93,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,8
+2026-04-17,Yashasvi Sodhi,B.Tech Computer Science,Redux;State Management;React Native,8.54,Mobile App Developer,Cross-platform UI App;Mobile Social App;State Management App;Complex UI State System,4,5
+2026-04-17,Oeshi Chada,BCA,Flutter;Dart;Firebase;REST API,7.05,Mobile App Developer,API Integrated Mobile App,1,5
+2026-04-17,Girik Wali,MCA,Mobile Security;Encryption;Secure Storage,8.63,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,8
+2026-04-17,Patrick Ranganathan,BCA,Push Notifications;Firebase;Cloud Messaging,9.46,Mobile App Developer,,0,4
+2026-04-17,Abeer Talwar,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,7.47,Mobile App Developer,Custom UI Components,1,8
+2026-04-17,Rachana Bhat,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,8.22,Mobile App Developer,Realtime Chat App;Auth System with Firebase;Push Notification System,3,8
+2026-04-17,Peter Doctor,MCA,CI/CD;Fastlane;App Deployment,8.01,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Benjamin Dalal,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,6.9,Mobile App Developer,Auth System with Firebase,1,5
+2026-04-17,Chandresh Ganguly,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,8.81,Mobile App Developer,Expense Tracker App;Realtime Chat App,2,6
+2026-04-17,Mason Bakshi,BCA,Offline Storage;Caching;SQLite,8.67,Mobile App Developer,,0,7
+2026-04-17,Wridesh Kapur,MCA,Mobile Security;Encryption;Secure Storage,9.41,Mobile App Developer,Encrypted Mobile App,1,7
+2026-04-17,Jalsa Agarwal,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,8.7,Mobile App Developer,Push Notification System;Realtime Chat App;Notification-based App;Auth System with Firebase,4,8
+2026-04-17,Zehaan Ganguly,BCA,Play Store;App Store;Release Management,8.06,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Sanaya Dalal,BCA,Redux;State Management;React Native,7.44,Mobile App Developer,Mobile Social App;State Management App;Complex UI State System,3,4
+2026-04-17,Sanya Kant,MCA,Kotlin;Android;MVVM;Firebase,8.34,Mobile App Developer,Modern Android App;MVVM App Architecture,2,6
+2026-04-17,Lopa Kaur,MCA,Performance Optimization;Memory Management,7.69,Mobile App Developer,Low-latency App System;Optimized Mobile App,2,6
+2026-04-17,Andrew Majumdar,MCA,Play Store;App Store;Release Management,7.57,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Tamanna Hayre,BCA,React Native;JavaScript;Redux;API Integration,6.78,Mobile App Developer,State Management App;Complex UI State System;Mobile Social App,3,8
+2026-04-17,Alka Raju,MCA,React Native;JavaScript;Redux;API Integration,7.53,Mobile App Developer,Complex UI State System,1,4
+2026-04-17,Madhavi Goda,BCA,Responsive UI;Animations;User Experience,7.77,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,7
+2026-04-17,Divya Rau,B.Tech Computer Science,Swift;iOS;UIKit;CoreData,9.25,Mobile App Developer,Custom UI Components;iOS Fitness Tracker;iOS Shopping App;Mobile UI Design System,4,7
+2026-04-17,Champak Choudhary,BCA,Java;Android;SQLite;XML,8.43,Mobile App Developer,Offline Storage App,1,4
+2026-04-17,Umang Murty,B.Tech Mobile Computing,React Native;JavaScript;Redux;API Integration,8.62,Mobile App Developer,Cross-platform UI App;Complex UI State System;Mobile Social App;State Management App,4,5
+2026-04-17,Parth Mutti,B.Tech Computer Science,Performance Optimization;Memory Management,6.86,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,5
+2026-04-17,Madhavi Muni,BCA,Redux;State Management;React Native,7.7,Mobile App Developer,Complex UI State System;Mobile Social App,2,7
+2026-04-17,Anthony Warrior,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,6.85,Mobile App Developer,Realtime Chat App;Auth System with Firebase;Notification-based App;Push Notification System,4,8
+2026-04-17,Ucchal Murthy,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,9.29,Mobile App Developer,Auth System with Firebase;iOS Shopping App,2,6
+2026-04-17,Faraj Suri,MCA,Java;Android;SQLite;XML,9.3,Mobile App Developer,,0,8
+2026-04-17,Tanish Choudhury,B.Tech Mobile Computing,Redux;State Management;React Native,9.17,Mobile App Developer,,0,5
+2026-04-17,Liam Vora,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,6.69,Mobile App Developer,Push Notification System;Realtime Chat App;Notification-based App,3,4
+2026-04-17,Yashvi Dara,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,9.07,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,7
+2026-04-17,Charvi Purohit,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,7.14,Mobile App Developer,API Integrated Mobile App,1,5
+2026-04-17,Chandresh Rege,MCA,Bloc;Provider;Flutter State Management,8.66,Mobile App Developer,,0,8
+2026-04-17,Yoshita Mani,B.Tech Computer Science,Java;Android;SQLite;XML,9.46,Mobile App Developer,Android E-commerce App;Offline Storage App;Task Manager App;Notes App;Local Data Persistence System,5,8
+2026-04-17,Omaja Mahal,B.Tech Mobile Computing,CI/CD;Fastlane;App Deployment,8.13,Mobile App Developer,Mobile App Project,1,7
+2026-04-17,Indira Agate,MCA,Performance Optimization;Memory Management,8.33,Mobile App Developer,Low-latency App System,1,8
+2026-04-17,Abhimanyu Bajaj,MCA,Offline Storage;Caching;SQLite,7.5,Mobile App Developer,Local Data Persistence System;Offline Storage App,2,8
+2026-04-17,Ijaya Doctor,MCA,Mobile APIs;REST API;JSON;Authentication,7.88,Mobile App Developer,API Integrated Mobile App,1,7
+2026-04-17,Wahab Gupta,B.Tech Mobile Computing,React Native;JavaScript;Redux;API Integration,7.45,Mobile App Developer,Mobile Social App,1,6
+2026-04-17,Parth Sekhon,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,8.45,Mobile App Developer,Custom UI Components;iOS Fitness Tracker;iOS Shopping App;Mobile UI Design System,4,6
+2026-04-17,George Tank,MCA,Offline Storage;Caching;SQLite,9.0,Mobile App Developer,,0,4
+2026-04-17,Chakradev Bhatnagar,B.Tech Mobile Computing,Performance Optimization;Memory Management,8.9,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,8
+2026-04-17,Arin Grewal,MCA,Kotlin;Android;MVVM;Firebase,9.32,Mobile App Developer,MVVM App Architecture;Auth System with Firebase;Realtime Chat App;Notes App;Modern Android App,5,5
+2026-04-17,Chatura Vyas,B.Tech Computer Science,Performance Optimization;Memory Management,6.52,Mobile App Developer,,0,4
+2026-04-17,Netra Kade,B.Tech Computer Science,Play Store;App Store;Release Management,8.42,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Balveer Jaggi,B.Tech Mobile Computing,Bloc;Provider;Flutter State Management,8.78,Mobile App Developer,Expense Tracker App;E-commerce Mobile App,2,6
+2026-04-17,Siddharth Subramaniam,MCA,Push Notifications;Firebase;Cloud Messaging,8.07,Mobile App Developer,Push Notification System;Realtime Chat App;Notification-based App;Auth System with Firebase,4,5
+2026-04-17,Upasna Bhattacharyya,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,7.12,Mobile App Developer,,0,7
+2026-04-17,Dalbir Arora,BCA,Push Notifications;Firebase;Cloud Messaging,8.85,Mobile App Developer,,0,4
+2026-04-17,Abhimanyu Tella,MCA,Java;Android;SQLite;XML,8.39,Mobile App Developer,Local Data Persistence System;Android E-commerce App;Notes App,3,5
+2026-04-17,Madhav Chhabra,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,7.56,Mobile App Developer,Notification-based App;Auth System with Firebase;Push Notification System;Realtime Chat App,4,8
+2026-04-17,Chanakya Mandal,MCA,Kotlin;Android;MVVM;Firebase,6.71,Mobile App Developer,Task Manager App;MVVM App Architecture;Modern Android App;Notes App,4,7
+2026-04-17,Rajata Murty,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,7.2,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Rachita Loke,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,7.23,Mobile App Developer,Local Data Persistence System,1,8
+2026-04-17,Qushi Sarin,B.Tech Mobile Computing,Java;Android;SQLite;XML,9.38,Mobile App Developer,Android E-commerce App,1,7
+2026-04-17,Hiral Manne,B.Tech Mobile Computing,Redux;State Management;React Native,8.62,Mobile App Developer,Mobile Social App;Cross-platform UI App,2,7
+2026-04-17,Ayushman Kar,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,6.95,Mobile App Developer,iOS Fitness Tracker;Auth System with Firebase;Mobile UI Design System;Custom UI Components,4,8
+2026-04-17,Rachita Varma,MCA,Performance Optimization;Memory Management,8.68,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,4
+2026-04-17,Gavin Parsa,B.Tech Mobile Computing,Play Store;App Store;Release Management,6.51,Mobile App Developer,Mobile App Project,1,7
+2026-04-17,Zayan Panchal,B.Tech Computer Science,Redux;State Management;React Native,9.15,Mobile App Developer,State Management App,1,7
+2026-04-17,Janaki Minhas,B.Tech Mobile Computing,Mobile APIs;REST API;JSON;Authentication,7.12,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,5
+2026-04-17,Henry Gandhi,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,7.68,Mobile App Developer,Notification-based App;Realtime Chat App;Auth System with Firebase;Push Notification System,4,5
+2026-04-17,Vaishnavi Parikh,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,7.37,Mobile App Developer,,0,5
+2026-04-17,Arjun Mann,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,7.58,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,7
+2026-04-17,Ekiya Bandi,BCA,React Native;JavaScript;Redux;API Integration,7.63,Mobile App Developer,Cross-platform UI App,1,5
+2026-04-17,Simon Ghose,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,6.8,Mobile App Developer,Realtime Chat App,1,7
+2026-04-17,Kala Oza,BCA,UI Design;UX Principles;Material Design,7.89,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,6
+2026-04-17,Eesha Dutta,B.Tech Mobile Computing,Swift;iOS;UIKit;CoreData,8.64,Mobile App Developer,Mobile UI Design System;iOS Fitness Tracker;iOS Shopping App;Custom UI Components,4,6
+2026-04-17,Ojasvi Bhatia,B.Tech Computer Science,Responsive UI;Animations;User Experience,7.31,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,4
+2026-04-17,Rushil Lata,B.Tech Mobile Computing,Performance Optimization;Memory Management,8.78,Mobile App Developer,Low-latency App System;Optimized Mobile App,2,5
+2026-04-17,Pranit Mohan,B.Tech Computer Science,Responsive UI;Animations;User Experience,6.96,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,7
+2026-04-17,Upma Varkey,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,9.48,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Krishna Gour,MCA,Swift;iOS;UIKit;CoreData,7.85,Mobile App Developer,iOS Fitness Tracker;Mobile UI Design System;iOS Shopping App;Custom UI Components,4,6
+2026-04-17,Aarush Prabhakar,MCA,Push Notifications;Firebase;Cloud Messaging,7.33,Mobile App Developer,Auth System with Firebase,1,6
+2026-04-17,Zilmil Batta,MCA,UI Design;UX Principles;Material Design,9.45,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,6
+2026-04-17,Eesha Bahl,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,7.6,Mobile App Developer,API Integrated Mobile App;Realtime Chat App;Backend-connected App;Expense Tracker App,4,5
+2026-04-17,Nitara Trivedi,MCA,Play Store;App Store;Release Management,7.23,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Laban Tella,MCA,Swift;iOS;SwiftUI;Firebase,8.58,Mobile App Developer,,0,5
+2026-04-17,Brijesh Bail,BCA,Mobile APIs;REST API;JSON;Authentication,6.86,Mobile App Developer,API Integrated Mobile App;Backend-connected App,2,6
+2026-04-17,Chavvi Tak,MCA,Kotlin;Android;MVVM;Firebase,9.11,Mobile App Developer,Realtime Chat App;Auth System with Firebase,2,5
+2026-04-17,Kiaan Sule,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,6.78,Mobile App Developer,Realtime Chat App,1,7
+2026-04-17,Vidhi Venkataraman,B.Tech Mobile Computing,Redux;State Management;React Native,8.13,Mobile App Developer,Complex UI State System;State Management App;Cross-platform UI App;Mobile Social App,4,7
+2026-04-17,Vamakshi Tiwari,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,7.68,Mobile App Developer,Mobile App Project,1,7
+2026-04-17,Gabriel Gole,B.Tech Computer Science,Responsive UI;Animations;User Experience,8.84,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,7
+2026-04-17,Yashoda Badal,B.Tech Mobile Computing,Play Store;App Store;Release Management,9.33,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Ekapad Kurian,B.Tech Computer Science,Kotlin;Android;MVVM;Firebase,6.74,Mobile App Developer,Notes App;Android E-commerce App;Auth System with Firebase;Realtime Chat App;MVVM App Architecture,5,4
+2026-04-17,Vedhika Sura,B.Tech Computer Science,Java;Android;SQLite;XML,7.69,Mobile App Developer,Task Manager App,1,5
+2026-04-17,Krishna Mani,B.Tech Computer Science,Performance Optimization;Memory Management,7.08,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,8
+2026-04-17,Oscar Subramanian,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,7.37,Mobile App Developer,Auth System with Firebase;iOS Shopping App;Realtime Chat App;iOS Fitness Tracker,4,4
+2026-04-17,Ekani Pandit,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,7.39,Mobile App Developer,Complex UI State System;Mobile Social App,2,4
+2026-04-17,Bhavika Lall,BCA,Kotlin;Android;MVVM;Firebase,9.3,Mobile App Developer,Android E-commerce App;Realtime Chat App;Modern Android App;Notes App,4,4
+2026-04-17,Hemal Lal,MCA,Bloc;Provider;Flutter State Management,8.39,Mobile App Developer,Cross-platform Chat App,1,6
+2026-04-17,Ronith Cherian,B.Tech Mobile Computing,Performance Optimization;Memory Management,6.72,Mobile App Developer,Optimized Mobile App,1,8
+2026-04-17,Liam Bahri,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,6.68,Mobile App Developer,Realtime Chat App;API Integrated Mobile App,2,7
+2026-04-17,Lipika Hans,B.Tech Computer Science,Offline Storage;Caching;SQLite,6.85,Mobile App Developer,Offline Storage App;Local Data Persistence System,2,6
+2026-04-17,Dayita Ranganathan,B.Tech Computer Science,Bloc;Provider;Flutter State Management,6.65,Mobile App Developer,Expense Tracker App,1,7
+2026-04-17,Balhaar Dora,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,8.82,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Ridhi Morar,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,7.87,Mobile App Developer,E-commerce Mobile App;Cross-platform Chat App;Realtime Chat App,3,8
+2026-04-17,Triya Dey,B.Tech Computer Science,Performance Optimization;Memory Management,6.89,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,8
+2026-04-17,Eesha Sankaran,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,9.07,Mobile App Developer,iOS Shopping App;Mobile UI Design System;Realtime Chat App;iOS Fitness Tracker;Auth System with Firebase,5,6
+2026-04-17,Chandresh Chakrabarti,MCA,Mobile APIs;REST API;JSON;Authentication,6.66,Mobile App Developer,Backend-connected App;API Integrated Mobile App,2,8
+2026-04-17,Aarav Varughese,B.Tech Mobile Computing,Play Store;App Store;Release Management,7.16,Mobile App Developer,,0,7
+2026-04-17,Hitesh Merchant,B.Tech Computer Science,Push Notifications;Firebase;Cloud Messaging,7.37,Mobile App Developer,Notification-based App;Realtime Chat App;Push Notification System,3,4
+2026-04-17,Meera Dey,MCA,Redux;State Management;React Native,6.73,Mobile App Developer,State Management App;Mobile Social App;Cross-platform UI App,3,5
+2026-04-17,Yashica Dutta,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,8.89,Mobile App Developer,Mobile UI Design System,1,4
+2026-04-17,Zayan Mangal,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,8.93,Mobile App Developer,iOS Fitness Tracker;Auth System with Firebase;Custom UI Components,3,5
+2026-04-17,Kashvi Choudhry,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,9.23,Mobile App Developer,,0,7
+2026-04-17,Jeet Oza,BCA,Responsive UI;Animations;User Experience,6.5,Mobile App Developer,,0,4
+2026-04-17,Jairaj Sridhar,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,8.35,Mobile App Developer,Mobile App Project,1,7
+2026-04-17,Rishi Sethi,B.Tech Mobile Computing,Mobile APIs;REST API;JSON;Authentication,7.12,Mobile App Developer,Backend-connected App;API Integrated Mobile App,2,7
+2026-04-17,Qasim Shetty,B.Tech Mobile Computing,Play Store;App Store;Release Management,7.95,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Niharika Sodhi,B.Tech Computer Science,Mobile APIs;REST API;JSON;Authentication,8.56,Mobile App Developer,API Integrated Mobile App,1,5
+2026-04-17,Inaya Lal,BCA,React Native;JavaScript;Redux;API Integration,8.54,Mobile App Developer,,0,4
+2026-04-17,Vinaya Kashyap,B.Tech Mobile Computing,Offline Storage;Caching;SQLite,8.5,Mobile App Developer,Offline Storage App,1,6
+2026-04-17,Faris Sharaf,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,9.05,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Pahal Chaudhuri,B.Tech Computer Science,Redux;State Management;React Native,8.74,Mobile App Developer,,0,4
+2026-04-17,Sanaya Om,MCA,Play Store;App Store;Release Management,6.56,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Sathvik Peri,B.Tech Mobile Computing,Java;Android;SQLite;XML,8.08,Mobile App Developer,Offline Storage App;Local Data Persistence System,2,4
+2026-04-17,Nathaniel Bose,B.Tech Computer Science,Kotlin;Android;MVVM;Firebase,7.81,Mobile App Developer,MVVM App Architecture;Modern Android App,2,4
+2026-04-17,Jai Mall,MCA,Swift;iOS;SwiftUI;Firebase,6.85,Mobile App Developer,,0,4
+2026-04-17,Lohit Khare,MCA,Mobile Security;Encryption;Secure Storage,7.84,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,6
+2026-04-17,Nathaniel Mitra,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,7.45,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,4
+2026-04-17,Arunima Bajwa,MCA,React Native;JavaScript;Redux;API Integration,7.25,Mobile App Developer,Mobile Social App;Complex UI State System;State Management App,3,6
+2026-04-17,Ansh Natt,MCA,Swift;iOS;UIKit;CoreData,7.59,Mobile App Developer,iOS Fitness Tracker;Mobile UI Design System;Custom UI Components;iOS Shopping App,4,6
+2026-04-17,Radha Mangal,MCA,Performance Optimization;Memory Management,9.14,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,5
+2026-04-17,Amol Ben,BCA,React Native;JavaScript;Redux;API Integration,9.07,Mobile App Developer,Cross-platform UI App;Complex UI State System;Mobile Social App;State Management App,4,7
+2026-04-17,Hredhaan Dhar,MCA,Java;Android;SQLite;XML,9.11,Mobile App Developer,Offline Storage App;Notes App,2,5
+2026-04-17,Lila Mani,MCA,Play Store;App Store;Release Management,8.79,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Inaya Kunda,B.Tech Computer Science,Offline Storage;Caching;SQLite,6.82,Mobile App Developer,,0,7
+2026-04-17,Jeevika Kota,MCA,UI Design;UX Principles;Material Design,6.95,Mobile App Developer,,0,6
+2026-04-17,Darsh Gara,B.Tech Mobile Computing,Redux;State Management;React Native,8.51,Mobile App Developer,,0,5
+2026-04-17,Ikshita Vala,BCA,Swift;iOS;SwiftUI;Firebase,7.81,Mobile App Developer,Custom UI Components;Mobile UI Design System;iOS Shopping App;iOS Fitness Tracker,4,4
+2026-04-17,Warda Chahal,BCA,Bloc;Provider;Flutter State Management,9.31,Mobile App Developer,Cross-platform Chat App;Expense Tracker App;E-commerce Mobile App,3,8
+2026-04-17,Abhiram Bora,B.Tech Computer Science,Swift;iOS;UIKit;CoreData,8.06,Mobile App Developer,iOS Shopping App;Custom UI Components;iOS Fitness Tracker;Mobile UI Design System,4,6
+2026-04-17,Eshana Tripathi,BCA,Push Notifications;Firebase;Cloud Messaging,9.37,Mobile App Developer,Auth System with Firebase;Notification-based App;Realtime Chat App;Push Notification System,4,8
+2026-04-17,Liam Naidu,MCA,Mobile Security;Encryption;Secure Storage,6.9,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,6
+2026-04-17,Falak Sidhu,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,8.23,Mobile App Developer,Expense Tracker App;API Integrated Mobile App,2,7
+2026-04-17,Neel Sant,MCA,Java;Android;SQLite;XML,7.85,Mobile App Developer,Notes App,1,6
+2026-04-17,Tarak Soman,MCA,CI/CD;Fastlane;App Deployment,7.2,Mobile App Developer,,0,4
+2026-04-17,Indali Chaudhry,B.Tech Mobile Computing,React Native;JavaScript;Redux;API Integration,7.61,Mobile App Developer,Mobile Social App;Cross-platform UI App;State Management App;Complex UI State System,4,7
+2026-04-17,Karan Dua,B.Tech Mobile Computing,Responsive UI;Animations;User Experience,7.89,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,7
+2026-04-17,Libni Shanker,BCA,Play Store;App Store;Release Management,7.53,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Ishwar Kothari,BCA,Play Store;App Store;Release Management,6.75,Mobile App Developer,Mobile App Project,1,6
+2026-04-17,Timothy Deol,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,6.81,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,6
+2026-04-17,Upma Nadkarni,BCA,Kotlin;Android;MVVM;Firebase,7.94,Mobile App Developer,Auth System with Firebase;Task Manager App;Notes App,3,4
+2026-04-17,Harish Tara,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,9.1,Mobile App Developer,API Integrated Mobile App,1,5
+2026-04-17,Samuel Bobal,BCA,Mobile APIs;REST API;JSON;Authentication,7.26,Mobile App Developer,Backend-connected App;API Integrated Mobile App,2,8
+2026-04-17,Jalsa Chaudhary,BCA,Responsive UI;Animations;User Experience,6.92,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,4
+2026-04-17,Vasatika Agate,BCA,Play Store;App Store;Release Management,9.04,Mobile App Developer,,0,4
+2026-04-17,Zaid Kara,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,7.83,Mobile App Developer,Auth System with Firebase;Realtime Chat App;Custom UI Components;iOS Shopping App,4,8
+2026-04-17,Netra Swamy,BCA,Play Store;App Store;Release Management,7.77,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Megha Ratti,MCA,Swift;iOS;SwiftUI;Firebase,7.33,Mobile App Developer,,0,7
+2026-04-17,Nidra Arya,B.Tech Mobile Computing,Mobile Security;Encryption;Secure Storage,6.85,Mobile App Developer,Secure Login System;Encrypted Mobile App,2,8
+2026-04-17,Hema Seth,MCA,Mobile APIs;REST API;JSON;Authentication,8.26,Mobile App Developer,Backend-connected App,1,8
+2026-04-17,Mahika Bhatnagar,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,7.85,Mobile App Developer,API Integrated Mobile App;Cross-platform Chat App;Backend-connected App;E-commerce Mobile App,4,7
+2026-04-17,Odika Puri,MCA,Swift;iOS;SwiftUI;Firebase,7.42,Mobile App Developer,Realtime Chat App;iOS Fitness Tracker,2,4
+2026-04-17,Chasmum Mangal,B.Tech Computer Science,Swift;iOS;UIKit;CoreData,7.88,Mobile App Developer,iOS Fitness Tracker;Mobile UI Design System,2,5
+2026-04-17,Charles Doctor,B.Tech Mobile Computing,Java;Android;SQLite;XML,9.35,Mobile App Developer,Android E-commerce App;Offline Storage App;Notes App;Local Data Persistence System;Task Manager App,5,7
+2026-04-17,Azad Chaudhari,MCA,React Native;JavaScript;Redux;API Integration,8.3,Mobile App Developer,Mobile Social App;State Management App;Complex UI State System,3,4
+2026-04-17,Faris Bhargava,BCA,Push Notifications;Firebase;Cloud Messaging,9.36,Mobile App Developer,Notification-based App;Realtime Chat App,2,7
+2026-04-17,Wazir Lad,B.Tech Computer Science,Offline Storage;Caching;SQLite,8.19,Mobile App Developer,,0,8
+2026-04-17,Ishanvi Chandra,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,6.81,Mobile App Developer,Custom UI Components;Mobile UI Design System,2,7
+2026-04-17,Bimala Hari,MCA,Bloc;Provider;Flutter State Management,7.68,Mobile App Developer,Expense Tracker App;Cross-platform Chat App;E-commerce Mobile App,3,7
+2026-04-17,Anmol Narula,MCA,CI/CD;Fastlane;App Deployment,8.2,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Anya Mitra,BCA,Redux;State Management;React Native,8.61,Mobile App Developer,Cross-platform UI App;Complex UI State System;State Management App,3,4
+2026-04-17,Forum Murty,B.Tech Computer Science,Bloc;Provider;Flutter State Management,7.04,Mobile App Developer,Expense Tracker App;E-commerce Mobile App;Cross-platform Chat App,3,8
+2026-04-17,Udant Dalal,BCA,Mobile APIs;REST API;JSON;Authentication,8.81,Mobile App Developer,,0,8
+2026-04-17,Kala Sule,BCA,Kotlin;Android;MVVM;Firebase,8.29,Mobile App Developer,Modern Android App,1,5
+2026-04-17,Kamala Ramachandran,B.Tech Mobile Computing,Performance Optimization;Memory Management,8.93,Mobile App Developer,Low-latency App System,1,5
+2026-04-17,Chakradhar Dar,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,8.44,Mobile App Developer,Cross-platform Chat App,1,7
+2026-04-17,Jairaj Gaba,B.Tech Computer Science,Mobile Security;Encryption;Secure Storage,8.63,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,8
+2026-04-17,Omya Ravi,BCA,Swift;iOS;SwiftUI;Firebase,8.61,Mobile App Developer,Realtime Chat App;Auth System with Firebase,2,6
+2026-04-17,Samaksh Palla,BCA,Offline Storage;Caching;SQLite,8.9,Mobile App Developer,,0,6
+2026-04-17,Manan Kumer,BCA,Mobile Security;Encryption;Secure Storage,7.71,Mobile App Developer,Secure Login System,1,7
+2026-04-17,Pavani Sundaram,B.Tech Mobile Computing,Swift;iOS;UIKit;CoreData,8.72,Mobile App Developer,Custom UI Components,1,8
+2026-04-17,Abhimanyu Banerjee,B.Tech Computer Science,Swift;iOS;UIKit;CoreData,7.99,Mobile App Developer,Mobile UI Design System,1,7
+2026-04-17,Odika Swaminathan,BCA,Bloc;Provider;Flutter State Management,8.83,Mobile App Developer,Cross-platform Chat App;Expense Tracker App;E-commerce Mobile App,3,7
+2026-04-17,Oliver Kant,MCA,CI/CD;Fastlane;App Deployment,6.93,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Idika Ramaswamy,BCA,Java;Android;SQLite;XML,7.66,Mobile App Developer,Local Data Persistence System;Task Manager App;Offline Storage App,3,5
+2026-04-17,Bakhshi Sangha,BCA,Play Store;App Store;Release Management,7.21,Mobile App Developer,Mobile App Project,1,5
+2026-04-17,Garima Oak,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,6.92,Mobile App Developer,iOS Fitness Tracker;Custom UI Components;Auth System with Firebase;Mobile UI Design System,4,6
+2026-04-17,Bhavika Lanka,B.Tech Mobile Computing,Push Notifications;Firebase;Cloud Messaging,7.81,Mobile App Developer,Push Notification System;Realtime Chat App;Notification-based App,3,8
+2026-04-17,Yagnesh Parekh,BCA,Push Notifications;Firebase;Cloud Messaging,6.78,Mobile App Developer,,0,4
+2026-04-17,Ishwar Deo,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,8.03,Mobile App Developer,Mobile App Project,1,8
+2026-04-17,Rachita Menon,B.Tech Mobile Computing,UI Design;UX Principles;Material Design,8.2,Mobile App Developer,Mobile UI Design System;Custom UI Components,2,8
+2026-04-17,Owen Pathak,MCA,Java;Android;SQLite;XML,7.99,Mobile App Developer,Notes App;Android E-commerce App;Task Manager App;Offline Storage App,4,6
+2026-04-17,Watika Bail,MCA,Swift;iOS;SwiftUI;Firebase,9.08,Mobile App Developer,,0,7
+2026-04-17,Gauri Majumdar,MCA,Mobile Security;Encryption;Secure Storage,7.62,Mobile App Developer,Encrypted Mobile App;Secure Login System,2,6
+2026-04-17,Raksha Khare,B.Tech Computer Science,Flutter;Dart;Firebase;REST API,7.58,Mobile App Developer,Expense Tracker App;Realtime Chat App,2,5
+2026-04-17,Aryan Sahota,MCA,Swift;iOS;SwiftUI;Firebase,9.05,Mobile App Developer,Custom UI Components;iOS Fitness Tracker;Realtime Chat App;iOS Shopping App;Auth System with Firebase,5,7
+2026-04-17,Shivani Saraf,BCA,Play Store;App Store;Release Management,9.27,Mobile App Developer,Mobile App Project,1,4
+2026-04-17,Amaira Dani,BCA,Offline Storage;Caching;SQLite,6.81,Mobile App Developer,Offline Storage App;Local Data Persistence System,2,5
+2026-04-17,Bakhshi Pant,B.Tech Computer Science,Play Store;App Store;Release Management,9.06,Mobile App Developer,Mobile App Project,1,6
+2026-04-17,Abeer Sridhar,BCA,Kotlin;Android;MVVM;Firebase,7.53,Mobile App Developer,MVVM App Architecture;Auth System with Firebase;Android E-commerce App;Modern Android App,4,6
+2026-04-17,Warinder Bala,B.Tech Computer Science,Performance Optimization;Memory Management,8.44,Mobile App Developer,Optimized Mobile App;Low-latency App System,2,8
+2026-04-17,Sudiksha Hayre,BCA,Redux;State Management;React Native,8.63,Mobile App Developer,Cross-platform UI App;State Management App;Mobile Social App;Complex UI State System,4,7
+2026-04-17,Ekiya Bala,MCA,Play Store;App Store;Release Management,9.22,Mobile App Developer,Mobile App Project,1,6
+2026-04-17,Darpan Comar,B.Tech Computer Science,React Native;JavaScript;Redux;API Integration,7.82,Mobile App Developer,State Management App,1,6
+2026-04-17,Teerth Bath,BCA,Bloc;Provider;Flutter State Management,9.44,Mobile App Developer,E-commerce Mobile App;Cross-platform Chat App;Expense Tracker App,3,8
+2026-04-17,Bhanumati Rau,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,8.57,Mobile App Developer,,0,4
+2026-04-17,Yauvani Rama,B.Tech Computer Science,Kotlin;Android;MVVM;Firebase,7.83,Mobile App Developer,Notes App;Realtime Chat App;Auth System with Firebase;MVVM App Architecture;Task Manager App,5,6
+2026-04-17,Adya Pillay,B.Tech Mobile Computing,Flutter;Dart;Firebase;REST API,6.86,Mobile App Developer,Cross-platform Chat App;Realtime Chat App;E-commerce Mobile App;API Integrated Mobile App;Auth System with Firebase,5,5
+2026-04-17,Saumya Arya,MCA,Java;Android;SQLite;XML,7.49,Mobile App Developer,Android E-commerce App,1,4
+2026-04-17,Dalaja Jain,B.Tech Computer Science,Mobile Security;Encryption;Secure Storage,7.84,Mobile App Developer,Secure Login System;Encrypted Mobile App,2,6
+2026-04-17,Rajeshri Natarajan,B.Tech Mobile Computing,Swift;iOS;SwiftUI;Firebase,7.76,Mobile App Developer,iOS Fitness Tracker,1,5
+2026-04-17,Ishanvi Madan,B.Tech Computer Science,Swift;iOS;SwiftUI;Firebase,9.36,Mobile App Developer,Custom UI Components;Auth System with Firebase;iOS Fitness Tracker;Mobile UI Design System,4,5
+2026-04-17,David Mital,BCA,Redux;State Management;React Native,9.48,Mobile App Developer,Cross-platform UI App;Mobile Social App;Complex UI State System;State Management App,4,8
+2026-04-17,Charles Rege,BCA,Swift;iOS;UIKit;CoreData,7.22,Mobile App Developer,iOS Shopping App;Mobile UI Design System;iOS Fitness Tracker;Custom UI Components,4,7
+2026-04-17,Advika Reddy,B.Tech Computer Science,CI/CD;Fastlane;App Deployment,8.05,Mobile App Developer,,0,7

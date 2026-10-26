@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Dhriti Suri,B.Tech AI,TensorFlow;Keras;Neural Networks,9.64,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,5
+2026-04-17,Faqid Varkey,B.Tech Computer Science (AI),LoRA;Fine-tuning;Transformers,9.09,AI / GenAI Engineer,BERT Classifier;Text Generation Model;Domain-specific LLM;Custom LLM Fine-tuning,4,4
+2026-04-17,Aadi More,B.Tech AI,TensorFlow;Keras;Neural Networks,7.41,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,7
+2026-04-17,Pratyush Minhas,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,9.75,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,6
+2026-04-17,Tanay Sarma,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,7.79,AI / GenAI Engineer,,0,8
+2026-04-17,Idika Ratti,B.Tech AI,LangChain;LLMs;Prompt Engineering,8.69,AI / GenAI Engineer,LLM-based Assistant,1,5
+2026-04-17,Vaishnavi Mane,MCA Artificial Intelligence,Python;NumPy;Pandas;Scikit-learn,8.48,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,8
+2026-04-17,Ansh Anand,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,8.0,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,4
+2026-04-17,Siya Buch,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.69,AI / GenAI Engineer,Dockerized AI App;Containerized LLM Service,2,7
+2026-04-17,Wazir Bhatia,B.Tech AI & ML,RAG;Vector DB;Embeddings,8.96,AI / GenAI Engineer,RAG Knowledge Assistant;Document Q&A System,2,7
+2026-04-17,Anay Prabhakar,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,8.04,AI / GenAI Engineer,,0,5
+2026-04-17,Zansi Suri,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,8.4,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,6
+2026-04-17,Janaki Chauhan,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,8.28,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,7
+2026-04-17,Sneha Oak,B.Tech Computer Science (AI),NLP;spaCy;Text Processing,9.79,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Maya Uppal,B.Tech AI & ML,LlamaIndex;RAG;LLMs,9.57,AI / GenAI Engineer,RAG Knowledge Assistant;Content Generator,2,6
+2026-04-17,Alexander Mukhopadhyay,B.Tech AI,FastAPI;Flask;Model Deployment,9.34,AI / GenAI Engineer,LLM Backend System;AI API Service,2,6
+2026-04-17,Yash Nori,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,7.81,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Chakradhar Karan,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,8.3,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,6
+2026-04-17,Devansh Mani,MCA Artificial Intelligence,TensorFlow;Keras;Neural Networks,8.21,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,6
+2026-04-17,Aarav More,MCA Artificial Intelligence,TensorFlow;Keras;Neural Networks,8.21,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,4
+2026-04-17,Anmol Tripathi,B.Tech AI & ML,PyTorch;Deep Learning;CNN,8.21,AI / GenAI Engineer,,0,6
+2026-04-17,Dipta Nori,B.Tech AI,Vision-Language Models;CLIP;Multimodal AI,9.48,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,8
+2026-04-17,Elijah Dhawan,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,7.34,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,4
+2026-04-17,Orinder Bhasin,B.Tech AI,RAG;Vector DB;Embeddings,8.11,AI / GenAI Engineer,Document Q&A System,1,8
+2026-04-17,Pratyush Garg,B.Tech AI & ML,FastAPI;Flask;Model Deployment,8.95,AI / GenAI Engineer,AI API Service;LLM Backend System,2,8
+2026-04-17,Advaith Som,B.Tech AI,FAISS;ChromaDB;Retrieval,9.43,AI / GenAI Engineer,,0,5
+2026-04-17,Liam Dey,B.Tech AI & ML,Transformers;BERT;HuggingFace,7.31,AI / GenAI Engineer,,0,4
+2026-04-17,Charita Chand,B.Tech AI,AI Agents;LangGraph;Tool Calling,7.8,AI / GenAI Engineer,,0,5
+2026-04-17,Ranbir Basak,B.Tech AI,AWS;S3;Lambda;Deployment,9.07,AI / GenAI Engineer,Serverless AI Pipeline;Cloud Deployed AI System,2,6
+2026-04-17,Ridhi Ganesan,MCA Artificial Intelligence,AI Agents;LangGraph;Tool Calling,8.67,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,5
+2026-04-17,Panini Hayre,MCA Artificial Intelligence,Vision-Language Models;CLIP;Multimodal AI,7.13,AI / GenAI Engineer,,0,6
+2026-04-17,Wyatt Shenoy,B.Tech AI & ML,Docker;CI/CD;MLOps,9.15,AI / GenAI Engineer,,0,8
+2026-04-17,Zilmil Sankaran,B.Tech AI,OpenCV;Computer Vision;Image Processing,9.6,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,7
+2026-04-17,Lavanya Mitter,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,8.83,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,5
+2026-04-17,Faqid Halder,MCA Artificial Intelligence,AWS;S3;Lambda;Deployment,8.56,AI / GenAI Engineer,Cloud Deployed AI System;Serverless AI Pipeline,2,7
+2026-04-17,Xalak Karnik,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.89,AI / GenAI Engineer,,0,5
+2026-04-17,Manan Bhasin,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,7.07,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,5
+2026-04-17,Ladli Murthy,MCA Artificial Intelligence,Vision-Language Models;CLIP;Multimodal AI,9.29,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,6
+2026-04-17,Qadim Yogi,B.Tech AI,TensorFlow;Keras;Neural Networks,8.45,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,8
+2026-04-17,Nilima Sathe,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,8.8,AI / GenAI Engineer,Content Generator;LangChain Chatbot;Instruction-tuned Bot,3,5
+2026-04-17,Yatin Murthy,B.Tech Computer Science (AI),PEFT;Model Fine-tuning,8.23,AI / GenAI Engineer,Domain-specific LLM;Custom LLM Fine-tuning,2,6
+2026-04-17,Lakshmi Khare,B.Tech AI,LoRA;Fine-tuning;Transformers,8.14,AI / GenAI Engineer,Custom LLM Fine-tuning,1,4
+2026-04-17,Aadi Kuruvilla,B.Tech Computer Science (AI),LlamaIndex;RAG;LLMs,8.12,AI / GenAI Engineer,RAG Knowledge Assistant;Document Q&A System;LLM-based Assistant;AI Chatbot;Content Generator,5,7
+2026-04-17,Nikita Sarraf,MCA Artificial Intelligence,PyTorch;Deep Learning;CNN,9.26,AI / GenAI Engineer,Custom Neural Network;CNN Image Model,2,6
+2026-04-17,Aishani Goyal,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,9.34,AI / GenAI Engineer,,0,5
+2026-04-17,Noah Tiwari,B.Tech AI & ML,LlamaIndex;RAG;LLMs,8.1,AI / GenAI Engineer,AI Chatbot;Content Generator;RAG Knowledge Assistant;Document Q&A System;LLM-based Assistant,5,8
+2026-04-17,Abhiram Lad,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,9.36,AI / GenAI Engineer,,0,4
+2026-04-17,Irya Cheema,MCA Artificial Intelligence,PEFT;Model Fine-tuning,9.56,AI / GenAI Engineer,Domain-specific LLM;Custom LLM Fine-tuning,2,7
+2026-04-17,Sachi Dutta,B.Tech AI,PEFT;Model Fine-tuning,7.5,AI / GenAI Engineer,,0,4
+2026-04-17,Chanakya Bahl,B.Tech AI,Python;NumPy;Pandas;Scikit-learn,7.91,AI / GenAI Engineer,ML Classification Pipeline;Customer Churn Prediction,2,4
+2026-04-17,Eesha Bali,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,8.68,AI / GenAI Engineer,Vision-Language Model App,1,4
+2026-04-17,Barkha Ganesan,B.Tech AI,Python;NumPy;Pandas;Scikit-learn,8.56,AI / GenAI Engineer,ML Classification Pipeline;Customer Churn Prediction,2,6
+2026-04-17,Qushi Parekh,B.Tech AI & ML,OpenCV;Computer Vision;Image Processing,7.16,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,7
+2026-04-17,Faqid Suresh,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,8.57,AI / GenAI Engineer,Object Tracking App,1,8
+2026-04-17,Janaki Som,MCA Artificial Intelligence,Vision-Language Models;CLIP;Multimodal AI,8.59,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,4
+2026-04-17,Rehaan Bhatti,B.Tech AI,NLP;spaCy;Text Processing,9.4,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Darpan Ghose,B.Tech AI & ML,NLP;spaCy;Text Processing,7.64,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Watika Purohit,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,7.94,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Patrick Nagy,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,7.43,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Hemal Chokshi,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,7.87,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Kalpit Naidu,B.Tech AI & ML,LoRA;Fine-tuning;Transformers,9.37,AI / GenAI Engineer,Text Generation Model;BERT Classifier;Custom LLM Fine-tuning;Domain-specific LLM,4,6
+2026-04-17,Rushil Wable,B.Tech AI,Transformers;BERT;HuggingFace,7.96,AI / GenAI Engineer,Text Generation Model;BERT Classifier,2,7
+2026-04-17,Pranav Date,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,8.29,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,7
+2026-04-17,Eesha Narula,B.Tech Computer Science (AI),AI Agents;LangGraph;Tool Calling,8.29,AI / GenAI Engineer,,0,8
+2026-04-17,Jairaj Patel,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,9.05,AI / GenAI Engineer,Document Q&A System,1,6
+2026-04-17,Om Sabharwal,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,7.35,AI / GenAI Engineer,Instruction-tuned Bot;Content Generator;Prompt Optimization System,3,4
+2026-04-17,Vamakshi Mody,B.Tech Computer Science (AI),AI Agents;LangGraph;Tool Calling,8.3,AI / GenAI Engineer,,0,4
+2026-04-17,Upadhriti Khosla,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,7.19,AI / GenAI Engineer,Instruction-tuned Bot;LLM-based Assistant;Prompt Optimization System;Content Generator,4,8
+2026-04-17,Tanish Jayaraman,B.Tech Computer Science (AI),LoRA;Fine-tuning;Transformers,8.78,AI / GenAI Engineer,Domain-specific LLM,1,6
+2026-04-17,Pahal Hari,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,8.47,AI / GenAI Engineer,Dockerized AI App;Containerized LLM Service,2,5
+2026-04-17,Max Radhakrishnan,B.Tech AI & ML,Python;NumPy;Pandas;Scikit-learn,9.1,AI / GenAI Engineer,,0,8
+2026-04-17,Gavin Yadav,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,7.31,AI / GenAI Engineer,LLM Backend System;AI API Service,2,4
+2026-04-17,Wahab Mohanty,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,8.08,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,8
+2026-04-17,Ryan Bhasin,B.Tech AI & ML,PEFT;Model Fine-tuning,9.3,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,8
+2026-04-17,Pratyush Dora,B.Tech AI,FastAPI;Flask;Model Deployment,8.67,AI / GenAI Engineer,LLM Backend System;AI API Service,2,4
+2026-04-17,Vinaya Borde,MCA Artificial Intelligence,RAG;Vector DB;Embeddings,8.85,AI / GenAI Engineer,,0,5
+2026-04-17,Ishaan Oak,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,9.21,AI / GenAI Engineer,Vision-Language Model App,1,8
+2026-04-17,Vihaan Gala,B.Tech AI & ML,PyTorch;Deep Learning;CNN,9.71,AI / GenAI Engineer,,0,4
+2026-04-17,Ryan Soman,B.Tech AI & ML,LoRA;Fine-tuning;Transformers,7.35,AI / GenAI Engineer,Domain-specific LLM;Custom LLM Fine-tuning;Text Generation Model;BERT Classifier,4,6
+2026-04-17,Robert Suresh,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,9.23,AI / GenAI Engineer,Containerized LLM Service,1,4
+2026-04-17,Ronith Contractor,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,7.73,AI / GenAI Engineer,,0,8
+2026-04-17,Nakul Rao,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,7.18,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,7
+2026-04-17,Janani Thakur,MCA Artificial Intelligence,Docker;CI/CD;MLOps,7.05,AI / GenAI Engineer,Containerized LLM Service,1,7
+2026-04-17,Aayush Natt,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,9.42,AI / GenAI Engineer,Instruction-tuned Bot,1,6
+2026-04-17,Harish Kapur,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,7.66,AI / GenAI Engineer,LLM-based Assistant;Instruction-tuned Bot;Content Generator,3,8
+2026-04-17,Saumya Varkey,MCA Artificial Intelligence,NLP;spaCy;Text Processing,8.46,AI / GenAI Engineer,,0,6
+2026-04-17,Vasana Singhal,B.Tech AI & ML,PEFT;Model Fine-tuning,9.41,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,6
+2026-04-17,Yashodhara Pandya,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.67,AI / GenAI Engineer,Real-time Object Detection;Detection Pipeline,2,5
+2026-04-17,Chatresh Solanki,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,8.76,AI / GenAI Engineer,,0,7
+2026-04-17,Tanish Buch,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,7.62,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,4
+2026-04-17,Ayush Hayer,B.Tech AI & ML,RAG;Vector DB;Embeddings,9.78,AI / GenAI Engineer,Document Q&A System;RAG Knowledge Assistant,2,4
+2026-04-17,Lipika Sur,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,9.62,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Vrishti Deshmukh,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,9.67,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,5
+2026-04-17,Warinder Sood,B.Tech AI,YOLO;Object Detection;CV,9.52,AI / GenAI Engineer,,0,5
+2026-04-17,Isaiah Mand,B.Tech AI,LlamaIndex;RAG;LLMs,9.6,AI / GenAI Engineer,Content Generator;RAG Knowledge Assistant;Document Q&A System;LLM-based Assistant;AI Chatbot,5,5
+2026-04-17,Alexander Padmanabhan,B.Tech Computer Science (AI),PEFT;Model Fine-tuning,9.11,AI / GenAI Engineer,Domain-specific LLM;Custom LLM Fine-tuning,2,8
+2026-04-17,Pallavi Mohanty,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,9.36,AI / GenAI Engineer,,0,6
+2026-04-17,Gopal Badami,B.Tech AI,PyTorch;Deep Learning;CNN,8.45,AI / GenAI Engineer,,0,7
+2026-04-17,Omkaar Oak,B.Tech AI & ML,OpenCV;Computer Vision;Image Processing,9.5,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,5
+2026-04-17,Wriddhish Kota,MCA Artificial Intelligence,Python;NumPy;Pandas;Scikit-learn,7.85,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,8
+2026-04-17,Hritik Vyas,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,8.44,AI / GenAI Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Urvashi Edwin,B.Tech AI,Transformers;BERT;HuggingFace,8.5,AI / GenAI Engineer,Text Generation Model;BERT Classifier,2,7
+2026-04-17,Max Dutt,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,7.81,AI / GenAI Engineer,Instruction-tuned Bot;AI Chatbot,2,5
+2026-04-17,Radhika Goswami,B.Tech AI,TensorFlow;Keras;Neural Networks,9.35,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,8
+2026-04-17,Omya Andra,B.Tech AI,LangChain;LLMs;Prompt Engineering,7.49,AI / GenAI Engineer,Prompt Optimization System;Tool-using Agent;LLM-based Assistant;AI Chatbot,4,7
+2026-04-17,Yatan Dash,MCA Artificial Intelligence,LLMs;Prompt Engineering;OpenAI API,7.15,AI / GenAI Engineer,Content Generator;AI Chatbot;Instruction-tuned Bot;LLM-based Assistant;Prompt Optimization System,5,4
+2026-04-17,Nilima Barman,B.Tech AI & ML,YOLO;Object Detection;CV,9.45,AI / GenAI Engineer,,0,8
+2026-04-17,Qushi Choudhry,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,9.53,AI / GenAI Engineer,Serverless AI Pipeline;Cloud Deployed AI System,2,5
+2026-04-17,Ucchal Manne,B.Tech AI & ML,RAG;Vector DB;Embeddings,7.62,AI / GenAI Engineer,Document Q&A System;RAG Knowledge Assistant,2,6
+2026-04-17,Jasmit Saxena,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,9.3,AI / GenAI Engineer,,0,6
+2026-04-17,Atharv Amble,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,9.15,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,5
+2026-04-17,Laksh Cherian,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,7.85,AI / GenAI Engineer,RAG Knowledge Assistant,1,7
+2026-04-17,Anmol Gill,B.Tech AI,GCP;Vertex AI;Cloud ML,8.65,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Jagrati Sankaran,B.Tech AI & ML,Python;NumPy;Pandas;Scikit-learn,9.1,AI / GenAI Engineer,ML Classification Pipeline;Customer Churn Prediction,2,4
+2026-04-17,Gautami Bhavsar,B.Tech AI,PyTorch;Deep Learning;CNN,8.21,AI / GenAI Engineer,CNN Image Model,1,6
+2026-04-17,Aayush Dhaliwal,B.Tech AI & ML,Docker;CI/CD;MLOps,9.37,AI / GenAI Engineer,Containerized LLM Service;Dockerized AI App,2,7
+2026-04-17,Farhan Krishnamurthy,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,9.16,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,6
+2026-04-17,Warinder Patla,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,8.08,AI / GenAI Engineer,Instruction-tuned Bot;Prompt Optimization System;AI Chatbot,3,6
+2026-04-17,Arya Mishra,MCA Artificial Intelligence,Docker;CI/CD;MLOps,8.94,AI / GenAI Engineer,Dockerized AI App;Containerized LLM Service,2,7
+2026-04-17,Reva Karnik,B.Tech AI,GCP;Vertex AI;Cloud ML,7.12,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Shivani Nagy,MCA Artificial Intelligence,LLMs;Prompt Engineering;OpenAI API,8.47,AI / GenAI Engineer,Content Generator,1,8
+2026-04-17,Chandani Das,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,7.94,AI / GenAI Engineer,Object Tracking App;Face Detection System,2,4
+2026-04-17,Imaran Parekh,MCA Artificial Intelligence,LLMs;Prompt Engineering;OpenAI API,9.76,AI / GenAI Engineer,Content Generator;AI Chatbot;Instruction-tuned Bot,3,5
+2026-04-17,Darpan Ghosh,B.Tech AI & ML,TensorFlow;Keras;Neural Networks,7.12,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,7
+2026-04-17,Kala Issac,B.Tech AI & ML,NLP;spaCy;Text Processing,8.61,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Dominic Varma,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,8.72,AI / GenAI Engineer,,0,8
+2026-04-17,Garima Agate,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,7.76,AI / GenAI Engineer,,0,7
+2026-04-17,Harshil Bhardwaj,B.Tech AI,FAISS;ChromaDB;Retrieval,7.52,AI / GenAI Engineer,,0,6
+2026-04-17,Zaitra Viswanathan,MCA Artificial Intelligence,YOLO;Object Detection;CV,7.77,AI / GenAI Engineer,Detection Pipeline;Real-time Object Detection,2,7
+2026-04-17,Meghana Mann,B.Tech AI,Python;Machine Learning;Feature Engineering,8.71,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Ayaan Konda,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,8.23,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,7
+2026-04-17,Teerth Lad,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,7.43,AI / GenAI Engineer,Multi-tool Agent System;Autonomous AI Agent,2,8
+2026-04-17,Vedhika Sachdeva,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,8.36,AI / GenAI Engineer,AI Chatbot,1,5
+2026-04-17,Pranav Jha,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,7.87,AI / GenAI Engineer,Containerized LLM Service;Dockerized AI App,2,5
+2026-04-17,Urvashi Dugar,B.Tech AI & ML,LlamaIndex;RAG;LLMs,7.15,AI / GenAI Engineer,,0,7
+2026-04-17,Ekani Chandran,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,9.67,AI / GenAI Engineer,Image + Text AI System,1,5
+2026-04-17,George Pau,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,9.57,AI / GenAI Engineer,Content Generator;LLM-based Assistant;LangChain Chatbot;AI Chatbot;Prompt Optimization System,5,8
+2026-04-17,Nandini Gupta,B.Tech Computer Science (AI),FastAPI;Flask;Model Deployment,7.0,AI / GenAI Engineer,AI API Service;LLM Backend System,2,8
+2026-04-17,Faraj Agate,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,8.24,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,7
+2026-04-17,Kabir Choudhry,B.Tech Computer Science (AI),AI Agents;LangGraph;Tool Calling,7.8,AI / GenAI Engineer,,0,4
+2026-04-17,Ishwar Naidu,B.Tech AI & ML,FastAPI;Flask;Model Deployment,7.55,AI / GenAI Engineer,LLM Backend System;AI API Service,2,6
+2026-04-17,Kabir Mangat,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,9.64,AI / GenAI Engineer,,0,8
+2026-04-17,Bimala Karnik,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,9.35,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Oni Morar,MCA Artificial Intelligence,FAISS;ChromaDB;Retrieval,9.71,AI / GenAI Engineer,Vector Search Engine;Semantic Search System,2,7
+2026-04-17,Girish Gola,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,9.66,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Bhavya Bhasin,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,9.13,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Indira Vaidya,MCA Artificial Intelligence,Transformers;BERT;HuggingFace,8.5,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,4
+2026-04-17,Pahal Ganesh,B.Tech AI & ML,FastAPI;Flask;Model Deployment,7.94,AI / GenAI Engineer,LLM Backend System;AI API Service,2,6
+2026-04-17,Nitara Bahri,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,7.18,AI / GenAI Engineer,,0,5
+2026-04-17,Yashodhara Borde,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,7.46,AI / GenAI Engineer,Vision-Language Model App,1,4
+2026-04-17,Jalsa Thaman,B.Tech AI,Transformers;BERT;HuggingFace,7.4,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,7
+2026-04-17,Udarsh Sem,MCA Artificial Intelligence,LoRA;Fine-tuning;Transformers,7.41,AI / GenAI Engineer,Text Generation Model;BERT Classifier;Domain-specific LLM;Custom LLM Fine-tuning,4,7
+2026-04-17,Aditya Ahluwalia,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,8.51,AI / GenAI Engineer,Vision-Language Model App,1,4
+2026-04-17,Gaurang Master,B.Tech Computer Science (AI),PEFT;Model Fine-tuning,7.37,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,4
+2026-04-17,Turvi Kibe,B.Tech AI & ML,PyTorch;Deep Learning;CNN,8.9,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,8
+2026-04-17,Yashasvi Sani,B.Tech AI & ML,Transformers;BERT;HuggingFace,9.45,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,6
+2026-04-17,Yadavi More,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,7.43,AI / GenAI Engineer,Text Generation Model;BERT Classifier,2,5
+2026-04-17,Warda Venkataraman,B.Tech AI,Vision-Language Models;CLIP;Multimodal AI,7.35,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,8
+2026-04-17,Rajeshri Mukherjee,B.Tech AI & ML,TensorFlow;Keras;Neural Networks,7.49,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,6
+2026-04-17,Orinder Jhaveri,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,9.61,AI / GenAI Engineer,Deep Learning Model,1,7
+2026-04-17,Ijaya Joshi,B.Tech Computer Science (AI),LoRA;Fine-tuning;Transformers,8.8,AI / GenAI Engineer,Custom LLM Fine-tuning;Text Generation Model,2,4
+2026-04-17,Manthan Batra,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,8.46,AI / GenAI Engineer,AI Chatbot;Prompt Optimization System;Content Generator,3,5
+2026-04-17,Advik Suresh,B.Tech AI,LlamaIndex;RAG;LLMs,9.72,AI / GenAI Engineer,Content Generator,1,5
+2026-04-17,Azaan Ratta,B.Tech AI & ML,FastAPI;Flask;Model Deployment,9.63,AI / GenAI Engineer,LLM Backend System;AI API Service,2,8
+2026-04-17,Meghana Chahal,B.Tech AI & ML,PyTorch;Deep Learning;CNN,7.18,AI / GenAI Engineer,Custom Neural Network;CNN Image Model,2,7
+2026-04-17,Max Chahal,MCA Artificial Intelligence,Python;NumPy;Pandas;Scikit-learn,8.44,AI / GenAI Engineer,ML Classification Pipeline;Customer Churn Prediction,2,5
+2026-04-17,Owen Dugal,B.Tech AI,TensorFlow;Keras;Neural Networks,9.24,AI / GenAI Engineer,Image Classifier,1,4
+2026-04-17,Udant Sami,B.Tech AI,OpenCV;Computer Vision;Image Processing,7.39,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,8
+2026-04-17,Charvi Sura,B.Tech AI,LangChain;LLMs;Prompt Engineering,8.96,AI / GenAI Engineer,LLM-based Assistant,1,8
+2026-04-17,Barkha Dara,B.Tech Computer Science (AI),LangChain;LLMs;Prompt Engineering,7.07,AI / GenAI Engineer,LLM-based Assistant;Instruction-tuned Bot;Content Generator;LangChain Chatbot,4,8
+2026-04-17,Wazir Sampath,B.Tech AI & ML,TensorFlow;Keras;Neural Networks,7.76,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,5
+2026-04-17,Leena Andra,B.Tech AI & ML,TensorFlow;Keras;Neural Networks,9.27,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,6
+2026-04-17,Nihal Kale,B.Tech Computer Science (AI),AI Agents;LangGraph;Tool Calling,8.45,AI / GenAI Engineer,,0,5
+2026-04-17,Christopher Baral,B.Tech AI,FAISS;ChromaDB;Retrieval,9.36,AI / GenAI Engineer,Semantic Search System;Vector Search Engine,2,6
+2026-04-17,Gautam Ramakrishnan,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,7.72,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Warjas Bhakta,B.Tech AI,GCP;Vertex AI;Cloud ML,8.72,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Hredhaan Barad,B.Tech AI & ML,Transformers;BERT;HuggingFace,8.61,AI / GenAI Engineer,,0,8
+2026-04-17,Urvi Chokshi,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,7.41,AI / GenAI Engineer,Multi-tool Agent System;Autonomous AI Agent,2,6
+2026-04-17,Vyanjana Rajan,B.Tech Computer Science (AI),Docker;CI/CD;MLOps,7.14,AI / GenAI Engineer,Dockerized AI App,1,5
+2026-04-17,Abhiram Bahl,MCA Artificial Intelligence,LoRA;Fine-tuning;Transformers,9.38,AI / GenAI Engineer,Domain-specific LLM;BERT Classifier;Custom LLM Fine-tuning;Text Generation Model,4,6
+2026-04-17,Ira Guha,B.Tech AI,LangChain;LLMs;Prompt Engineering,7.38,AI / GenAI Engineer,AI Chatbot;LangChain Chatbot,2,6
+2026-04-17,Daksh Hari,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,9.01,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,5
+2026-04-17,Anika Narayanan,B.Tech AI,NLP;spaCy;Text Processing,7.74,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Advika Prashad,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,8.33,AI / GenAI Engineer,,0,5
+2026-04-17,Yasti Raja,B.Tech AI,Docker;CI/CD;MLOps,9.51,AI / GenAI Engineer,Dockerized AI App;Containerized LLM Service,2,6
+2026-04-17,Ayaan Pai,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,7.8,AI / GenAI Engineer,,0,7
+2026-04-17,Vyanjana Guha,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,7.15,AI / GenAI Engineer,Instruction-tuned Bot;Content Generator,2,6
+2026-04-17,Jeevika Jha,MCA Artificial Intelligence,PEFT;Model Fine-tuning,7.05,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,7
+2026-04-17,Irya Bala,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,7.92,AI / GenAI Engineer,Face Detection System,1,5
+2026-04-17,Zaid Goswami,MCA Artificial Intelligence,LangChain;LLMs;Prompt Engineering,8.39,AI / GenAI Engineer,AI Chatbot;Prompt Optimization System;Content Generator,3,8
+2026-04-17,Rajeshri Ramesh,MCA Artificial Intelligence,Python;Machine Learning;Feature Engineering,7.55,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Yashoda Walia,B.Tech AI,Docker;CI/CD;MLOps,7.52,AI / GenAI Engineer,Containerized LLM Service;Dockerized AI App,2,5
+2026-04-17,Samar Babu,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,7.71,AI / GenAI Engineer,,0,5
+2026-04-17,Forum Tripathi,B.Tech AI,TensorFlow;Keras;Neural Networks,7.61,AI / GenAI Engineer,,0,5
+2026-04-17,Aradhana Taneja,B.Tech AI & ML,Docker;CI/CD;MLOps,9.65,AI / GenAI Engineer,,0,7
+2026-04-17,Chandresh Pant,B.Tech AI & ML,PyTorch;Deep Learning;CNN,9.2,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,7
+2026-04-17,Lipika Murty,B.Tech Computer Science (AI),YOLO;Object Detection;CV,9.23,AI / GenAI Engineer,Detection Pipeline;Real-time Object Detection,2,7
+2026-04-17,Vasudha Sama,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,9.51,AI / GenAI Engineer,,0,7
+2026-04-17,Bhavini Venkataraman,B.Tech AI & ML,LoRA;Fine-tuning;Transformers,9.21,AI / GenAI Engineer,Domain-specific LLM;BERT Classifier;Custom LLM Fine-tuning;Text Generation Model,4,4
+2026-04-17,Yashasvi Date,B.Tech Computer Science (AI),FastAPI;Flask;Model Deployment,9.35,AI / GenAI Engineer,LLM Backend System;AI API Service,2,7
+2026-04-17,Yachana Dara,B.Tech AI,AWS;S3;Lambda;Deployment,9.34,AI / GenAI Engineer,Cloud Deployed AI System;Serverless AI Pipeline,2,8
+2026-04-17,Vrinda Madan,MCA Artificial Intelligence,GCP;Vertex AI;Cloud ML,9.36,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Warhi Ramachandran,B.Tech Computer Science (AI),YOLO;Object Detection;CV,7.73,AI / GenAI Engineer,Detection Pipeline;Real-time Object Detection,2,5
+2026-04-17,Vedant Solanki,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,9.1,AI / GenAI Engineer,,0,6
+2026-04-17,Laban Sharaf,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,7.53,AI / GenAI Engineer,AI API Service;LLM Backend System,2,5
+2026-04-17,Baljiwan Pandit,B.Tech Computer Science (AI),OpenCV;Computer Vision;Image Processing,7.16,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,4
+2026-04-17,Banjeet Hayer,B.Tech AI,Vision-Language Models;CLIP;Multimodal AI,8.26,AI / GenAI Engineer,Vision-Language Model App,1,8
+2026-04-17,Aditya Narang,B.Tech AI,PEFT;Model Fine-tuning,9.79,AI / GenAI Engineer,Domain-specific LLM,1,4
+2026-04-17,Advaith Dey,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,7.62,AI / GenAI Engineer,,0,4
+2026-04-17,Anvi Gopal,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,8.57,AI / GenAI Engineer,Prompt Optimization System;AI Chatbot;Instruction-tuned Bot,3,8
+2026-04-17,Hemangini Lall,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,8.55,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,6
+2026-04-17,Rohan Bajwa,B.Tech AI & ML,YOLO;Object Detection;CV,9.49,AI / GenAI Engineer,,0,6
+2026-04-17,Chasmum Joshi,B.Tech AI,Docker;CI/CD;MLOps,8.37,AI / GenAI Engineer,,0,7
+2026-04-17,Shravya Cherian,MCA Artificial Intelligence,AI Agents;LangGraph;Tool Calling,7.59,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,4
+2026-04-17,Xavier Mukherjee,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,9.01,AI / GenAI Engineer,Instruction-tuned Bot;Prompt Optimization System,2,5
+2026-04-17,Christopher Menon,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,7.63,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,7
+2026-04-17,Azad Devi,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,8.47,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Kabir Majumdar,B.Tech AI & ML,RAG;Vector DB;Embeddings,9.38,AI / GenAI Engineer,Document Q&A System;RAG Knowledge Assistant,2,6
+2026-04-17,Gopal Vohra,B.Tech AI,FAISS;ChromaDB;Retrieval,7.29,AI / GenAI Engineer,Vector Search Engine;Semantic Search System,2,5
+2026-04-17,Chasmum Sanghvi,B.Tech AI & ML,TensorFlow;Keras;Neural Networks,8.08,AI / GenAI Engineer,Image Classifier;Deep Learning Model,2,8
+2026-04-17,Vamakshi Sethi,MCA Artificial Intelligence,NLP;spaCy;Text Processing,7.27,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Mohini Raju,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,8.44,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Anika Chopra,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,7.88,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,5
+2026-04-17,Chanchal Palan,B.Tech Computer Science (AI),AI Agents;LangGraph;Tool Calling,8.92,AI / GenAI Engineer,Multi-tool Agent System;Autonomous AI Agent,2,4
+2026-04-17,Gauri Randhawa,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,8.52,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,7
+2026-04-17,Champak Gola,B.Tech AI,LangChain;LLMs;Prompt Engineering,7.09,AI / GenAI Engineer,LangChain Chatbot;LLM-based Assistant;Content Generator,3,8
+2026-04-17,Aarush Modi,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,7.04,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,4
+2026-04-17,Amaira Manda,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,9.5,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,5
+2026-04-17,Prisha Contractor,B.Tech AI,Transformers;BERT;HuggingFace,8.83,AI / GenAI Engineer,Text Generation Model;BERT Classifier,2,6
+2026-04-17,Aashi Bhargava,B.Tech AI & ML,LlamaIndex;RAG;LLMs,8.61,AI / GenAI Engineer,AI Chatbot;Content Generator,2,7
+2026-04-17,Chanchal Seth,B.Tech AI,Python;NumPy;Pandas;Scikit-learn,9.33,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,6
+2026-04-17,Vivaan Karan,B.Tech AI,NLP;spaCy;Text Processing,8.15,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Timothy Dora,B.Tech AI & ML,LlamaIndex;RAG;LLMs,7.65,AI / GenAI Engineer,LLM-based Assistant;RAG Knowledge Assistant;AI Chatbot,3,7
+2026-04-17,Dakshesh Sarraf,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,8.81,AI / GenAI Engineer,AI Chatbot;Instruction-tuned Bot;Prompt Optimization System;LLM-based Assistant;Content Generator,5,8
+2026-04-17,Meghana Kala,B.Tech AI,PyTorch;Deep Learning;CNN,7.76,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,7
+2026-04-17,Rushil Walla,MCA Artificial Intelligence,Vision-Language Models;CLIP;Multimodal AI,8.48,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,5
+2026-04-17,Manthan Ravel,B.Tech AI,FAISS;ChromaDB;Retrieval,8.06,AI / GenAI Engineer,Vector Search Engine;Semantic Search System,2,7
+2026-04-17,Daniel Manne,B.Tech AI,TensorFlow;Keras;Neural Networks,8.15,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,6
+2026-04-17,Bhavini Ramanathan,B.Tech Computer Science (AI),PEFT;Model Fine-tuning,7.67,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,7
+2026-04-17,Krishna Kant,MCA Artificial Intelligence,Python;NumPy;Pandas;Scikit-learn,9.55,AI / GenAI Engineer,,0,6
+2026-04-17,Chaaya Saxena,B.Tech AI & ML,NLP;spaCy;Text Processing,9.65,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Hemal Hari,MCA Artificial Intelligence,PyTorch;Deep Learning;CNN,7.08,AI / GenAI Engineer,,0,8
+2026-04-17,Ryan Mody,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,9.24,AI / GenAI Engineer,Customer Churn Prediction,1,6
+2026-04-17,Tarak Dhingra,B.Tech AI,AWS;S3;Lambda;Deployment,9.1,AI / GenAI Engineer,Serverless AI Pipeline;Cloud Deployed AI System,2,6
+2026-04-17,Frederick Vora,MCA Artificial Intelligence,PEFT;Model Fine-tuning,7.18,AI / GenAI Engineer,Custom LLM Fine-tuning,1,6
+2026-04-17,Upma Kurian,B.Tech AI & ML,OpenCV;Computer Vision;Image Processing,8.41,AI / GenAI Engineer,,0,4
+2026-04-17,Ekbal Modi,B.Tech AI & ML,LLMs;Prompt Engineering;OpenAI API,8.37,AI / GenAI Engineer,AI Chatbot,1,8
+2026-04-17,Arin Kulkarni,B.Tech AI & ML,PyTorch;Deep Learning;CNN,8.09,AI / GenAI Engineer,Custom Neural Network;CNN Image Model,2,8
+2026-04-17,Tejas Kaul,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,8.97,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Barkha Patla,B.Tech Computer Science (AI),FastAPI;Flask;Model Deployment,7.49,AI / GenAI Engineer,AI API Service,1,4
+2026-04-17,Kalpit Rana,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,8.69,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Upasna Parikh,B.Tech AI & ML,LoRA;Fine-tuning;Transformers,7.81,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,6
+2026-04-17,Abhiram Yohannan,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,7.88,AI / GenAI Engineer,,0,6
+2026-04-17,Avni Deo,B.Tech AI & ML,PEFT;Model Fine-tuning,9.24,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,5
+2026-04-17,Nihal Basu,B.Tech AI,Transformers;BERT;HuggingFace,8.52,AI / GenAI Engineer,,0,6
+2026-04-17,Qadim Kadakia,B.Tech Computer Science (AI),YOLO;Object Detection;CV,9.52,AI / GenAI Engineer,,0,5
+2026-04-17,Abhimanyu Brahmbhatt,B.Tech AI & ML,RAG;Vector DB;Embeddings,8.82,AI / GenAI Engineer,RAG Knowledge Assistant;Document Q&A System,2,6
+2026-04-17,Arunima Suresh,B.Tech AI & ML,Python;NumPy;Pandas;Scikit-learn,7.5,AI / GenAI Engineer,Customer Churn Prediction;ML Classification Pipeline,2,4
+2026-04-17,Yashawini Bandi,MCA Artificial Intelligence,LoRA;Fine-tuning;Transformers,8.01,AI / GenAI Engineer,BERT Classifier;Custom LLM Fine-tuning;Domain-specific LLM;Text Generation Model,4,4
+2026-04-17,Lajita Balan,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,8.86,AI / GenAI Engineer,Cloud Deployed AI System;Serverless AI Pipeline,2,5
+2026-04-17,Yutika Saha,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,8.06,AI / GenAI Engineer,,0,7
+2026-04-17,Bhavani Tak,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,8.5,AI / GenAI Engineer,Multi-tool Agent System;Autonomous AI Agent,2,8
+2026-04-17,Naveen Boase,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,8.39,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Gaurangi Bedi,B.Tech AI & ML,YOLO;Object Detection;CV,8.56,AI / GenAI Engineer,,0,8
+2026-04-17,Wyatt Brahmbhatt,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,8.56,AI / GenAI Engineer,Prompt Optimization System;Instruction-tuned Bot;LLM-based Assistant;LangChain Chatbot;Tool-using Agent,5,4
+2026-04-17,Irya Nadig,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,7.4,AI / GenAI Engineer,LLM Backend System;AI API Service,2,4
+2026-04-17,Yochana Bahri,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,8.38,AI / GenAI Engineer,Vector Search Engine;Semantic Search System,2,5
+2026-04-17,Eshana Bahl,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,7.41,AI / GenAI Engineer,AI API Service;LLM Backend System,2,6
+2026-04-17,Vidhi Agrawal,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,7.36,AI / GenAI Engineer,Content Generator,1,7
+2026-04-17,Saumya Contractor,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,8.38,AI / GenAI Engineer,Face Detection System,1,4
+2026-04-17,Lavanya Golla,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,7.81,AI / GenAI Engineer,Semantic Search System;Vector Search Engine,2,4
+2026-04-17,Amol Balakrishnan,B.Tech Computer Science (AI),LoRA;Fine-tuning;Transformers,7.35,AI / GenAI Engineer,,0,6
+2026-04-17,Indrajit Dixit,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,7.2,AI / GenAI Engineer,AI Prototype,1,4
+2026-04-17,Januja Chaudry,B.Tech AI,NLP;spaCy;Text Processing,9.09,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Champak Deep,B.Tech AI & ML,YOLO;Object Detection;CV,8.06,AI / GenAI Engineer,,0,8
+2026-04-17,Ikbal Bhagat,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,8.29,AI / GenAI Engineer,,0,5
+2026-04-17,Udarsh Prasad,B.Tech AI,LlamaIndex;RAG;LLMs,9.71,AI / GenAI Engineer,AI Chatbot;Content Generator,2,8
+2026-04-17,Chakrika Divan,B.Tech AI,LoRA;Fine-tuning;Transformers,7.46,AI / GenAI Engineer,Custom LLM Fine-tuning;BERT Classifier;Text Generation Model;Domain-specific LLM,4,8
+2026-04-17,Chaitaly Korpal,B.Tech AI,FastAPI;Flask;Model Deployment,9.76,AI / GenAI Engineer,LLM Backend System;AI API Service,2,8
+2026-04-17,Amaira Wason,B.Tech Computer Science (AI),LoRA;Fine-tuning;Transformers,9.69,AI / GenAI Engineer,Text Generation Model;Domain-specific LLM,2,4
+2026-04-17,Shivani Palla,MCA Artificial Intelligence,AI Agents;LangGraph;Tool Calling,7.47,AI / GenAI Engineer,Autonomous AI Agent;Multi-tool Agent System,2,5
+2026-04-17,Dalbir Kalla,B.Tech AI & ML,FastAPI;Flask;Model Deployment,9.36,AI / GenAI Engineer,LLM Backend System;AI API Service,2,7
+2026-04-17,Saumya Subramaniam,B.Tech AI & ML,PEFT;Model Fine-tuning,7.57,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,8
+2026-04-17,Veda Rao,MCA Artificial Intelligence,LangChain;LLMs;Prompt Engineering,8.98,AI / GenAI Engineer,AI Chatbot;Tool-using Agent;LLM-based Assistant,3,8
+2026-04-17,Aarna Walla,MCA Artificial Intelligence,LLMs;Prompt Engineering;OpenAI API,7.99,AI / GenAI Engineer,,0,6
+2026-04-17,Omisha Aggarwal,B.Tech Computer Science (AI),Python;Machine Learning;Feature Engineering,8.46,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Vasana Lanka,B.Tech AI,Vision-Language Models;CLIP;Multimodal AI,7.07,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,4
+2026-04-17,Ikshita Madan,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,9.01,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Hamsini Dube,B.Tech AI,LLMs;Prompt Engineering;OpenAI API,8.66,AI / GenAI Engineer,Content Generator;Instruction-tuned Bot;AI Chatbot;Prompt Optimization System,4,4
+2026-04-17,Gagan Sawhney,B.Tech AI,Python;NumPy;Pandas;Scikit-learn,9.1,AI / GenAI Engineer,,0,8
+2026-04-17,Upkaar Chand,MCA Artificial Intelligence,YOLO;Object Detection;CV,9.67,AI / GenAI Engineer,Real-time Object Detection;Detection Pipeline,2,6
+2026-04-17,Deepa Mahajan,B.Tech AI & ML,AWS;S3;Lambda;Deployment,9.4,AI / GenAI Engineer,Serverless AI Pipeline;Cloud Deployed AI System,2,6
+2026-04-17,Kevin Dara,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,8.69,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,6
+2026-04-17,Brinda Sengupta,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,9.29,AI / GenAI Engineer,Vision-Language Model App;Image + Text AI System,2,8
+2026-04-17,Yoshita Mall,B.Tech AI & ML,Docker;CI/CD;MLOps,9.57,AI / GenAI Engineer,Dockerized AI App;Containerized LLM Service,2,8
+2026-04-17,Pranav Srivastava,B.Tech AI,RAG;Vector DB;Embeddings,7.62,AI / GenAI Engineer,,0,5
+2026-04-17,Yatin Solanki,B.Tech AI & ML,NLP;spaCy;Text Processing,8.72,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Amaira Sundaram,B.Tech AI & ML,PyTorch;Deep Learning;CNN,8.71,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,4
+2026-04-17,Gunbir Ravi,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,9.43,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Tara Basu,B.Tech AI,Transformers;BERT;HuggingFace,8.61,AI / GenAI Engineer,,0,5
+2026-04-17,Chakradhar Ravel,B.Tech AI,LangChain;LLMs;Prompt Engineering,7.82,AI / GenAI Engineer,,0,5
+2026-04-17,Dhriti Yadav,B.Tech AI & ML,LangChain;LLMs;Prompt Engineering,8.78,AI / GenAI Engineer,LangChain Chatbot;AI Chatbot;Content Generator;LLM-based Assistant;Prompt Optimization System,5,6
+2026-04-17,Jai Gopal,B.Tech AI & ML,LlamaIndex;RAG;LLMs,8.28,AI / GenAI Engineer,LLM-based Assistant;Document Q&A System;AI Chatbot;RAG Knowledge Assistant;Content Generator,5,7
+2026-04-17,Nirja Kumer,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.02,AI / GenAI Engineer,Real-time Object Detection;Detection Pipeline,2,8
+2026-04-17,Zaitra Bhakta,B.Tech AI & ML,Vision-Language Models;CLIP;Multimodal AI,7.55,AI / GenAI Engineer,,0,6
+2026-04-17,Ishani Deo,B.Tech AI,FastAPI;Flask;Model Deployment,7.58,AI / GenAI Engineer,LLM Backend System;AI API Service,2,7
+2026-04-17,Suhani Raval,B.Tech AI,PEFT;Model Fine-tuning,8.96,AI / GenAI Engineer,Custom LLM Fine-tuning;Domain-specific LLM,2,5
+2026-04-17,Hredhaan Murthy,MCA Artificial Intelligence,LoRA;Fine-tuning;Transformers,8.96,AI / GenAI Engineer,BERT Classifier,1,6
+2026-04-17,Aayush Verma,B.Tech AI & ML,AWS;S3;Lambda;Deployment,9.06,AI / GenAI Engineer,,0,6
+2026-04-17,Imaran Nori,B.Tech Computer Science (AI),FAISS;ChromaDB;Retrieval,8.91,AI / GenAI Engineer,Semantic Search System;Vector Search Engine,2,5
+2026-04-17,Udant Wason,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,8.58,AI / GenAI Engineer,,0,4
+2026-04-17,Falak Vaidya,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,7.81,AI / GenAI Engineer,Face Detection System;Object Tracking App,2,4
+2026-04-17,Parth Pradhan,B.Tech AI,AWS;S3;Lambda;Deployment,9.61,AI / GenAI Engineer,,0,6
+2026-04-17,Neel Kakar,B.Tech AI,OpenCV;Computer Vision;Image Processing,9.51,AI / GenAI Engineer,,0,8
+2026-04-17,Ati Roy,B.Tech Computer Science (AI),RAG;Vector DB;Embeddings,9.1,AI / GenAI Engineer,Document Q&A System;RAG Knowledge Assistant,2,8
+2026-04-17,Yashica Tak,MCA Artificial Intelligence,LoRA;Fine-tuning;Transformers,8.01,AI / GenAI Engineer,Domain-specific LLM;BERT Classifier,2,8
+2026-04-17,Ayushman Bawa,B.Tech AI,TensorFlow;Keras;Neural Networks,8.96,AI / GenAI Engineer,Deep Learning Model;Image Classifier,2,7
+2026-04-17,Chaman Pandit,B.Tech AI,YOLO;Object Detection;CV,7.91,AI / GenAI Engineer,Detection Pipeline;Real-time Object Detection,2,6
+2026-04-17,Diya Mishra,B.Tech Computer Science (AI),TensorFlow;Keras;Neural Networks,7.51,AI / GenAI Engineer,Deep Learning Model,1,8
+2026-04-17,Harsh Chaudhuri,B.Tech Computer Science (AI),NLP;spaCy;Text Processing,9.48,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Atharv Sidhu,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,9.54,AI / GenAI Engineer,AI Chatbot;Instruction-tuned Bot;Content Generator;LLM-based Assistant,4,7
+2026-04-17,Frado Tara,B.Tech Computer Science (AI),Transformers;BERT;HuggingFace,8.39,AI / GenAI Engineer,BERT Classifier,1,7
+2026-04-17,Diya Dada,B.Tech AI,Vision-Language Models;CLIP;Multimodal AI,7.07,AI / GenAI Engineer,Image + Text AI System;Vision-Language Model App,2,8
+2026-04-17,Ayushman Kala,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,9.46,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,6
+2026-04-17,Falguni Kapur,B.Tech AI,LoRA;Fine-tuning;Transformers,9.37,AI / GenAI Engineer,Text Generation Model;Custom LLM Fine-tuning;BERT Classifier;Domain-specific LLM,4,6
+2026-04-17,Yamini Gour,B.Tech Computer Science (AI),PEFT;Model Fine-tuning,8.22,AI / GenAI Engineer,Custom LLM Fine-tuning,1,4
+2026-04-17,Balendra Lal,B.Tech AI & ML,AWS;S3;Lambda;Deployment,8.76,AI / GenAI Engineer,Cloud Deployed AI System;Serverless AI Pipeline,2,5
+2026-04-17,Agastya Dhar,B.Tech AI & ML,RAG;Vector DB;Embeddings,7.23,AI / GenAI Engineer,Document Q&A System;RAG Knowledge Assistant,2,7
+2026-04-17,Praneel Goyal,B.Tech Computer Science (AI),LLMs;Prompt Engineering;OpenAI API,7.84,AI / GenAI Engineer,Instruction-tuned Bot;AI Chatbot,2,4
+2026-04-17,Ladli Pillai,B.Tech AI,AWS;S3;Lambda;Deployment,7.13,AI / GenAI Engineer,,0,7
+2026-04-17,Vinaya Kalla,MCA Artificial Intelligence,OpenCV;Computer Vision;Image Processing,7.59,AI / GenAI Engineer,Object Tracking App,1,5
+2026-04-17,Kamala Gole,B.Tech AI & ML,AWS;S3;Lambda;Deployment,7.0,AI / GenAI Engineer,Cloud Deployed AI System;Serverless AI Pipeline,2,5
+2026-04-17,Avni Sarma,B.Tech AI & ML,Python;Machine Learning;Feature Engineering,8.29,AI / GenAI Engineer,AI Prototype,1,8
+2026-04-17,Samaksh Dalal,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,8.65,AI / GenAI Engineer,Customer Churn Prediction,1,6
+2026-04-17,Kashish Khalsa,B.Tech AI & ML,PyTorch;Deep Learning;CNN,8.84,AI / GenAI Engineer,Custom Neural Network;CNN Image Model,2,5
+2026-04-17,Elijah Mander,MCA Artificial Intelligence,NLP;spaCy;Text Processing,9.48,AI / GenAI Engineer,AI Prototype,1,6
+2026-04-17,Udyati Dayal,MCA Artificial Intelligence,LangChain;LLMs;Prompt Engineering,8.51,AI / GenAI Engineer,LangChain Chatbot;LLM-based Assistant,2,7
+2026-04-17,Tejas Ahluwalia,B.Tech AI,AWS;S3;Lambda;Deployment,9.25,AI / GenAI Engineer,Serverless AI Pipeline;Cloud Deployed AI System,2,8
+2026-04-17,Indali Walia,B.Tech AI,Python;Machine Learning;Feature Engineering,8.88,AI / GenAI Engineer,AI Prototype,1,7
+2026-04-17,Netra Krish,B.Tech AI,Python;Machine Learning;Feature Engineering,9.16,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Divya Patel,MCA Artificial Intelligence,FastAPI;Flask;Model Deployment,9.78,AI / GenAI Engineer,AI API Service;LLM Backend System,2,5
+2026-04-17,Saumya Deo,B.Tech Computer Science (AI),LlamaIndex;RAG;LLMs,8.95,AI / GenAI Engineer,RAG Knowledge Assistant,1,5
+2026-04-17,Indrajit Nadkarni,B.Tech Computer Science (AI),Vision-Language Models;CLIP;Multimodal AI,8.17,AI / GenAI Engineer,Image + Text AI System,1,4
+2026-04-17,Hemal Yohannan,B.Tech AI & ML,AI Agents;LangGraph;Tool Calling,9.6,AI / GenAI Engineer,Multi-tool Agent System,1,7
+2026-04-17,Ekani Batra,B.Tech AI,AI Agents;LangGraph;Tool Calling,9.29,AI / GenAI Engineer,Autonomous AI Agent,1,6
+2026-04-17,Jagvi Khalsa,B.Tech AI,Transformers;BERT;HuggingFace,7.61,AI / GenAI Engineer,BERT Classifier;Text Generation Model,2,5
+2026-04-17,Chavvi Bawa,B.Tech Computer Science (AI),Python;Machine Learning;Feature Engineering,7.23,AI / GenAI Engineer,AI Prototype,1,5
+2026-04-17,Abhimanyu Tata,B.Tech AI & ML,LlamaIndex;RAG;LLMs,7.16,AI / GenAI Engineer,Document Q&A System;LLM-based Assistant;AI Chatbot;RAG Knowledge Assistant,4,4
+2026-04-17,Qabil Sangha,MCA Artificial Intelligence,PyTorch;Deep Learning;CNN,8.29,AI / GenAI Engineer,CNN Image Model;Custom Neural Network,2,6
+2026-04-17,Zayan Anne,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,9.49,AI / GenAI Engineer,,0,8

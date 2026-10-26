@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Bishakha Rajagopalan,MCA AI,Anomaly Detection;Fraud Detection,8.05,ML Engineer,Fraud Detection System,1,4
+2026-04-17,Inaya Dugar,B.Tech AI & ML,Time Series;Forecasting;ARIMA,9.01,ML Engineer,Demand Forecasting System,1,7
+2026-04-17,Xiti Nigam,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,9.79,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,4
+2026-04-17,Michael Narain,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,9.65,ML Engineer,ML Prototype,1,6
+2026-04-17,Wriddhish Luthra,B.Tech AI & ML,OpenCV;Image Processing;Computer Vision,8.25,ML Engineer,Object Tracking System,1,6
+2026-04-17,Yasti Pandit,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,9.1,ML Engineer,ML Prototype,1,5
+2026-04-17,Ishita Mani,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,9.09,ML Engineer,Customer Churn Prediction;Loan Default Prediction;End-to-End ML Pipeline,3,5
+2026-04-17,Balhaar Dara,B.Tech Machine Learning,Docker;MLflow;CI/CD,8.96,ML Engineer,,0,8
+2026-04-17,Idika Kadakia,B.Tech AI & ML,FastAPI;Flask;Model Serving,9.4,ML Engineer,Prediction Service API,1,7
+2026-04-17,Dominic Saxena,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,8.77,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,8
+2026-04-17,Vamakshi Buch,MCA AI,FastAPI;Flask;Model Serving,7.07,ML Engineer,,0,4
+2026-04-17,Nikita Bahri,MCA AI,YOLO;Object Detection;CV,7.84,ML Engineer,Object Detection System;Real-time Detection App,2,8
+2026-04-17,Krishna Pant,MCA AI,Python;NumPy;Pandas;Scikit-learn,8.68,ML Engineer,,0,7
+2026-04-17,Abeer Sinha,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,9.42,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,4
+2026-04-17,Ojasvi Bath,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,7.15,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,4
+2026-04-17,Ekantika Chandra,MCA AI,XGBoost;LightGBM;Model Tuning,9.37,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,4
+2026-04-17,Krishna Narayanan,MCA AI,Ensemble Learning;Hyperparameter Optimization,8.7,ML Engineer,ML Prototype,1,5
+2026-04-17,Nathan Bala,MCA AI,Python;Feature Engineering;Model Evaluation,9.04,ML Engineer,ML Prototype,1,4
+2026-04-17,Anjali Rastogi,MCA AI,Ensemble Learning;Hyperparameter Optimization,9.25,ML Engineer,ML Prototype,1,7
+2026-04-17,Faraj Sachar,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,9.41,ML Engineer,Serverless ML Pipeline;Deployed ML Model on AWS,2,5
+2026-04-17,Tanay Prabhu,MCA AI,YOLO;Object Detection;CV,9.61,ML Engineer,,0,6
+2026-04-17,Rajata Hans,B.Tech AI & ML,Anomaly Detection;Fraud Detection,7.02,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,6
+2026-04-17,Hemang Sharma,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,8.68,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,4
+2026-04-17,Anirudh Krish,B.Tech Computer Science (AI),Spark;PySpark;Big Data,9.48,ML Engineer,Big Data ML Pipeline;Distributed Training System,2,4
+2026-04-17,Warhi Bose,B.Tech Computer Science (AI),Recommender Systems;Collaborative Filtering,7.07,ML Engineer,Movie Recommendation Engine;Product Recommendation System,2,4
+2026-04-17,Yauvani Som,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,7.94,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,8
+2026-04-17,Gaurika Guha,B.Tech Machine Learning,YOLO;Object Detection;CV,8.51,ML Engineer,Object Detection System,1,5
+2026-04-17,Finn Sabharwal,B.Tech Computer Science (AI),XGBoost;LightGBM;Model Tuning,8.45,ML Engineer,,0,5
+2026-04-17,Ekalinga Jain,B.Tech Machine Learning,Python;NumPy;Pandas;Scikit-learn,9.6,ML Engineer,End-to-End ML Pipeline;Loan Default Prediction;Customer Churn Prediction,3,4
+2026-04-17,Daniel Dalal,MCA AI,Anomaly Detection;Fraud Detection,8.35,ML Engineer,Anomaly Detection Pipeline;Fraud Detection System,2,6
+2026-04-17,Charan Kala,B.Tech AI & ML,XGBoost;LightGBM;Model Tuning,9.43,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,8
+2026-04-17,Kritika Golla,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,9.68,ML Engineer,ML Prototype,1,6
+2026-04-17,Logan Dani,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,7.21,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,5
+2026-04-17,Balhaar Virk,B.Tech Computer Science (AI),YOLO;Object Detection;CV,7.63,ML Engineer,Object Detection System;Real-time Detection App,2,7
+2026-04-17,Yash Natt,B.Tech AI & ML,Time Series;Forecasting;ARIMA,8.44,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,6
+2026-04-17,Chandani Saxena,B.Tech Computer Science (AI),OpenCV;Image Processing;Computer Vision,7.53,ML Engineer,Object Tracking System;Face Detection System,2,4
+2026-04-17,Tanay Seth,B.Tech Computer Science (AI),TensorFlow;Neural Networks;Keras,9.4,ML Engineer,Deep Learning Model;Neural Network Classifier,2,7
+2026-04-17,Ronith Banerjee,B.Tech Machine Learning,FastAPI;Flask;Model Serving,9.23,ML Engineer,Prediction Service API;ML API using FastAPI,2,5
+2026-04-17,Gaurang Puri,MCA AI,SQL;ETL;Data Pipelines,8.38,ML Engineer,ML Prototype,1,5
+2026-04-17,Jalsa Sarna,B.Tech Computer Science (AI),Ensemble Learning;Hyperparameter Optimization,7.04,ML Engineer,ML Prototype,1,8
+2026-04-17,Mekhala Bora,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,7.96,ML Engineer,ML Prototype,1,6
+2026-04-17,Raagini Bassi,B.Tech Computer Science (AI),PyTorch;Transformers;BERT,9.53,ML Engineer,LLM-based Chatbot,1,6
+2026-04-17,Harrison Yohannan,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,7.32,ML Engineer,Serverless ML Pipeline,1,4
+2026-04-17,Jagat Kala,MCA AI,AWS;S3;Lambda;Deployment,9.15,ML Engineer,,0,5
+2026-04-17,Caleb Chakrabarti,B.Tech AI & ML,Transformers;HuggingFace;LLMs,8.27,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,4
+2026-04-17,Ekalinga Sabharwal,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,8.7,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,8
+2026-04-17,Amol Khalsa,MCA AI,Time Series;Forecasting;ARIMA,8.91,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,6
+2026-04-17,Abdul Naidu,MCA AI,SQL;ETL;Data Pipelines,9.28,ML Engineer,ML Prototype,1,7
+2026-04-17,Aadhya Purohit,MCA AI,GCP;Vertex AI;Cloud ML,7.21,ML Engineer,ML Prototype,1,6
+2026-04-17,Tanay Gaba,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,7.42,ML Engineer,ML Prototype,1,4
+2026-04-17,Warhi Mahajan,B.Tech AI & ML,AWS;S3;Lambda;Deployment,9.23,ML Engineer,Deployed ML Model on AWS;Serverless ML Pipeline,2,8
+2026-04-17,Damini Deshpande,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,7.39,ML Engineer,,0,6
+2026-04-17,Eesha Sarraf,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,8.27,ML Engineer,,0,7
+2026-04-17,Shaurya Sant,MCA AI,OpenCV;Image Processing;Computer Vision,7.06,ML Engineer,Face Detection System;Object Tracking System,2,8
+2026-04-17,Madhav Khare,B.Tech AI & ML,Docker;MLflow;CI/CD,7.23,ML Engineer,Containerized ML App;Dockerized ML Pipeline,2,4
+2026-04-17,Laban Tandon,B.Tech Machine Learning,Python;NumPy;Pandas;Scikit-learn,8.71,ML Engineer,Loan Default Prediction;Customer Churn Prediction;End-to-End ML Pipeline,3,5
+2026-04-17,Yoshita Tak,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,9.62,ML Engineer,ML Prototype,1,6
+2026-04-17,Bimala Raju,MCA AI,Anomaly Detection;Fraud Detection,9.65,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,5
+2026-04-17,Chandani Som,B.Tech AI & ML,PyTorch;Deep Learning;CNN,9.77,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,5
+2026-04-17,Azaan Dani,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,7.14,ML Engineer,ML Prototype,1,5
+2026-04-17,Oliver Hegde,B.Tech Computer Science (AI),XGBoost;LightGBM;Model Tuning,9.59,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,6
+2026-04-17,Shivansh Maharaj,B.Tech AI & ML,Python;Feature Engineering;Model Evaluation,7.42,ML Engineer,ML Prototype,1,7
+2026-04-17,Ethan Garde,B.Tech AI & ML,Spark;PySpark;Big Data,7.61,ML Engineer,Big Data ML Pipeline,1,6
+2026-04-17,Om Seth,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,8.69,ML Engineer,Face Detection System;Object Tracking System,2,8
+2026-04-17,Avi Sarraf,MCA AI,Kubernetes;Model Deployment;Scaling,8.58,ML Engineer,,0,4
+2026-04-17,Krish Sathe,B.Tech AI & ML,Anomaly Detection;Fraud Detection,8.63,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,6
+2026-04-17,Abdul Chhabra,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,9.37,ML Engineer,Object Tracking System,1,7
+2026-04-17,Ayushman Mallick,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,9.59,ML Engineer,ML Prototype,1,7
+2026-04-17,Samarth Kuruvilla,MCA AI,TensorFlow;Neural Networks;Keras,7.74,ML Engineer,Deep Learning Model;Neural Network Classifier,2,8
+2026-04-17,Eiravati Ganesh,B.Tech AI & ML,FastAPI;Flask;Model Serving,8.63,ML Engineer,ML API using FastAPI;Prediction Service API,2,4
+2026-04-17,Logan Walia,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,7.92,ML Engineer,CNN Image Classifier;Custom Deep Learning Model,2,8
+2026-04-17,Peter Dani,B.Tech Machine Learning,TensorFlow;Neural Networks;Keras,8.42,ML Engineer,Deep Learning Model;Neural Network Classifier,2,6
+2026-04-17,Yatin Venkatesh,MCA AI,FastAPI;Flask;Model Serving,7.05,ML Engineer,,0,5
+2026-04-17,Ekaja Sidhu,B.Tech Machine Learning,YOLO;Object Detection;CV,9.22,ML Engineer,Real-time Detection App,1,8
+2026-04-17,Ranbir Natt,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.12,ML Engineer,,0,4
+2026-04-17,Aarna Sinha,B.Tech Machine Learning,Anomaly Detection;Fraud Detection,7.22,ML Engineer,Anomaly Detection Pipeline,1,6
+2026-04-17,Unnati Chakraborty,B.Tech Machine Learning,Kubernetes;Model Deployment;Scaling,7.94,ML Engineer,,0,4
+2026-04-17,Eesha Shere,B.Tech Computer Science (AI),PyTorch;Transformers;BERT,8.93,ML Engineer,CNN Image Classifier,1,7
+2026-04-17,Om Lala,B.Tech Machine Learning,Time Series;Forecasting;ARIMA,8.02,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,4
+2026-04-17,Wyatt Som,B.Tech Computer Science (AI),FastAPI;Flask;Model Serving,7.19,ML Engineer,ML API using FastAPI;Prediction Service API,2,4
+2026-04-17,Oscar Tank,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,7.6,ML Engineer,Custom Deep Learning Model,1,8
+2026-04-17,Faraj Bhatia,MCA AI,FastAPI;Flask;Model Serving,8.02,ML Engineer,ML API using FastAPI;Prediction Service API,2,4
+2026-04-17,Charan Dora,B.Tech Computer Science (AI),Python;Feature Engineering;Model Evaluation,7.98,ML Engineer,,0,8
+2026-04-17,Upasna Mutti,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,8.38,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,5
+2026-04-17,Kamala Bhavsar,B.Tech Computer Science (AI),Anomaly Detection;Fraud Detection,7.07,ML Engineer,Anomaly Detection Pipeline;Fraud Detection System,2,5
+2026-04-17,Varenya Natt,B.Tech AI & ML,Python;Feature Engineering;Model Evaluation,7.44,ML Engineer,ML Prototype,1,8
+2026-04-17,Harshil Chakrabarti,MCA AI,Time Series;Forecasting;ARIMA,7.17,ML Engineer,Stock Price Prediction,1,6
+2026-04-17,Nicholas Shenoy,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,8.23,ML Engineer,ML Prototype,1,7
+2026-04-17,Isaac Dada,MCA AI,Anomaly Detection;Fraud Detection,7.07,ML Engineer,,0,4
+2026-04-17,Omaja Radhakrishnan,B.Tech Machine Learning,FastAPI;Flask;Model Serving,7.95,ML Engineer,ML API using FastAPI;Prediction Service API,2,8
+2026-04-17,Kamya Saraf,B.Tech AI & ML,XGBoost;LightGBM;Model Tuning,7.85,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,8
+2026-04-17,Siddharth Palan,MCA AI,Transformers;HuggingFace;LLMs,9.0,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,7
+2026-04-17,Aahana Agrawal,B.Tech AI & ML,Kubernetes;Model Deployment;Scaling,7.07,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,7
+2026-04-17,Vasana Bassi,MCA AI,Python;NumPy;Pandas;Scikit-learn,8.93,ML Engineer,End-to-End ML Pipeline;Loan Default Prediction;Customer Churn Prediction,3,4
+2026-04-17,Meghana Balakrishnan,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,7.69,ML Engineer,K8s Model Serving System,1,5
+2026-04-17,Yashoda Nori,B.Tech AI & ML,AWS;S3;Lambda;Deployment,8.08,ML Engineer,,0,6
+2026-04-17,Leena Gokhale,B.Tech AI & ML,Kubernetes;Model Deployment;Scaling,8.46,ML Engineer,K8s Model Serving System,1,6
+2026-04-17,Dakshesh Chokshi,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,9.4,ML Engineer,ML Prototype,1,7
+2026-04-17,Balendra Prabhu,MCA AI,YOLO;Object Detection;CV,7.94,ML Engineer,Real-time Detection App;Object Detection System,2,5
+2026-04-17,Aishani Pal,B.Tech Machine Learning,Spark;PySpark;Big Data,8.61,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,7
+2026-04-17,Aishani Singhal,MCA AI,Ensemble Learning;Hyperparameter Optimization,8.42,ML Engineer,ML Prototype,1,7
+2026-04-17,Wahab Mandal,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,8.21,ML Engineer,ML Prototype,1,8
+2026-04-17,Kamya Chauhan,B.Tech AI & ML,Python;Feature Engineering;Model Evaluation,8.42,ML Engineer,ML Prototype,1,5
+2026-04-17,Balhaar Vala,B.Tech AI & ML,OpenCV;Image Processing;Computer Vision,9.35,ML Engineer,Object Tracking System;Face Detection System,2,5
+2026-04-17,Utkarsh Sura,MCA AI,NLP;spaCy;Text Processing,8.52,ML Engineer,ML Prototype,1,6
+2026-04-17,Hemal Bal,MCA AI,YOLO;Object Detection;CV,8.5,ML Engineer,Object Detection System,1,4
+2026-04-17,Daksha Khanna,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,7.42,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,8
+2026-04-17,Osha Mukherjee,B.Tech AI & ML,PyTorch;Deep Learning;CNN,9.53,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,6
+2026-04-17,Yashica Aurora,B.Tech AI & ML,Recommender Systems;Collaborative Filtering,7.31,ML Engineer,Product Recommendation System;Movie Recommendation Engine,2,7
+2026-04-17,Ishani Ratta,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,9.15,ML Engineer,CNN Image Classifier;Custom Deep Learning Model,2,6
+2026-04-17,Anusha Lanka,MCA AI,Docker;MLflow;CI/CD,9.71,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,5
+2026-04-17,Yashvi Chaudhry,B.Tech AI & ML,Spark;PySpark;Big Data,7.55,ML Engineer,Big Data ML Pipeline,1,4
+2026-04-17,Liam Nair,B.Tech AI & ML,Recommender Systems;Collaborative Filtering,8.16,ML Engineer,Product Recommendation System;Movie Recommendation Engine,2,7
+2026-04-17,Harrison Sagar,B.Tech Computer Science (AI),Time Series;Forecasting;ARIMA,8.94,ML Engineer,Stock Price Prediction;Demand Forecasting System,2,6
+2026-04-17,Amaira Minhas,B.Tech Computer Science (AI),Recommender Systems;Collaborative Filtering,9.38,ML Engineer,Movie Recommendation Engine,1,5
+2026-04-17,Luke Deol,MCA AI,SQL;ETL;Data Pipelines,7.7,ML Engineer,ML Prototype,1,6
+2026-04-17,Charita Sarma,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,9.33,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,8
+2026-04-17,Lavanya Natt,B.Tech AI & ML,Kubernetes;Model Deployment;Scaling,8.97,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,5
+2026-04-17,Vihaan Pandit,B.Tech AI & ML,Ensemble Learning;Hyperparameter Optimization,9.79,ML Engineer,,0,5
+2026-04-17,Dalbir Mani,B.Tech Computer Science (AI),Time Series;Forecasting;ARIMA,7.74,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,4
+2026-04-17,Ria Kadakia,B.Tech Machine Learning,NLP;spaCy;Text Processing,9.14,ML Engineer,,0,6
+2026-04-17,Rachita Prakash,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.75,ML Engineer,Real-time Detection App;Object Detection System,2,6
+2026-04-17,Zehaan Nadig,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,7.58,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,6
+2026-04-17,Urvashi Om,MCA AI,Docker;MLflow;CI/CD,7.3,ML Engineer,Containerized ML App;Dockerized ML Pipeline,2,7
+2026-04-17,Anya Tailor,B.Tech Computer Science (AI),Ensemble Learning;Hyperparameter Optimization,9.15,ML Engineer,ML Prototype,1,4
+2026-04-17,Lekha Gera,MCA AI,XGBoost;LightGBM;Model Tuning,8.01,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,7
+2026-04-17,Chatresh Rajagopal,B.Tech Computer Science (AI),Time Series;Forecasting;ARIMA,8.77,ML Engineer,,0,7
+2026-04-17,Harshil Hora,MCA AI,Ensemble Learning;Hyperparameter Optimization,8.49,ML Engineer,ML Prototype,1,4
+2026-04-17,Lajita Chander,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.71,ML Engineer,,0,4
+2026-04-17,Darika Saxena,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,9.57,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,6
+2026-04-17,Triya Mann,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,8.06,ML Engineer,Deployed ML Model on AWS;Serverless ML Pipeline,2,8
+2026-04-17,David Palan,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,8.87,ML Engineer,Customer Churn Prediction,1,8
+2026-04-17,Suhani Mangat,B.Tech Computer Science (AI),Spark;PySpark;Big Data,7.52,ML Engineer,Big Data ML Pipeline;Distributed Training System,2,4
+2026-04-17,Jhalak Patel,B.Tech AI & ML,Time Series;Forecasting;ARIMA,7.23,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,5
+2026-04-17,Nidra Das,MCA AI,YOLO;Object Detection;CV,8.11,ML Engineer,Real-time Detection App,1,8
+2026-04-17,Gunbir Dasgupta,MCA AI,Docker;MLflow;CI/CD,9.09,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,7
+2026-04-17,Rajeshri Verma,MCA AI,FastAPI;Flask;Model Serving,7.77,ML Engineer,,0,6
+2026-04-17,Dipta Mody,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,8.41,ML Engineer,,0,6
+2026-04-17,Vaishnavi Atwal,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,7.6,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,4
+2026-04-17,Rayaan Narayan,B.Tech Computer Science (AI),NLP;spaCy;Text Processing,7.42,ML Engineer,ML Prototype,1,8
+2026-04-17,Jai Nazareth,B.Tech Machine Learning,Python;NumPy;Pandas;Scikit-learn,8.26,ML Engineer,End-to-End ML Pipeline;Loan Default Prediction;Customer Churn Prediction,3,7
+2026-04-17,Jairaj Mital,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,8.49,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,4
+2026-04-17,Aahana Grewal,MCA AI,PyTorch;Deep Learning;CNN,8.52,ML Engineer,CNN Image Classifier,1,8
+2026-04-17,Pranit Bansal,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,8.97,ML Engineer,,0,5
+2026-04-17,Radhika Chhabra,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,8.68,ML Engineer,ML Prototype,1,5
+2026-04-17,Reyansh Contractor,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,9.4,ML Engineer,LLM-based Chatbot,1,7
+2026-04-17,Sarthak Sachdeva,B.Tech Machine Learning,SQL;ETL;Data Pipelines,7.51,ML Engineer,ML Prototype,1,5
+2026-04-17,Yashodhara Bhatia,MCA AI,PyTorch;Deep Learning;CNN,7.43,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,5
+2026-04-17,Hardik Prabhu,B.Tech Computer Science (AI),PyTorch;Transformers;BERT,9.13,ML Engineer,BERT Text Classifier;LLM-based Chatbot;CNN Image Classifier;Custom Deep Learning Model,4,6
+2026-04-17,Kamala Chauhan,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,9.28,ML Engineer,End-to-End ML Pipeline;Loan Default Prediction;Customer Churn Prediction,3,4
+2026-04-17,Anya Bedi,B.Tech Machine Learning,PyTorch;Transformers;BERT,7.6,ML Engineer,CNN Image Classifier;Custom Deep Learning Model;BERT Text Classifier;LLM-based Chatbot,4,6
+2026-04-17,Nilima Balasubramanian,B.Tech AI & ML,Spark;PySpark;Big Data,8.16,ML Engineer,,0,7
+2026-04-17,Wazir Narayanan,MCA AI,SQL;ETL;Data Pipelines,7.16,ML Engineer,,0,8
+2026-04-17,Hardik Banerjee,MCA AI,AWS;S3;Lambda;Deployment,8.98,ML Engineer,Deployed ML Model on AWS,1,4
+2026-04-17,Ekapad Sharma,MCA AI,AWS;S3;Lambda;Deployment,8.0,ML Engineer,Serverless ML Pipeline;Deployed ML Model on AWS,2,8
+2026-04-17,Aishani Saha,MCA AI,Time Series;Forecasting;ARIMA,9.65,ML Engineer,,0,8
+2026-04-17,Divya Raj,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,7.63,ML Engineer,Deployed ML Model on AWS;Serverless ML Pipeline,2,5
+2026-04-17,Nikita Keer,B.Tech Machine Learning,NLP;spaCy;Text Processing,9.67,ML Engineer,ML Prototype,1,6
+2026-04-17,Robert Keer,MCA AI,Recommender Systems;Collaborative Filtering,8.78,ML Engineer,Product Recommendation System;Movie Recommendation Engine,2,7
+2026-04-17,Kabir Varty,B.Tech Computer Science (AI),TensorFlow;Neural Networks;Keras,8.35,ML Engineer,Deep Learning Model;Neural Network Classifier,2,7
+2026-04-17,Upkaar Vaidya,MCA AI,FastAPI;Flask;Model Serving,9.2,ML Engineer,Prediction Service API;ML API using FastAPI,2,6
+2026-04-17,Samesh Saxena,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,7.74,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,7
+2026-04-17,Oviya Bawa,B.Tech AI & ML,XGBoost;LightGBM;Model Tuning,8.83,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,7
+2026-04-17,Jasmit Mohan,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,9.69,ML Engineer,Loan Default Prediction;End-to-End ML Pipeline;Customer Churn Prediction,3,8
+2026-04-17,Qarin Rout,B.Tech AI & ML,TensorFlow;Neural Networks;Keras,8.58,ML Engineer,Deep Learning Model;Neural Network Classifier,2,5
+2026-04-17,Bhavika Varughese,MCA AI,PyTorch;Transformers;BERT,8.5,ML Engineer,Custom Deep Learning Model,1,5
+2026-04-17,Neel Raju,B.Tech Machine Learning,Anomaly Detection;Fraud Detection,9.73,ML Engineer,Anomaly Detection Pipeline,1,7
+2026-04-17,David Uppal,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,9.21,ML Engineer,Serverless ML Pipeline,1,6
+2026-04-17,Ikshita Contractor,B.Tech Machine Learning,NLP;spaCy;Text Processing,7.78,ML Engineer,ML Prototype,1,7
+2026-04-17,Rohan Trivedi,B.Tech Machine Learning,YOLO;Object Detection;CV,7.0,ML Engineer,Real-time Detection App;Object Detection System,2,4
+2026-04-17,Ekapad Kumar,B.Tech AI & ML,PyTorch;Transformers;BERT,9.45,ML Engineer,LLM-based Chatbot;Custom Deep Learning Model;CNN Image Classifier;BERT Text Classifier,4,7
+2026-04-17,Qarin Dhawan,B.Tech Computer Science (AI),Time Series;Forecasting;ARIMA,9.03,ML Engineer,Stock Price Prediction;Demand Forecasting System,2,5
+2026-04-17,Pranit Venkatesh,MCA AI,TensorFlow;Neural Networks;Keras,9.15,ML Engineer,Deep Learning Model;Neural Network Classifier,2,7
+2026-04-17,Chandran Jha,B.Tech AI & ML,PyTorch;Transformers;BERT,7.67,ML Engineer,BERT Text Classifier;Custom Deep Learning Model;CNN Image Classifier;LLM-based Chatbot,4,6
+2026-04-17,Rachit Koshy,B.Tech AI & ML,FastAPI;Flask;Model Serving,7.16,ML Engineer,,0,8
+2026-04-17,Pallavi Dayal,B.Tech Machine Learning,Spark;PySpark;Big Data,8.38,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,6
+2026-04-17,Yatan Atwal,MCA AI,SQL;ETL;Data Pipelines,9.73,ML Engineer,,0,8
+2026-04-17,Neel Jaggi,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,7.51,ML Engineer,ML Prototype,1,7
+2026-04-17,Forum Rout,B.Tech AI & ML,XGBoost;LightGBM;Model Tuning,8.21,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,5
+2026-04-17,Veda Warrior,MCA AI,AWS;S3;Lambda;Deployment,8.85,ML Engineer,Serverless ML Pipeline,1,5
+2026-04-17,Pallavi Dutta,MCA AI,Transformers;HuggingFace;LLMs,7.03,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,4
+2026-04-17,Hamsini Bassi,MCA AI,Ensemble Learning;Hyperparameter Optimization,8.4,ML Engineer,ML Prototype,1,6
+2026-04-17,Charan Gill,MCA AI,TensorFlow;Neural Networks;Keras,9.03,ML Engineer,Neural Network Classifier;Deep Learning Model,2,7
+2026-04-17,Quincy Kalita,B.Tech AI & ML,Anomaly Detection;Fraud Detection,7.21,ML Engineer,Fraud Detection System,1,4
+2026-04-17,Anamika Ben,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,7.14,ML Engineer,CNN Image Classifier;Custom Deep Learning Model,2,5
+2026-04-17,Darika Bhalla,B.Tech Computer Science (AI),XGBoost;LightGBM;Model Tuning,8.58,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,6
+2026-04-17,Niharika Badal,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,7.04,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,6
+2026-04-17,Wakeeta Raghavan,B.Tech Computer Science (AI),Spark;PySpark;Big Data,7.94,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,4
+2026-04-17,Peter Trivedi,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,8.78,ML Engineer,Serverless ML Pipeline;Deployed ML Model on AWS,2,8
+2026-04-17,Ekaja Thakur,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,8.74,ML Engineer,ML Prototype,1,5
+2026-04-17,Maanas Ben,MCA AI,Kubernetes;Model Deployment;Scaling,9.51,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,4
+2026-04-17,Nandini Malhotra,MCA AI,GCP;Vertex AI;Cloud ML,7.72,ML Engineer,,0,8
+2026-04-17,Yuvraj Chokshi,B.Tech AI & ML,Python;NumPy;Pandas;Scikit-learn,9.67,ML Engineer,,0,5
+2026-04-17,Gautam Borde,B.Tech Computer Science (AI),Python;Feature Engineering;Model Evaluation,9.44,ML Engineer,,0,4
+2026-04-17,Darpan Shan,B.Tech AI & ML,XGBoost;LightGBM;Model Tuning,8.31,ML Engineer,,0,8
+2026-04-17,Kalpit Khatri,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,7.68,ML Engineer,Face Detection System;Object Tracking System,2,7
+2026-04-17,Vrishti Dave,B.Tech AI & ML,Recommender Systems;Collaborative Filtering,9.23,ML Engineer,Product Recommendation System;Movie Recommendation Engine,2,6
+2026-04-17,Naveen Keer,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,8.34,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,8
+2026-04-17,Dipta Bains,B.Tech Machine Learning,Spark;PySpark;Big Data,8.98,ML Engineer,Big Data ML Pipeline;Distributed Training System,2,8
+2026-04-17,Saksham Pall,B.Tech Machine Learning,GCP;Vertex AI;Cloud ML,9.78,ML Engineer,ML Prototype,1,4
+2026-04-17,Bachittar Muni,MCA AI,GCP;Vertex AI;Cloud ML,7.54,ML Engineer,,0,4
+2026-04-17,Ishita Chaudhary,MCA AI,TensorFlow;Neural Networks;Keras,8.59,ML Engineer,Neural Network Classifier;Deep Learning Model,2,6
+2026-04-17,Jack Om,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,7.04,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,7
+2026-04-17,Nilima Kashyap,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,9.11,ML Engineer,,0,8
+2026-04-17,Ekaja Mishra,B.Tech AI & ML,Time Series;Forecasting;ARIMA,8.09,ML Engineer,Stock Price Prediction;Demand Forecasting System,2,5
+2026-04-17,Ikbal Batta,B.Tech Machine Learning,TensorFlow;Neural Networks;Keras,9.78,ML Engineer,Deep Learning Model;Neural Network Classifier,2,7
+2026-04-17,Jagvi Sastry,B.Tech AI & ML,OpenCV;Image Processing;Computer Vision,9.67,ML Engineer,Face Detection System;Object Tracking System,2,4
+2026-04-17,Gaurang Sibal,MCA AI,Transformers;HuggingFace;LLMs,7.23,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,5
+2026-04-17,Tanay Choudhury,B.Tech Computer Science (AI),Recommender Systems;Collaborative Filtering,7.38,ML Engineer,Product Recommendation System;Movie Recommendation Engine,2,8
+2026-04-17,Alexander Bhattacharyya,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,7.17,ML Engineer,,0,6
+2026-04-17,Praneel Banik,B.Tech Computer Science (AI),Time Series;Forecasting;ARIMA,8.9,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,6
+2026-04-17,Leena Goyal,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,8.39,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,5
+2026-04-17,Yoshita Warrior,B.Tech AI & ML,Ensemble Learning;Hyperparameter Optimization,9.06,ML Engineer,ML Prototype,1,7
+2026-04-17,Kai Dash,B.Tech Computer Science (AI),TensorFlow;Neural Networks;Keras,7.48,ML Engineer,Deep Learning Model;Neural Network Classifier,2,6
+2026-04-17,Girik Chatterjee,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,9.58,ML Engineer,,0,5
+2026-04-17,Ekiya Chandra,B.Tech AI & ML,FastAPI;Flask;Model Serving,7.12,ML Engineer,,0,4
+2026-04-17,Varsha D’Alia,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,9.7,ML Engineer,,0,7
+2026-04-17,Ojasvi Parsa,B.Tech AI & ML,Anomaly Detection;Fraud Detection,9.06,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,6
+2026-04-17,Chakradhar Sanghvi,B.Tech Machine Learning,Python;NumPy;Pandas;Scikit-learn,8.47,ML Engineer,Customer Churn Prediction;End-to-End ML Pipeline;Loan Default Prediction,3,8
+2026-04-17,Siddharth Hegde,B.Tech Computer Science (AI),TensorFlow;Neural Networks;Keras,8.36,ML Engineer,,0,5
+2026-04-17,Champak Prashad,B.Tech Machine Learning,SQL;ETL;Data Pipelines,9.33,ML Engineer,ML Prototype,1,4
+2026-04-17,Eta Chacko,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,9.29,ML Engineer,,0,5
+2026-04-17,Yachana Amble,B.Tech Machine Learning,Time Series;Forecasting;ARIMA,8.58,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,5
+2026-04-17,Yutika Bail,B.Tech AI & ML,Kubernetes;Model Deployment;Scaling,8.37,ML Engineer,Scalable ML Deployment,1,6
+2026-04-17,Hitesh Manda,B.Tech AI & ML,Time Series;Forecasting;ARIMA,8.69,ML Engineer,Stock Price Prediction,1,6
+2026-04-17,Sudiksha Atwal,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,9.66,ML Engineer,ML Prototype,1,4
+2026-04-17,Hardik Wadhwa,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,7.94,ML Engineer,Face Detection System;Object Tracking System,2,4
+2026-04-17,Manan Gera,B.Tech Computer Science (AI),Spark;PySpark;Big Data,8.91,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,8
+2026-04-17,Hema Dugar,B.Tech Computer Science (AI),PyTorch;Transformers;BERT,9.58,ML Engineer,,0,6
+2026-04-17,Jasmit Dhaliwal,B.Tech Machine Learning,Kubernetes;Model Deployment;Scaling,8.66,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,6
+2026-04-17,Yashodhara Goda,MCA AI,SQL;ETL;Data Pipelines,7.16,ML Engineer,,0,8
+2026-04-17,Peter Mistry,B.Tech AI & ML,OpenCV;Image Processing;Computer Vision,8.82,ML Engineer,,0,6
+2026-04-17,Benjamin Chanda,MCA AI,PyTorch;Deep Learning;CNN,9.2,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,4
+2026-04-17,Mitali Loyal,MCA AI,SQL;ETL;Data Pipelines,7.98,ML Engineer,ML Prototype,1,5
+2026-04-17,Wishi Bassi,B.Tech Machine Learning,Recommender Systems;Collaborative Filtering,8.9,ML Engineer,,0,6
+2026-04-17,Advay Raja,B.Tech Computer Science (AI),Python;Feature Engineering;Model Evaluation,7.09,ML Engineer,,0,8
+2026-04-17,Bimala Sharma,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,8.94,ML Engineer,CNN Image Classifier;Custom Deep Learning Model,2,6
+2026-04-17,Nilima Chandran,B.Tech Computer Science (AI),Python;Feature Engineering;Model Evaluation,8.21,ML Engineer,,0,8
+2026-04-17,Brijesh Ghosh,B.Tech AI & ML,OpenCV;Image Processing;Computer Vision,8.99,ML Engineer,Object Tracking System;Face Detection System,2,6
+2026-04-17,Meera Zachariah,B.Tech AI & ML,FastAPI;Flask;Model Serving,8.96,ML Engineer,Prediction Service API;ML API using FastAPI,2,6
+2026-04-17,Chavvi Sanghvi,MCA AI,PyTorch;Transformers;BERT,7.44,ML Engineer,CNN Image Classifier,1,5
+2026-04-17,Tanish Goel,MCA AI,AWS;S3;Lambda;Deployment,8.11,ML Engineer,,0,8
+2026-04-17,Charan Prashad,MCA AI,AWS;S3;Lambda;Deployment,8.31,ML Engineer,,0,5
+2026-04-17,Warjas Nath,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,7.32,ML Engineer,,0,6
+2026-04-17,Aarush Bawa,MCA AI,Ensemble Learning;Hyperparameter Optimization,8.68,ML Engineer,ML Prototype,1,5
+2026-04-17,Saksham Dutta,B.Tech AI & ML,FastAPI;Flask;Model Serving,8.02,ML Engineer,Prediction Service API;ML API using FastAPI,2,5
+2026-04-17,Ekansh De,MCA AI,PyTorch;Deep Learning;CNN,8.92,ML Engineer,,0,7
+2026-04-17,Elijah Rajagopalan,B.Tech Computer Science (AI),GCP;Vertex AI;Cloud ML,9.66,ML Engineer,,0,7
+2026-04-17,Fiyaz Pant,B.Tech AI & ML,PyTorch;Deep Learning;CNN,7.44,ML Engineer,Custom Deep Learning Model;CNN Image Classifier,2,5
+2026-04-17,Hredhaan Barad,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,9.4,ML Engineer,ML Prototype,1,5
+2026-04-17,Simon Bal,B.Tech Machine Learning,Anomaly Detection;Fraud Detection,7.84,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,7
+2026-04-17,Nisha Joshi,B.Tech AI & ML,Docker;MLflow;CI/CD,7.88,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,5
+2026-04-17,Sneha Sheth,B.Tech Computer Science (AI),XGBoost;LightGBM;Model Tuning,9.21,ML Engineer,XGBoost Optimization Project,1,6
+2026-04-17,Jack Goda,B.Tech AI & ML,Spark;PySpark;Big Data,8.59,ML Engineer,,0,7
+2026-04-17,Vihaan Magar,B.Tech Machine Learning,AWS;S3;Lambda;Deployment,7.34,ML Engineer,,0,6
+2026-04-17,Lucky Ravi,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,8.3,ML Engineer,CNN Image Classifier,1,5
+2026-04-17,Amruta Agate,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,9.45,ML Engineer,ML Prototype,1,6
+2026-04-17,Gunbir Bora,B.Tech Computer Science (AI),PyTorch;Deep Learning;CNN,7.28,ML Engineer,,0,8
+2026-04-17,Irya Khalsa,B.Tech Machine Learning,YOLO;Object Detection;CV,7.55,ML Engineer,Object Detection System,1,4
+2026-04-17,Lavanya Batra,B.Tech Computer Science (AI),FastAPI;Flask;Model Serving,7.12,ML Engineer,ML API using FastAPI;Prediction Service API,2,8
+2026-04-17,Anmol Shanker,B.Tech Machine Learning,Docker;MLflow;CI/CD,8.92,ML Engineer,Containerized ML App;Dockerized ML Pipeline,2,6
+2026-04-17,Anmol Bhatia,B.Tech AI & ML,PyTorch;Transformers;BERT,7.32,ML Engineer,Custom Deep Learning Model;CNN Image Classifier;LLM-based Chatbot;BERT Text Classifier,4,4
+2026-04-17,Finn Mitter,B.Tech Machine Learning,NLP;spaCy;Text Processing,7.53,ML Engineer,ML Prototype,1,8
+2026-04-17,Chanakya Prasad,MCA AI,Python;Feature Engineering;Model Evaluation,9.04,ML Engineer,,0,5
+2026-04-17,Prisha Sami,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,8.9,ML Engineer,ML Prototype,1,7
+2026-04-17,Nihal Chaudhary,B.Tech Computer Science (AI),YOLO;Object Detection;CV,9.29,ML Engineer,,0,7
+2026-04-17,Damyanti Bir,B.Tech Computer Science (AI),OpenCV;Image Processing;Computer Vision,9.51,ML Engineer,Object Tracking System;Face Detection System,2,6
+2026-04-17,Rohan Viswanathan,B.Tech AI & ML,Python;NumPy;Pandas;Scikit-learn,9.27,ML Engineer,Customer Churn Prediction,1,5
+2026-04-17,Bhavika Hayre,B.Tech Machine Learning,Time Series;Forecasting;ARIMA,7.18,ML Engineer,Demand Forecasting System,1,7
+2026-04-17,Edhitha Joshi,B.Tech Machine Learning,PyTorch;Deep Learning;CNN,8.36,ML Engineer,,0,7
+2026-04-17,Rushil Deep,B.Tech Machine Learning,GCP;Vertex AI;Cloud ML,8.74,ML Engineer,ML Prototype,1,4
+2026-04-17,Praneel Natarajan,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,7.54,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,4
+2026-04-17,Odika Hayer,MCA AI,Ensemble Learning;Hyperparameter Optimization,7.13,ML Engineer,ML Prototype,1,7
+2026-04-17,Lavanya Sagar,B.Tech AI & ML,Anomaly Detection;Fraud Detection,7.33,ML Engineer,,0,8
+2026-04-17,Chandran Toor,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,8.24,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,4
+2026-04-17,Advika Solanki,B.Tech Machine Learning,Time Series;Forecasting;ARIMA,8.51,ML Engineer,Demand Forecasting System;Stock Price Prediction,2,7
+2026-04-17,Nimrat Gara,B.Tech AI & ML,Kubernetes;Model Deployment;Scaling,8.97,ML Engineer,,0,7
+2026-04-17,Ishani Mistry,B.Tech AI & ML,Python;Feature Engineering;Model Evaluation,9.8,ML Engineer,ML Prototype,1,4
+2026-04-17,Ayushman Gandhi,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,8.86,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,6
+2026-04-17,Unnati Setty,B.Tech Computer Science (AI),Python;NumPy;Pandas;Scikit-learn,8.63,ML Engineer,Loan Default Prediction;Customer Churn Prediction,2,4
+2026-04-17,Oeshi Basu,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,7.63,ML Engineer,ML Prototype,1,4
+2026-04-17,Jagdish Sane,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,8.95,ML Engineer,Serverless ML Pipeline;Deployed ML Model on AWS,2,8
+2026-04-17,Warinder Nadig,B.Tech AI & ML,FastAPI;Flask;Model Serving,7.83,ML Engineer,,0,4
+2026-04-17,Pavani Dar,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,7.81,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,5
+2026-04-17,Frederick Bahri,MCA AI,Time Series;Forecasting;ARIMA,8.23,ML Engineer,Stock Price Prediction;Demand Forecasting System,2,4
+2026-04-17,Maanas Saxena,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,8.82,ML Engineer,ML Prototype,1,7
+2026-04-17,Harini Bora,MCA AI,Python;Feature Engineering;Model Evaluation,8.68,ML Engineer,,0,7
+2026-04-17,Pranit Chaudhary,MCA AI,Python;Feature Engineering;Model Evaluation,9.32,ML Engineer,ML Prototype,1,7
+2026-04-17,Yagnesh Andra,B.Tech Computer Science (AI),YOLO;Object Detection;CV,8.09,ML Engineer,Object Detection System,1,7
+2026-04-17,Upadhriti Seshadri,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,9.47,ML Engineer,ML Prototype,1,4
+2026-04-17,Lajita Pai,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,9.25,ML Engineer,ML Prototype,1,7
+2026-04-17,Frederick Rao,MCA AI,FastAPI;Flask;Model Serving,8.91,ML Engineer,ML API using FastAPI;Prediction Service API,2,7
+2026-04-17,Eta Cheema,B.Tech Machine Learning,NLP;spaCy;Text Processing,9.72,ML Engineer,ML Prototype,1,8
+2026-04-17,Neel Naik,MCA AI,PyTorch;Transformers;BERT,9.29,ML Engineer,BERT Text Classifier;Custom Deep Learning Model;CNN Image Classifier;LLM-based Chatbot,4,4
+2026-04-17,Riya Pradhan,B.Tech AI & ML,FastAPI;Flask;Model Serving,9.08,ML Engineer,,0,6
+2026-04-17,Ishani Ramakrishnan,B.Tech Machine Learning,Kubernetes;Model Deployment;Scaling,8.6,ML Engineer,Scalable ML Deployment;K8s Model Serving System,2,4
+2026-04-17,Anya Kapur,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,9.55,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,4
+2026-04-17,Dalaja Venkataraman,B.Tech AI & ML,Docker;MLflow;CI/CD,8.76,ML Engineer,,0,8
+2026-04-17,Upma Pillay,B.Tech Machine Learning,SQL;ETL;Data Pipelines,8.57,ML Engineer,ML Prototype,1,4
+2026-04-17,Isaiah Oak,MCA AI,SQL;ETL;Data Pipelines,7.03,ML Engineer,ML Prototype,1,5
+2026-04-17,Dhruv Chana,MCA AI,NLP;spaCy;Text Processing,9.39,ML Engineer,ML Prototype,1,7
+2026-04-17,Aadi Srivastava,B.Tech Machine Learning,OpenCV;Image Processing;Computer Vision,8.4,ML Engineer,Object Tracking System;Face Detection System,2,7
+2026-04-17,Harish Ahluwalia,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,9.76,ML Engineer,Dockerized ML Pipeline,1,8
+2026-04-17,Sanaya Garg,B.Tech Machine Learning,Spark;PySpark;Big Data,8.7,ML Engineer,Distributed Training System,1,8
+2026-04-17,Darsh Kurian,B.Tech AI & ML,Ensemble Learning;Hyperparameter Optimization,9.5,ML Engineer,ML Prototype,1,4
+2026-04-17,Leela Ganesh,B.Tech AI & ML,Transformers;HuggingFace;LLMs,8.64,ML Engineer,BERT Text Classifier;LLM-based Chatbot,2,5
+2026-04-17,Reyansh Buch,MCA AI,PyTorch;Transformers;BERT,8.44,ML Engineer,LLM-based Chatbot;Custom Deep Learning Model;BERT Text Classifier,3,8
+2026-04-17,Nathaniel Sinha,B.Tech Computer Science (AI),SQL;ETL;Data Pipelines,7.41,ML Engineer,,0,5
+2026-04-17,Widisha Sengupta,B.Tech Machine Learning,FastAPI;Flask;Model Serving,9.69,ML Engineer,ML API using FastAPI;Prediction Service API,2,8
+2026-04-17,Girik Mangat,B.Tech AI & ML,Transformers;HuggingFace;LLMs,8.5,ML Engineer,,0,5
+2026-04-17,Tanish Banerjee,B.Tech Computer Science (AI),Transformers;HuggingFace;LLMs,7.89,ML Engineer,,0,7
+2026-04-17,Eta Datta,B.Tech Machine Learning,Kubernetes;Model Deployment;Scaling,8.51,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,5
+2026-04-17,Qadim Kaul,B.Tech Computer Science (AI),NLP;spaCy;Text Processing,9.64,ML Engineer,ML Prototype,1,7
+2026-04-17,Janaki Narang,B.Tech AI & ML,NLP;spaCy;Text Processing,8.8,ML Engineer,ML Prototype,1,7
+2026-04-17,Rachana Sheth,B.Tech Machine Learning,FastAPI;Flask;Model Serving,7.82,ML Engineer,,0,4
+2026-04-17,Yochana Balan,B.Tech Computer Science (AI),NLP;spaCy;Text Processing,9.41,ML Engineer,ML Prototype,1,8
+2026-04-17,Kashish Sane,MCA AI,Python;NumPy;Pandas;Scikit-learn,9.47,ML Engineer,,0,6
+2026-04-17,Avi Uppal,B.Tech AI & ML,SQL;ETL;Data Pipelines,9.28,ML Engineer,ML Prototype,1,6
+2026-04-17,Hemangini Chaudhari,B.Tech AI & ML,Ensemble Learning;Hyperparameter Optimization,9.8,ML Engineer,ML Prototype,1,7
+2026-04-17,Osha Sani,B.Tech AI & ML,NLP;spaCy;Text Processing,8.56,ML Engineer,ML Prototype,1,4
+2026-04-17,Kai Goswami,MCA AI,Recommender Systems;Collaborative Filtering,8.35,ML Engineer,,0,7
+2026-04-17,Ekbal Krish,B.Tech Machine Learning,Transformers;HuggingFace;LLMs,8.96,ML Engineer,LLM-based Chatbot;BERT Text Classifier,2,7
+2026-04-17,Peter Comar,MCA AI,AWS;S3;Lambda;Deployment,7.18,ML Engineer,Serverless ML Pipeline,1,7
+2026-04-17,Timothy Kant,B.Tech AI & ML,FastAPI;Flask;Model Serving,7.08,ML Engineer,Prediction Service API,1,7
+2026-04-17,Kashvi Ravi,B.Tech Computer Science (AI),Spark;PySpark;Big Data,7.74,ML Engineer,Big Data ML Pipeline;Distributed Training System,2,5
+2026-04-17,Charan Hans,B.Tech Computer Science (AI),YOLO;Object Detection;CV,9.65,ML Engineer,Object Detection System,1,4
+2026-04-17,George Soman,MCA AI,FastAPI;Flask;Model Serving,8.04,ML Engineer,,0,7
+2026-04-17,Xalak Sachar,B.Tech AI & ML,GCP;Vertex AI;Cloud ML,9.72,ML Engineer,ML Prototype,1,5
+2026-04-17,Imaran Raju,B.Tech Machine Learning,Ensemble Learning;Hyperparameter Optimization,8.23,ML Engineer,ML Prototype,1,4
+2026-04-17,Urishilla Anne,MCA AI,Time Series;Forecasting;ARIMA,8.71,ML Engineer,,0,6
+2026-04-17,Gautam Narasimhan,B.Tech Computer Science (AI),Docker;MLflow;CI/CD,9.04,ML Engineer,Dockerized ML Pipeline;Containerized ML App,2,6
+2026-04-17,Mitali Bali,B.Tech Computer Science (AI),FastAPI;Flask;Model Serving,7.3,ML Engineer,,0,4
+2026-04-17,Chaman Bose,MCA AI,FastAPI;Flask;Model Serving,8.59,ML Engineer,Prediction Service API;ML API using FastAPI,2,7
+2026-04-17,Urmi Basak,B.Tech Computer Science (AI),Anomaly Detection;Fraud Detection,7.18,ML Engineer,Fraud Detection System;Anomaly Detection Pipeline,2,8
+2026-04-17,Eshana Sandhu,MCA AI,Spark;PySpark;Big Data,8.92,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,5
+2026-04-17,Bhavna Raja,MCA AI,FastAPI;Flask;Model Serving,8.23,ML Engineer,Prediction Service API;ML API using FastAPI,2,8
+2026-04-17,Ira Mandal,MCA AI,Python;Feature Engineering;Model Evaluation,8.38,ML Engineer,,0,8
+2026-04-17,Waida Doshi,B.Tech Machine Learning,Python;Feature Engineering;Model Evaluation,8.01,ML Engineer,ML Prototype,1,4
+2026-04-17,Vedant Chanda,B.Tech Computer Science (AI),OpenCV;Image Processing;Computer Vision,7.25,ML Engineer,Object Tracking System;Face Detection System,2,6
+2026-04-17,Chasmum Narang,B.Tech Computer Science (AI),AWS;S3;Lambda;Deployment,7.93,ML Engineer,Serverless ML Pipeline;Deployed ML Model on AWS,2,4
+2026-04-17,Bhavini Rana,MCA AI,XGBoost;LightGBM;Model Tuning,7.47,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,6
+2026-04-17,Shaurya Deshpande,B.Tech Computer Science (AI),XGBoost;LightGBM;Model Tuning,9.51,ML Engineer,XGBoost Optimization Project;Kaggle ML Competition Model,2,7
+2026-04-17,Lohit Acharya,B.Tech Machine Learning,XGBoost;LightGBM;Model Tuning,7.42,ML Engineer,Kaggle ML Competition Model;XGBoost Optimization Project,2,7
+2026-04-17,Krish Goyal,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,9.23,ML Engineer,,0,5
+2026-04-17,Raagini Seshadri,MCA AI,Kubernetes;Model Deployment;Scaling,8.86,ML Engineer,K8s Model Serving System,1,7
+2026-04-17,Laban Kunda,B.Tech Computer Science (AI),Kubernetes;Model Deployment;Scaling,7.91,ML Engineer,K8s Model Serving System;Scalable ML Deployment,2,6
+2026-04-17,Jai Kapur,MCA AI,TensorFlow;Neural Networks;Keras,7.74,ML Engineer,Deep Learning Model;Neural Network Classifier,2,5
+2026-04-17,Kabir Sawhney,MCA AI,FastAPI;Flask;Model Serving,9.66,ML Engineer,Prediction Service API;ML API using FastAPI,2,7
+2026-04-17,Nisha Patla,B.Tech AI & ML,Ensemble Learning;Hyperparameter Optimization,9.63,ML Engineer,,0,5
+2026-04-17,Unni Sachar,MCA AI,Spark;PySpark;Big Data,7.68,ML Engineer,Distributed Training System;Big Data ML Pipeline,2,8

@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Sneha Palla,MCA Software Testing,Selenium;Python;PyTest,7.9,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,6
+2026-04-17,Tanay Barad,B.Tech Software Engineering,JMeter;Load Testing;Performance Testing,8.65,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,8
+2026-04-17,Mason Kanda,B.Tech Software Engineering,SQL;Database Testing;Data Validation,7.21,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,8
+2026-04-17,Anirudh Patla,MCA Software Testing,Postman;API Testing;REST,7.77,Software Quality Engineer,API Testing Suite;REST API Validation System,2,7
+2026-04-17,Urishilla Dhar,MCA Software Testing,Postman;API Testing;REST,8.73,Software Quality Engineer,,0,5
+2026-04-17,Isha Sani,MCA Software Testing,SQL;Database Testing;Data Validation,7.2,Software Quality Engineer,Data Validation Pipeline,1,7
+2026-04-17,Azaan Oommen,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,7.83,Software Quality Engineer,Vulnerability Detection System;Security Testing Pipeline,2,4
+2026-04-17,Janaki Tank,MCA Software Testing,SQL;Database Testing;Data Validation,7.98,Software Quality Engineer,,0,4
+2026-04-17,Ayush Johal,BCA Software Engineering,Security Testing;OWASP;Vulnerability Testing,8.49,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,4
+2026-04-17,Vasatika Rama,BCA Software Engineering,Selenium;Java;TestNG,7.29,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,8
+2026-04-17,Damyanti Sastry,MCA Software Testing,Appium;Mobile Testing;Android Testing,7.69,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,5
+2026-04-17,Devika Chaudhry,B.Tech Software Engineering,Gatling;Performance Testing,9.3,Software Quality Engineer,Stress Testing System,1,4
+2026-04-17,Caleb Ravi,B.Tech Software Engineering,Logging;Debugging;Root Cause Analysis,8.51,Software Quality Engineer,Log Analysis System;Failure Debugging Pipeline,2,6
+2026-04-17,Nilima Dhaliwal,B.Tech Software Engineering,Manual Testing;Test Cases;Bug Tracking;SDLC,7.08,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,5
+2026-04-17,Widisha Memon,BCA Software Engineering,Java;Automation Framework;SDET,8.86,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,8
+2026-04-17,Niharika Tiwari,B.Tech Software Engineering,Python;Automation Framework;SDET,8.79,Software Quality Engineer,Automation Architecture Design,1,4
+2026-04-17,Charles Mammen,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.05,Software Quality Engineer,,0,5
+2026-04-17,Aradhana Venkataraman,B.Tech Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.69,Software Quality Engineer,Automated Build + Test,1,7
+2026-04-17,Yoshita Chauhan,BCA Software Engineering,Selenium;Python;PyTest,8.89,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,5
+2026-04-17,Nathaniel Bera,BCA Software Engineering,TDD;Unit Testing;JUnit,7.15,Software Quality Engineer,Testing Project,1,5
+2026-04-17,Anya Wagle,MCA Software Testing,Appium;Mobile Testing;Android Testing,7.95,Software Quality Engineer,,0,4
+2026-04-17,Quincy Shetty,B.Tech Software Engineering,Selenium;Python;PyTest,8.43,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,5
+2026-04-17,Ayush Bhagat,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,8.95,Software Quality Engineer,Vulnerability Detection System;Security Testing Pipeline,2,4
+2026-04-17,Warjas Chokshi,B.Tech Computer Science,Gatling;Performance Testing,7.95,Software Quality Engineer,Stress Testing System,1,5
+2026-04-17,Qadim Aurora,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,8.38,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,6
+2026-04-17,Bakhshi Krish,BCA Software Engineering,Logging;Debugging;Root Cause Analysis,7.69,Software Quality Engineer,Failure Debugging Pipeline;Log Analysis System,2,8
+2026-04-17,Janaki Zacharia,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,7.02,Software Quality Engineer,Security Testing Pipeline,1,8
+2026-04-17,Abeer Sarma,BCA Software Engineering,Manual Testing;Test Cases;Bug Tracking;SDLC,7.27,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,5
+2026-04-17,Dayita Rajan,BCA Software Engineering,Security Testing;OWASP;Vulnerability Testing,9.31,Software Quality Engineer,Vulnerability Detection System;Security Testing Pipeline,2,6
+2026-04-17,Daksh Vora,B.Tech Computer Science,REST Assured;Java;API Automation,9.13,Software Quality Engineer,,0,7
+2026-04-17,Robert Sachdev,MCA Software Testing,Cucumber;BDD;Test Automation,7.79,Software Quality Engineer,BDD Automation Framework;Feature Testing Suite,2,4
+2026-04-17,Rushil Choudhry,B.Tech Software Engineering,TDD;Unit Testing;JUnit,7.53,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Ganga Nori,B.Tech Computer Science,Cucumber;BDD;Test Automation,7.8,Software Quality Engineer,,0,7
+2026-04-17,Matthew Bora,BCA Software Engineering,SQL;Database Testing;Data Validation,8.62,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,7
+2026-04-17,Aarini Sarma,B.Tech Software Engineering,Postman;API Testing;REST,9.21,Software Quality Engineer,API Testing Suite;REST API Validation System,2,7
+2026-04-17,William Cheema,MCA Software Testing,Manual Testing;Test Cases;Bug Tracking;SDLC,7.92,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,5
+2026-04-17,Upasna Nath,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,9.42,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,4
+2026-04-17,Indira Jain,MCA Software Testing,SQL;Database Testing;Data Validation,6.92,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,8
+2026-04-17,Naveen Balan,B.Tech Software Engineering,Cucumber;BDD;Test Automation,9.04,Software Quality Engineer,Feature Testing Suite;BDD Automation Framework,2,8
+2026-04-17,Kamya Modi,B.Tech Software Engineering,REST Assured;Java;API Automation,9.38,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,7
+2026-04-17,Zansi Chhabra,B.Tech Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,9.3,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,4
+2026-04-17,Chakradhar Seshadri,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,9.06,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,8
+2026-04-17,Pooja Nath,MCA Software Testing,Cypress;JavaScript;Automation Testing,7.55,Software Quality Engineer,E2E Testing Framework,1,8
+2026-04-17,Urvashi Parmer,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,8.36,Software Quality Engineer,,0,6
+2026-04-17,Nandini Goel,MCA Software Testing,TDD;Unit Testing;JUnit,8.1,Software Quality Engineer,Testing Project,1,4
+2026-04-17,Rudra Tandon,BCA Software Engineering,Java;Automation Framework;SDET,6.83,Software Quality Engineer,,0,8
+2026-04-17,Wazir Bhatnagar,B.Tech Software Engineering,SQL;Database Testing;Data Validation,6.8,Software Quality Engineer,Data Validation Pipeline;Database Testing Suite,2,5
+2026-04-17,Aryan Sahota,B.Tech Software Engineering,Appium;Mobile Testing;Android Testing,9.37,Software Quality Engineer,Android Testing Suite,1,5
+2026-04-17,Reva Panchal,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.94,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,7
+2026-04-17,Januja Issac,B.Tech Computer Science,Cypress;JavaScript;Automation Testing,8.36,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,7
+2026-04-17,Azaan Nanda,B.Tech Computer Science,Gatling;Performance Testing,7.55,Software Quality Engineer,Stress Testing System;Performance Testing Pipeline,2,4
+2026-04-17,Chandresh Tella,B.Tech Computer Science,JMeter;Load Testing;Performance Testing,8.47,Software Quality Engineer,,0,5
+2026-04-17,Bakhshi Venkatesh,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.29,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,8
+2026-04-17,Vasatika Padmanabhan,B.Tech Computer Science,Selenium;Java;TestNG,8.9,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,6
+2026-04-17,Irya Kant,MCA Software Testing,REST Assured;Java;API Automation,8.39,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,5
+2026-04-17,Nicholas Uppal,BCA Software Engineering,Java;Automation Framework;SDET,8.95,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,6
+2026-04-17,Amrita Bora,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.61,Software Quality Engineer,Automated Testing Workflow;CI/CD Test Pipeline,2,4
+2026-04-17,Urvashi Minhas,B.Tech Software Engineering,Python;Automation Framework;SDET,9.36,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,6
+2026-04-17,Timothy Badal,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,8.79,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,4
+2026-04-17,Onveer Kanda,MCA Software Testing,Appium;Mobile Testing;Android Testing,7.4,Software Quality Engineer,,0,7
+2026-04-17,Veda Konda,B.Tech Software Engineering,Python;Automation Framework;SDET,9.31,Software Quality Engineer,Custom Test Framework,1,8
+2026-04-17,Banjeet Keer,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.85,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,4
+2026-04-17,Max Bhardwaj,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.75,Software Quality Engineer,,0,6
+2026-04-17,Ishwar Grover,BCA Software Engineering,TDD;Unit Testing;JUnit,7.62,Software Quality Engineer,Testing Project,1,8
+2026-04-17,Rajeshri Saran,MCA Software Testing,Gatling;Performance Testing,8.22,Software Quality Engineer,Stress Testing System;Performance Testing Pipeline,2,7
+2026-04-17,Baghyawati Mukhopadhyay,B.Tech Software Engineering,TDD;Unit Testing;JUnit,8.56,Software Quality Engineer,,0,4
+2026-04-17,Vihaan Kata,B.Tech Computer Science,Selenium;Python;PyTest,9.17,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,6
+2026-04-17,Udarsh Kadakia,MCA Software Testing,TDD;Unit Testing;JUnit,7.71,Software Quality Engineer,,0,8
+2026-04-17,Chakradhar Vohra,MCA Software Testing,Cucumber;BDD;Test Automation,7.51,Software Quality Engineer,,0,6
+2026-04-17,Ucchal Radhakrishnan,MCA Software Testing,Selenium;Java;TestNG,8.4,Software Quality Engineer,UI Test Automation Suite,1,4
+2026-04-17,Vidhi Viswanathan,MCA Software Testing,Test Framework Design;Automation Architecture,6.99,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,8
+2026-04-17,Wishi Kibe,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,9.22,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,5
+2026-04-17,Aachal Varma,B.Tech Software Engineering,Test Framework Design;Automation Architecture,9.34,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Vrishti Subramaniam,BCA Software Engineering,Functional Testing;Regression Testing;Test Planning,9.18,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,5
+2026-04-17,Falan Ramakrishnan,BCA Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.0,Software Quality Engineer,CI/CD Test Pipeline;Automated Testing Workflow,2,5
+2026-04-17,Dayamai Zachariah,MCA Software Testing,Gatling;Performance Testing,7.76,Software Quality Engineer,Stress Testing System,1,6
+2026-04-17,Chatresh Shan,B.Tech Computer Science,REST Assured;Java;API Automation,8.64,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,5
+2026-04-17,Timothy Tella,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,7.38,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,6
+2026-04-17,Harrison Contractor,B.Tech Computer Science,Logging;Debugging;Root Cause Analysis,7.3,Software Quality Engineer,Failure Debugging Pipeline;Log Analysis System,2,5
+2026-04-17,Chavvi Dada,B.Tech Software Engineering,Cucumber;BDD;Test Automation,6.86,Software Quality Engineer,Feature Testing Suite;BDD Automation Framework,2,4
+2026-04-17,George Bose,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,9.4,Software Quality Engineer,Regression Testing Suite,1,8
+2026-04-17,Yadavi Chopra,BCA Software Engineering,Java;Automation Framework;SDET,7.56,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,8
+2026-04-17,Jhalak Khare,B.Tech Software Engineering,Appium;Mobile Testing;Android Testing,9.48,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,6
+2026-04-17,Sachi Kale,MCA Software Testing,Test Framework Design;Automation Architecture,7.91,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,6
+2026-04-17,Gavin Solanki,B.Tech Computer Science,Python;Automation Framework;SDET,8.58,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,8
+2026-04-17,Ekalinga Pillai,BCA Software Engineering,JMeter;Load Testing;Performance Testing,9.06,Software Quality Engineer,,0,7
+2026-04-17,Nitara Modi,B.Tech Software Engineering,Logging;Debugging;Root Cause Analysis,7.13,Software Quality Engineer,Log Analysis System;Failure Debugging Pipeline,2,8
+2026-04-17,Gavin Grewal,MCA Software Testing,Functional Testing;Regression Testing;Test Planning,7.43,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,5
+2026-04-17,Sarthak Mahal,B.Tech Computer Science,Postman;API Testing;REST,7.38,Software Quality Engineer,REST API Validation System;API Testing Suite,2,4
+2026-04-17,Patrick Devi,B.Tech Software Engineering,Gatling;Performance Testing,8.86,Software Quality Engineer,Performance Testing Pipeline;Stress Testing System,2,7
+2026-04-17,Faqid Wason,B.Tech Software Engineering,TDD;Unit Testing;JUnit,8.58,Software Quality Engineer,Testing Project,1,7
+2026-04-17,Chakrika Karnik,BCA Software Engineering,Java;Automation Framework;SDET,6.89,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,6
+2026-04-17,Advik Jain,MCA Software Testing,Functional Testing;Regression Testing;Test Planning,9.36,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,6
+2026-04-17,Laban Virk,MCA Software Testing,JMeter;Load Testing;Performance Testing,7.84,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,6
+2026-04-17,Oviya Taneja,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,8.43,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,6
+2026-04-17,Rajata Badami,B.Tech Software Engineering,Selenium;Java;TestNG,9.08,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,4
+2026-04-17,Saumya Goda,MCA Software Testing,REST Assured;Java;API Automation,7.54,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,8
+2026-04-17,Forum Bhavsar,BCA Software Engineering,Logging;Debugging;Root Cause Analysis,7.42,Software Quality Engineer,,0,8
+2026-04-17,Kevin Kapoor,BCA Software Engineering,Gatling;Performance Testing,9.35,Software Quality Engineer,Stress Testing System,1,5
+2026-04-17,Akshay Sidhu,MCA Software Testing,Java;Automation Framework;SDET,8.28,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,4
+2026-04-17,Bishakha Barman,MCA Software Testing,Manual Testing;Test Cases;Bug Tracking;SDLC,7.93,Software Quality Engineer,,0,7
+2026-04-17,Brinda Bahl,B.Tech Computer Science,Appium;Mobile Testing;Android Testing,9.48,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,8
+2026-04-17,Nilima Madan,MCA Software Testing,Selenium;Python;PyTest,7.06,Software Quality Engineer,Web Automation Framework,1,7
+2026-04-17,Finn Baria,B.Tech Software Engineering,Python;Automation Framework;SDET,7.14,Software Quality Engineer,Custom Test Framework,1,5
+2026-04-17,Aditya Ratta,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,7.96,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,7
+2026-04-17,Eiravati Varghese,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,7.63,Software Quality Engineer,,0,5
+2026-04-17,Jasmit Upadhyay,BCA Software Engineering,Test Framework Design;Automation Architecture,7.39,Software Quality Engineer,Custom Test Framework,1,7
+2026-04-17,Ethan Krishnan,BCA Software Engineering,Java;Automation Framework;SDET,9.36,Software Quality Engineer,,0,8
+2026-04-17,Vedant Murthy,MCA Software Testing,Test Framework Design;Automation Architecture,8.04,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,6
+2026-04-17,Yasti Sankar,MCA Software Testing,JMeter;Load Testing;Performance Testing,7.63,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,6
+2026-04-17,Manan Banerjee,MCA Software Testing,Postman;API Testing;REST,6.91,Software Quality Engineer,API Testing Suite;REST API Validation System,2,7
+2026-04-17,Samesh Agate,MCA Software Testing,Manual Testing;Test Cases;Bug Tracking;SDLC,7.93,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,6
+2026-04-17,Alka Tripathi,B.Tech Software Engineering,Gatling;Performance Testing,8.37,Software Quality Engineer,,0,4
+2026-04-17,Elijah Borra,B.Tech Software Engineering,Java;Automation Framework;SDET,8.78,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,6
+2026-04-17,Falguni Sibal,MCA Software Testing,Logging;Debugging;Root Cause Analysis,7.3,Software Quality Engineer,Log Analysis System;Failure Debugging Pipeline,2,4
+2026-04-17,Yashasvi Shah,MCA Software Testing,Cypress;JavaScript;Automation Testing,6.89,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,7
+2026-04-17,Jyoti Bhatnagar,B.Tech Computer Science,Appium;Mobile Testing;Android Testing,8.3,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,8
+2026-04-17,Libni Andra,B.Tech Software Engineering,REST Assured;Java;API Automation,7.46,Software Quality Engineer,Backend Testing Suite,1,6
+2026-04-17,Anamika Sama,BCA Software Engineering,Python;Automation Framework;SDET,8.88,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,4
+2026-04-17,Waida Kapoor,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,8.04,Software Quality Engineer,Regression Testing Suite;Release Testing Pipeline,2,8
+2026-04-17,Ojasvi Narayanan,B.Tech Software Engineering,JMeter;Load Testing;Performance Testing,7.83,Software Quality Engineer,,0,6
+2026-04-17,Hiral Vaidya,B.Tech Computer Science,TDD;Unit Testing;JUnit,8.77,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Gautami Dube,BCA Software Engineering,Cypress;JavaScript;Automation Testing,9.15,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,5
+2026-04-17,Viraj Hari,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,6.85,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,8
+2026-04-17,Watika Chand,MCA Software Testing,Selenium;Java;TestNG,8.2,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,5
+2026-04-17,Warinder Goel,B.Tech Software Engineering,Test Framework Design;Automation Architecture,8.67,Software Quality Engineer,,0,6
+2026-04-17,Avi Sehgal,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,8.0,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,7
+2026-04-17,Tara Borra,MCA Software Testing,Selenium;Python;PyTest,7.34,Software Quality Engineer,Web Automation Framework,1,4
+2026-04-17,Warda Din,MCA Software Testing,TDD;Unit Testing;JUnit,6.81,Software Quality Engineer,Testing Project,1,5
+2026-04-17,Ekantika Mand,B.Tech Software Engineering,TDD;Unit Testing;JUnit,7.94,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Nitara Gupta,BCA Software Engineering,Gatling;Performance Testing,7.95,Software Quality Engineer,Stress Testing System;Performance Testing Pipeline,2,5
+2026-04-17,Leela Brahmbhatt,MCA Software Testing,Cypress;JavaScript;Automation Testing,9.16,Software Quality Engineer,E2E Testing Framework,1,7
+2026-04-17,Frado Patil,BCA Software Engineering,JMeter;Load Testing;Performance Testing,9.27,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,5
+2026-04-17,Yahvi Thaker,MCA Software Testing,Gatling;Performance Testing,8.43,Software Quality Engineer,Performance Testing Pipeline,1,6
+2026-04-17,Frado Loke,B.Tech Computer Science,Java;Automation Framework;SDET,8.96,Software Quality Engineer,,0,4
+2026-04-17,Lucky Kapur,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,7.27,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,7
+2026-04-17,Ekanta Tata,B.Tech Computer Science,Postman;API Testing;REST,8.69,Software Quality Engineer,API Testing Suite;REST API Validation System,2,4
+2026-04-17,Finn Tripathi,B.Tech Software Engineering,JMeter;Load Testing;Performance Testing,7.56,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,5
+2026-04-17,Noah Dave,MCA Software Testing,Java;Automation Framework;SDET,9.11,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,8
+2026-04-17,Janya Mistry,BCA Software Engineering,Java;Automation Framework;SDET,8.2,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Gaurang Bobal,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.74,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,8
+2026-04-17,Dev Goyal,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,7.03,Software Quality Engineer,,0,8
+2026-04-17,Anirudh Tailor,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,8.48,Software Quality Engineer,Regression Testing Suite;Release Testing Pipeline,2,7
+2026-04-17,Leena Mammen,BCA Software Engineering,TDD;Unit Testing;JUnit,8.63,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Balvan Ganesan,MCA Software Testing,Appium;Mobile Testing;Android Testing,8.37,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,4
+2026-04-17,Aradhana Gulati,BCA Software Engineering,Functional Testing;Regression Testing;Test Planning,8.01,Software Quality Engineer,Regression Testing Suite;Release Testing Pipeline,2,7
+2026-04-17,Avi Ahuja,BCA Software Engineering,JMeter;Load Testing;Performance Testing,7.66,Software Quality Engineer,,0,5
+2026-04-17,Laban Thaman,B.Tech Software Engineering,Test Framework Design;Automation Architecture,8.71,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,8
+2026-04-17,Ganga Sha,B.Tech Computer Science,REST Assured;Java;API Automation,7.58,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,4
+2026-04-17,Panini Soman,MCA Software Testing,Test Framework Design;Automation Architecture,8.55,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,8
+2026-04-17,Wishi Shenoy,MCA Software Testing,Selenium;Java;TestNG,8.94,Software Quality Engineer,,0,7
+2026-04-17,Prisha Munshi,B.Tech Computer Science,Selenium;Java;TestNG,8.34,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,6
+2026-04-17,Warhi Sinha,MCA Software Testing,Gatling;Performance Testing,7.39,Software Quality Engineer,,0,5
+2026-04-17,Ikbal Sami,MCA Software Testing,SQL;Database Testing;Data Validation,8.7,Software Quality Engineer,,0,4
+2026-04-17,Dev Hayer,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,8.58,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,5
+2026-04-17,Megha Madan,B.Tech Computer Science,Cucumber;BDD;Test Automation,6.84,Software Quality Engineer,,0,6
+2026-04-17,Damyanti Sandhu,B.Tech Computer Science,Test Framework Design;Automation Architecture,8.56,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Zayan Bal,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,7.31,Software Quality Engineer,Vulnerability Detection System;Security Testing Pipeline,2,7
+2026-04-17,Varenya Ganesan,MCA Software Testing,Gatling;Performance Testing,6.81,Software Quality Engineer,Stress Testing System;Performance Testing Pipeline,2,8
+2026-04-17,Yauvani Patla,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,9.49,Software Quality Engineer,Automated Build + Test,1,8
+2026-04-17,Gaurang Andra,B.Tech Computer Science,Appium;Mobile Testing;Android Testing,7.06,Software Quality Engineer,Android Testing Suite,1,5
+2026-04-17,Warda Bir,B.Tech Computer Science,Cucumber;BDD;Test Automation,8.73,Software Quality Engineer,,0,5
+2026-04-17,Gopal Bahri,B.Tech Computer Science,REST Assured;Java;API Automation,7.5,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,4
+2026-04-17,Ekbal Tripathi,BCA Software Engineering,TDD;Unit Testing;JUnit,7.59,Software Quality Engineer,Testing Project,1,4
+2026-04-17,Nisha Anne,MCA Software Testing,Gatling;Performance Testing,9.39,Software Quality Engineer,Stress Testing System;Performance Testing Pipeline,2,8
+2026-04-17,Gauri Dass,B.Tech Software Engineering,REST Assured;Java;API Automation,8.49,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,8
+2026-04-17,Kashvi Peri,B.Tech Computer Science,Gatling;Performance Testing,7.69,Software Quality Engineer,Performance Testing Pipeline;Stress Testing System,2,4
+2026-04-17,Kavya Edwin,MCA Software Testing,Functional Testing;Regression Testing;Test Planning,7.29,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,8
+2026-04-17,Gaurangi Merchant,BCA Software Engineering,JMeter;Load Testing;Performance Testing,9.42,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,4
+2026-04-17,Bhavika Minhas,BCA Software Engineering,TDD;Unit Testing;JUnit,8.52,Software Quality Engineer,,0,5
+2026-04-17,Urvashi Thakkar,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,7.4,Software Quality Engineer,Bug Tracking System Testing;Test Case Design for Web App,2,4
+2026-04-17,Neel Munshi,B.Tech Computer Science,Java;Automation Framework;SDET,7.92,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,7
+2026-04-17,Nimrat Setty,B.Tech Software Engineering,SQL;Database Testing;Data Validation,7.64,Software Quality Engineer,,0,6
+2026-04-17,Nikita Bhardwaj,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,8.05,Software Quality Engineer,,0,7
+2026-04-17,Udyati Chad,MCA Software Testing,Manual Testing;Test Cases;Bug Tracking;SDLC,8.96,Software Quality Engineer,Test Case Design for Web App,1,7
+2026-04-17,Samar Goda,MCA Software Testing,TDD;Unit Testing;JUnit,6.87,Software Quality Engineer,Testing Project,1,8
+2026-04-17,Gavin Char,B.Tech Software Engineering,Cucumber;BDD;Test Automation,8.12,Software Quality Engineer,Feature Testing Suite;BDD Automation Framework,2,5
+2026-04-17,Sneha Gola,B.Tech Computer Science,GitHub Actions;CI/CD;Testing Pipelines,8.37,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,6
+2026-04-17,Hema Dube,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,7.45,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,5
+2026-04-17,Yatan Goswami,B.Tech Software Engineering,Selenium;Java;TestNG,8.32,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,4
+2026-04-17,Samuel Mallick,BCA Software Engineering,Appium;Mobile Testing;Android Testing,6.83,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,5
+2026-04-17,Anthony Bhasin,BCA Software Engineering,REST Assured;Java;API Automation,6.86,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,6
+2026-04-17,Hamsini Pai,B.Tech Computer Science,Java;Automation Framework;SDET,8.72,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,7
+2026-04-17,Frederick Iyer,BCA Software Engineering,Security Testing;OWASP;Vulnerability Testing,9.19,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,4
+2026-04-17,Shivansh Bumb,BCA Software Engineering,Appium;Mobile Testing;Android Testing,8.9,Software Quality Engineer,Mobile Automation Framework,1,4
+2026-04-17,Elijah Ahuja,MCA Software Testing,Java;Automation Framework;SDET,8.5,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,5
+2026-04-17,Lipika Tak,B.Tech Computer Science,SQL;Database Testing;Data Validation,7.92,Software Quality Engineer,Data Validation Pipeline;Database Testing Suite,2,6
+2026-04-17,Darika Mane,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.34,Software Quality Engineer,,0,7
+2026-04-17,Chandani Narula,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,8.21,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,4
+2026-04-17,Aradhana Dugal,BCA Software Engineering,Java;Automation Framework;SDET,7.43,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,5
+2026-04-17,Manan Ahluwalia,MCA Software Testing,Cypress;JavaScript;Automation Testing,7.0,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,7
+2026-04-17,Chaitanya Korpal,B.Tech Software Engineering,Python;Automation Framework;SDET,8.34,Software Quality Engineer,Custom Test Framework,1,4
+2026-04-17,Advik Lal,BCA Software Engineering,Jenkins;CI/CD;Automation Pipelines,8.93,Software Quality Engineer,CI/CD Test Pipeline;Automated Testing Workflow,2,6
+2026-04-17,Ira Soni,BCA Software Engineering,Postman;API Testing;REST,7.46,Software Quality Engineer,API Testing Suite;REST API Validation System,2,5
+2026-04-17,Yoshita Sood,MCA Software Testing,Test Framework Design;Automation Architecture,7.05,Software Quality Engineer,Automation Architecture Design,1,8
+2026-04-17,Jeet Sura,MCA Software Testing,Postman;API Testing;REST,8.61,Software Quality Engineer,,0,7
+2026-04-17,Daniel Patil,B.Tech Computer Science,Java;Automation Framework;SDET,8.93,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Anvi Thaker,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,6.85,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,5
+2026-04-17,Neha Menon,B.Tech Computer Science,JMeter;Load Testing;Performance Testing,9.32,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,7
+2026-04-17,Oeshi Upadhyay,B.Tech Computer Science,REST Assured;Java;API Automation,8.98,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,8
+2026-04-17,Gaurangi Kara,BCA Software Engineering,SQL;Database Testing;Data Validation,9.1,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,8
+2026-04-17,Yachana Bhalla,B.Tech Software Engineering,Selenium;Python;PyTest,7.0,Software Quality Engineer,UI Test Automation Suite,1,6
+2026-04-17,Aditya Malhotra,B.Tech Software Engineering,Selenium;Java;TestNG,8.24,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,8
+2026-04-17,Abeer Dalal,MCA Software Testing,Test Framework Design;Automation Architecture,7.12,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,5
+2026-04-17,Raghav Palla,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,8.21,Software Quality Engineer,CI Testing Pipeline,1,6
+2026-04-17,Unnati Rao,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,6.85,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,4
+2026-04-17,Radha Goel,BCA Software Engineering,Postman;API Testing;REST,7.64,Software Quality Engineer,REST API Validation System,1,6
+2026-04-17,Anmol Shanker,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,7.65,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,6
+2026-04-17,Dipta Babu,BCA Software Engineering,Appium;Mobile Testing;Android Testing,8.73,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,7
+2026-04-17,Ethan Buch,B.Tech Computer Science,Jenkins;CI/CD;Automation Pipelines,7.66,Software Quality Engineer,CI/CD Test Pipeline,1,7
+2026-04-17,Gopal Wagle,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.23,Software Quality Engineer,Automated Testing Workflow;CI/CD Test Pipeline,2,4
+2026-04-17,Jatin Dugar,BCA Software Engineering,Python;Automation Framework;SDET,7.15,Software Quality Engineer,Custom Test Framework,1,7
+2026-04-17,Anamika Peri,B.Tech Computer Science,REST Assured;Java;API Automation,7.83,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,6
+2026-04-17,Chakradhar Batta,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,8.65,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,6
+2026-04-17,Abdul Solanki,MCA Software Testing,Security Testing;OWASP;Vulnerability Testing,8.73,Software Quality Engineer,,0,5
+2026-04-17,Rohan Dyal,BCA Software Engineering,REST Assured;Java;API Automation,7.29,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,6
+2026-04-17,Nitesh Prashad,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,9.0,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,7
+2026-04-17,Guneet Gole,B.Tech Computer Science,Jenkins;CI/CD;Automation Pipelines,6.99,Software Quality Engineer,,0,4
+2026-04-17,Shivansh Dey,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.16,Software Quality Engineer,Automated Build + Test,1,8
+2026-04-17,Prisha Batta,MCA Software Testing,SQL;Database Testing;Data Validation,9.29,Software Quality Engineer,Database Testing Suite,1,4
+2026-04-17,Advika Chaudhari,MCA Software Testing,Selenium;Python;PyTest,7.2,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,4
+2026-04-17,Maya Rana,BCA Software Engineering,JMeter;Load Testing;Performance Testing,8.09,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,5
+2026-04-17,Yash Barad,B.Tech Computer Science,Cypress;JavaScript;Automation Testing,7.1,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,5
+2026-04-17,Lucky Brahmbhatt,BCA Software Engineering,Functional Testing;Regression Testing;Test Planning,8.47,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,5
+2026-04-17,Bhavya Sharma,BCA Software Engineering,Selenium;Python;PyTest,7.49,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,5
+2026-04-17,Jeet Dube,MCA Software Testing,Postman;API Testing;REST,9.5,Software Quality Engineer,API Testing Suite,1,4
+2026-04-17,Faqid Varughese,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,7.94,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,5
+2026-04-17,Omkaar Chaudhary,B.Tech Software Engineering,Postman;API Testing;REST,8.14,Software Quality Engineer,API Testing Suite,1,7
+2026-04-17,Vedhika Sampath,B.Tech Software Engineering,Postman;API Testing;REST,7.51,Software Quality Engineer,REST API Validation System;API Testing Suite,2,6
+2026-04-17,Luke Wali,B.Tech Computer Science,TDD;Unit Testing;JUnit,8.66,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Eta Chahal,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.65,Software Quality Engineer,Automated Testing Workflow,1,7
+2026-04-17,Saanvi Subramanian,MCA Software Testing,SQL;Database Testing;Data Validation,7.8,Software Quality Engineer,Data Validation Pipeline;Database Testing Suite,2,5
+2026-04-17,Alka Chopra,B.Tech Software Engineering,JMeter;Load Testing;Performance Testing,8.96,Software Quality Engineer,,0,6
+2026-04-17,Nakul Walia,BCA Software Engineering,Cucumber;BDD;Test Automation,6.97,Software Quality Engineer,Feature Testing Suite;BDD Automation Framework,2,6
+2026-04-17,Falguni Sane,B.Tech Computer Science,Python;Automation Framework;SDET,6.93,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,5
+2026-04-17,Vasana Kaul,B.Tech Software Engineering,Appium;Mobile Testing;Android Testing,7.54,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,7
+2026-04-17,Vaishnavi Tripathi,B.Tech Software Engineering,Selenium;Python;PyTest,7.78,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,7
+2026-04-17,Aarna Mallick,MCA Software Testing,Security Testing;OWASP;Vulnerability Testing,7.64,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,5
+2026-04-17,Odika Char,B.Tech Computer Science,TDD;Unit Testing;JUnit,8.5,Software Quality Engineer,Testing Project,1,4
+2026-04-17,Alexander Jhaveri,BCA Software Engineering,Cypress;JavaScript;Automation Testing,8.91,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,6
+2026-04-17,Chanchal Cherian,B.Tech Software Engineering,Java;Automation Framework;SDET,9.01,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,7
+2026-04-17,Lavanya Comar,B.Tech Computer Science,Python;Automation Framework;SDET,7.77,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,8
+2026-04-17,Omya Korpal,B.Tech Software Engineering,SQL;Database Testing;Data Validation,8.58,Software Quality Engineer,,0,4
+2026-04-17,Vansha Sandal,BCA Software Engineering,Python;Automation Framework;SDET,8.95,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,8
+2026-04-17,Lekha Mukherjee,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,7.39,Software Quality Engineer,Regression Testing Suite;Release Testing Pipeline,2,8
+2026-04-17,Jackson Acharya,MCA Software Testing,Selenium;Python;PyTest,8.21,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,6
+2026-04-17,Vinaya Sahni,BCA Software Engineering,Appium;Mobile Testing;Android Testing,7.8,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,4
+2026-04-17,Udant Shan,BCA Software Engineering,Manual Testing;Test Cases;Bug Tracking;SDLC,8.95,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,8
+2026-04-17,Waida Shetty,B.Tech Software Engineering,Cucumber;BDD;Test Automation,8.62,Software Quality Engineer,BDD Automation Framework;Feature Testing Suite,2,8
+2026-04-17,Upkaar Savant,B.Tech Computer Science,JMeter;Load Testing;Performance Testing,7.63,Software Quality Engineer,Load Testing System;Performance Benchmarking,2,4
+2026-04-17,Anirudh Halder,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,7.23,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,7
+2026-04-17,Alexander Shankar,B.Tech Software Engineering,Appium;Mobile Testing;Android Testing,7.85,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,5
+2026-04-17,Nicholas Thakur,B.Tech Software Engineering,Test Framework Design;Automation Architecture,7.45,Software Quality Engineer,,0,6
+2026-04-17,Jeet Hora,B.Tech Software Engineering,TDD;Unit Testing;JUnit,7.18,Software Quality Engineer,Testing Project,1,7
+2026-04-17,Xiti Venkatesh,B.Tech Software Engineering,TDD;Unit Testing;JUnit,7.78,Software Quality Engineer,,0,5
+2026-04-17,Chameli Balakrishnan,B.Tech Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.22,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,6
+2026-04-17,Varsha Kota,B.Tech Computer Science,Selenium;Java;TestNG,8.5,Software Quality Engineer,UI Test Automation Suite,1,4
+2026-04-17,Ishani Bala,BCA Software Engineering,Selenium;Python;PyTest,7.32,Software Quality Engineer,,0,8
+2026-04-17,Max Mutti,B.Tech Computer Science,Selenium;Python;PyTest,8.69,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,5
+2026-04-17,Januja Khalsa,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,9.49,Software Quality Engineer,,0,5
+2026-04-17,Anusha Karan,B.Tech Computer Science,Appium;Mobile Testing;Android Testing,8.72,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,4
+2026-04-17,Bhavya Ramanathan,B.Tech Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.59,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,6
+2026-04-17,Irya Gara,MCA Software Testing,Cucumber;BDD;Test Automation,9.19,Software Quality Engineer,Feature Testing Suite;BDD Automation Framework,2,5
+2026-04-17,Gautami Uppal,B.Tech Software Engineering,REST Assured;Java;API Automation,7.28,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,8
+2026-04-17,Ishwar Chadha,MCA Software Testing,Selenium;Python;PyTest,9.12,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,6
+2026-04-17,Siya Bansal,BCA Software Engineering,SQL;Database Testing;Data Validation,7.91,Software Quality Engineer,,0,5
+2026-04-17,Shaurya Mandal,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,9.47,Software Quality Engineer,Security Testing Pipeline;Vulnerability Detection System,2,8
+2026-04-17,Mason Manda,MCA Software Testing,TDD;Unit Testing;JUnit,8.96,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Kashish Bhasin,B.Tech Computer Science,Appium;Mobile Testing;Android Testing,9.22,Software Quality Engineer,Mobile Automation Framework;Android Testing Suite,2,4
+2026-04-17,Amaira Ramanathan,BCA Software Engineering,Cucumber;BDD;Test Automation,8.32,Software Quality Engineer,,0,6
+2026-04-17,Gayathri Guha,B.Tech Computer Science,Python;Automation Framework;SDET,7.02,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,4
+2026-04-17,Leena Sen,B.Tech Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,8.05,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,4
+2026-04-17,Yochana Singh,BCA Software Engineering,Logging;Debugging;Root Cause Analysis,8.1,Software Quality Engineer,,0,6
+2026-04-17,Balveer Bawa,B.Tech Software Engineering,Manual Testing;Test Cases;Bug Tracking;SDLC,6.96,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,8
+2026-04-17,Nathaniel Dasgupta,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,9.46,Software Quality Engineer,Automated Testing Workflow;CI/CD Test Pipeline,2,6
+2026-04-17,Vrinda Nagy,B.Tech Computer Science,JMeter;Load Testing;Performance Testing,7.06,Software Quality Engineer,Load Testing System,1,8
+2026-04-17,Sanaya Tailor,B.Tech Computer Science,Postman;API Testing;REST,8.02,Software Quality Engineer,REST API Validation System;API Testing Suite,2,7
+2026-04-17,Kala Mukherjee,BCA Software Engineering,Test Framework Design;Automation Architecture,8.57,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,6
+2026-04-17,Hiral Sandal,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,8.45,Software Quality Engineer,,0,7
+2026-04-17,Brinda Kara,MCA Software Testing,Test Framework Design;Automation Architecture,7.82,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,4
+2026-04-17,Meghana Bajwa,B.Tech Software Engineering,JMeter;Load Testing;Performance Testing,7.98,Software Quality Engineer,Performance Benchmarking;Load Testing System,2,6
+2026-04-17,Maanav Mishra,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,9.01,Software Quality Engineer,,0,7
+2026-04-17,Charan Trivedi,B.Tech Software Engineering,REST Assured;Java;API Automation,9.37,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,5
+2026-04-17,Vaishnavi Choudhary,MCA Software Testing,Functional Testing;Regression Testing;Test Planning,7.75,Software Quality Engineer,,0,8
+2026-04-17,Tanish Pandey,B.Tech Software Engineering,Cucumber;BDD;Test Automation,7.32,Software Quality Engineer,,0,4
+2026-04-17,Gaurang Suri,BCA Software Engineering,REST Assured;Java;API Automation,7.0,Software Quality Engineer,,0,5
+2026-04-17,Mason Gandhi,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.89,Software Quality Engineer,CI/CD Test Pipeline;Automated Testing Workflow,2,6
+2026-04-17,Om Chhabra,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,7.49,Software Quality Engineer,Vulnerability Detection System;Security Testing Pipeline,2,7
+2026-04-17,Chakradhar Basu,B.Tech Computer Science,Python;Automation Framework;SDET,9.13,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,7
+2026-04-17,Anita Hans,BCA Software Engineering,Appium;Mobile Testing;Android Testing,6.88,Software Quality Engineer,Android Testing Suite;Mobile Automation Framework,2,7
+2026-04-17,Vrinda Varty,B.Tech Software Engineering,Selenium;Python;PyTest,9.46,Software Quality Engineer,,0,5
+2026-04-17,David Sood,B.Tech Computer Science,Test Framework Design;Automation Architecture,7.81,Software Quality Engineer,Custom Test Framework,1,7
+2026-04-17,Yatan Sangha,BCA Software Engineering,GitHub Actions;CI/CD;Testing Pipelines,7.74,Software Quality Engineer,Automated Build + Test;CI Testing Pipeline,2,6
+2026-04-17,Rushil Kulkarni,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,8.26,Software Quality Engineer,,0,7
+2026-04-17,Warda Chahal,MCA Software Testing,TDD;Unit Testing;JUnit,8.71,Software Quality Engineer,,0,5
+2026-04-17,Lajita Bir,BCA Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.48,Software Quality Engineer,Automated Testing Workflow,1,7
+2026-04-17,Osha Singhal,MCA Software Testing,REST Assured;Java;API Automation,9.44,Software Quality Engineer,API Automation Framework;Backend Testing Suite,2,4
+2026-04-17,Yasti Varkey,MCA Software Testing,Selenium;Java;TestNG,9.18,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,6
+2026-04-17,Jagrati Sharaf,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,8.69,Software Quality Engineer,Regression Testing Suite;Release Testing Pipeline,2,6
+2026-04-17,Yug Modi,B.Tech Computer Science,Cypress;JavaScript;Automation Testing,8.92,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,8
+2026-04-17,Omkaar Desai,BCA Software Engineering,Selenium;Python;PyTest,8.98,Software Quality Engineer,,0,5
+2026-04-17,Warjas Panchal,B.Tech Software Engineering,Functional Testing;Regression Testing;Test Planning,7.42,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,6
+2026-04-17,Dev Chandran,B.Tech Computer Science,Selenium;Java;TestNG,7.52,Software Quality Engineer,Web Automation Framework,1,8
+2026-04-17,Kashish Barad,B.Tech Software Engineering,Security Testing;OWASP;Vulnerability Testing,7.12,Software Quality Engineer,Security Testing Pipeline,1,7
+2026-04-17,Mohini Buch,BCA Software Engineering,TDD;Unit Testing;JUnit,7.89,Software Quality Engineer,Testing Project,1,7
+2026-04-17,Praneel Dey,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,8.94,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,7
+2026-04-17,Mohammed Sheth,B.Tech Computer Science,TDD;Unit Testing;JUnit,7.54,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Omkaar Chada,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,7.35,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,4
+2026-04-17,Rajeshri Dora,B.Tech Software Engineering,Logging;Debugging;Root Cause Analysis,7.42,Software Quality Engineer,Failure Debugging Pipeline,1,7
+2026-04-17,Nilima Sane,MCA Software Testing,Selenium;Java;TestNG,9.49,Software Quality Engineer,,0,5
+2026-04-17,Daksha Sampath,BCA Software Engineering,Cucumber;BDD;Test Automation,7.37,Software Quality Engineer,BDD Automation Framework;Feature Testing Suite,2,7
+2026-04-17,Mahika Ravi,BCA Software Engineering,Selenium;Java;TestNG,7.82,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,6
+2026-04-17,Tara Warrior,B.Tech Computer Science,Selenium;Java;TestNG,8.26,Software Quality Engineer,Web Automation Framework;UI Test Automation Suite,2,6
+2026-04-17,Ansh Mukhopadhyay,B.Tech Computer Science,Test Framework Design;Automation Architecture,7.06,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Ganga Choudhary,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,8.12,Software Quality Engineer,,0,6
+2026-04-17,Rudra Agarwal,MCA Software Testing,GitHub Actions;CI/CD;Testing Pipelines,8.01,Software Quality Engineer,CI Testing Pipeline;Automated Build + Test,2,8
+2026-04-17,Isaac Sama,B.Tech Computer Science,TDD;Unit Testing;JUnit,8.04,Software Quality Engineer,Testing Project,1,6
+2026-04-17,Anita Master,MCA Software Testing,TDD;Unit Testing;JUnit,7.99,Software Quality Engineer,Testing Project,1,7
+2026-04-17,Mugdha Nori,MCA Software Testing,Cucumber;BDD;Test Automation,7.29,Software Quality Engineer,BDD Automation Framework,1,4
+2026-04-17,Inaya Chaudhari,B.Tech Software Engineering,Postman;API Testing;REST,7.82,Software Quality Engineer,,0,5
+2026-04-17,Girik Kant,MCA Software Testing,Python;Automation Framework;SDET,8.02,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,5
+2026-04-17,Panini Tella,MCA Software Testing,TDD;Unit Testing;JUnit,9.18,Software Quality Engineer,Testing Project,1,4
+2026-04-17,Girindra Chandra,MCA Software Testing,Security Testing;OWASP;Vulnerability Testing,8.4,Software Quality Engineer,Vulnerability Detection System,1,7
+2026-04-17,Panini Nanda,BCA Software Engineering,Python;Automation Framework;SDET,7.6,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,4
+2026-04-17,Max Sekhon,B.Tech Software Engineering,Cypress;JavaScript;Automation Testing,7.71,Software Quality Engineer,E2E Testing Framework;Frontend Automation Suite,2,7
+2026-04-17,Nandini Rajan,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,8.97,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,8
+2026-04-17,Balhaar Manne,MCA Software Testing,Test Framework Design;Automation Architecture,7.27,Software Quality Engineer,,0,6
+2026-04-17,Laban Setty,MCA Software Testing,TDD;Unit Testing;JUnit,7.79,Software Quality Engineer,Testing Project,1,8
+2026-04-17,Zansi Halder,B.Tech Computer Science,REST Assured;Java;API Automation,8.99,Software Quality Engineer,,0,4
+2026-04-17,Jeet Saini,BCA Software Engineering,Selenium;Python;PyTest,8.59,Software Quality Engineer,Web Automation Framework,1,5
+2026-04-17,Faris Padmanabhan,BCA Software Engineering,Cucumber;BDD;Test Automation,9.44,Software Quality Engineer,,0,8
+2026-04-17,Hemani Subramaniam,BCA Software Engineering,Gatling;Performance Testing,9.07,Software Quality Engineer,Performance Testing Pipeline;Stress Testing System,2,8
+2026-04-17,Chandani Sabharwal,MCA Software Testing,REST Assured;Java;API Automation,8.5,Software Quality Engineer,Backend Testing Suite;API Automation Framework,2,7
+2026-04-17,Manbir Rajagopal,B.Tech Computer Science,TDD;Unit Testing;JUnit,7.7,Software Quality Engineer,Testing Project,1,5
+2026-04-17,Gavin Shah,MCA Software Testing,Python;Automation Framework;SDET,7.29,Software Quality Engineer,Automation Architecture Design,1,4
+2026-04-17,Libni Rai,B.Tech Computer Science,SQL;Database Testing;Data Validation,7.69,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,6
+2026-04-17,Jagdish Kaur,BCA Software Engineering,Gatling;Performance Testing,7.3,Software Quality Engineer,Performance Testing Pipeline;Stress Testing System,2,8
+2026-04-17,Vyanjana Choudhury,B.Tech Software Engineering,Selenium;Java;TestNG,7.48,Software Quality Engineer,UI Test Automation Suite;Web Automation Framework,2,8
+2026-04-17,Yadavi Chaudhari,B.Tech Computer Science,SQL;Database Testing;Data Validation,8.3,Software Quality Engineer,Database Testing Suite;Data Validation Pipeline,2,7
+2026-04-17,Saksham Dube,MCA Software Testing,Python;Automation Framework;SDET,9.31,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,7
+2026-04-17,Saksham Ram,B.Tech Computer Science,Functional Testing;Regression Testing;Test Planning,7.77,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,6
+2026-04-17,Dakshesh Ghose,MCA Software Testing,Java;Automation Framework;SDET,7.81,Software Quality Engineer,,0,5
+2026-04-17,Nirja Mallick,MCA Software Testing,Python;Automation Framework;SDET,7.27,Software Quality Engineer,Automation Architecture Design;Custom Test Framework,2,5
+2026-04-17,Vinaya Verma,B.Tech Software Engineering,Java;Automation Framework;SDET,8.5,Software Quality Engineer,Custom Test Framework;Automation Architecture Design,2,4
+2026-04-17,Nakul Gour,BCA Software Engineering,Test Framework Design;Automation Architecture,9.43,Software Quality Engineer,Automation Architecture Design,1,5
+2026-04-17,Ronith Jaggi,B.Tech Software Engineering,Jenkins;CI/CD;Automation Pipelines,7.5,Software Quality Engineer,Automated Testing Workflow;CI/CD Test Pipeline,2,4
+2026-04-17,Rajeshri D’Alia,MCA Software Testing,Functional Testing;Regression Testing;Test Planning,8.33,Software Quality Engineer,Release Testing Pipeline;Regression Testing Suite,2,5
+2026-04-17,Meghana Maharaj,B.Tech Computer Science,Manual Testing;Test Cases;Bug Tracking;SDLC,8.42,Software Quality Engineer,Test Case Design for Web App;Bug Tracking System Testing,2,5
+2026-04-17,Vasana Krish,B.Tech Computer Science,Cypress;JavaScript;Automation Testing,6.85,Software Quality Engineer,Frontend Automation Suite;E2E Testing Framework,2,8
+2026-04-17,Advik Pillai,B.Tech Computer Science,Security Testing;OWASP;Vulnerability Testing,7.18,Software Quality Engineer,Vulnerability Detection System,1,4

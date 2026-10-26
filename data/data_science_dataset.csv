@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Lakshmi Verma,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,7.5,Data Science,,0,4
+2026-04-17,Jonathan Rajan,B.Sc Statistics,Collaborative Filtering;Recommender Systems,9.51,Data Science,,0,8
+2026-04-17,Mitali Soni,B.Tech Data Science,Python;Transformers;BERT,8.84,Data Science,BERT Classifier;QA System;Chatbot,3,5
+2026-04-17,Azaan Ben,BCA Data Analytics,Python;PyTorch;Deep Learning,9.52,Data Science,Data Analysis Project,1,8
+2026-04-17,Liam Chacko,B.Sc Statistics,Python;Time Series;ARIMA,8.6,Data Science,Stock Forecasting;Energy Forecasting,2,5
+2026-04-17,Radhika Dhingra,BCA Data Analytics,Python;Pandas;Seaborn;EDA,8.66,Data Science,,0,4
+2026-04-17,Hredhaan Raja,B.Sc Statistics,Python;TensorFlow;Neural Networks,8.24,Data Science,Neural Net from Scratch;MLP Model,2,8
+2026-04-17,Vyanjana Ghosh,BCA Data Analytics,Hadoop;Hive;Distributed Systems,7.45,Data Science,,0,7
+2026-04-17,Brinda Palla,MCA Data Science,Collaborative Filtering;Recommender Systems,7.46,Data Science,Product Recommender;Movie Recommender,2,6
+2026-04-17,Vansha Badami,B.Sc Statistics,Forecasting;Prophet;Trend Analysis,9.36,Data Science,Traffic Forecasting;Sales Forecasting Prophet,2,8
+2026-04-17,Madhav Mishra,B.Tech Data Science,Python;Transformers;BERT,7.53,Data Science,Chatbot;QA System,2,8
+2026-04-17,Leela Magar,BCA Data Analytics,Docker;MLflow;CI/CD,8.31,Data Science,Containerized Model;Docker ML Pipeline,2,6
+2026-04-17,Diya Thaker,B.Tech Data Science,Matrix Factorization;Recommendation Engine,9.51,Data Science,,0,6
+2026-04-17,Tarak Bose,B.Sc Statistics,Python;TensorFlow;Neural Networks,9.43,Data Science,MLP Model;Neural Net from Scratch,2,8
+2026-04-17,Karan Ghosh,BCA Data Analytics,Bayesian Statistics;Probability;Inference,8.69,Data Science,Data Analysis Project,1,5
+2026-04-17,Ekantika Chanda,B.Sc Statistics,Python;TensorFlow;Neural Networks,8.83,Data Science,Neural Net from Scratch,1,7
+2026-04-17,Devansh Sachdev,B.Tech Data Science,Python;SQL;ETL;Data Pipelines,7.88,Data Science,ETL Pipeline;Data Cleaning System,2,4
+2026-04-17,Jeet Sane,B.Sc Statistics,Python;Pandas;Seaborn;EDA,9.12,Data Science,Customer Insights;Retail Data Analysis;Sales Trend Analysis,3,7
+2026-04-17,Kashish Chanda,B.Tech Data Science,A/B Testing;Experimentation,8.91,Data Science,Data Analysis Project,1,4
+2026-04-17,Qarin Baral,B.Sc Statistics,Python;SQL;ETL;Data Pipelines,8.89,Data Science,ETL Pipeline;Data Cleaning System,2,5
+2026-04-17,Dev Gill,MCA Data Science,Power BI;DAX;Visualization,9.31,Data Science,Data Analysis Project,1,6
+2026-04-17,Ria Salvi,MCA Data Science,Python;Scikit-learn;Regression;Classification,8.86,Data Science,Demand Forecasting;House Price Prediction,2,7
+2026-04-17,Ronith Wadhwa,MCA Data Science,Hadoop;Hive;Distributed Systems,9.62,Data Science,,0,5
+2026-04-17,Yutika Borah,MCA Data Science,Python;Time Series;ARIMA,9.55,Data Science,Energy Forecasting;Stock Forecasting,2,4
+2026-04-17,Yashodhara Bala,B.Sc Statistics,Python;PyTorch;Deep Learning,9.25,Data Science,,0,7
+2026-04-17,Chanakya Deo,BCA Data Analytics,Spark;PySpark;Big Data,8.19,Data Science,Log Analysis;Big Data Pipeline,2,6
+2026-04-17,Ekani Sur,MCA Data Science,Flask;FastAPI;Deployment,8.81,Data Science,,0,7
+2026-04-17,Lucky Kumar,MCA Data Science,Python;Time Series;ARIMA,7.79,Data Science,,0,6
+2026-04-17,Radha Raju,B.Sc Statistics,R;Statistics;Hypothesis Testing,7.13,Data Science,A/B Testing Analysis;Statistical Testing,2,8
+2026-04-17,Anirudh Mital,B.Sc Statistics,Python;Time Series;ARIMA,7.25,Data Science,,0,5
+2026-04-17,Falak Chaudhuri,MCA Data Science,Python;Time Series;ARIMA,8.96,Data Science,Stock Forecasting;Energy Forecasting,2,5
+2026-04-17,Owen Lanka,BCA Data Analytics,Python;XGBoost;LightGBM;Model Tuning,7.5,Data Science,Data Analysis Project,1,4
+2026-04-17,Hritik Balan,B.Tech Data Science,Bayesian Statistics;Probability;Inference,7.28,Data Science,,0,6
+2026-04-17,Prisha Bedi,BCA Data Analytics,Python;Pandas;Seaborn;EDA,8.33,Data Science,,0,6
+2026-04-17,Qadim Sha,BCA Data Analytics,Tableau;Dashboarding;Storytelling,7.99,Data Science,,0,7
+2026-04-17,Agastya Rai,B.Tech Data Science,Python;TensorFlow;Neural Networks,8.67,Data Science,Neural Net from Scratch;MLP Model,2,5
+2026-04-17,Wridesh Sarma,B.Sc Statistics,Collaborative Filtering;Recommender Systems,8.66,Data Science,Movie Recommender;Product Recommender,2,7
+2026-04-17,Rachita Ben,B.Sc Statistics,Python;CNN;Computer Vision,8.58,Data Science,Medical Image Detection;Image Classifier,2,8
+2026-04-17,Harrison Solanki,BCA Data Analytics,AWS;S3;Lambda;Deployment,8.0,Data Science,AWS Deployment;FastAPI Prediction App,2,7
+2026-04-17,Bishakha Wali,MCA Data Science,Python;Transformers;BERT,7.38,Data Science,QA System;Chatbot;BERT Classifier,3,6
+2026-04-17,Reyansh Sant,B.Tech Data Science,Hadoop;Hive;Distributed Systems,8.36,Data Science,,0,7
+2026-04-17,Indira Tara,MCA Data Science,R;Statistics;Hypothesis Testing,9.08,Data Science,Statistical Testing,1,6
+2026-04-17,Prisha Pai,BCA Data Analytics,Power BI;DAX;Visualization,9.49,Data Science,,0,8
+2026-04-17,Sai Desai,BCA Data Analytics,Docker;MLflow;CI/CD,8.04,Data Science,,0,6
+2026-04-17,Mason Dara,BCA Data Analytics,Python;TensorFlow;Neural Networks,8.21,Data Science,Neural Net from Scratch;MLP Model,2,6
+2026-04-17,Sachi Parmar,B.Tech Data Science,Forecasting;Prophet;Trend Analysis,7.24,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,5
+2026-04-17,Advik Bose,BCA Data Analytics,Tableau;Dashboarding;Storytelling,9.0,Data Science,Sales Dashboard,1,8
+2026-04-17,Ucchal Nagy,B.Tech Data Science,Python;PyTorch;Deep Learning,7.22,Data Science,Data Analysis Project,1,5
+2026-04-17,Bhavika Patel,MCA Data Science,Power BI;DAX;Visualization,7.07,Data Science,Data Analysis Project,1,8
+2026-04-17,Jyoti Saxena,B.Sc Statistics,Forecasting;Prophet;Trend Analysis,7.96,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,4
+2026-04-17,Samaksh Pillay,B.Tech Data Science,A/B Testing;Experimentation,9.08,Data Science,Data Analysis Project,1,8
+2026-04-17,Imaran Mittal,MCA Data Science,Python;Transformers;BERT,7.85,Data Science,BERT Classifier;Chatbot;QA System,3,8
+2026-04-17,Rohan Vyas,BCA Data Analytics,SQL;Excel;Power BI;Data Cleaning,7.68,Data Science,Data Analysis Project,1,7
+2026-04-17,Hredhaan Nayar,B.Tech Data Science,Python;PyTorch;Deep Learning,8.77,Data Science,Data Analysis Project,1,7
+2026-04-17,Chasmum Handa,B.Sc Statistics,AWS;S3;Lambda;Deployment,7.87,Data Science,FastAPI Prediction App;AWS Deployment;ML API Flask,3,5
+2026-04-17,Akshay Sankaran,BCA Data Analytics,Bayesian Statistics;Probability;Inference,7.58,Data Science,Data Analysis Project,1,8
+2026-04-17,Indira Chander,BCA Data Analytics,Python;TensorFlow;Neural Networks,7.84,Data Science,Neural Net from Scratch;MLP Model,2,7
+2026-04-17,Ishaan Malhotra,BCA Data Analytics,Anomaly Detection;Fraud Detection,7.89,Data Science,,0,7
+2026-04-17,Ishaan Dhawan,MCA Data Science,Spark;PySpark;Big Data,7.37,Data Science,Log Analysis;Big Data Pipeline,2,8
+2026-04-17,Yahvi Sridhar,BCA Data Analytics,Python;TensorFlow;Neural Networks,7.74,Data Science,MLP Model;Neural Net from Scratch,2,6
+2026-04-17,Lopa Amble,B.Sc Statistics,Python;PyTorch;Deep Learning,9.42,Data Science,Data Analysis Project,1,6
+2026-04-17,Pranav Salvi,BCA Data Analytics,Tableau;Dashboarding;Storytelling,7.74,Data Science,,0,5
+2026-04-17,Jonathan Subramanian,B.Tech Data Science,Anomaly Detection;Fraud Detection,8.06,Data Science,,0,5
+2026-04-17,Nidhi Brar,B.Sc Statistics,Forecasting;Prophet;Trend Analysis,8.56,Data Science,,0,4
+2026-04-17,Ikshita Desai,B.Sc Statistics,Anomaly Detection;Fraud Detection,7.34,Data Science,Credit Card Fraud Detection;Anomaly Detection,2,7
+2026-04-17,Ayaan Gaba,MCA Data Science,Flask;FastAPI;Deployment,9.54,Data Science,FastAPI Prediction App;ML API Flask,2,8
+2026-04-17,Mason Cherian,BCA Data Analytics,R;Statistics;Hypothesis Testing,8.21,Data Science,A/B Testing Analysis;Statistical Testing,2,6
+2026-04-17,Atharv Prabhakar,B.Tech Data Science,Python;CNN;Computer Vision,9.14,Data Science,Image Classifier;Medical Image Detection,2,8
+2026-04-17,Patrick Kuruvilla,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,7.97,Data Science,Data Analysis Project,1,8
+2026-04-17,Radhika Sodhi,MCA Data Science,Python;Scikit-learn;Clustering;Feature Engineering,8.24,Data Science,Market Basket Analysis;Customer Segmentation;Auto Feature Selection;Feature Pipeline,4,8
+2026-04-17,Wahab Kulkarni,B.Tech Data Science,Docker;MLflow;CI/CD,9.23,Data Science,Containerized Model;Docker ML Pipeline,2,6
+2026-04-17,Joshua Chaudry,BCA Data Analytics,Hadoop;Hive;Distributed Systems,8.85,Data Science,,0,8
+2026-04-17,Udyati Raj,B.Sc Statistics,Python;PyTorch;Deep Learning,8.05,Data Science,,0,8
+2026-04-17,Xavier Ratti,B.Sc Statistics,Python;Time Series;ARIMA,7.87,Data Science,Energy Forecasting;Stock Forecasting,2,7
+2026-04-17,Pranit Pandey,MCA Data Science,Python;SQL;ETL;Data Pipelines,9.21,Data Science,Data Cleaning System;ETL Pipeline,2,6
+2026-04-17,Widisha De,B.Tech Data Science,A/B Testing;Experimentation,9.1,Data Science,Data Analysis Project,1,5
+2026-04-17,Nisha Jaggi,MCA Data Science,Python;Pandas;Seaborn;EDA,9.38,Data Science,Retail Data Analysis;Sales Trend Analysis;Customer Insights,3,6
+2026-04-17,Chatresh Kalita,MCA Data Science,Python;NLTK;Text Processing,9.32,Data Science,Data Analysis Project,1,8
+2026-04-17,Darika Keer,BCA Data Analytics,Matrix Factorization;Recommendation Engine,9.29,Data Science,Data Analysis Project,1,7
+2026-04-17,Yashica Pillai,BCA Data Analytics,Python;NLTK;Text Processing,8.26,Data Science,Data Analysis Project,1,4
+2026-04-17,Gayathri Raja,BCA Data Analytics,Flask;FastAPI;Deployment,7.3,Data Science,ML API Flask,1,7
+2026-04-17,Warhi Swamy,B.Tech Data Science,Python;Scikit-learn;Regression;Classification,8.95,Data Science,House Price Prediction;Salary Prediction,2,8
+2026-04-17,Sara Bhatt,B.Sc Statistics,Docker;MLflow;CI/CD,8.74,Data Science,Docker ML Pipeline;Containerized Model,2,8
+2026-04-17,Vidhi Bobal,BCA Data Analytics,Matrix Factorization;Recommendation Engine,9.04,Data Science,Data Analysis Project,1,8
+2026-04-17,Harish Sankaran,B.Tech Data Science,Python;TensorFlow;Neural Networks,8.49,Data Science,Neural Net from Scratch;MLP Model,2,8
+2026-04-17,Bina Sundaram,MCA Data Science,Python;SQL;ETL;Data Pipelines,8.62,Data Science,Data Cleaning System;ETL Pipeline,2,6
+2026-04-17,Qasim Sarma,MCA Data Science,Python;SQL;ETL;Data Pipelines,7.56,Data Science,Data Cleaning System;ETL Pipeline,2,5
+2026-04-17,Warjas Srinivasan,BCA Data Analytics,Python;Time Series;ARIMA,7.51,Data Science,,0,6
+2026-04-17,Christopher Patil,B.Tech Data Science,AWS;S3;Lambda;Deployment,9.51,Data Science,,0,8
+2026-04-17,Edhitha Tak,BCA Data Analytics,Python;spaCy;NLP,9.03,Data Science,Fake News Detection;Sentiment Analysis,2,4
+2026-04-17,Parth Ganguly,B.Sc Statistics,Anomaly Detection;Fraud Detection,9.19,Data Science,,0,5
+2026-04-17,Reva Manne,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,7.44,Data Science,Data Analysis Project,1,4
+2026-04-17,Aishani Walia,MCA Data Science,Python;TensorFlow;Neural Networks,7.13,Data Science,MLP Model;Neural Net from Scratch,2,5
+2026-04-17,Saanvi Dass,B.Tech Data Science,A/B Testing;Experimentation,8.67,Data Science,Data Analysis Project,1,6
+2026-04-17,Azaan Hari,B.Tech Data Science,Power BI;DAX;Visualization,8.33,Data Science,Data Analysis Project,1,4
+2026-04-17,Harshil Brar,B.Tech Data Science,Anomaly Detection;Fraud Detection,9.52,Data Science,Anomaly Detection;Credit Card Fraud Detection,2,5
+2026-04-17,Bina Gola,BCA Data Analytics,Spark;PySpark;Big Data,7.59,Data Science,Log Analysis;Big Data Pipeline,2,6
+2026-04-17,Laban Misra,BCA Data Analytics,Python;PyTorch;Deep Learning,8.15,Data Science,Data Analysis Project,1,8
+2026-04-17,Jyoti Mann,B.Tech Data Science,A/B Testing;Experimentation,8.85,Data Science,,0,7
+2026-04-17,Bakhshi Khurana,B.Tech Data Science,Hadoop;Hive;Distributed Systems,9.32,Data Science,Data Analysis Project,1,6
+2026-04-17,Isha Saha,MCA Data Science,Python;PyTorch;Deep Learning,9.79,Data Science,Data Analysis Project,1,5
+2026-04-17,Dominic Palla,BCA Data Analytics,Forecasting;Prophet;Trend Analysis,9.11,Data Science,Traffic Forecasting;Sales Forecasting Prophet,2,8
+2026-04-17,Veda Thakkar,B.Tech Data Science,Python;Pandas;Seaborn;EDA,7.89,Data Science,,0,8
+2026-04-17,Neelima Talwar,B.Tech Data Science,Computer Vision;OpenCV;Image Processing,7.21,Data Science,Face Detection;Object Tracking,2,8
+2026-04-17,Nandini Madan,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,8.93,Data Science,Data Analysis Project,1,5
+2026-04-17,Forum Gupta,MCA Data Science,Spark;PySpark;Big Data,9.25,Data Science,Log Analysis;Big Data Pipeline,2,4
+2026-04-17,Hredhaan Tata,BCA Data Analytics,Python;SQL;ETL;Data Pipelines,8.64,Data Science,Data Cleaning System;ETL Pipeline,2,8
+2026-04-17,Matthew Nagi,B.Sc Statistics,R;Statistics;Hypothesis Testing,9.57,Data Science,A/B Testing Analysis;Statistical Testing,2,7
+2026-04-17,Aadi Mital,MCA Data Science,Matrix Factorization;Recommendation Engine,8.51,Data Science,Data Analysis Project,1,5
+2026-04-17,Jacob Shukla,MCA Data Science,Python;CNN;Computer Vision,8.79,Data Science,Image Classifier;Medical Image Detection,2,7
+2026-04-17,Yochana Nayak,B.Sc Statistics,Power BI;DAX;Visualization,9.45,Data Science,,0,4
+2026-04-17,Ridhi Lall,B.Sc Statistics,Python;Pandas;NumPy;Matplotlib,8.86,Data Science,Data Analysis Project,1,6
+2026-04-17,Ayaan Khosla,B.Sc Statistics,Python;XGBoost;LightGBM;Model Tuning,8.06,Data Science,Data Analysis Project,1,6
+2026-04-17,Karan Sur,B.Sc Statistics,Docker;MLflow;CI/CD,8.58,Data Science,Docker ML Pipeline;Containerized Model,2,6
+2026-04-17,Janani Khare,MCA Data Science,Python;spaCy;NLP,8.61,Data Science,Fake News Detection;Text Classification,2,4
+2026-04-17,Devansh Verma,BCA Data Analytics,Collaborative Filtering;Recommender Systems,7.47,Data Science,,0,7
+2026-04-17,Bhavna Lad,MCA Data Science,Collaborative Filtering;Recommender Systems,7.14,Data Science,,0,4
+2026-04-17,Lakshit Vaidya,BCA Data Analytics,Tableau;Dashboarding;Storytelling,8.33,Data Science,Customer Dashboard;Business KPI Dashboard;Sales Dashboard,3,7
+2026-04-17,Zayan Chad,BCA Data Analytics,Python;spaCy;NLP,9.08,Data Science,Fake News Detection;Text Classification;Sentiment Analysis,3,6
+2026-04-17,Vamakshi Seth,BCA Data Analytics,Python;spaCy;NLP,8.87,Data Science,Fake News Detection;Text Classification;Sentiment Analysis,3,6
+2026-04-17,Oviya Pall,B.Sc Statistics,Python;Transformers;BERT,7.03,Data Science,Chatbot,1,7
+2026-04-17,Geetika Deshpande,BCA Data Analytics,SQL;Excel;Power BI;Data Cleaning,7.81,Data Science,Data Analysis Project,1,8
+2026-04-17,Indrajit Keer,BCA Data Analytics,Python;NLTK;Text Processing,8.31,Data Science,Data Analysis Project,1,4
+2026-04-17,Aayush Sama,B.Sc Statistics,Spark;PySpark;Big Data,9.74,Data Science,,0,6
+2026-04-17,Anika Pingle,B.Tech Data Science,Python;NLTK;Text Processing,9.65,Data Science,Data Analysis Project,1,4
+2026-04-17,Sai Hari,B.Tech Data Science,Hadoop;Hive;Distributed Systems,8.57,Data Science,,0,4
+2026-04-17,Radhika Dhawan,MCA Data Science,Docker;MLflow;CI/CD,7.43,Data Science,Docker ML Pipeline,1,5
+2026-04-17,Nathan Bajwa,BCA Data Analytics,Forecasting;Prophet;Trend Analysis,9.55,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,5
+2026-04-17,Radha Bali,BCA Data Analytics,Forecasting;Prophet;Trend Analysis,9.09,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,8
+2026-04-17,Samaksh Sunder,B.Sc Statistics,Power BI;DAX;Visualization,7.48,Data Science,Data Analysis Project,1,8
+2026-04-17,Forum Bobal,MCA Data Science,Hadoop;Hive;Distributed Systems,9.34,Data Science,Data Analysis Project,1,7
+2026-04-17,Jonathan Pathak,B.Sc Statistics,A/B Testing;Experimentation,9.65,Data Science,Data Analysis Project,1,7
+2026-04-17,Onkar Sarna,MCA Data Science,Python;XGBoost;LightGBM;Model Tuning,7.55,Data Science,Data Analysis Project,1,7
+2026-04-17,Fitan Kala,MCA Data Science,Python;PyTorch;Deep Learning,8.32,Data Science,Data Analysis Project,1,6
+2026-04-17,Chatura Comar,B.Tech Data Science,Python;TensorFlow;Neural Networks,8.65,Data Science,Neural Net from Scratch,1,7
+2026-04-17,Pavani Kapoor,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,7.46,Data Science,Customer Segmentation;Auto Feature Selection;Market Basket Analysis;Feature Pipeline,4,6
+2026-04-17,Tanish Singhal,BCA Data Analytics,Python;Pandas;Seaborn;EDA,7.39,Data Science,Retail Data Analysis;Sales Trend Analysis;Customer Insights,3,4
+2026-04-17,Vansha Narayanan,B.Tech Data Science,Python;TensorFlow;Neural Networks,7.19,Data Science,MLP Model,1,6
+2026-04-17,Arunima Acharya,BCA Data Analytics,Bayesian Statistics;Probability;Inference,7.74,Data Science,,0,7
+2026-04-17,Banjeet Dada,BCA Data Analytics,Computer Vision;OpenCV;Image Processing,8.99,Data Science,,0,5
+2026-04-17,Amara Badal,B.Sc Statistics,A/B Testing;Experimentation,9.26,Data Science,Data Analysis Project,1,8
+2026-04-17,Ekta Raghavan,B.Sc Statistics,Python;TensorFlow;Neural Networks,8.36,Data Science,Neural Net from Scratch;MLP Model,2,6
+2026-04-17,Jai Khanna,MCA Data Science,Tableau;Dashboarding;Storytelling,7.06,Data Science,Business KPI Dashboard;Customer Dashboard;Sales Dashboard,3,8
+2026-04-17,Banjeet Mander,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,8.13,Data Science,Data Analysis Project,1,6
+2026-04-17,Vincent Narasimhan,BCA Data Analytics,Hadoop;Hive;Distributed Systems,8.63,Data Science,Data Analysis Project,1,5
+2026-04-17,Isaac Saini,MCA Data Science,Anomaly Detection;Fraud Detection,7.25,Data Science,Anomaly Detection;Credit Card Fraud Detection,2,5
+2026-04-17,Maya Sachdev,BCA Data Analytics,Docker;MLflow;CI/CD,8.98,Data Science,Docker ML Pipeline;Containerized Model,2,7
+2026-04-17,Ishita Kulkarni,B.Tech Data Science,Collaborative Filtering;Recommender Systems,9.14,Data Science,,0,7
+2026-04-17,Anika Acharya,MCA Data Science,Forecasting;Prophet;Trend Analysis,7.56,Data Science,Traffic Forecasting;Sales Forecasting Prophet,2,7
+2026-04-17,Reyansh Suresh,B.Sc Statistics,Python;Time Series;ARIMA,7.92,Data Science,Stock Forecasting;Energy Forecasting,2,6
+2026-04-17,Neel Nagar,B.Tech Data Science,Tableau;Dashboarding;Storytelling,9.07,Data Science,Business KPI Dashboard;Customer Dashboard;Sales Dashboard,3,4
+2026-04-17,Vansha Saran,B.Tech Data Science,Bayesian Statistics;Probability;Inference,7.04,Data Science,Data Analysis Project,1,8
+2026-04-17,Devansh Nori,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,8.9,Data Science,Data Analysis Project,1,6
+2026-04-17,Sathvik Mitra,B.Tech Data Science,Docker;MLflow;CI/CD,9.69,Data Science,,0,6
+2026-04-17,Vamakshi Merchant,B.Tech Data Science,Python;NLTK;Text Processing,7.0,Data Science,Data Analysis Project,1,8
+2026-04-17,Manbir Narayan,B.Tech Data Science,Python;XGBoost;LightGBM;Model Tuning,7.14,Data Science,Data Analysis Project,1,4
+2026-04-17,Jatin Hayre,MCA Data Science,Collaborative Filtering;Recommender Systems,7.25,Data Science,Product Recommender;Movie Recommender,2,7
+2026-04-17,Ikshita Verma,B.Sc Statistics,AWS;S3;Lambda;Deployment,8.56,Data Science,AWS Deployment;FastAPI Prediction App;ML API Flask,3,6
+2026-04-17,Faris Goda,MCA Data Science,Python;TensorFlow;Neural Networks,7.81,Data Science,Neural Net from Scratch;MLP Model,2,7
+2026-04-17,Avi Wason,B.Tech Data Science,Flask;FastAPI;Deployment,8.42,Data Science,FastAPI Prediction App;ML API Flask;AWS Deployment,3,8
+2026-04-17,Yahvi Bhakta,BCA Data Analytics,SQL;Excel;Power BI;Data Cleaning,8.53,Data Science,Data Analysis Project,1,5
+2026-04-17,Mahika Patla,MCA Data Science,Power BI;DAX;Visualization,7.32,Data Science,Data Analysis Project,1,5
+2026-04-17,Prisha Master,MCA Data Science,R;Statistics;Hypothesis Testing,8.0,Data Science,Statistical Testing;A/B Testing Analysis,2,8
+2026-04-17,Garima Bora,B.Sc Statistics,AWS;S3;Lambda;Deployment,7.63,Data Science,AWS Deployment;ML API Flask;FastAPI Prediction App,3,5
+2026-04-17,Jackson Vohra,BCA Data Analytics,Matrix Factorization;Recommendation Engine,8.27,Data Science,Data Analysis Project,1,4
+2026-04-17,Madhav Char,B.Tech Data Science,Python;TensorFlow;Neural Networks,7.04,Data Science,MLP Model;Neural Net from Scratch,2,5
+2026-04-17,Aishani Mandal,B.Sc Statistics,Hadoop;Hive;Distributed Systems,9.06,Data Science,Data Analysis Project,1,8
+2026-04-17,Falan Kalla,BCA Data Analytics,Computer Vision;OpenCV;Image Processing,8.06,Data Science,Face Detection;Object Tracking,2,4
+2026-04-17,Shivansh Rajagopalan,MCA Data Science,Python;Time Series;ARIMA,8.37,Data Science,Stock Forecasting,1,4
+2026-04-17,Samuel Narula,BCA Data Analytics,Tableau;Dashboarding;Storytelling,7.18,Data Science,Customer Dashboard;Business KPI Dashboard;Sales Dashboard,3,4
+2026-04-17,Charles Mallick,B.Sc Statistics,Python;Scikit-learn;Regression;Classification,7.18,Data Science,House Price Prediction;Salary Prediction,2,6
+2026-04-17,Anamika Garde,MCA Data Science,Flask;FastAPI;Deployment,8.18,Data Science,AWS Deployment;FastAPI Prediction App;ML API Flask,3,5
+2026-04-17,Thomas Barad,BCA Data Analytics,Python;Transformers;BERT,8.14,Data Science,,0,8
+2026-04-17,Raghav Sathe,B.Sc Statistics,Python;Transformers;BERT,8.61,Data Science,,0,5
+2026-04-17,Vyanjana Suresh,B.Sc Statistics,Docker;MLflow;CI/CD,8.12,Data Science,Docker ML Pipeline;Containerized Model,2,6
+2026-04-17,Qasim Sekhon,BCA Data Analytics,Docker;MLflow;CI/CD,8.53,Data Science,Docker ML Pipeline,1,8
+2026-04-17,Lakshit Dora,B.Sc Statistics,Forecasting;Prophet;Trend Analysis,7.1,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,4
+2026-04-17,Victor Bhardwaj,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,8.69,Data Science,Data Analysis Project,1,5
+2026-04-17,Yochana Mitra,MCA Data Science,Flask;FastAPI;Deployment,8.47,Data Science,AWS Deployment;FastAPI Prediction App;ML API Flask,3,5
+2026-04-17,Vritti Dube,B.Sc Statistics,AWS;S3;Lambda;Deployment,8.84,Data Science,ML API Flask;FastAPI Prediction App,2,4
+2026-04-17,Januja Lalla,BCA Data Analytics,Python;PyTorch;Deep Learning,9.67,Data Science,Data Analysis Project,1,4
+2026-04-17,Chanakya Bali,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,7.62,Data Science,Data Analysis Project,1,5
+2026-04-17,Laksh Dada,MCA Data Science,Spark;PySpark;Big Data,8.58,Data Science,,0,5
+2026-04-17,Mahika Prabhakar,BCA Data Analytics,Flask;FastAPI;Deployment,8.29,Data Science,AWS Deployment;FastAPI Prediction App;ML API Flask,3,8
+2026-04-17,Devansh Bandi,BCA Data Analytics,Matrix Factorization;Recommendation Engine,9.21,Data Science,Data Analysis Project,1,8
+2026-04-17,Chatresh Uppal,B.Sc Statistics,Python;Scikit-learn;Regression;Classification,7.08,Data Science,Spam Classifier,1,5
+2026-04-17,Vasudha Gola,BCA Data Analytics,Python;NLTK;Text Processing,9.13,Data Science,Data Analysis Project,1,4
+2026-04-17,Ladli Prashad,MCA Data Science,Spark;PySpark;Big Data,7.02,Data Science,,0,7
+2026-04-17,Advika Chada,B.Tech Data Science,Python;PyTorch;Deep Learning,7.11,Data Science,Data Analysis Project,1,5
+2026-04-17,Tamanna Singhal,BCA Data Analytics,Flask;FastAPI;Deployment,7.0,Data Science,FastAPI Prediction App;AWS Deployment;ML API Flask,3,4
+2026-04-17,Anusha Radhakrishnan,BCA Data Analytics,Forecasting;Prophet;Trend Analysis,7.46,Data Science,Sales Forecasting Prophet;Traffic Forecasting,2,6
+2026-04-17,Ishwar Natarajan,B.Sc Statistics,Python;Pandas;Seaborn;EDA,7.34,Data Science,Sales Trend Analysis;Retail Data Analysis;Customer Insights,3,6
+2026-04-17,Wyatt Palla,MCA Data Science,Python;Transformers;BERT,7.03,Data Science,Chatbot,1,7
+2026-04-17,Champak Kumer,MCA Data Science,Collaborative Filtering;Recommender Systems,8.45,Data Science,Product Recommender;Movie Recommender,2,8
+2026-04-17,Siddharth Pandey,BCA Data Analytics,Hadoop;Hive;Distributed Systems,7.72,Data Science,Data Analysis Project,1,6
+2026-04-17,Imaran Khalsa,BCA Data Analytics,Spark;PySpark;Big Data,9.05,Data Science,Log Analysis,1,7
+2026-04-17,Aryan Srivastava,B.Sc Statistics,Bayesian Statistics;Probability;Inference,7.89,Data Science,,0,7
+2026-04-17,Zayyan Savant,B.Sc Statistics,R;Statistics;Hypothesis Testing,7.21,Data Science,,0,5
+2026-04-17,Azad Sahota,B.Sc Statistics,Anomaly Detection;Fraud Detection,7.03,Data Science,,0,6
+2026-04-17,Yashawini Upadhyay,B.Tech Data Science,Hadoop;Hive;Distributed Systems,7.38,Data Science,Data Analysis Project,1,4
+2026-04-17,Upma Ratti,BCA Data Analytics,Python;Pandas;Seaborn;EDA,7.09,Data Science,,0,5
+2026-04-17,Tanay Nagar,B.Sc Statistics,Power BI;DAX;Visualization,8.86,Data Science,Data Analysis Project,1,4
+2026-04-17,Logan Cherian,BCA Data Analytics,Power BI;DAX;Visualization,7.89,Data Science,,0,8
+2026-04-17,Ekantika Trivedi,B.Sc Statistics,Tableau;Dashboarding;Storytelling,8.7,Data Science,Customer Dashboard;Sales Dashboard,2,6
+2026-04-17,Rayaan Purohit,B.Tech Data Science,Python;Time Series;ARIMA,8.96,Data Science,Energy Forecasting;Stock Forecasting,2,8
+2026-04-17,Garima Sundaram,B.Tech Data Science,Python;TensorFlow;Neural Networks,8.88,Data Science,Neural Net from Scratch;MLP Model,2,5
+2026-04-17,Vedant Gaba,B.Sc Statistics,Python;NLTK;Text Processing,9.33,Data Science,Data Analysis Project,1,5
+2026-04-17,Rajeshri Tiwari,BCA Data Analytics,Forecasting;Prophet;Trend Analysis,8.79,Data Science,Traffic Forecasting;Sales Forecasting Prophet,2,7
+2026-04-17,Nandini Koshy,B.Tech Data Science,Hadoop;Hive;Distributed Systems,8.35,Data Science,Data Analysis Project,1,8
+2026-04-17,Vinaya Pant,B.Sc Statistics,Python;TensorFlow;Neural Networks,9.07,Data Science,,0,4
+2026-04-17,Wahab Parmer,B.Sc Statistics,Python;PyTorch;Deep Learning,8.74,Data Science,,0,5
+2026-04-17,Bhavya Mangal,MCA Data Science,Python;NLTK;Text Processing,7.69,Data Science,Data Analysis Project,1,5
+2026-04-17,Warda Tailor,MCA Data Science,Spark;PySpark;Big Data,8.28,Data Science,Log Analysis;Big Data Pipeline,2,5
+2026-04-17,Yamini Dube,B.Tech Data Science,Hadoop;Hive;Distributed Systems,8.74,Data Science,Data Analysis Project,1,5
+2026-04-17,Warda Bahri,B.Tech Data Science,Power BI;DAX;Visualization,9.08,Data Science,Data Analysis Project,1,4
+2026-04-17,Harshil Baria,MCA Data Science,Computer Vision;OpenCV;Image Processing,8.36,Data Science,Object Tracking,1,4
+2026-04-17,Tristan Singh,B.Sc Statistics,R;Statistics;Hypothesis Testing,9.13,Data Science,A/B Testing Analysis;Statistical Testing,2,8
+2026-04-17,Unnati Viswanathan,B.Tech Data Science,Spark;PySpark;Big Data,8.46,Data Science,Big Data Pipeline;Log Analysis,2,5
+2026-04-17,Charan Rana,B.Sc Statistics,Bayesian Statistics;Probability;Inference,8.44,Data Science,Data Analysis Project,1,7
+2026-04-17,William Dash,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,9.36,Data Science,Data Analysis Project,1,5
+2026-04-17,Chasmum Batra,B.Tech Data Science,Flask;FastAPI;Deployment,8.02,Data Science,AWS Deployment;ML API Flask,2,7
+2026-04-17,Gautam Sami,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,9.64,Data Science,Data Analysis Project,1,4
+2026-04-17,Veda Puri,MCA Data Science,Computer Vision;OpenCV;Image Processing,7.3,Data Science,Object Tracking;Face Detection,2,5
+2026-04-17,Oviya Rege,B.Sc Statistics,Python;TensorFlow;Neural Networks,7.14,Data Science,Neural Net from Scratch;MLP Model,2,5
+2026-04-17,Rachit Bose,B.Tech Data Science,R;Statistics;Hypothesis Testing,8.89,Data Science,A/B Testing Analysis;Statistical Testing,2,4
+2026-04-17,Sanaya Wable,BCA Data Analytics,Python;Scikit-learn;Regression;Classification,8.51,Data Science,Spam Classifier;Customer Churn Prediction,2,6
+2026-04-17,Akshay Kale,B.Tech Data Science,Python;PyTorch;Deep Learning,9.25,Data Science,Data Analysis Project,1,8
+2026-04-17,Sanaya Rau,BCA Data Analytics,Spark;PySpark;Big Data,9.36,Data Science,Big Data Pipeline;Log Analysis,2,6
+2026-04-17,Samarth Kalla,BCA Data Analytics,Power BI;DAX;Visualization,8.44,Data Science,Data Analysis Project,1,6
+2026-04-17,Rajeshri Borde,B.Tech Data Science,Collaborative Filtering;Recommender Systems,8.86,Data Science,Product Recommender;Movie Recommender,2,8
+2026-04-17,Kamya Subramaniam,MCA Data Science,Python;Scikit-learn;Regression;Classification,8.98,Data Science,,0,5
+2026-04-17,Harini Kalita,MCA Data Science,Matrix Factorization;Recommendation Engine,7.14,Data Science,Data Analysis Project,1,6
+2026-04-17,Oscar Mallick,MCA Data Science,Forecasting;Prophet;Trend Analysis,8.78,Data Science,Traffic Forecasting,1,8
+2026-04-17,Wyatt Subramaniam,MCA Data Science,Python;PyTorch;Deep Learning,8.64,Data Science,,0,7
+2026-04-17,Kai Majumdar,B.Sc Statistics,Python;Pandas;Seaborn;EDA,9.62,Data Science,Customer Insights;Sales Trend Analysis;Retail Data Analysis,3,7
+2026-04-17,Xiti Varkey,B.Tech Data Science,Python;PyTorch;Deep Learning,9.19,Data Science,,0,6
+2026-04-17,Jeet Wadhwa,B.Sc Statistics,Python;PyTorch;Deep Learning,7.62,Data Science,Data Analysis Project,1,8
+2026-04-17,Abhiram Nagar,MCA Data Science,SQL;Excel;Power BI;Data Cleaning,8.8,Data Science,Data Analysis Project,1,6
+2026-04-17,Pahal Choudhry,B.Sc Statistics,Computer Vision;OpenCV;Image Processing,7.37,Data Science,Object Tracking,1,7
+2026-04-17,Logan Som,BCA Data Analytics,Python;Scikit-learn;Regression;Classification,9.55,Data Science,,0,7
+2026-04-17,Ranbir Saxena,BCA Data Analytics,Python;Scikit-learn;Clustering;Feature Engineering,7.95,Data Science,Feature Pipeline;Auto Feature Selection,2,8
+2026-04-17,Zinal Dara,B.Tech Data Science,Python;NLTK;Text Processing,9.58,Data Science,Data Analysis Project,1,4
+2026-04-17,Harsh Aggarwal,B.Tech Data Science,R;Statistics;Hypothesis Testing,7.55,Data Science,,0,8
+2026-04-17,Banjeet Bahl,B.Sc Statistics,Python;spaCy;NLP,7.06,Data Science,Sentiment Analysis;Fake News Detection;Text Classification,3,6
+2026-04-17,Tanvi Kamdar,B.Tech Data Science,Python;NLTK;Text Processing,7.09,Data Science,,0,5
+2026-04-17,Samar Panchal,MCA Data Science,Python;SQL;ETL;Data Pipelines,9.35,Data Science,Data Cleaning System;ETL Pipeline,2,7
+2026-04-17,Yahvi Loyal,B.Sc Statistics,Python;SQL;ETL;Data Pipelines,8.22,Data Science,ETL Pipeline;Data Cleaning System,2,6
+2026-04-17,Hemang Karpe,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,9.12,Data Science,Data Analysis Project,1,8
+2026-04-17,Dhruv Zachariah,MCA Data Science,Power BI;DAX;Visualization,9.57,Data Science,Data Analysis Project,1,6
+2026-04-17,Kevin Yogi,BCA Data Analytics,Matrix Factorization;Recommendation Engine,7.36,Data Science,Data Analysis Project,1,5
+2026-04-17,Liam Mutti,B.Tech Data Science,Python;NLTK;Text Processing,8.54,Data Science,Data Analysis Project,1,6
+2026-04-17,Priya Kala,BCA Data Analytics,Bayesian Statistics;Probability;Inference,7.39,Data Science,,0,7
+2026-04-17,Eshana Narayanan,B.Sc Statistics,Python;NLTK;Text Processing,7.8,Data Science,Data Analysis Project,1,5
+2026-04-17,Amaira Balakrishnan,MCA Data Science,Flask;FastAPI;Deployment,9.64,Data Science,,0,4
+2026-04-17,Manthan Mukhopadhyay,B.Sc Statistics,A/B Testing;Experimentation,7.35,Data Science,,0,8
+2026-04-17,Qushi Ratta,B.Tech Data Science,Python;Scikit-learn;Regression;Classification,8.96,Data Science,Customer Churn Prediction;Spam Classifier;House Price Prediction,3,7
+2026-04-17,Harish Balasubramanian,BCA Data Analytics,Spark;PySpark;Big Data,7.88,Data Science,Log Analysis,1,4
+2026-04-17,Patrick Kamdar,B.Sc Statistics,Bayesian Statistics;Probability;Inference,8.29,Data Science,Data Analysis Project,1,7
+2026-04-17,Ekani Kata,B.Tech Data Science,A/B Testing;Experimentation,8.83,Data Science,,0,4
+2026-04-17,Oni Behl,B.Sc Statistics,Hadoop;Hive;Distributed Systems,7.13,Data Science,Data Analysis Project,1,5
+2026-04-17,Amaira Tak,B.Sc Statistics,Flask;FastAPI;Deployment,9.35,Data Science,FastAPI Prediction App;AWS Deployment;ML API Flask,3,8
+2026-04-17,Ria Wadhwa,B.Tech Data Science,Python;SQL;ETL;Data Pipelines,7.13,Data Science,Data Cleaning System;ETL Pipeline,2,8
+2026-04-17,Tamanna Shetty,BCA Data Analytics,Spark;PySpark;Big Data,8.22,Data Science,Big Data Pipeline,1,6
+2026-04-17,Shaurya Tella,MCA Data Science,Python;Scikit-learn;Regression;Classification,9.5,Data Science,,0,4
+2026-04-17,Chameli Ganesan,MCA Data Science,Matrix Factorization;Recommendation Engine,8.01,Data Science,,0,5
+2026-04-17,Charvi Dube,MCA Data Science,Matrix Factorization;Recommendation Engine,8.91,Data Science,Data Analysis Project,1,5
+2026-04-17,Wahab Swaminathan,MCA Data Science,Python;Transformers;BERT,8.66,Data Science,BERT Classifier;QA System;Chatbot,3,6
+2026-04-17,Zashil Sachdev,MCA Data Science,Python;NLTK;Text Processing,8.68,Data Science,Data Analysis Project,1,6
+2026-04-17,Barkha Garg,B.Tech Data Science,Docker;MLflow;CI/CD,7.27,Data Science,,0,5
+2026-04-17,Rushil Sarkar,B.Tech Data Science,Python;Pandas;Seaborn;EDA,7.79,Data Science,Sales Trend Analysis;Customer Insights,2,5
+2026-04-17,Ayaan Malhotra,BCA Data Analytics,Python;SQL;ETL;Data Pipelines,9.32,Data Science,ETL Pipeline;Data Cleaning System,2,7
+2026-04-17,Nidra Viswanathan,B.Tech Data Science,Python;Scikit-learn;Regression;Classification,7.05,Data Science,Loan Default Prediction;Spam Classifier;Demand Forecasting;Salary Prediction,4,5
+2026-04-17,Chaitaly Palla,MCA Data Science,Python;Scikit-learn;Regression;Classification,8.92,Data Science,Loan Default Prediction;Customer Churn Prediction;Salary Prediction;House Price Prediction,4,8
+2026-04-17,Maanas Gulati,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,8.84,Data Science,Customer Segmentation,1,8
+2026-04-17,Jatin Dyal,MCA Data Science,Python;SQL;ETL;Data Pipelines,9.62,Data Science,Data Cleaning System;ETL Pipeline,2,4
+2026-04-17,Anvi Thaker,B.Tech Data Science,Python;Pandas;Seaborn;EDA,7.35,Data Science,,0,7
+2026-04-17,Matthew Wali,B.Sc Statistics,SQL;Excel;Power BI;Data Cleaning,8.08,Data Science,Data Analysis Project,1,7
+2026-04-17,Riya Bhalla,B.Tech Data Science,Python;CNN;Computer Vision,7.12,Data Science,,0,7
+2026-04-17,Ranveer Halder,BCA Data Analytics,Python;SQL;ETL;Data Pipelines,7.25,Data Science,,0,6
+2026-04-17,Pranit Randhawa,BCA Data Analytics,Collaborative Filtering;Recommender Systems,8.43,Data Science,Movie Recommender;Product Recommender,2,6
+2026-04-17,Jairaj Gara,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,9.76,Data Science,Market Basket Analysis;Auto Feature Selection,2,6
+2026-04-17,Hredhaan Swamy,MCA Data Science,AWS;S3;Lambda;Deployment,7.25,Data Science,ML API Flask,1,4
+2026-04-17,Balhaar Lanka,BCA Data Analytics,Python;spaCy;NLP,8.35,Data Science,Sentiment Analysis;Fake News Detection;Text Classification,3,5
+2026-04-17,Ekiya Dugar,BCA Data Analytics,Python;TensorFlow;Neural Networks,7.65,Data Science,Neural Net from Scratch;MLP Model,2,5
+2026-04-17,Upma Thaman,B.Tech Data Science,Python;PyTorch;Deep Learning,7.14,Data Science,Data Analysis Project,1,4
+2026-04-17,Chatura Lalla,B.Sc Statistics,Python;NLTK;Text Processing,8.31,Data Science,Data Analysis Project,1,5
+2026-04-17,Advika Wable,BCA Data Analytics,Spark;PySpark;Big Data,7.76,Data Science,Big Data Pipeline;Log Analysis,2,4
+2026-04-17,Nicholas Atwal,MCA Data Science,Python;XGBoost;LightGBM;Model Tuning,8.56,Data Science,Data Analysis Project,1,6
+2026-04-17,Reyansh Sathe,MCA Data Science,Tableau;Dashboarding;Storytelling,9.23,Data Science,Sales Dashboard;Business KPI Dashboard;Customer Dashboard,3,5
+2026-04-17,Robert Yohannan,B.Sc Statistics,Python;Transformers;BERT,8.47,Data Science,Chatbot;BERT Classifier;QA System,3,5
+2026-04-17,Urmi Kade,B.Tech Data Science,Python;CNN;Computer Vision,9.08,Data Science,,0,4
+2026-04-17,Benjamin Jaggi,MCA Data Science,Flask;FastAPI;Deployment,9.73,Data Science,AWS Deployment;FastAPI Prediction App;ML API Flask,3,5
+2026-04-17,Sanya Bansal,B.Sc Statistics,A/B Testing;Experimentation,9.72,Data Science,Data Analysis Project,1,7
+2026-04-17,Nikita Nagy,B.Tech Data Science,Docker;MLflow;CI/CD,8.75,Data Science,Containerized Model;Docker ML Pipeline,2,8
+2026-04-17,Vyanjana Batra,MCA Data Science,Hadoop;Hive;Distributed Systems,8.13,Data Science,Data Analysis Project,1,5
+2026-04-17,Krishna Mahal,MCA Data Science,Spark;PySpark;Big Data,7.81,Data Science,Big Data Pipeline;Log Analysis,2,5
+2026-04-17,Janaki Sule,B.Sc Statistics,Spark;PySpark;Big Data,7.15,Data Science,Log Analysis,1,8
+2026-04-17,Sachi Dubey,B.Tech Data Science,Python;Pandas;NumPy;Matplotlib,8.48,Data Science,Data Analysis Project,1,8
+2026-04-17,Nikita Wali,MCA Data Science,Python;Pandas;NumPy;Matplotlib,8.63,Data Science,Data Analysis Project,1,7
+2026-04-17,Unnati Muni,BCA Data Analytics,Python;NLTK;Text Processing,9.51,Data Science,Data Analysis Project,1,8
+2026-04-17,Devansh Joshi,B.Tech Data Science,Python;Transformers;BERT,9.01,Data Science,Chatbot;QA System,2,6
+2026-04-17,Faqid Mishra,B.Tech Data Science,Python;TensorFlow;Neural Networks,9.21,Data Science,Neural Net from Scratch;MLP Model,2,7
+2026-04-17,Aarav Randhawa,B.Sc Statistics,Hadoop;Hive;Distributed Systems,7.64,Data Science,Data Analysis Project,1,8
+2026-04-17,Pratyush Wali,B.Sc Statistics,R;Statistics;Hypothesis Testing,9.8,Data Science,A/B Testing Analysis;Statistical Testing,2,6
+2026-04-17,Idika Jani,B.Tech Data Science,A/B Testing;Experimentation,7.51,Data Science,Data Analysis Project,1,4
+2026-04-17,Damini Sawhney,BCA Data Analytics,Spark;PySpark;Big Data,7.88,Data Science,Log Analysis,1,6
+2026-04-17,Aarav Tak,B.Sc Statistics,Flask;FastAPI;Deployment,8.09,Data Science,ML API Flask;FastAPI Prediction App;AWS Deployment,3,4
+2026-04-17,Gavin Dua,B.Tech Data Science,Python;TensorFlow;Neural Networks,9.7,Data Science,Neural Net from Scratch;MLP Model,2,7
+2026-04-17,Hemal Sami,B.Sc Statistics,Python;CNN;Computer Vision,7.59,Data Science,,0,5
+2026-04-17,Vedant Char,BCA Data Analytics,Python;Pandas;Seaborn;EDA,8.88,Data Science,Sales Trend Analysis;Retail Data Analysis;Customer Insights,3,4
+2026-04-17,Bhanumati Sule,B.Sc Statistics,Python;Time Series;ARIMA,7.49,Data Science,Energy Forecasting;Stock Forecasting,2,5
+2026-04-17,Hiral Garg,B.Tech Data Science,Flask;FastAPI;Deployment,9.76,Data Science,,0,5
+2026-04-17,Kai Handa,B.Tech Data Science,A/B Testing;Experimentation,9.46,Data Science,Data Analysis Project,1,8
+2026-04-17,Krish Sandal,MCA Data Science,Python;CNN;Computer Vision,8.61,Data Science,Medical Image Detection;Image Classifier,2,6
+2026-04-17,Jeet Sarna,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,7.77,Data Science,Market Basket Analysis;Feature Pipeline;Customer Segmentation,3,8
+2026-04-17,Libni Sharaf,BCA Data Analytics,Docker;MLflow;CI/CD,8.95,Data Science,,0,6
+2026-04-17,Neha Bail,B.Sc Statistics,A/B Testing;Experimentation,8.7,Data Science,Data Analysis Project,1,6
+2026-04-17,Zinal Pillay,BCA Data Analytics,Power BI;DAX;Visualization,7.38,Data Science,Data Analysis Project,1,4
+2026-04-17,Zaid Bhargava,B.Sc Statistics,Python;Time Series;ARIMA,7.93,Data Science,Stock Forecasting;Energy Forecasting,2,6
+2026-04-17,Radha Sharaf,B.Tech Data Science,Computer Vision;OpenCV;Image Processing,9.44,Data Science,Object Tracking;Face Detection,2,5
+2026-04-17,Teerth Sheth,MCA Data Science,R;Statistics;Hypothesis Testing,9.78,Data Science,Statistical Testing,1,4
+2026-04-17,Orinder Rattan,B.Sc Statistics,Matrix Factorization;Recommendation Engine,9.0,Data Science,,0,7
+2026-04-17,Chakradhar Ramanathan,BCA Data Analytics,Python;CNN;Computer Vision,8.36,Data Science,Image Classifier;Medical Image Detection,2,4
+2026-04-17,Divya Chandran,MCA Data Science,Python;Pandas;Seaborn;EDA,9.73,Data Science,Sales Trend Analysis;Retail Data Analysis;Customer Insights,3,4
+2026-04-17,Daksha Shetty,B.Sc Statistics,Python;NLTK;Text Processing,7.18,Data Science,,0,6
+2026-04-17,Jagdish Chana,B.Tech Data Science,Tableau;Dashboarding;Storytelling,9.5,Data Science,Sales Dashboard;Customer Dashboard,2,4
+2026-04-17,Oni Vohra,BCA Data Analytics,Python;NLTK;Text Processing,8.93,Data Science,Data Analysis Project,1,8
+2026-04-17,Chakradev Oommen,B.Sc Statistics,Docker;MLflow;CI/CD,8.43,Data Science,Containerized Model,1,7
+2026-04-17,Utkarsh Lalla,B.Sc Statistics,Forecasting;Prophet;Trend Analysis,9.21,Data Science,Traffic Forecasting;Sales Forecasting Prophet,2,7
+2026-04-17,Unni Ravi,B.Sc Statistics,Spark;PySpark;Big Data,8.28,Data Science,,0,7
+2026-04-17,Anvi Sarin,MCA Data Science,Collaborative Filtering;Recommender Systems,7.69,Data Science,Movie Recommender;Product Recommender,2,6
+2026-04-17,Zayan Ratti,BCA Data Analytics,Python;spaCy;NLP,8.74,Data Science,Sentiment Analysis;Text Classification;Fake News Detection,3,5
+2026-04-17,Gabriel Rau,MCA Data Science,Power BI;DAX;Visualization,7.51,Data Science,Data Analysis Project,1,8
+2026-04-17,Riya Nath,B.Tech Data Science,Bayesian Statistics;Probability;Inference,9.42,Data Science,Data Analysis Project,1,4
+2026-04-17,Eiravati Atwal,B.Tech Data Science,Python;Scikit-learn;Regression;Classification,7.09,Data Science,,0,8
+2026-04-17,Ranbir Lata,MCA Data Science,Python;Pandas;Seaborn;EDA,8.87,Data Science,Sales Trend Analysis;Customer Insights;Retail Data Analysis,3,7
+2026-04-17,Harish Bhat,B.Tech Data Science,Python;Pandas;Seaborn;EDA,9.38,Data Science,Sales Trend Analysis;Retail Data Analysis;Customer Insights,3,7
+2026-04-17,Riya Hegde,BCA Data Analytics,Python;Scikit-learn;Regression;Classification,9.59,Data Science,Spam Classifier;Demand Forecasting;Salary Prediction;Customer Churn Prediction;Loan Default Prediction,5,6
+2026-04-17,Anthony Modi,B.Sc Statistics,Python;XGBoost;LightGBM;Model Tuning,8.19,Data Science,Data Analysis Project,1,6
+2026-04-17,Vansha Mander,MCA Data Science,Python;TensorFlow;Neural Networks,8.43,Data Science,Neural Net from Scratch;MLP Model,2,5
+2026-04-17,Logan Kakar,BCA Data Analytics,Matrix Factorization;Recommendation Engine,8.0,Data Science,Data Analysis Project,1,6
+2026-04-17,Parth Mohan,BCA Data Analytics,A/B Testing;Experimentation,8.94,Data Science,Data Analysis Project,1,4
+2026-04-17,Owen Taneja,B.Sc Statistics,Python;Scikit-learn;Clustering;Feature Engineering,9.24,Data Science,Feature Pipeline;Market Basket Analysis;Customer Segmentation;Auto Feature Selection,4,6
+2026-04-17,Divya Anne,MCA Data Science,Python;Pandas;NumPy;Matplotlib,8.18,Data Science,Data Analysis Project,1,7
+2026-04-17,Hemang Hari,MCA Data Science,Computer Vision;OpenCV;Image Processing,9.73,Data Science,Object Tracking;Face Detection,2,4
+2026-04-17,Manan Dewan,B.Tech Data Science,Collaborative Filtering;Recommender Systems,8.79,Data Science,,0,4
+2026-04-17,Lakshmi Viswanathan,B.Tech Data Science,Python;Pandas;Seaborn;EDA,9.1,Data Science,Retail Data Analysis;Customer Insights;Sales Trend Analysis,3,6
+2026-04-17,Kevin Goda,B.Sc Statistics,Python;XGBoost;LightGBM;Model Tuning,9.56,Data Science,,0,6
+2026-04-17,Advik Ganesh,BCA Data Analytics,R;Statistics;Hypothesis Testing,7.68,Data Science,,0,7
+2026-04-17,Lipika Shere,B.Tech Data Science,Python;CNN;Computer Vision,7.04,Data Science,Image Classifier;Medical Image Detection,2,6

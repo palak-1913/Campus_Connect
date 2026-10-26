@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Mason Jaggi,MCA,SQL;PostgreSQL;Database Design,9.13,Backend Engineer,Relational Database Backend;Transaction System,2,7
+2026-04-17,Anya Mukherjee,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,7.46,Backend Engineer,Microservices Application;Enterprise Backend System;Event-driven System;Message Queue Pipeline,4,5
+2026-04-17,Anay Toor,BCA,Python;Django;REST API;PostgreSQL,7.38,Backend Engineer,User Management System;E-commerce Backend;Scalable API Backend,3,8
+2026-04-17,Madhav Rao,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,7.04,Backend Engineer,Live Notification System;Realtime Chat App,2,5
+2026-04-17,Reva Behl,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,8.41,Backend Engineer,,0,5
+2026-04-17,Rushil Tata,BCA,REST API;Authentication;JWT;OAuth,8.79,Backend Engineer,Scalable API Backend;OAuth Login System,2,5
+2026-04-17,Charita Palan,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,8.98,Backend Engineer,Enterprise Backend System;Microservices Application,2,8
+2026-04-17,Peter Chandran,BCA,Elasticsearch;Search Systems,9.08,Backend Engineer,Full-text Search System;Search Engine Backend,2,6
+2026-04-17,Darpan Narayanan,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,9.49,Backend Engineer,Live Notification System;Realtime Chat App,2,7
+2026-04-17,Oeshi Dua,B.Tech Software Engineering,SQL;PostgreSQL;Database Design,9.28,Backend Engineer,Relational Database Backend;Transaction System,2,7
+2026-04-17,Dominic Naidu,MCA,MongoDB;NoSQL;Data Modeling,7.3,Backend Engineer,Data Storage API,1,8
+2026-04-17,Timothy Wason,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,9.18,Backend Engineer,Relational Database Backend,1,4
+2026-04-17,Vasudha Wadhwa,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,7.14,Backend Engineer,,0,4
+2026-04-17,Bishakha Bora,MCA,Kafka;Message Queues;Event-driven Systems,6.74,Backend Engineer,,0,6
+2026-04-17,Aayush Bajwa,BCA,GraphQL;API Design;Backend Architecture,9.2,Backend Engineer,Backend Project,1,5
+2026-04-17,Jatin Puri,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,6.81,Backend Engineer,REST API Server;Authentication System,2,8
+2026-04-17,Jackson Wagle,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,6.74,Backend Engineer,Backend Project,1,6
+2026-04-17,Aradhana Krish,MCA,Docker;CI/CD;Backend Deployment,8.11,Backend Engineer,Dockerized Backend,1,4
+2026-04-17,Chavvi Borah,MCA,Python;FastAPI;Microservices;SQL,8.71,Backend Engineer,ML Backend Service;High-performance API,2,6
+2026-04-17,Hamsini Bhardwaj,B.Tech Software Engineering,Node.js;Express;MongoDB;REST API,7.49,Backend Engineer,Authentication System;Data Storage API,2,7
+2026-04-17,Faras Mandal,BCA,GraphQL;API Design;Backend Architecture,6.82,Backend Engineer,Backend Project,1,8
+2026-04-17,Maya Dora,B.Tech Computer Science,Java;Spring Boot;Hibernate;MySQL,7.84,Backend Engineer,Enterprise Backend System;Microservices Application,2,7
+2026-04-17,Irya Salvi,MCA,Elasticsearch;Search Systems,9.46,Backend Engineer,Full-text Search System;Search Engine Backend,2,4
+2026-04-17,Gaurang Chaudhari,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,7.98,Backend Engineer,High-performance API,1,6
+2026-04-17,Tanmayi Tailor,MCA,System Design;Scalability;Load Balancing,6.96,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,7
+2026-04-17,Arunima Devan,BCA,SQL;PostgreSQL;Database Design,7.73,Backend Engineer,Relational Database Backend;Transaction System,2,6
+2026-04-17,Nirja Golla,B.Tech Software Engineering,Caching;Redis;Performance Optimization,8.06,Backend Engineer,Caching System,1,6
+2026-04-17,Ranbir Sur,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,7.83,Backend Engineer,Microservices Application;Enterprise Backend System;Event-driven System;Message Queue Pipeline,4,8
+2026-04-17,Akshay Sahota,MCA,Kafka;Message Queues;Event-driven Systems,8.02,Backend Engineer,Event-driven System;Message Queue Pipeline,2,8
+2026-04-17,Eshana Bhattacharyya,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,7.25,Backend Engineer,,0,4
+2026-04-17,Vidhi Korpal,BCA,Python;Django;REST API;PostgreSQL,9.44,Backend Engineer,Transaction System,1,6
+2026-04-17,Gopal Comar,MCA,Caching;Redis;Performance Optimization,6.8,Backend Engineer,,0,5
+2026-04-17,Zayan Dada,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,7.89,Backend Engineer,,0,8
+2026-04-17,Zashil Narain,BCA,Python;Django;REST API;PostgreSQL,8.8,Backend Engineer,,0,7
+2026-04-17,Shivansh D’Alia,MCA,Elasticsearch;Search Systems,7.84,Backend Engineer,Full-text Search System;Search Engine Backend,2,5
+2026-04-17,Chakradev Rajagopalan,B.Tech Software Engineering,SQL;PostgreSQL;Database Design,8.28,Backend Engineer,Transaction System,1,6
+2026-04-17,Vedant Lal,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,7.01,Backend Engineer,NoSQL Backend System,1,5
+2026-04-17,David Vasa,BCA,Java;Spring Boot;Microservices;Kafka,9.18,Backend Engineer,Microservices Application;Enterprise Backend System;Message Queue Pipeline;Event-driven System,4,5
+2026-04-17,Unni Khurana,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,8.44,Backend Engineer,Authentication System;REST API Server,2,7
+2026-04-17,Deepa Suresh,BCA,WebSockets;Realtime Systems;Socket.io,7.95,Backend Engineer,Realtime Chat App;Live Notification System,2,4
+2026-04-17,Turvi Aurora,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,6.71,Backend Engineer,Dockerized Backend;Containerized API,2,8
+2026-04-17,Anmol Verma,MCA,Kafka;Message Queues;Event-driven Systems,7.56,Backend Engineer,Message Queue Pipeline,1,8
+2026-04-17,Ekantika Bhandari,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,6.66,Backend Engineer,Enterprise Backend System;Message Queue Pipeline;Microservices Application;Event-driven System,4,8
+2026-04-17,Zashil Pau,B.Tech Software Engineering,Node.js;Express;MongoDB;REST API,8.3,Backend Engineer,,0,6
+2026-04-17,Victor Vig,MCA,AWS;EC2;Backend Deployment,8.94,Backend Engineer,Cloud Backend Deployment;Scalable API on AWS,2,4
+2026-04-17,Manya Nagi,BCA,Kafka;Message Queues;Event-driven Systems,6.96,Backend Engineer,Message Queue Pipeline;Event-driven System,2,8
+2026-04-17,Zayan Manne,BCA,Python;Django;REST API;PostgreSQL,8.56,Backend Engineer,User Management System;Blog API System;Relational Database Backend;E-commerce Backend,4,7
+2026-04-17,Ekanta Merchant,B.Tech Computer Science,Elasticsearch;Search Systems,9.28,Backend Engineer,,0,4
+2026-04-17,Eshana Narayan,MCA,Java;Spring Boot;Hibernate;MySQL,8.24,Backend Engineer,,0,4
+2026-04-17,Michael Nair,B.Tech Software Engineering,AWS;EC2;Backend Deployment,7.44,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,6
+2026-04-17,Gauri Borde,B.Tech Software Engineering,Node.js;Express;MongoDB;REST API,8.79,Backend Engineer,Data Storage API,1,4
+2026-04-17,Yutika Kapadia,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,8.74,Backend Engineer,,0,4
+2026-04-17,Chavvi Bajaj,BCA,Node.js;NestJS;Microservices;JWT,8.95,Backend Engineer,REST API Server;Authentication System,2,5
+2026-04-17,Devika Kamdar,BCA,REST API;Authentication;JWT;OAuth,6.94,Backend Engineer,JWT Auth System;CRUD API System;Scalable API Backend,3,7
+2026-04-17,Abhimanyu Wali,MCA,GraphQL;API Design;Backend Architecture,8.65,Backend Engineer,Backend Project,1,8
+2026-04-17,Manan Chopra,BCA,Python;Django;REST API;PostgreSQL,7.45,Backend Engineer,E-commerce Backend;Blog API System;Transaction System;CRUD API System;Relational Database Backend,5,4
+2026-04-17,Balvan Ramaswamy,BCA,Elasticsearch;Search Systems,6.57,Backend Engineer,Search Engine Backend,1,5
+2026-04-17,Aahana Handa,MCA,AWS;EC2;Backend Deployment,6.52,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,5
+2026-04-17,Damini Mannan,BCA,AWS;EC2;Backend Deployment,6.53,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,4
+2026-04-17,Dev Bhardwaj,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,8.1,Backend Engineer,Relational Database Backend;Scalable API Backend;Transaction System;CRUD API System,4,7
+2026-04-17,Vedant Lal,MCA,Docker;CI/CD;Backend Deployment,9.2,Backend Engineer,Containerized API;Dockerized Backend,2,5
+2026-04-17,Oscar Butala,MCA,Kafka;Message Queues;Event-driven Systems,6.97,Backend Engineer,Message Queue Pipeline;Event-driven System,2,8
+2026-04-17,Abhiram Ramesh,B.Tech Software Engineering,Caching;Redis;Performance Optimization,7.74,Backend Engineer,Caching System;Session Store,2,6
+2026-04-17,Deepa Behl,MCA,GraphQL;API Design;Backend Architecture,8.84,Backend Engineer,Backend Project,1,8
+2026-04-17,Ojasvi Dua,B.Tech Software Engineering,WebSockets;Realtime Systems;Socket.io,8.46,Backend Engineer,Realtime Chat App;Live Notification System,2,7
+2026-04-17,Fiyaz Naidu,BCA,REST API;Authentication;JWT;OAuth,8.01,Backend Engineer,CRUD API System;JWT Auth System;Scalable API Backend,3,8
+2026-04-17,Joshua Roy,MCA,System Design;Scalability;Load Balancing,9.08,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,5
+2026-04-17,Nachiket Ganguly,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,8.25,Backend Engineer,Data Storage API;NoSQL Backend System,2,7
+2026-04-17,Vedika Mammen,B.Tech Computer Science,System Design;Scalability;Load Balancing,8.4,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,7
+2026-04-17,Liam Luthra,B.Tech Computer Science,AWS;EC2;Backend Deployment,7.32,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,4
+2026-04-17,Gagan Parikh,BCA,Python;FastAPI;Microservices;SQL,7.71,Backend Engineer,High-performance API,1,5
+2026-04-17,Mekhala Rama,MCA,Caching;Redis;Performance Optimization,7.2,Backend Engineer,Caching System;Session Store,2,7
+2026-04-17,Isaiah Mukherjee,B.Tech Computer Science,Caching;Redis;Performance Optimization,8.06,Backend Engineer,,0,8
+2026-04-17,Nandini Madan,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,7.39,Backend Engineer,Live Notification System,1,7
+2026-04-17,Hemani Sawhney,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,6.9,Backend Engineer,Dockerized Backend;Containerized API,2,5
+2026-04-17,Januja Dass,MCA,Caching;Redis;Performance Optimization,8.55,Backend Engineer,Session Store;Caching System,2,8
+2026-04-17,Yadavi Saran,B.Tech Software Engineering,Node.js;Express;MongoDB;REST API,8.79,Backend Engineer,NoSQL Backend System,1,5
+2026-04-17,Damyanti Reddy,MCA,WebSockets;Realtime Systems;Socket.io,6.54,Backend Engineer,,0,4
+2026-04-17,Inaya Pai,MCA,Elasticsearch;Search Systems,8.27,Backend Engineer,Full-text Search System;Search Engine Backend,2,8
+2026-04-17,Chakradev More,BCA,System Design;Scalability;Load Balancing,7.18,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,7
+2026-04-17,Panini Gole,BCA,Java;Spring Boot;Hibernate;MySQL,7.5,Backend Engineer,,0,5
+2026-04-17,Dhriti Subramaniam,B.Tech Software Engineering,Caching;Redis;Performance Optimization,8.16,Backend Engineer,Session Store;Caching System,2,4
+2026-04-17,Max Dasgupta,BCA,SQL;PostgreSQL;Database Design,8.3,Backend Engineer,Relational Database Backend;Transaction System,2,7
+2026-04-17,Ekbal Bains,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,8.79,Backend Engineer,ML Backend Service;High-performance API,2,7
+2026-04-17,Rohan Choudhary,MCA,Kafka;Message Queues;Event-driven Systems,7.69,Backend Engineer,Event-driven System;Message Queue Pipeline,2,4
+2026-04-17,Faraj Sangha,B.Tech Software Engineering,System Design;Scalability;Load Balancing,7.89,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,6
+2026-04-17,Janani Thaker,B.Tech Computer Science,Java;Spring Boot;Hibernate;MySQL,7.46,Backend Engineer,Microservices Application;Enterprise Backend System,2,6
+2026-04-17,Jairaj Natt,MCA,Docker;CI/CD;Backend Deployment,8.79,Backend Engineer,Dockerized Backend;Containerized API,2,5
+2026-04-17,Chaaya Rau,B.Tech Computer Science,Elasticsearch;Search Systems,9.16,Backend Engineer,Search Engine Backend,1,4
+2026-04-17,Devansh Biswas,B.Tech Software Engineering,Node.js;Express;MongoDB;REST API,6.72,Backend Engineer,,0,5
+2026-04-17,Gaurika Bora,BCA,Java;Spring Boot;Microservices;Kafka,7.27,Backend Engineer,Enterprise Backend System;Event-driven System;Microservices Application;Message Queue Pipeline,4,5
+2026-04-17,Wyatt Sunder,BCA,GraphQL;API Design;Backend Architecture,7.49,Backend Engineer,Backend Project,1,8
+2026-04-17,Nakul Sami,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,8.24,Backend Engineer,OAuth Login System;Scalable API Backend;CRUD API System,3,8
+2026-04-17,Shivansh Banerjee,MCA,Kafka;Message Queues;Event-driven Systems,8.18,Backend Engineer,Message Queue Pipeline;Event-driven System,2,5
+2026-04-17,Dhruv Zacharia,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,8.91,Backend Engineer,CRUD API System;User Management System;Scalable API Backend,3,7
+2026-04-17,Samuel Mann,BCA,AWS;EC2;Backend Deployment,6.72,Backend Engineer,Cloud Backend Deployment;Scalable API on AWS,2,4
+2026-04-17,Hardik Mandal,BCA,Docker;CI/CD;Backend Deployment,9.33,Backend Engineer,,0,6
+2026-04-17,Netra Mann,B.Tech Software Engineering,Elasticsearch;Search Systems,9.38,Backend Engineer,Full-text Search System;Search Engine Backend,2,7
+2026-04-17,Sathvik Dasgupta,BCA,GraphQL;API Design;Backend Architecture,8.86,Backend Engineer,Backend Project,1,7
+2026-04-17,Yashvi Mitra,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,9.28,Backend Engineer,High-performance API;ML Backend Service,2,8
+2026-04-17,Zilmil Srinivasan,BCA,Kafka;Message Queues;Event-driven Systems,9.19,Backend Engineer,Message Queue Pipeline;Event-driven System,2,8
+2026-04-17,Eta Magar,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,7.25,Backend Engineer,Transaction System;Blog API System;Scalable API Backend,3,7
+2026-04-17,Bhavini Morar,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,8.91,Backend Engineer,Backend Project,1,6
+2026-04-17,Ishaan Pillay,B.Tech Computer Science,System Design;Scalability;Load Balancing,6.89,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,6
+2026-04-17,Isaac Goda,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,6.51,Backend Engineer,Enterprise Backend System;Event-driven System,2,5
+2026-04-17,Xavier Uppal,BCA,Caching;Redis;Performance Optimization,7.69,Backend Engineer,Caching System;Session Store,2,5
+2026-04-17,Adya Bera,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,7.29,Backend Engineer,,0,6
+2026-04-17,Sanya Sachdeva,BCA,SQL;PostgreSQL;Database Design,6.89,Backend Engineer,Transaction System,1,5
+2026-04-17,Tristan Sabharwal,B.Tech Software Engineering,Elasticsearch;Search Systems,7.96,Backend Engineer,Search Engine Backend,1,8
+2026-04-17,Dalbir Savant,BCA,Java;Spring Boot;Microservices;Kafka,8.54,Backend Engineer,Enterprise Backend System;Message Queue Pipeline;Event-driven System;Microservices Application,4,8
+2026-04-17,Tristan Tank,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,7.3,Backend Engineer,E-commerce Backend;Scalable API Backend;Relational Database Backend,3,6
+2026-04-17,Osha Edwin,MCA,Java;Spring Boot;Microservices;Kafka,7.6,Backend Engineer,,0,6
+2026-04-17,Vasudha Kala,MCA,System Design;Scalability;Load Balancing,8.24,Backend Engineer,Scalable Backend Architecture,1,4
+2026-04-17,Leena Bora,MCA,REST API;Authentication;JWT;OAuth,7.61,Backend Engineer,OAuth Login System;CRUD API System;Scalable API Backend;JWT Auth System,4,4
+2026-04-17,Zilmil Pai,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,6.63,Backend Engineer,Transaction System;Scalable API Backend;Blog API System;E-commerce Backend,4,5
+2026-04-17,Ijaya Nagarajan,BCA,System Design;Scalability;Load Balancing,8.39,Backend Engineer,Load Balanced System,1,5
+2026-04-17,Theodore Swaminathan,MCA,System Design;Scalability;Load Balancing,8.87,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,7
+2026-04-17,Rajeshri Bora,MCA,Python;Django;REST API;PostgreSQL,7.36,Backend Engineer,CRUD API System,1,6
+2026-04-17,Lavanya Ahuja,B.Tech Software Engineering,WebSockets;Realtime Systems;Socket.io,6.77,Backend Engineer,Realtime Chat App;Live Notification System,2,7
+2026-04-17,Vasatika Atwal,BCA,Node.js;Express;MongoDB;REST API,8.98,Backend Engineer,,0,4
+2026-04-17,Jack Pall,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,9.2,Backend Engineer,Live Notification System,1,4
+2026-04-17,Sai Tailor,BCA,SQL;PostgreSQL;Database Design,8.44,Backend Engineer,,0,4
+2026-04-17,George Shroff,BCA,Kafka;Message Queues;Event-driven Systems,7.99,Backend Engineer,Message Queue Pipeline;Event-driven System,2,4
+2026-04-17,Janani Sama,BCA,Kafka;Message Queues;Event-driven Systems,7.01,Backend Engineer,Message Queue Pipeline;Event-driven System,2,6
+2026-04-17,Ubika Pal,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,7.53,Backend Engineer,Scalable API Backend;CRUD API System;OAuth Login System;JWT Auth System,4,6
+2026-04-17,Tejas Tella,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,7.45,Backend Engineer,Containerized API,1,4
+2026-04-17,Manbir Agrawal,MCA,Python;FastAPI;Microservices;SQL,8.74,Backend Engineer,High-performance API;ML Backend Service,2,8
+2026-04-17,Parth Mukhopadhyay,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,9.02,Backend Engineer,Scalable API Backend;CRUD API System,2,4
+2026-04-17,Utkarsh Mittal,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,8.55,Backend Engineer,,0,8
+2026-04-17,Anay Bala,BCA,Python;Django;REST API;PostgreSQL,7.57,Backend Engineer,Relational Database Backend;CRUD API System;Transaction System;User Management System;Blog API System,5,7
+2026-04-17,Om Chakrabarti,B.Tech Software Engineering,Python;FastAPI;Microservices;SQL,7.57,Backend Engineer,ML Backend Service;High-performance API,2,4
+2026-04-17,Rachit Ramesh,MCA,WebSockets;Realtime Systems;Socket.io,7.35,Backend Engineer,,0,4
+2026-04-17,Tanay Ramaswamy,B.Tech Software Engineering,System Design;Scalability;Load Balancing,8.0,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,4
+2026-04-17,Agastya Bose,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,9.47,Backend Engineer,Authentication System;REST API Server,2,4
+2026-04-17,Chasmum Khalsa,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,7.63,Backend Engineer,Authentication System;REST API Server,2,5
+2026-04-17,Qasim Dhingra,BCA,GraphQL;API Design;Backend Architecture,7.1,Backend Engineer,Backend Project,1,6
+2026-04-17,Saumya Garg,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,6.86,Backend Engineer,NoSQL Backend System;Data Storage API,2,8
+2026-04-17,Balvan Dey,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,8.48,Backend Engineer,Enterprise Backend System;Microservices Application;Message Queue Pipeline;Event-driven System,4,5
+2026-04-17,Harshil Kannan,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,9.06,Backend Engineer,Microservices Application;Message Queue Pipeline;Event-driven System,3,5
+2026-04-17,Tejas Varty,MCA,REST API;Authentication;JWT;OAuth,8.96,Backend Engineer,Scalable API Backend,1,7
+2026-04-17,Lipika Karpe,BCA,SQL;PostgreSQL;Database Design,8.7,Backend Engineer,Relational Database Backend;Transaction System,2,6
+2026-04-17,Hamsini Thakur,MCA,Kafka;Message Queues;Event-driven Systems,8.63,Backend Engineer,Event-driven System;Message Queue Pipeline,2,7
+2026-04-17,Pranit Wali,BCA,MongoDB;NoSQL;Data Modeling,7.83,Backend Engineer,Data Storage API;NoSQL Backend System,2,4
+2026-04-17,Naveen Krishnan,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,7.31,Backend Engineer,Enterprise Backend System,1,8
+2026-04-17,Lohit Mani,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,7.93,Backend Engineer,Enterprise Backend System;Microservices Application,2,6
+2026-04-17,Zinal Dey,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,8.92,Backend Engineer,Backend Project,1,8
+2026-04-17,Naksh Sha,BCA,Java;Spring Boot;Hibernate;MySQL,7.97,Backend Engineer,Microservices Application;Enterprise Backend System,2,8
+2026-04-17,Falan Brahmbhatt,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,6.83,Backend Engineer,E-commerce Backend,1,6
+2026-04-17,Imaran Hans,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,7.99,Backend Engineer,,0,8
+2026-04-17,Oscar Mangal,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,8.02,Backend Engineer,CRUD API System;Scalable API Backend;User Management System,3,6
+2026-04-17,Sachi Chaudhuri,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,7.06,Backend Engineer,Enterprise Backend System;Microservices Application,2,4
+2026-04-17,Gunbir Lad,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,6.84,Backend Engineer,Message Queue Pipeline;Enterprise Backend System,2,6
+2026-04-17,Zashil Varty,BCA,GraphQL;API Design;Backend Architecture,6.63,Backend Engineer,Backend Project,1,7
+2026-04-17,Inaya Dugar,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,9.33,Backend Engineer,,0,7
+2026-04-17,Vanya Prashad,BCA,Elasticsearch;Search Systems,8.66,Backend Engineer,Full-text Search System;Search Engine Backend,2,8
+2026-04-17,Kamya Hora,B.Tech Computer Science,REST API;Authentication;JWT;OAuth,6.8,Backend Engineer,Scalable API Backend;OAuth Login System;CRUD API System;JWT Auth System,4,6
+2026-04-17,Dev Dalal,MCA,SQL;PostgreSQL;Database Design,8.76,Backend Engineer,Relational Database Backend;Transaction System,2,7
+2026-04-17,Tanish Chad,MCA,Python;Django;REST API;PostgreSQL,9.17,Backend Engineer,Transaction System;Blog API System;CRUD API System;User Management System,4,6
+2026-04-17,Geetika Ravi,BCA,Node.js;NestJS;Microservices;JWT,6.53,Backend Engineer,,0,7
+2026-04-17,Sneha Banerjee,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,8.58,Backend Engineer,,0,6
+2026-04-17,Tamanna Mall,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,8.46,Backend Engineer,REST API Server;Authentication System,2,6
+2026-04-17,Reyansh Chakraborty,MCA,Java;Spring Boot;Microservices;Kafka,8.89,Backend Engineer,Enterprise Backend System;Microservices Application;Message Queue Pipeline;Event-driven System,4,4
+2026-04-17,Maanav Dasgupta,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,8.56,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Agastya Sachdeva,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,9.34,Backend Engineer,NoSQL Backend System;Data Storage API,2,7
+2026-04-17,Geetika Kuruvilla,BCA,Python;Django;REST API;PostgreSQL,7.97,Backend Engineer,User Management System;Scalable API Backend,2,8
+2026-04-17,Yash Kara,B.Tech Software Engineering,MongoDB;NoSQL;Data Modeling,7.77,Backend Engineer,Data Storage API,1,5
+2026-04-17,Victor Parmer,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,8.19,Backend Engineer,Event-driven System;Microservices Application;Enterprise Backend System,3,6
+2026-04-17,Charles Radhakrishnan,MCA,Elasticsearch;Search Systems,8.55,Backend Engineer,Full-text Search System;Search Engine Backend,2,4
+2026-04-17,Logan Murthy,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,7.95,Backend Engineer,CRUD API System;Relational Database Backend;Blog API System,3,4
+2026-04-17,Anya Sur,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,9.08,Backend Engineer,Dockerized Backend;Containerized API,2,4
+2026-04-17,Abha Agate,MCA,Python;Django;REST API;PostgreSQL,6.92,Backend Engineer,Relational Database Backend;E-commerce Backend;Scalable API Backend;User Management System,4,8
+2026-04-17,Warinder Dugar,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,6.71,Backend Engineer,OAuth Login System;CRUD API System;Scalable API Backend;JWT Auth System,4,8
+2026-04-17,Yagnesh Bhatt,MCA,WebSockets;Realtime Systems;Socket.io,8.25,Backend Engineer,,0,4
+2026-04-17,Kai Virk,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,9.09,Backend Engineer,Backend Project,1,6
+2026-04-17,Hredhaan Oza,MCA,Java;Spring Boot;Hibernate;MySQL,7.36,Backend Engineer,,0,8
+2026-04-17,Shravya Mitter,BCA,Java;Spring Boot;Hibernate;MySQL,6.64,Backend Engineer,,0,5
+2026-04-17,Oscar Vora,MCA,SQL;PostgreSQL;Database Design,7.64,Backend Engineer,Relational Database Backend;Transaction System,2,5
+2026-04-17,Pallavi Patla,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,7.63,Backend Engineer,Dockerized Backend;Containerized API,2,7
+2026-04-17,Fariq Modi,B.Tech Software Engineering,AWS;EC2;Backend Deployment,9.38,Backend Engineer,,0,7
+2026-04-17,Anthony Tank,MCA,REST API;Authentication;JWT;OAuth,7.08,Backend Engineer,OAuth Login System;JWT Auth System;CRUD API System,3,7
+2026-04-17,Watika Som,MCA,SQL;PostgreSQL;Database Design,8.76,Backend Engineer,Relational Database Backend,1,7
+2026-04-17,Madhavi Keer,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,9.21,Backend Engineer,OAuth Login System;CRUD API System,2,6
+2026-04-17,Shivani Koshy,B.Tech Software Engineering,Kafka;Message Queues;Event-driven Systems,9.22,Backend Engineer,,0,4
+2026-04-17,Rachana Kara,BCA,SQL;PostgreSQL;Database Design,9.37,Backend Engineer,Relational Database Backend;Transaction System,2,5
+2026-04-17,Darika Bhagat,MCA,WebSockets;Realtime Systems;Socket.io,8.77,Backend Engineer,Live Notification System;Realtime Chat App,2,8
+2026-04-17,Noah Gulati,B.Tech Software Engineering,Caching;Redis;Performance Optimization,8.58,Backend Engineer,Caching System;Session Store,2,8
+2026-04-17,Lakshit Sehgal,B.Tech Computer Science,Caching;Redis;Performance Optimization,6.89,Backend Engineer,Caching System;Session Store,2,7
+2026-04-17,Ronith Balay,B.Tech Computer Science,Java;Spring Boot;Hibernate;MySQL,7.57,Backend Engineer,Microservices Application;Enterprise Backend System,2,4
+2026-04-17,Chandani Andra,MCA,Caching;Redis;Performance Optimization,9.22,Backend Engineer,Session Store;Caching System,2,6
+2026-04-17,Yashica Balakrishnan,B.Tech Software Engineering,System Design;Scalability;Load Balancing,7.73,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,7
+2026-04-17,Chatresh More,BCA,Node.js;Express;MongoDB;REST API,8.4,Backend Engineer,NoSQL Backend System;Data Storage API;Authentication System;Scalable API Backend,4,6
+2026-04-17,Neelima Jha,BCA,Python;FastAPI;Microservices;SQL,9.18,Backend Engineer,ML Backend Service;High-performance API,2,8
+2026-04-17,Shivani Bhattacharyya,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,8.84,Backend Engineer,Scalable API Backend;CRUD API System;OAuth Login System;JWT Auth System,4,4
+2026-04-17,Samuel Mukhopadhyay,B.Tech Software Engineering,Python;FastAPI;Microservices;SQL,7.03,Backend Engineer,High-performance API,1,5
+2026-04-17,Damini Pandit,B.Tech Software Engineering,Caching;Redis;Performance Optimization,7.52,Backend Engineer,Session Store;Caching System,2,8
+2026-04-17,Azad Guha,B.Tech Software Engineering,AWS;EC2;Backend Deployment,7.76,Backend Engineer,Cloud Backend Deployment;Scalable API on AWS,2,6
+2026-04-17,Deepa Jaggi,BCA,Python;FastAPI;Microservices;SQL,8.89,Backend Engineer,ML Backend Service;High-performance API,2,6
+2026-04-17,Eshana Devi,MCA,System Design;Scalability;Load Balancing,7.75,Backend Engineer,Load Balanced System,1,7
+2026-04-17,Abhimanyu Salvi,MCA,Node.js;Express;MongoDB;REST API,9.22,Backend Engineer,CRUD API System;NoSQL Backend System;Scalable API Backend;REST API Server,4,6
+2026-04-17,Jai Bahl,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,7.29,Backend Engineer,Backend Project,1,7
+2026-04-17,Eshana Zachariah,MCA,SQL;PostgreSQL;Database Design,8.95,Backend Engineer,,0,7
+2026-04-17,Triya Misra,BCA,Elasticsearch;Search Systems,6.9,Backend Engineer,Search Engine Backend,1,4
+2026-04-17,Unnati Shanker,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,6.97,Backend Engineer,Authentication System;NoSQL Backend System,2,6
+2026-04-17,Ati Apte,MCA,MongoDB;NoSQL;Data Modeling,6.81,Backend Engineer,Data Storage API;NoSQL Backend System,2,5
+2026-04-17,Samar Venkatesh,MCA,WebSockets;Realtime Systems;Socket.io,8.95,Backend Engineer,Realtime Chat App,1,6
+2026-04-17,Ranveer Dua,MCA,Node.js;Express;MongoDB;REST API,7.15,Backend Engineer,,0,8
+2026-04-17,Wakeeta Swaminathan,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,9.0,Backend Engineer,Enterprise Backend System;Microservices Application,2,7
+2026-04-17,Logan Tara,MCA,Python;Django;REST API;PostgreSQL,9.13,Backend Engineer,,0,6
+2026-04-17,Shivani Chawla,MCA,GraphQL;API Design;Backend Architecture,8.71,Backend Engineer,Backend Project,1,4
+2026-04-17,David Prakash,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,6.79,Backend Engineer,,0,5
+2026-04-17,Hardik Bhasin,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,7.35,Backend Engineer,REST API Server;Authentication System,2,7
+2026-04-17,Nihal Dhawan,B.Tech Computer Science,Elasticsearch;Search Systems,8.87,Backend Engineer,Search Engine Backend,1,7
+2026-04-17,Mohammed Sharaf,MCA,Node.js;Express;MongoDB;REST API,6.71,Backend Engineer,,0,6
+2026-04-17,Kritika Vasa,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,8.77,Backend Engineer,Backend Project,1,6
+2026-04-17,Luke Gala,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,8.04,Backend Engineer,,0,5
+2026-04-17,Ishani Iyengar,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,6.65,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Qabil Prakash,B.Tech Computer Science,System Design;Scalability;Load Balancing,9.39,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,8
+2026-04-17,Hritik Bassi,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,6.62,Backend Engineer,Containerized API;Dockerized Backend,2,5
+2026-04-17,Harita Shah,MCA,Node.js;NestJS;Microservices;JWT,9.49,Backend Engineer,Authentication System;REST API Server,2,7
+2026-04-17,Ekaraj Barad,MCA,Elasticsearch;Search Systems,8.18,Backend Engineer,Search Engine Backend,1,8
+2026-04-17,Vrishti Master,BCA,Java;Spring Boot;Hibernate;MySQL,7.34,Backend Engineer,Microservices Application;Enterprise Backend System,2,7
+2026-04-17,Zayyan Cherian,MCA,Elasticsearch;Search Systems,6.97,Backend Engineer,Search Engine Backend;Full-text Search System,2,5
+2026-04-17,Lopa Shenoy,BCA,Docker;CI/CD;Backend Deployment,7.88,Backend Engineer,Dockerized Backend,1,8
+2026-04-17,Gaurika Tak,MCA,Caching;Redis;Performance Optimization,7.52,Backend Engineer,Session Store;Caching System,2,8
+2026-04-17,Suhani Viswanathan,B.Tech Computer Science,Caching;Redis;Performance Optimization,9.2,Backend Engineer,Caching System;Session Store,2,5
+2026-04-17,Divya Dube,MCA,WebSockets;Realtime Systems;Socket.io,7.73,Backend Engineer,Realtime Chat App;Live Notification System,2,5
+2026-04-17,Rudra Issac,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,7.77,Backend Engineer,,0,5
+2026-04-17,Quincy Jaggi,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,8.37,Backend Engineer,Backend Project,1,5
+2026-04-17,Anusha Desai,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,6.95,Backend Engineer,,0,5
+2026-04-17,Sudiksha Tailor,B.Tech Computer Science,System Design;Scalability;Load Balancing,8.14,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,7
+2026-04-17,Urvashi Bhatti,B.Tech Computer Science,Java;Spring Boot;Hibernate;MySQL,9.22,Backend Engineer,Microservices Application,1,7
+2026-04-17,Arin Sastry,B.Tech Computer Science,Node.js;NestJS;Microservices;JWT,8.54,Backend Engineer,,0,6
+2026-04-17,Jeet Sampath,MCA,WebSockets;Realtime Systems;Socket.io,7.95,Backend Engineer,Realtime Chat App;Live Notification System,2,7
+2026-04-17,Rayaan Prashad,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,8.15,Backend Engineer,Backend Project,1,8
+2026-04-17,Vrishti Hora,B.Tech Computer Science,Python;Django;REST API;PostgreSQL,6.9,Backend Engineer,Transaction System,1,7
+2026-04-17,Chandresh Panchal,MCA,REST API;Authentication;JWT;OAuth,7.88,Backend Engineer,OAuth Login System;JWT Auth System;Scalable API Backend,3,5
+2026-04-17,Wridesh Chada,BCA,Java;Spring Boot;Microservices;Kafka,9.17,Backend Engineer,Enterprise Backend System;Event-driven System,2,8
+2026-04-17,Jai Dave,B.Tech Software Engineering,SQL;PostgreSQL;Database Design,9.21,Backend Engineer,Transaction System;Relational Database Backend,2,8
+2026-04-17,Maanas Deshpande,B.Tech Computer Science,REST API;Authentication;JWT;OAuth,6.83,Backend Engineer,Scalable API Backend;CRUD API System,2,5
+2026-04-17,Gopal Karnik,BCA,Elasticsearch;Search Systems,9.37,Backend Engineer,Search Engine Backend;Full-text Search System,2,5
+2026-04-17,Bhavya Dugar,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,8.12,Backend Engineer,Authentication System;REST API Server,2,8
+2026-04-17,Jairaj Bhagat,BCA,Kafka;Message Queues;Event-driven Systems,9.09,Backend Engineer,Message Queue Pipeline;Event-driven System,2,7
+2026-04-17,Vrishti Nath,B.Tech Computer Science,REST API;Authentication;JWT;OAuth,8.54,Backend Engineer,CRUD API System,1,8
+2026-04-17,Sanaya Mani,B.Tech Computer Science,Elasticsearch;Search Systems,6.67,Backend Engineer,Search Engine Backend,1,5
+2026-04-17,Girindra Pant,B.Tech Software Engineering,AWS;EC2;Backend Deployment,7.27,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,4
+2026-04-17,Kavya Keer,B.Tech Software Engineering,GraphQL;API Design;Backend Architecture,6.59,Backend Engineer,Backend Project,1,7
+2026-04-17,Qasim Varkey,B.Tech Software Engineering,Java;Spring Boot;Microservices;Kafka,9.26,Backend Engineer,Microservices Application;Message Queue Pipeline;Enterprise Backend System;Event-driven System,4,4
+2026-04-17,Unni Arya,MCA,SQL;PostgreSQL;Database Design,9.19,Backend Engineer,Transaction System;Relational Database Backend,2,6
+2026-04-17,Bakhshi Bawa,B.Tech Computer Science,SQL;PostgreSQL;Database Design,6.91,Backend Engineer,Transaction System;Relational Database Backend,2,4
+2026-04-17,Ishani Thakur,B.Tech Computer Science,GraphQL;API Design;Backend Architecture,6.52,Backend Engineer,Backend Project,1,8
+2026-04-17,Charan Purohit,BCA,REST API;Authentication;JWT;OAuth,9.24,Backend Engineer,OAuth Login System;CRUD API System;Scalable API Backend;JWT Auth System,4,4
+2026-04-17,Wakeeta Borra,B.Tech Computer Science,MongoDB;NoSQL;Data Modeling,8.58,Backend Engineer,Data Storage API,1,5
+2026-04-17,Lucky Divan,BCA,Docker;CI/CD;Backend Deployment,9.44,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Michael Kala,BCA,GraphQL;API Design;Backend Architecture,6.51,Backend Engineer,Backend Project,1,4
+2026-04-17,Ekantika Shan,MCA,WebSockets;Realtime Systems;Socket.io,9.42,Backend Engineer,,0,5
+2026-04-17,Ekta Dutt,MCA,Python;Django;REST API;PostgreSQL,9.22,Backend Engineer,E-commerce Backend,1,4
+2026-04-17,Maya Bansal,B.Tech Computer Science,SQL;PostgreSQL;Database Design,9.3,Backend Engineer,Transaction System;Relational Database Backend,2,7
+2026-04-17,Geetika Lata,B.Tech Software Engineering,System Design;Scalability;Load Balancing,9.04,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,5
+2026-04-17,Sachi Dubey,MCA,AWS;EC2;Backend Deployment,6.68,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,7
+2026-04-17,Upkaar Deep,MCA,WebSockets;Realtime Systems;Socket.io,8.14,Backend Engineer,Realtime Chat App;Live Notification System,2,8
+2026-04-17,Bhavna Pal,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,9.05,Backend Engineer,REST API Server,1,7
+2026-04-17,Ekantika Walla,MCA,Java;Spring Boot;Hibernate;MySQL,8.36,Backend Engineer,Microservices Application;Enterprise Backend System,2,7
+2026-04-17,Hemang Grover,B.Tech Computer Science,AWS;EC2;Backend Deployment,6.61,Backend Engineer,,0,8
+2026-04-17,Yatin Lanka,BCA,GraphQL;API Design;Backend Architecture,6.55,Backend Engineer,Backend Project,1,6
+2026-04-17,Gaurika Wali,MCA,Kafka;Message Queues;Event-driven Systems,9.29,Backend Engineer,,0,7
+2026-04-17,Niharika Dhar,MCA,AWS;EC2;Backend Deployment,7.57,Backend Engineer,Cloud Backend Deployment;Scalable API on AWS,2,5
+2026-04-17,Maanav Tripathi,B.Tech Software Engineering,Python;FastAPI;Microservices;SQL,6.94,Backend Engineer,High-performance API;ML Backend Service,2,8
+2026-04-17,Faqid Sani,MCA,Java;Spring Boot;Hibernate;MySQL,7.88,Backend Engineer,Enterprise Backend System;Microservices Application,2,8
+2026-04-17,Chakrika Chandran,B.Tech Computer Science,Kafka;Message Queues;Event-driven Systems,8.08,Backend Engineer,Message Queue Pipeline,1,8
+2026-04-17,Isha Deshpande,MCA,SQL;PostgreSQL;Database Design,7.84,Backend Engineer,Transaction System;Relational Database Backend,2,4
+2026-04-17,Harita Thaker,MCA,GraphQL;API Design;Backend Architecture,6.86,Backend Engineer,Backend Project,1,6
+2026-04-17,Hritik Guha,BCA,AWS;EC2;Backend Deployment,7.22,Backend Engineer,,0,4
+2026-04-17,Gavin Zachariah,MCA,Node.js;Express;MongoDB;REST API,7.37,Backend Engineer,Scalable API Backend,1,8
+2026-04-17,Zaid Trivedi,BCA,WebSockets;Realtime Systems;Socket.io,9.35,Backend Engineer,Realtime Chat App,1,7
+2026-04-17,Neelima Arora,MCA,Node.js;NestJS;Microservices;JWT,7.35,Backend Engineer,Authentication System,1,5
+2026-04-17,Leela Kala,B.Tech Software Engineering,Python;FastAPI;Microservices;SQL,7.18,Backend Engineer,,0,8
+2026-04-17,Ekiya Dora,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,8.85,Backend Engineer,Live Notification System;Realtime Chat App,2,6
+2026-04-17,Pallavi Ahluwalia,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,7.34,Backend Engineer,,0,4
+2026-04-17,Ekaraj Mallick,B.Tech Software Engineering,System Design;Scalability;Load Balancing,7.73,Backend Engineer,Load Balanced System,1,8
+2026-04-17,Sai Barman,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,9.48,Backend Engineer,Containerized API;Dockerized Backend,2,7
+2026-04-17,Madhav Vaidya,B.Tech Software Engineering,SQL;PostgreSQL;Database Design,8.98,Backend Engineer,Transaction System,1,4
+2026-04-17,Edhitha Karpe,BCA,MongoDB;NoSQL;Data Modeling,8.69,Backend Engineer,Data Storage API;NoSQL Backend System,2,6
+2026-04-17,Arunima Choudhry,MCA,AWS;EC2;Backend Deployment,7.46,Backend Engineer,Scalable API on AWS,1,6
+2026-04-17,Adweta Cherian,B.Tech Computer Science,Python;FastAPI;Microservices;SQL,9.02,Backend Engineer,ML Backend Service;High-performance API,2,4
+2026-04-17,Lajita Bajwa,BCA,Node.js;Express;MongoDB;REST API,8.78,Backend Engineer,Authentication System;Data Storage API;CRUD API System;NoSQL Backend System,4,6
+2026-04-17,Amaira Madan,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,6.57,Backend Engineer,OAuth Login System;Scalable API Backend;CRUD API System,3,5
+2026-04-17,Ekansh Bhatti,MCA,Node.js;Express;MongoDB;REST API,9.27,Backend Engineer,NoSQL Backend System;Data Storage API;Scalable API Backend;CRUD API System,4,4
+2026-04-17,Samar Gala,B.Tech Software Engineering,AWS;EC2;Backend Deployment,7.4,Backend Engineer,Scalable API on AWS,1,4
+2026-04-17,Osha Bedi,B.Tech Computer Science,Caching;Redis;Performance Optimization,9.09,Backend Engineer,Caching System;Session Store,2,4
+2026-04-17,Veda Chhabra,B.Tech Computer Science,Caching;Redis;Performance Optimization,7.74,Backend Engineer,Caching System;Session Store,2,4
+2026-04-17,Kevin Thakkar,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,9.21,Backend Engineer,CRUD API System;Scalable API Backend;Authentication System;NoSQL Backend System;Data Storage API,5,6
+2026-04-17,Shaurya Sandhu,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,6.66,Backend Engineer,,0,5
+2026-04-17,Yashasvi Sanghvi,MCA,AWS;EC2;Backend Deployment,9.25,Backend Engineer,Scalable API on AWS;Cloud Backend Deployment,2,6
+2026-04-17,Yashodhara Kibe,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,7.82,Backend Engineer,Dockerized Backend;Containerized API,2,5
+2026-04-17,Ati Ratti,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,8.61,Backend Engineer,Scalable API Backend;OAuth Login System,2,5
+2026-04-17,Irya Sahni,BCA,SQL;PostgreSQL;Database Design,9.09,Backend Engineer,Relational Database Backend;Transaction System,2,6
+2026-04-17,Maya Majumdar,MCA,Python;FastAPI;Microservices;SQL,7.1,Backend Engineer,High-performance API;ML Backend Service,2,4
+2026-04-17,Kashvi Agarwal,B.Tech Computer Science,SQL;PostgreSQL;Database Design,8.33,Backend Engineer,Transaction System,1,5
+2026-04-17,Ijaya Prakash,MCA,Docker;CI/CD;Backend Deployment,7.22,Backend Engineer,Dockerized Backend;Containerized API,2,5
+2026-04-17,Vamakshi Savant,MCA,REST API;Authentication;JWT;OAuth,7.99,Backend Engineer,,0,5
+2026-04-17,Saksham Naik,BCA,System Design;Scalability;Load Balancing,8.9,Backend Engineer,,0,7
+2026-04-17,Pavani Date,MCA,Python;Django;REST API;PostgreSQL,7.11,Backend Engineer,,0,4
+2026-04-17,Varsha Choudhary,MCA,Python;Django;REST API;PostgreSQL,7.44,Backend Engineer,Blog API System;Transaction System,2,7
+2026-04-17,Devansh Mall,B.Tech Computer Science,Java;Spring Boot;Hibernate;MySQL,9.0,Backend Engineer,,0,4
+2026-04-17,Ekansh Kar,B.Tech Software Engineering,System Design;Scalability;Load Balancing,9.29,Backend Engineer,Scalable Backend Architecture;Load Balanced System,2,6
+2026-04-17,Nachiket Ganesan,MCA,Node.js;Express;MongoDB;REST API,7.02,Backend Engineer,NoSQL Backend System;Scalable API Backend;Authentication System,3,8
+2026-04-17,Luke Saini,BCA,MongoDB;NoSQL;Data Modeling,7.75,Backend Engineer,,0,4
+2026-04-17,Chaaya Sidhu,BCA,Kafka;Message Queues;Event-driven Systems,8.77,Backend Engineer,Message Queue Pipeline,1,8
+2026-04-17,Timothy Rajagopalan,B.Tech Computer Science,REST API;Authentication;JWT;OAuth,9.42,Backend Engineer,JWT Auth System;CRUD API System;OAuth Login System,3,7
+2026-04-17,Manya Nadkarni,BCA,Kafka;Message Queues;Event-driven Systems,8.19,Backend Engineer,Message Queue Pipeline;Event-driven System,2,6
+2026-04-17,Vaishnavi Rama,BCA,GraphQL;API Design;Backend Architecture,8.94,Backend Engineer,Backend Project,1,7
+2026-04-17,Lakshit Sur,MCA,REST API;Authentication;JWT;OAuth,7.11,Backend Engineer,,0,8
+2026-04-17,Balendra Ben,BCA,Caching;Redis;Performance Optimization,7.74,Backend Engineer,Session Store;Caching System,2,7
+2026-04-17,Veda Gupta,BCA,System Design;Scalability;Load Balancing,6.95,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,4
+2026-04-17,Vihaan Kumar,BCA,System Design;Scalability;Load Balancing,6.75,Backend Engineer,Load Balanced System;Scalable Backend Architecture,2,5
+2026-04-17,Bishakha Goda,B.Tech Computer Science,Node.js;NestJS;Microservices;JWT,9.19,Backend Engineer,REST API Server;Authentication System,2,8
+2026-04-17,Reyansh Sabharwal,B.Tech Computer Science,AWS;EC2;Backend Deployment,7.04,Backend Engineer,Cloud Backend Deployment;Scalable API on AWS,2,5
+2026-04-17,Yochana Kanda,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,8.21,Backend Engineer,REST API Server;Scalable API Backend;NoSQL Backend System,3,8
+2026-04-17,Aachal Sha,B.Tech Computer Science,REST API;Authentication;JWT;OAuth,6.9,Backend Engineer,,0,6
+2026-04-17,Neha Kata,B.Tech Software Engineering,Elasticsearch;Search Systems,7.56,Backend Engineer,Full-text Search System;Search Engine Backend,2,4
+2026-04-17,Mason Ben,MCA,Docker;CI/CD;Backend Deployment,7.75,Backend Engineer,Dockerized Backend;Containerized API,2,8
+2026-04-17,Unni Jha,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,9.35,Backend Engineer,Dockerized Backend,1,8
+2026-04-17,Frederick Memon,MCA,Node.js;Express;MongoDB;REST API,8.74,Backend Engineer,,0,4
+2026-04-17,Jyoti Shere,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,7.95,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Ethan Chawla,B.Tech Software Engineering,Node.js;NestJS;Microservices;JWT,8.17,Backend Engineer,Authentication System;REST API Server,2,5
+2026-04-17,Warjas Bose,B.Tech Software Engineering,Java;Spring Boot;Hibernate;MySQL,7.0,Backend Engineer,Enterprise Backend System;Microservices Application,2,4
+2026-04-17,Unni Karnik,B.Tech Software Engineering,SQL;PostgreSQL;Database Design,8.06,Backend Engineer,,0,8
+2026-04-17,Jack Parekh,B.Tech Software Engineering,Kafka;Message Queues;Event-driven Systems,9.34,Backend Engineer,Message Queue Pipeline;Event-driven System,2,8
+2026-04-17,Fiyaz Srinivas,MCA,Python;FastAPI;Microservices;SQL,7.34,Backend Engineer,ML Backend Service;High-performance API,2,6
+2026-04-17,Priya Acharya,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,8.48,Backend Engineer,JWT Auth System;CRUD API System;OAuth Login System;Scalable API Backend,4,4
+2026-04-17,Meghana Zachariah,BCA,Python;Django;REST API;PostgreSQL,6.66,Backend Engineer,,0,8
+2026-04-17,Yutika Sama,BCA,MongoDB;NoSQL;Data Modeling,7.17,Backend Engineer,NoSQL Backend System;Data Storage API,2,7
+2026-04-17,Devansh Deol,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,8.72,Backend Engineer,,0,7
+2026-04-17,Laksh Bajaj,B.Tech Computer Science,WebSockets;Realtime Systems;Socket.io,7.0,Backend Engineer,Live Notification System,1,7
+2026-04-17,Watika Goswami,B.Tech Software Engineering,Caching;Redis;Performance Optimization,7.45,Backend Engineer,Caching System;Session Store,2,5
+2026-04-17,Watika D’Alia,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,9.48,Backend Engineer,Transaction System;User Management System,2,7
+2026-04-17,Anthony Bath,MCA,Node.js;Express;MongoDB;REST API,7.77,Backend Engineer,,0,5
+2026-04-17,Balhaar Lal,BCA,Docker;CI/CD;Backend Deployment,8.7,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Adya Buch,B.Tech Software Engineering,WebSockets;Realtime Systems;Socket.io,9.01,Backend Engineer,Realtime Chat App;Live Notification System,2,4
+2026-04-17,Rachit Sekhon,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,8.37,Backend Engineer,Enterprise Backend System;Message Queue Pipeline;Microservices Application,3,8
+2026-04-17,Hemang Borah,B.Tech Computer Science,Java;Spring Boot;Microservices;Kafka,9.07,Backend Engineer,Microservices Application,1,4
+2026-04-17,Balhaar Bawa,B.Tech Computer Science,Node.js;Express;MongoDB;REST API,9.48,Backend Engineer,,0,4
+2026-04-17,Guneet Pradhan,B.Tech Software Engineering,REST API;Authentication;JWT;OAuth,8.88,Backend Engineer,JWT Auth System;CRUD API System;Scalable API Backend;OAuth Login System,4,7
+2026-04-17,Vasatika Vasa,B.Tech Computer Science,Docker;CI/CD;Backend Deployment,7.62,Backend Engineer,Dockerized Backend;Containerized API,2,4
+2026-04-17,Gaurangi Krish,MCA,Docker;CI/CD;Backend Deployment,7.28,Backend Engineer,Dockerized Backend;Containerized API,2,6
+2026-04-17,Turvi Thakkar,B.Tech Software Engineering,Python;Django;REST API;PostgreSQL,8.67,Backend Engineer,Scalable API Backend;E-commerce Backend;Transaction System;Relational Database Backend;Blog API System,5,7
+2026-04-17,Ronith Chokshi,MCA,Python;Django;REST API;PostgreSQL,6.6,Backend Engineer,CRUD API System,1,8
+2026-04-17,Samar Nagi,BCA,Elasticsearch;Search Systems,6.51,Backend Engineer,Search Engine Backend,1,4
+2026-04-17,Chasmum Sandal,B.Tech Software Engineering,Docker;CI/CD;Backend Deployment,7.88,Backend Engineer,Containerized API,1,6
+2026-04-17,Radha Ahluwalia,BCA,GraphQL;API Design;Backend Architecture,6.82,Backend Engineer,Backend Project,1,8

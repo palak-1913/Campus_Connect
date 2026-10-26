@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Frado Buch,B.Tech Computer Science (Data),Hadoop;HDFS;MapReduce,9.07,Big Data Engineer,Hadoop Data Processing System,1,6
+2026-04-17,Harinakshi Pal,B.Tech Computer Science (Data),Performance Tuning;Scalability,8.08,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Gaurika Char,MCA Data Engineering,NoSQL;MongoDB;Cassandra,7.68,Big Data Engineer,High-scale Database System;NoSQL Data Storage System,2,4
+2026-04-17,Gaurangi Deshpande,MCA Data Engineering,Query Optimization;Partitioning;Indexing,7.91,Big Data Engineer,,0,8
+2026-04-17,Quincy Kothari,B.Tech Data Engineering,Hive;Data Warehousing;SQL,7.45,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Anjali Memon,B.Tech Big Data,Data Lake;Delta Lake;Lakehouse,7.36,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,6
+2026-04-17,Viraj Shah,B.Tech Big Data,Azure;Data Factory;Synapse,8.99,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Charan Bains,B.Tech Big Data,Spark Streaming;Structured Streaming,7.32,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,4
+2026-04-17,Alka Ramaswamy,B.Tech Computer Science (Data),AWS;S3;Glue;Athena,7.5,Big Data Engineer,Serverless Data Processing System;AWS Data Pipeline,2,5
+2026-04-17,Saksham Chadha,B.Tech Data Engineering,Iceberg;Data Lake Architecture,8.75,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Saumya Sandal,B.Tech Big Data,NoSQL;MongoDB;Cassandra,9.27,Big Data Engineer,High-scale Database System;NoSQL Data Storage System,2,8
+2026-04-17,Qushi Kapadia,B.Tech Data Engineering,Logging;Monitoring;Data Quality,9.34,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,6
+2026-04-17,Sara Ramanathan,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,9.15,Big Data Engineer,Workflow Automation System;Airflow DAG Pipeline,2,6
+2026-04-17,Upma Ray,B.Tech Computer Science (Data),NoSQL;MongoDB;Cassandra,7.47,Big Data Engineer,NoSQL Data Storage System,1,7
+2026-04-17,Vidhi Dhaliwal,B.Tech Big Data,Logging;Monitoring;Data Quality,7.01,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,6
+2026-04-17,Darsh Sridhar,MCA Data Engineering,Kafka;Streaming;Real-time Data,9.31,Big Data Engineer,Event-driven Data System,1,4
+2026-04-17,Prisha Vora,B.Tech Data Engineering,GCP;BigQuery;Dataflow,8.86,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,4
+2026-04-17,Jackson Dhillon,B.Tech Big Data,Flink;Stream Processing,9.27,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,7
+2026-04-17,Bhavika Misra,MCA Data Engineering,Performance Tuning;Scalability,9.35,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Gaurika Toor,B.Tech Data Engineering,Performance Tuning;Scalability,8.75,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Eshana Yohannan,B.Tech Computer Science (Data),Hadoop;HDFS;MapReduce,8.71,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,7
+2026-04-17,Ishita Pandey,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,8.98,Big Data Engineer,Log Data Analysis System,1,7
+2026-04-17,Elijah Chaudhary,MCA Data Engineering,GCP;BigQuery;Dataflow,7.66,Big Data Engineer,,0,7
+2026-04-17,Samar Bali,B.Tech Computer Science (Data),Great Expectations;Data Validation,7.14,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Aryan Mukherjee,B.Tech Data Engineering,SQL;Data Warehousing;Snowflake,7.26,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Ekansh Balay,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,8.28,Big Data Engineer,Workflow Automation System,1,7
+2026-04-17,Azaan Vala,B.Tech Data Engineering,Logging;Monitoring;Data Quality,8.01,Big Data Engineer,Logging and Alerting Pipeline,1,8
+2026-04-17,Yashoda Randhawa,MCA Data Engineering,Logging;Monitoring;Data Quality,9.39,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,8
+2026-04-17,Darpan Cheema,MCA Data Engineering,GCP;BigQuery;Dataflow,8.26,Big Data Engineer,,0,4
+2026-04-17,Zehaan Sarna,MCA Data Engineering,Kafka;Streaming;Real-time Data,7.99,Big Data Engineer,Event-driven Data System,1,8
+2026-04-17,Wakeeta Roy,B.Tech Computer Science (Data),HBase;Distributed Storage,7.59,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Idika Mukherjee,B.Tech Computer Science (Data),Azure;Data Factory;Synapse,8.62,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Falak Karpe,B.Tech Data Engineering,Performance Tuning;Scalability,8.35,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Abhimanyu Bala,MCA Data Engineering,Query Optimization;Partitioning;Indexing,7.08,Big Data Engineer,Query Optimization Project;Partitioned Data System,2,8
+2026-04-17,Yasti Wadhwa,B.Tech Big Data,Iceberg;Data Lake Architecture,7.42,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Umang Nagy,B.Tech Big Data,Great Expectations;Data Validation,8.69,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Jyoti Khatri,B.Tech Data Engineering,SQL;Data Warehousing;Snowflake,9.31,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Viraj Kaul,MCA Data Engineering,Docker;Kubernetes;CI/CD,8.31,Big Data Engineer,,0,4
+2026-04-17,Bahadurjit Tak,B.Tech Data Engineering,Hadoop;HDFS;MapReduce,8.91,Big Data Engineer,Hadoop Data Processing System,1,7
+2026-04-17,Radhika Varma,B.Tech Computer Science (Data),Great Expectations;Data Validation,7.21,Big Data Engineer,,0,4
+2026-04-17,Damyanti Gulati,B.Tech Computer Science (Data),HBase;Distributed Storage,8.59,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Kashvi Pradhan,MCA Data Engineering,Logging;Monitoring;Data Quality,8.82,Big Data Engineer,,0,7
+2026-04-17,Theodore Nazareth,B.Tech Data Engineering,Python;Airflow;Workflow Orchestration,9.41,Big Data Engineer,Airflow DAG Pipeline,1,6
+2026-04-17,Chakrika Naidu,B.Tech Data Engineering,Kafka;Streaming;Real-time Data,7.62,Big Data Engineer,Real-time Streaming Pipeline;Event-driven Data System,2,7
+2026-04-17,Faris Tata,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,9.0,Big Data Engineer,Delta Lake Pipeline,1,6
+2026-04-17,Krishna Mishra,MCA Data Engineering,Spark;PySpark;Distributed Computing,8.18,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Pushti Bedi,B.Tech Big Data,Query Optimization;Partitioning;Indexing,8.31,Big Data Engineer,,0,6
+2026-04-17,Chaman Chhabra,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,9.09,Big Data Engineer,Batch Data Processing Pipeline;ETL Pipeline for Sales Data,2,8
+2026-04-17,Omkaar Seth,B.Tech Computer Science (Data),Kafka;Streaming;Real-time Data,8.22,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,5
+2026-04-17,Amol Walla,B.Tech Data Engineering,GCP;BigQuery;Dataflow,9.27,Big Data Engineer,Analytics Pipeline on BigQuery,1,4
+2026-04-17,Champak Thaker,B.Tech Big Data,Terraform;Infrastructure as Code,8.24,Big Data Engineer,Infrastructure Automation for Data Platform;Cloud Infra Setup,2,8
+2026-04-17,Siddharth Boase,B.Tech Computer Science (Data),Query Optimization;Partitioning;Indexing,8.69,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,5
+2026-04-17,Tarak Kar,B.Tech Computer Science (Data),HBase;Distributed Storage,7.02,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Ucchal Sabharwal,MCA Data Engineering,Hive;Data Warehousing;SQL,9.03,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Vedika Shanker,B.Tech Computer Science (Data),Kafka;Streaming;Real-time Data,7.6,Big Data Engineer,,0,6
+2026-04-17,Devansh Korpal,B.Tech Big Data,Iceberg;Data Lake Architecture,7.94,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Samarth Nigam,B.Tech Computer Science (Data),HBase;Distributed Storage,9.48,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Yashodhara Bala,B.Tech Computer Science (Data),Hadoop;HDFS;MapReduce,9.21,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,6
+2026-04-17,Neel Das,MCA Data Engineering,Logging;Monitoring;Data Quality,9.0,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,7
+2026-04-17,Vasana Sharma,B.Tech Computer Science (Data),Data Lake;Delta Lake;Lakehouse,8.83,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,4
+2026-04-17,Chaitaly Brahmbhatt,B.Tech Computer Science (Data),Spark Streaming;Structured Streaming,7.03,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,4
+2026-04-17,Maanav Basu,B.Tech Computer Science (Data),Performance Tuning;Scalability,8.05,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Jasmit Agate,MCA Data Engineering,Flink;Stream Processing,7.98,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,7
+2026-04-17,Harish Memon,B.Tech Data Engineering,HBase;Distributed Storage,8.31,Big Data Engineer,,0,4
+2026-04-17,Gagan Anne,B.Tech Computer Science (Data),Flink;Stream Processing,7.63,Big Data Engineer,Real-time Stream Processing System,1,5
+2026-04-17,Gabriel Pall,B.Tech Big Data,Flink;Stream Processing,7.32,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,6
+2026-04-17,Arya Arya,MCA Data Engineering,Spark Streaming;Structured Streaming,7.03,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Upkaar Soman,B.Tech Big Data,SQL;Data Warehousing;Snowflake,7.12,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Eesha Khatri,B.Tech Computer Science (Data),Hive;Data Warehousing;SQL,9.39,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Amrita Deo,B.Tech Big Data,Spark;PySpark;Distributed Computing,7.15,Big Data Engineer,,0,5
+2026-04-17,Sudiksha Naik,MCA Data Engineering,Logging;Monitoring;Data Quality,8.73,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,8
+2026-04-17,Vaishnavi Gaba,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,9.34,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,8
+2026-04-17,Xavier Sastry,MCA Data Engineering,Python;SQL;ETL;Data Pipelines,7.01,Big Data Engineer,,0,6
+2026-04-17,Aahana Borra,B.Tech Computer Science (Data),HBase;Distributed Storage,8.89,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Bishakha Sule,MCA Data Engineering,Hadoop;HDFS;MapReduce,8.23,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,6
+2026-04-17,Ubika Murty,B.Tech Big Data,Performance Tuning;Scalability,8.42,Big Data Engineer,,0,7
+2026-04-17,Bishakha Gera,B.Tech Computer Science (Data),Spark Streaming;Structured Streaming,9.29,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Praneel Bath,MCA Data Engineering,GCP;BigQuery;Dataflow,8.97,Big Data Engineer,Analytics Pipeline on BigQuery,1,4
+2026-04-17,Devansh Mitter,MCA Data Engineering,Performance Tuning;Scalability,7.69,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Nidra Majumdar,MCA Data Engineering,Spark Streaming;Structured Streaming,7.68,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,8
+2026-04-17,Yashawini Raja,B.Tech Data Engineering,Python;Airflow;Workflow Orchestration,8.36,Big Data Engineer,Airflow DAG Pipeline;Workflow Automation System,2,4
+2026-04-17,Zehaan Tank,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,7.64,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,8
+2026-04-17,Vasatika Gade,B.Tech Computer Science (Data),Flink;Stream Processing,7.97,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,6
+2026-04-17,Ijaya Modi,B.Tech Computer Science (Data),Iceberg;Data Lake Architecture,8.91,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Ranveer Varty,B.Tech Computer Science (Data),Data Lake;Delta Lake;Lakehouse,8.37,Big Data Engineer,Lakehouse Architecture Project,1,4
+2026-04-17,Reyansh Uppal,B.Tech Data Engineering,Great Expectations;Data Validation,8.02,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Aarav Tripathi,B.Tech Data Engineering,Python;SQL;ETL;Data Pipelines,7.48,Big Data Engineer,Batch Data Processing Pipeline,1,6
+2026-04-17,Elijah Pingle,B.Tech Data Engineering,Logging;Monitoring;Data Quality,8.28,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,4
+2026-04-17,Wyatt Mohan,MCA Data Engineering,Iceberg;Data Lake Architecture,9.23,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Rayaan Malhotra,MCA Data Engineering,Hive;Data Warehousing;SQL,7.02,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Varsha Bose,B.Tech Data Engineering,Performance Tuning;Scalability,8.72,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Max Dey,MCA Data Engineering,Performance Tuning;Scalability,8.77,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Advay Mahajan,B.Tech Data Engineering,Iceberg;Data Lake Architecture,7.32,Big Data Engineer,,0,6
+2026-04-17,Ekalinga Wagle,B.Tech Data Engineering,Azure;Data Factory;Synapse,7.06,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Ira Hayer,B.Tech Computer Science (Data),Hive;Data Warehousing;SQL,7.06,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Eesha Raj,MCA Data Engineering,Logging;Monitoring;Data Quality,8.46,Big Data Engineer,Logging and Alerting Pipeline,1,7
+2026-04-17,Pratyush Palla,B.Tech Big Data,Hadoop;HDFS;MapReduce,8.57,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,8
+2026-04-17,Pratyush Kumar,B.Tech Computer Science (Data),GCP;BigQuery;Dataflow,7.65,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,8
+2026-04-17,Bahadurjit Sem,B.Tech Computer Science (Data),Spark;PySpark;Distributed Computing,9.11,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,5
+2026-04-17,Netra Nadkarni,B.Tech Computer Science (Data),Spark;PySpark;Distributed Computing,7.36,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,4
+2026-04-17,Jasmit Din,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,7.29,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,8
+2026-04-17,Balvan Gupta,B.Tech Data Engineering,Python;SQL;ETL;Data Pipelines,8.75,Big Data Engineer,ETL Pipeline for Sales Data;Batch Data Processing Pipeline,2,4
+2026-04-17,Daniel Agrawal,MCA Data Engineering,Python;Airflow;Workflow Orchestration,8.75,Big Data Engineer,Airflow DAG Pipeline;Workflow Automation System,2,5
+2026-04-17,Upadhriti Nagy,B.Tech Data Engineering,Spark Streaming;Structured Streaming,7.06,Big Data Engineer,Log Data Analysis System,1,5
+2026-04-17,Turvi Nagarajan,B.Tech Big Data,GCP;BigQuery;Dataflow,9.32,Big Data Engineer,,0,6
+2026-04-17,Urishilla Ratti,B.Tech Big Data,Flink;Stream Processing,7.06,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,5
+2026-04-17,Omkaar Mishra,B.Tech Computer Science (Data),Hive;Data Warehousing;SQL,9.41,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Advay Chawla,B.Tech Big Data,Python;Airflow;Workflow Orchestration,9.02,Big Data Engineer,Workflow Automation System;Airflow DAG Pipeline,2,6
+2026-04-17,Brinda Kamdar,MCA Data Engineering,Kafka;Streaming;Real-time Data,8.75,Big Data Engineer,Real-time Streaming Pipeline;Event-driven Data System,2,6
+2026-04-17,Chaitanya Banik,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,8.79,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,8
+2026-04-17,Brinda Menon,B.Tech Big Data,HBase;Distributed Storage,7.19,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Ekalinga Borde,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,9.35,Big Data Engineer,Delta Lake Pipeline;Lakehouse Architecture Project,2,6
+2026-04-17,Vivaan Datta,MCA Data Engineering,Spark;PySpark;Distributed Computing,7.92,Big Data Engineer,,0,7
+2026-04-17,Ojas Pandya,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,7.02,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,4
+2026-04-17,Sachi Suri,B.Tech Big Data,SQL;Data Warehousing;Snowflake,7.65,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Tejas Venkataraman,B.Tech Computer Science (Data),Azure;Data Factory;Synapse,8.24,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Harshil Mand,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,9.42,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,7
+2026-04-17,Fitan Suresh,B.Tech Big Data,Query Optimization;Partitioning;Indexing,7.53,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,6
+2026-04-17,Qarin Tripathi,MCA Data Engineering,Query Optimization;Partitioning;Indexing,9.44,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,6
+2026-04-17,Bina Oommen,MCA Data Engineering,HBase;Distributed Storage,8.63,Big Data Engineer,,0,7
+2026-04-17,Zilmil Kale,B.Tech Big Data,Hadoop;HDFS;MapReduce,8.83,Big Data Engineer,,0,7
+2026-04-17,Vanya Reddy,B.Tech Computer Science (Data),Azure;Data Factory;Synapse,9.3,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Oni Nadkarni,MCA Data Engineering,Hadoop;HDFS;MapReduce,7.4,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,5
+2026-04-17,Robert Chawla,B.Tech Data Engineering,Performance Tuning;Scalability,8.86,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Nirja Varghese,B.Tech Big Data,Query Optimization;Partitioning;Indexing,9.0,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,6
+2026-04-17,Harsh Tandon,B.Tech Big Data,Flink;Stream Processing,7.73,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,8
+2026-04-17,Vedhika Panchal,MCA Data Engineering,Kafka;Streaming;Real-time Data,8.49,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,5
+2026-04-17,Aadhya Murthy,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,9.17,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,5
+2026-04-17,Janaki Mitter,MCA Data Engineering,HBase;Distributed Storage,7.69,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Aachal Nadig,B.Tech Computer Science (Data),SQL;Data Warehousing;Snowflake,7.65,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Pranit Salvi,B.Tech Computer Science (Data),Terraform;Infrastructure as Code,9.12,Big Data Engineer,Infrastructure Automation for Data Platform;Cloud Infra Setup,2,6
+2026-04-17,Qabil Krishnan,B.Tech Computer Science (Data),NoSQL;MongoDB;Cassandra,7.7,Big Data Engineer,High-scale Database System,1,6
+2026-04-17,Ekiya Gopal,MCA Data Engineering,Azure;Data Factory;Synapse,8.28,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Andrew Borde,MCA Data Engineering,HBase;Distributed Storage,7.66,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Parth Mandal,B.Tech Data Engineering,GCP;BigQuery;Dataflow,8.69,Big Data Engineer,Cloud Data Warehouse System;Analytics Pipeline on BigQuery,2,8
+2026-04-17,Nakul Balan,B.Tech Computer Science (Data),Data Lake;Delta Lake;Lakehouse,7.39,Big Data Engineer,,0,6
+2026-04-17,Rajata Khare,MCA Data Engineering,GCP;BigQuery;Dataflow,7.44,Big Data Engineer,Cloud Data Warehouse System;Analytics Pipeline on BigQuery,2,5
+2026-04-17,Triveni Sant,MCA Data Engineering,SQL;Data Warehousing;Snowflake,8.56,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Nidhi Bora,MCA Data Engineering,Python;Airflow;Workflow Orchestration,7.2,Big Data Engineer,,0,4
+2026-04-17,Sarthak Bail,B.Tech Computer Science (Data),Spark;PySpark;Distributed Computing,7.4,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,6
+2026-04-17,Harini Maharaj,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,8.96,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,5
+2026-04-17,Qadim Ramaswamy,B.Tech Data Engineering,Hive;Data Warehousing;SQL,7.57,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Jhalak Badami,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,8.17,Big Data Engineer,Big Data Processing Pipeline;Log Data Analysis System,2,4
+2026-04-17,Megha Bajaj,B.Tech Computer Science (Data),Iceberg;Data Lake Architecture,8.36,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Mitesh Virk,B.Tech Computer Science (Data),Flink;Stream Processing,9.19,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,6
+2026-04-17,Triveni Nadkarni,B.Tech Big Data,Performance Tuning;Scalability,8.67,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Netra Nagar,B.Tech Computer Science (Data),GCP;BigQuery;Dataflow,8.23,Big Data Engineer,,0,8
+2026-04-17,Odika Sen,MCA Data Engineering,Spark Streaming;Structured Streaming,9.0,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,8
+2026-04-17,Janya Sahni,MCA Data Engineering,Hive;Data Warehousing;SQL,7.24,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Dhriti Dhillon,B.Tech Big Data,Hadoop;HDFS;MapReduce,9.27,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,8
+2026-04-17,Oviya Goswami,MCA Data Engineering,Performance Tuning;Scalability,8.39,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Aarini Rajagopal,B.Tech Big Data,Hadoop;HDFS;MapReduce,7.0,Big Data Engineer,,0,5
+2026-04-17,Arin Virk,B.Tech Data Engineering,Logging;Monitoring;Data Quality,8.2,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,6
+2026-04-17,Baljiwan Sami,B.Tech Data Engineering,Python;SQL;ETL;Data Pipelines,7.6,Big Data Engineer,,0,5
+2026-04-17,Kala Kale,MCA Data Engineering,Spark Streaming;Structured Streaming,8.73,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,4
+2026-04-17,Kamya Swamy,B.Tech Big Data,Iceberg;Data Lake Architecture,7.62,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Charvi Konda,B.Tech Big Data,Spark;PySpark;Distributed Computing,7.02,Big Data Engineer,Big Data Processing Pipeline,1,6
+2026-04-17,Gaurangi Pradhan,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,7.11,Big Data Engineer,Airflow DAG Pipeline,1,6
+2026-04-17,Dalbir Bhasin,B.Tech Computer Science (Data),Azure;Data Factory;Synapse,7.91,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Advay Mistry,B.Tech Data Engineering,Great Expectations;Data Validation,8.94,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Warinder Merchant,MCA Data Engineering,Azure;Data Factory;Synapse,9.44,Big Data Engineer,,0,6
+2026-04-17,Veda Halder,B.Tech Data Engineering,Performance Tuning;Scalability,8.98,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Yamini Dhar,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,7.66,Big Data Engineer,,0,6
+2026-04-17,Max Balakrishnan,B.Tech Computer Science (Data),NoSQL;MongoDB;Cassandra,8.31,Big Data Engineer,High-scale Database System;NoSQL Data Storage System,2,7
+2026-04-17,Fiyaz Jayaraman,B.Tech Data Engineering,Spark Streaming;Structured Streaming,7.99,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,6
+2026-04-17,Simon Dhingra,MCA Data Engineering,Azure;Data Factory;Synapse,7.81,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Advik Shroff,B.Tech Data Engineering,Iceberg;Data Lake Architecture,9.14,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Dalaja Peri,B.Tech Data Engineering,Kafka;Streaming;Real-time Data,7.64,Big Data Engineer,Real-time Streaming Pipeline;Event-driven Data System,2,5
+2026-04-17,Faqid Bava,B.Tech Big Data,Terraform;Infrastructure as Code,7.22,Big Data Engineer,Cloud Infra Setup;Infrastructure Automation for Data Platform,2,7
+2026-04-17,Vansha Doshi,B.Tech Big Data,Hadoop;HDFS;MapReduce,7.9,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,6
+2026-04-17,Yash Chaudry,MCA Data Engineering,Great Expectations;Data Validation,9.34,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Rayaan Varughese,B.Tech Data Engineering,Iceberg;Data Lake Architecture,8.56,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Qadim Majumdar,B.Tech Computer Science (Data),GCP;BigQuery;Dataflow,7.85,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,8
+2026-04-17,Oeshi Morar,B.Tech Data Engineering,HBase;Distributed Storage,9.06,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Tara Shere,B.Tech Data Engineering,NoSQL;MongoDB;Cassandra,7.18,Big Data Engineer,High-scale Database System;NoSQL Data Storage System,2,5
+2026-04-17,Qarin Sodhi,MCA Data Engineering,Spark;PySpark;Distributed Computing,8.78,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,8
+2026-04-17,David Warrior,B.Tech Data Engineering,SQL;Data Warehousing;Snowflake,8.31,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Inaya Srinivas,MCA Data Engineering,Terraform;Infrastructure as Code,9.24,Big Data Engineer,,0,5
+2026-04-17,Aayush Zacharia,B.Tech Data Engineering,Docker;Kubernetes;CI/CD,8.87,Big Data Engineer,Dockerized Data Pipeline;Containerized ETL System,2,4
+2026-04-17,Omkaar Chatterjee,MCA Data Engineering,Great Expectations;Data Validation,9.18,Big Data Engineer,,0,4
+2026-04-17,Chatura Butala,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,7.9,Big Data Engineer,ETL Pipeline for Sales Data;Batch Data Processing Pipeline,2,5
+2026-04-17,Bimala Sha,B.Tech Computer Science (Data),Terraform;Infrastructure as Code,8.12,Big Data Engineer,Cloud Infra Setup;Infrastructure Automation for Data Platform,2,7
+2026-04-17,Frederick Desai,B.Tech Data Engineering,Terraform;Infrastructure as Code,8.73,Big Data Engineer,,0,7
+2026-04-17,Yutika Ramanathan,MCA Data Engineering,Logging;Monitoring;Data Quality,7.86,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,7
+2026-04-17,Gunbir Chaudhary,MCA Data Engineering,HBase;Distributed Storage,8.98,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Abhiram Joshi,B.Tech Data Engineering,Python;SQL;ETL;Data Pipelines,7.82,Big Data Engineer,Batch Data Processing Pipeline;ETL Pipeline for Sales Data,2,6
+2026-04-17,Peter Kulkarni,MCA Data Engineering,Docker;Kubernetes;CI/CD,7.51,Big Data Engineer,Scalable Data Platform;Dockerized Data Pipeline;Containerized ETL System;K8s Data Pipeline Deployment,4,5
+2026-04-17,Kavya Borde,B.Tech Computer Science (Data),Spark;PySpark;Distributed Computing,9.08,Big Data Engineer,,0,4
+2026-04-17,Peter Sahni,B.Tech Data Engineering,Flink;Stream Processing,9.31,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,4
+2026-04-17,Ekavir Mani,B.Tech Big Data,NoSQL;MongoDB;Cassandra,8.27,Big Data Engineer,,0,6
+2026-04-17,Zayyan Patla,B.Tech Computer Science (Data),Spark Streaming;Structured Streaming,7.72,Big Data Engineer,,0,6
+2026-04-17,Omya Venkatesh,MCA Data Engineering,Kafka;Streaming;Real-time Data,9.36,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,8
+2026-04-17,Tristan Venkataraman,B.Tech Data Engineering,Terraform;Infrastructure as Code,7.41,Big Data Engineer,,0,6
+2026-04-17,Edhitha Khalsa,MCA Data Engineering,HBase;Distributed Storage,8.46,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Maanas Nori,B.Tech Data Engineering,Great Expectations;Data Validation,8.35,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Jyoti Sagar,MCA Data Engineering,Iceberg;Data Lake Architecture,8.12,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Yauvani Menon,B.Tech Big Data,Query Optimization;Partitioning;Indexing,8.57,Big Data Engineer,Partitioned Data System,1,5
+2026-04-17,Saumya Chopra,B.Tech Data Engineering,Great Expectations;Data Validation,8.12,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Hardik Lata,B.Tech Big Data,Great Expectations;Data Validation,8.17,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Charvi Ramachandran,B.Tech Big Data,Python;Airflow;Workflow Orchestration,7.09,Big Data Engineer,Airflow DAG Pipeline,1,6
+2026-04-17,Oscar Shenoy,B.Tech Big Data,Hadoop;HDFS;MapReduce,9.02,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,6
+2026-04-17,Zinal Chopra,B.Tech Computer Science (Data),AWS;S3;Glue;Athena,9.01,Big Data Engineer,AWS Data Pipeline;Serverless Data Processing System,2,4
+2026-04-17,Chanakya De,MCA Data Engineering,AWS;S3;Glue;Athena,7.84,Big Data Engineer,Serverless Data Processing System;AWS Data Pipeline,2,8
+2026-04-17,Damyanti Rai,B.Tech Big Data,Kafka;Streaming;Real-time Data,7.53,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,4
+2026-04-17,Sachi Mani,B.Tech Big Data,Spark;PySpark;Distributed Computing,9.46,Big Data Engineer,,0,8
+2026-04-17,Eta Chaudhary,B.Tech Computer Science (Data),Iceberg;Data Lake Architecture,8.18,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Manan Mohan,B.Tech Data Engineering,Iceberg;Data Lake Architecture,7.43,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Advik Sachdeva,MCA Data Engineering,Data Lake;Delta Lake;Lakehouse,8.99,Big Data Engineer,Delta Lake Pipeline;Lakehouse Architecture Project,2,6
+2026-04-17,Kamya Kumar,MCA Data Engineering,Hadoop;HDFS;MapReduce,7.67,Big Data Engineer,,0,4
+2026-04-17,Oni Nagi,B.Tech Big Data,Great Expectations;Data Validation,8.66,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Mitesh Kalla,B.Tech Data Engineering,Great Expectations;Data Validation,9.07,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Abha Kapur,B.Tech Big Data,Iceberg;Data Lake Architecture,8.88,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Nicholas Upadhyay,B.Tech Data Engineering,Kafka;Streaming;Real-time Data,7.66,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,8
+2026-04-17,Ganga Bhagat,MCA Data Engineering,Logging;Monitoring;Data Quality,8.1,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,4
+2026-04-17,Wridesh Parsa,B.Tech Big Data,Docker;Kubernetes;CI/CD,7.63,Big Data Engineer,Scalable Data Platform,1,8
+2026-04-17,Viraj Ahluwalia,B.Tech Computer Science (Data),Data Lake;Delta Lake;Lakehouse,8.83,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,7
+2026-04-17,Jagvi Dasgupta,MCA Data Engineering,Python;SQL;ETL;Data Pipelines,8.64,Big Data Engineer,Batch Data Processing Pipeline,1,4
+2026-04-17,Kamala Wagle,B.Tech Computer Science (Data),Terraform;Infrastructure as Code,9.44,Big Data Engineer,Cloud Infra Setup;Infrastructure Automation for Data Platform,2,4
+2026-04-17,Ekaraj Garde,B.Tech Data Engineering,Spark Streaming;Structured Streaming,8.08,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,8
+2026-04-17,George Dube,B.Tech Computer Science (Data),Docker;Kubernetes;CI/CD,9.23,Big Data Engineer,Dockerized Data Pipeline;K8s Data Pipeline Deployment;Containerized ETL System;Scalable Data Platform,4,6
+2026-04-17,Ayush Krishna,B.Tech Big Data,Docker;Kubernetes;CI/CD,8.75,Big Data Engineer,,0,5
+2026-04-17,Triya Radhakrishnan,B.Tech Data Engineering,Great Expectations;Data Validation,7.78,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Fitan Sengupta,MCA Data Engineering,Hadoop;HDFS;MapReduce,7.5,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,4
+2026-04-17,Watika Din,MCA Data Engineering,Kafka;Streaming;Real-time Data,9.02,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,4
+2026-04-17,Chakradev Krishnan,MCA Data Engineering,Performance Tuning;Scalability,9.24,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Rishi Dutta,B.Tech Computer Science (Data),Query Optimization;Partitioning;Indexing,7.76,Big Data Engineer,Query Optimization Project;Partitioned Data System,2,6
+2026-04-17,Turvi Dube,B.Tech Big Data,Spark;PySpark;Distributed Computing,8.57,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Chaman Vyas,MCA Data Engineering,Hadoop;HDFS;MapReduce,8.83,Big Data Engineer,Distributed Storage Pipeline,1,6
+2026-04-17,Anya Dubey,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,8.56,Big Data Engineer,Airflow DAG Pipeline,1,4
+2026-04-17,Yasti Verma,B.Tech Data Engineering,Query Optimization;Partitioning;Indexing,7.85,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,4
+2026-04-17,Shravya Chopra,B.Tech Data Engineering,Flink;Stream Processing,9.14,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,4
+2026-04-17,Fariq Tata,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,8.39,Big Data Engineer,,0,7
+2026-04-17,Chaman Sathe,B.Tech Computer Science (Data),Hive;Data Warehousing;SQL,9.07,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Raagini Raman,MCA Data Engineering,Hadoop;HDFS;MapReduce,7.76,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,8
+2026-04-17,Ria Devi,B.Tech Computer Science (Data),Query Optimization;Partitioning;Indexing,9.14,Big Data Engineer,Partitioned Data System;Query Optimization Project,2,8
+2026-04-17,Saumya Comar,B.Tech Big Data,HBase;Distributed Storage,7.8,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Leena Kaul,B.Tech Computer Science (Data),Python;SQL;ETL;Data Pipelines,8.95,Big Data Engineer,ETL Pipeline for Sales Data;Batch Data Processing Pipeline,2,5
+2026-04-17,Radhika Brar,MCA Data Engineering,NoSQL;MongoDB;Cassandra,9.28,Big Data Engineer,High-scale Database System,1,5
+2026-04-17,Gunbir Bhat,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,8.68,Big Data Engineer,Workflow Automation System;Airflow DAG Pipeline,2,7
+2026-04-17,Shivani Soni,B.Tech Big Data,GCP;BigQuery;Dataflow,7.53,Big Data Engineer,Cloud Data Warehouse System;Analytics Pipeline on BigQuery,2,8
+2026-04-17,Pranit Hayer,B.Tech Computer Science (Data),Docker;Kubernetes;CI/CD,9.05,Big Data Engineer,Scalable Data Platform;K8s Data Pipeline Deployment;Dockerized Data Pipeline,3,7
+2026-04-17,Lipika Nair,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,8.41,Big Data Engineer,Airflow DAG Pipeline;Workflow Automation System,2,7
+2026-04-17,Gabriel Ravel,B.Tech Big Data,Flink;Stream Processing,9.25,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,5
+2026-04-17,Yatan Anand,B.Tech Data Engineering,Spark;PySpark;Distributed Computing,8.19,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Neelima Sama,MCA Data Engineering,Hadoop;HDFS;MapReduce,9.45,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,7
+2026-04-17,Jagvi Solanki,MCA Data Engineering,Hadoop;HDFS;MapReduce,9.4,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,8
+2026-04-17,Tristan Krishnan,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,7.58,Big Data Engineer,Data Quality Monitoring System,1,7
+2026-04-17,Chaaya Parsa,B.Tech Computer Science (Data),SQL;Data Warehousing;Snowflake,9.13,Big Data Engineer,,0,6
+2026-04-17,Jagvi Sane,B.Tech Big Data,GCP;BigQuery;Dataflow,9.06,Big Data Engineer,Cloud Data Warehouse System;Analytics Pipeline on BigQuery,2,4
+2026-04-17,Hemal Bakshi,B.Tech Computer Science (Data),Performance Tuning;Scalability,8.85,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Tanvi Bandi,B.Tech Big Data,NoSQL;MongoDB;Cassandra,7.48,Big Data Engineer,,0,6
+2026-04-17,Manya Jaggi,B.Tech Big Data,Data Lake;Delta Lake;Lakehouse,7.88,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,6
+2026-04-17,Harita Kaul,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,7.74,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,5
+2026-04-17,Lakshit Tank,MCA Data Engineering,HBase;Distributed Storage,8.83,Big Data Engineer,,0,6
+2026-04-17,Aryan Sami,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,7.92,Big Data Engineer,Delta Lake Pipeline;Lakehouse Architecture Project,2,6
+2026-04-17,Chakradev Biswas,B.Tech Computer Science (Data),Spark;PySpark;Distributed Computing,8.8,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,6
+2026-04-17,Zansi Tripathi,B.Tech Data Engineering,Query Optimization;Partitioning;Indexing,8.1,Big Data Engineer,Query Optimization Project;Partitioned Data System,2,8
+2026-04-17,Faraj Thakur,B.Tech Big Data,GCP;BigQuery;Dataflow,8.93,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,4
+2026-04-17,Gopal Chakrabarti,B.Tech Computer Science (Data),Spark Streaming;Structured Streaming,7.87,Big Data Engineer,Big Data Processing Pipeline,1,8
+2026-04-17,Laban Kale,B.Tech Computer Science (Data),Data Lake;Delta Lake;Lakehouse,8.75,Big Data Engineer,Lakehouse Architecture Project;Delta Lake Pipeline,2,6
+2026-04-17,Jhalak Subramaniam,B.Tech Computer Science (Data),Performance Tuning;Scalability,7.78,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Raghav Arya,B.Tech Computer Science (Data),HBase;Distributed Storage,7.49,Big Data Engineer,,0,7
+2026-04-17,Urvi Puri,B.Tech Computer Science (Data),Logging;Monitoring;Data Quality,9.37,Big Data Engineer,,0,6
+2026-04-17,Daniel D’Alia,MCA Data Engineering,Terraform;Infrastructure as Code,7.6,Big Data Engineer,Infrastructure Automation for Data Platform;Cloud Infra Setup,2,8
+2026-04-17,Hardik Sangha,B.Tech Big Data,Hive;Data Warehousing;SQL,8.65,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Nachiket Anne,MCA Data Engineering,Query Optimization;Partitioning;Indexing,7.89,Big Data Engineer,,0,7
+2026-04-17,Ekaja Shah,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,7.1,Big Data Engineer,ETL Pipeline for Sales Data;Batch Data Processing Pipeline,2,4
+2026-04-17,Ria Bahri,B.Tech Big Data,Azure;Data Factory;Synapse,9.14,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Neha Pradhan,B.Tech Big Data,SQL;Data Warehousing;Snowflake,8.83,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Yash Dash,MCA Data Engineering,Flink;Stream Processing,7.46,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,6
+2026-04-17,Sanya Bora,B.Tech Computer Science (Data),Hive;Data Warehousing;SQL,7.89,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Rachit Dass,B.Tech Big Data,Python;Airflow;Workflow Orchestration,7.22,Big Data Engineer,Workflow Automation System;Airflow DAG Pipeline,2,7
+2026-04-17,Girik Ramanathan,MCA Data Engineering,Spark Streaming;Structured Streaming,8.06,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,5
+2026-04-17,Ubika Divan,B.Tech Big Data,Performance Tuning;Scalability,8.76,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Adweta Konda,B.Tech Data Engineering,Logging;Monitoring;Data Quality,7.58,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,5
+2026-04-17,Akshay Shanker,B.Tech Big Data,GCP;BigQuery;Dataflow,9.27,Big Data Engineer,Analytics Pipeline on BigQuery,1,6
+2026-04-17,Zaid Biswas,MCA Data Engineering,Python;SQL;ETL;Data Pipelines,9.33,Big Data Engineer,,0,8
+2026-04-17,Jackson Shah,B.Tech Computer Science (Data),Performance Tuning;Scalability,7.66,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Pooja Barad,B.Tech Big Data,Great Expectations;Data Validation,7.76,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Gauri Karnik,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,8.7,Big Data Engineer,Batch Data Processing Pipeline;ETL Pipeline for Sales Data,2,6
+2026-04-17,Charan Oak,B.Tech Computer Science (Data),Performance Tuning;Scalability,8.2,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Nidra Pillay,B.Tech Data Engineering,Spark Streaming;Structured Streaming,9.22,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,4
+2026-04-17,Balveer Jayaraman,B.Tech Big Data,Great Expectations;Data Validation,7.71,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Atharv Konda,B.Tech Computer Science (Data),Query Optimization;Partitioning;Indexing,8.63,Big Data Engineer,Query Optimization Project;Partitioned Data System,2,7
+2026-04-17,Varsha Anne,B.Tech Data Engineering,HBase;Distributed Storage,9.0,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Advik Khanna,B.Tech Big Data,AWS;S3;Glue;Athena,7.14,Big Data Engineer,,0,5
+2026-04-17,Patrick Sinha,MCA Data Engineering,Flink;Stream Processing,8.65,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,4
+2026-04-17,Yagnesh Kohli,B.Tech Data Engineering,Iceberg;Data Lake Architecture,9.17,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Bimala Purohit,MCA Data Engineering,Azure;Data Factory;Synapse,8.75,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Ucchal Dey,B.Tech Big Data,Flink;Stream Processing,9.08,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,4
+2026-04-17,Eta Bhat,MCA Data Engineering,Iceberg;Data Lake Architecture,7.08,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Damyanti Chaudhuri,B.Tech Big Data,Kafka;Streaming;Real-time Data,7.91,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,6
+2026-04-17,Omisha Bobal,B.Tech Big Data,Flink;Stream Processing,7.04,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,8
+2026-04-17,Barkha Sheth,B.Tech Computer Science (Data),GCP;BigQuery;Dataflow,8.27,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,7
+2026-04-17,Robert Madan,B.Tech Big Data,Kafka;Streaming;Real-time Data,7.16,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,6
+2026-04-17,Lekha Bhasin,B.Tech Computer Science (Data),NoSQL;MongoDB;Cassandra,8.8,Big Data Engineer,,0,4
+2026-04-17,Bhavya Loke,B.Tech Big Data,Performance Tuning;Scalability,9.13,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Girik Devan,B.Tech Data Engineering,Azure;Data Factory;Synapse,7.25,Big Data Engineer,,0,8
+2026-04-17,Kamya Shetty,B.Tech Computer Science (Data),Iceberg;Data Lake Architecture,7.36,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Urvi Goda,MCA Data Engineering,Hadoop;HDFS;MapReduce,8.81,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,6
+2026-04-17,Sarthak Butala,B.Tech Data Engineering,Iceberg;Data Lake Architecture,8.44,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Elijah Pandey,B.Tech Big Data,NoSQL;MongoDB;Cassandra,7.46,Big Data Engineer,NoSQL Data Storage System;High-scale Database System,2,6
+2026-04-17,Oni Bail,B.Tech Data Engineering,Data Lake;Delta Lake;Lakehouse,7.26,Big Data Engineer,Delta Lake Pipeline;Lakehouse Architecture Project,2,4
+2026-04-17,Xalak Master,B.Tech Data Engineering,Flink;Stream Processing,7.89,Big Data Engineer,Real-time Stream Processing System,1,6
+2026-04-17,Gunbir Bora,B.Tech Big Data,Hadoop;HDFS;MapReduce,9.31,Big Data Engineer,Hadoop Data Processing System;Distributed Storage Pipeline,2,6
+2026-04-17,Ladli Varkey,B.Tech Computer Science (Data),Hadoop;HDFS;MapReduce,9.05,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,7
+2026-04-17,Oliver Purohit,B.Tech Data Engineering,SQL;Data Warehousing;Snowflake,8.42,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Harini Grewal,B.Tech Big Data,Azure;Data Factory;Synapse,8.73,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Ekanta Bera,B.Tech Big Data,NoSQL;MongoDB;Cassandra,7.76,Big Data Engineer,High-scale Database System;NoSQL Data Storage System,2,5
+2026-04-17,Isaiah Balakrishnan,B.Tech Big Data,Terraform;Infrastructure as Code,8.96,Big Data Engineer,Cloud Infra Setup,1,7
+2026-04-17,Vrinda Mani,B.Tech Data Engineering,SQL;Data Warehousing;Snowflake,8.19,Big Data Engineer,,0,5
+2026-04-17,Lakshmi Tella,B.Tech Computer Science (Data),Great Expectations;Data Validation,7.05,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Zinal Bora,B.Tech Computer Science (Data),Performance Tuning;Scalability,8.05,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Eta Parmer,B.Tech Computer Science (Data),Great Expectations;Data Validation,7.84,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Dalbir Amble,B.Tech Computer Science (Data),Terraform;Infrastructure as Code,7.62,Big Data Engineer,,0,7
+2026-04-17,Widisha Srivastava,B.Tech Computer Science (Data),Iceberg;Data Lake Architecture,7.52,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Caleb Keer,MCA Data Engineering,Iceberg;Data Lake Architecture,7.42,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Hema Sunder,B.Tech Computer Science (Data),HBase;Distributed Storage,8.7,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Girish Shukla,MCA Data Engineering,Flink;Stream Processing,7.86,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,6
+2026-04-17,Janaki Barad,B.Tech Big Data,NoSQL;MongoDB;Cassandra,9.13,Big Data Engineer,NoSQL Data Storage System;High-scale Database System,2,8
+2026-04-17,Laksh Mital,B.Tech Big Data,Kafka;Streaming;Real-time Data,8.85,Big Data Engineer,Real-time Streaming Pipeline;Event-driven Data System,2,7
+2026-04-17,Matthew Dhar,MCA Data Engineering,Logging;Monitoring;Data Quality,9.13,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,6
+2026-04-17,Yatin Kari,MCA Data Engineering,Query Optimization;Partitioning;Indexing,9.29,Big Data Engineer,Query Optimization Project;Partitioned Data System,2,6
+2026-04-17,Arya Manne,B.Tech Big Data,Azure;Data Factory;Synapse,7.87,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Nathaniel Bora,MCA Data Engineering,NoSQL;MongoDB;Cassandra,8.88,Big Data Engineer,,0,4
+2026-04-17,Bhavika Mani,B.Tech Data Engineering,Logging;Monitoring;Data Quality,8.23,Big Data Engineer,Data Quality Monitoring System;Logging and Alerting Pipeline,2,7
+2026-04-17,Inaya Hayre,B.Tech Big Data,Hadoop;HDFS;MapReduce,8.66,Big Data Engineer,,0,5
+2026-04-17,Chaitanya Sridhar,B.Tech Big Data,Logging;Monitoring;Data Quality,7.29,Big Data Engineer,Logging and Alerting Pipeline;Data Quality Monitoring System,2,4
+2026-04-17,Raagini Mohan,B.Tech Big Data,Terraform;Infrastructure as Code,8.29,Big Data Engineer,Cloud Infra Setup;Infrastructure Automation for Data Platform,2,7
+2026-04-17,Victor Tiwari,B.Tech Computer Science (Data),Flink;Stream Processing,7.04,Big Data Engineer,Streaming Analytics Pipeline;Real-time Stream Processing System,2,8
+2026-04-17,Timothy Lad,MCA Data Engineering,Kafka;Streaming;Real-time Data,7.82,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,8
+2026-04-17,Upma Mangat,B.Tech Data Engineering,Hadoop;HDFS;MapReduce,8.51,Big Data Engineer,Distributed Storage Pipeline;Hadoop Data Processing System,2,8
+2026-04-17,Yagnesh Bhakta,B.Tech Big Data,Spark;PySpark;Distributed Computing,9.44,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,7
+2026-04-17,Rachita Tak,MCA Data Engineering,Iceberg;Data Lake Architecture,9.21,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Harini Warrior,MCA Data Engineering,AWS;S3;Glue;Athena,7.79,Big Data Engineer,,0,8
+2026-04-17,Chaitaly Rai,B.Tech Big Data,Python;SQL;ETL;Data Pipelines,8.71,Big Data Engineer,ETL Pipeline for Sales Data;Batch Data Processing Pipeline,2,8
+2026-04-17,Unnati Grover,B.Tech Data Engineering,Performance Tuning;Scalability,8.07,Big Data Engineer,Data Pipeline Prototype,1,8
+2026-04-17,Aarna Mani,B.Tech Data Engineering,GCP;BigQuery;Dataflow,7.06,Big Data Engineer,Analytics Pipeline on BigQuery;Cloud Data Warehouse System,2,4
+2026-04-17,Nathaniel Sarna,MCA Data Engineering,Data Lake;Delta Lake;Lakehouse,7.67,Big Data Engineer,Delta Lake Pipeline,1,7
+2026-04-17,Sathvik Yohannan,B.Tech Data Engineering,Kafka;Streaming;Real-time Data,7.41,Big Data Engineer,Event-driven Data System;Real-time Streaming Pipeline,2,4
+2026-04-17,Amol Shenoy,B.Tech Computer Science (Data),SQL;Data Warehousing;Snowflake,7.63,Big Data Engineer,Data Pipeline Prototype,1,4
+2026-04-17,Damini Garde,B.Tech Computer Science (Data),Python;Airflow;Workflow Orchestration,8.95,Big Data Engineer,Workflow Automation System,1,4
+2026-04-17,Isha De,B.Tech Big Data,Azure;Data Factory;Synapse,7.31,Big Data Engineer,Data Pipeline Prototype,1,5
+2026-04-17,Lucky Gara,B.Tech Data Engineering,Flink;Stream Processing,7.91,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,6
+2026-04-17,Ria Rout,B.Tech Data Engineering,Great Expectations;Data Validation,8.73,Big Data Engineer,Data Pipeline Prototype,1,7
+2026-04-17,Dhruv Kohli,B.Tech Big Data,Spark;PySpark;Distributed Computing,8.27,Big Data Engineer,Log Data Analysis System;Big Data Processing Pipeline,2,6
+2026-04-17,Naksh Tella,MCA Data Engineering,NoSQL;MongoDB;Cassandra,9.23,Big Data Engineer,High-scale Database System,1,4
+2026-04-17,Quincy Banik,MCA Data Engineering,Great Expectations;Data Validation,7.56,Big Data Engineer,Data Pipeline Prototype,1,6
+2026-04-17,Chandresh Deo,B.Tech Computer Science (Data),Flink;Stream Processing,9.37,Big Data Engineer,Real-time Stream Processing System;Streaming Analytics Pipeline,2,7
+2026-04-17,Amara Sengupta,B.Tech Data Engineering,Performance Tuning;Scalability,7.62,Big Data Engineer,Data Pipeline Prototype,1,6

@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Karan Patel,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,8.14,Game Development,ECS Performance Demo;Mass Entity Simulation,2,4
+2026-04-17,Yash Iyer,BCA Game Design,Godot;GDScript;Physics;2D,7.99,Game Development,Ragdoll Physics Demo;Endless Runner;Gravity Simulation;Car Simulation Game,4,7
+2026-04-17,Sakshi Singh,MCA Game Development,C++;SFML;Game Engine Basics,8.54,Game Development,Game Prototype,1,6
+2026-04-17,Sameer Kapoor,BCA Game Design,Unreal Engine;C++;Blueprints;Level Design,7.54,Game Development,Game Prototype,1,4
+2026-04-17,Deepak Verma,BCA Game Design,Unreal Engine;C++;Blueprints;Level Design,7.62,Game Development,,0,4
+2026-04-17,Tanya Verma,MCA Game Development,Unreal Engine;C++;Rendering;Lighting,9.5,Game Development,Realistic Lighting Scene;Ray Tracing Demo,2,5
+2026-04-17,Deepak Yadav,B.Tech Game Development,Unity;C#;Physics;Blender,9.41,Game Development,Ragdoll Physics Demo;Projectile System;Car Simulation Game;Physics Sandbox,4,7
+2026-04-17,Shivani Kapoor,BCA Game Design,Unity;C#;Animation Rigging;Timeline,8.08,Game Development,Game Prototype,1,6
+2026-04-17,Ankit Patel,MCA Game Development,Unity;C#;UI Toolkit;UX,8.58,Game Development,,0,8
+2026-04-17,Swati Kapoor,B.Tech Game Development,Godot;GDScript;UI;Animation,8.6,Game Development,,0,7
+2026-04-17,Neha Patel,MCA Game Development,Unreal Engine;C++;Physics;Chaos Engine,8.06,Game Development,Car Simulation Game;Gravity Simulation,2,4
+2026-04-17,Karan Singh,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,8.04,Game Development,NPC Behavior System;Enemy AI System,2,4
+2026-04-17,Yash Yadav,B.Tech Game Development,Unreal Engine;C++;Blueprints;Level Design,9.23,Game Development,Game Prototype,1,8
+2026-04-17,Deepak Sharma,MCA Game Development,Unity;C#;DOTS;Performance Optimization,9.0,Game Development,Mass Entity Simulation;ECS Performance Demo,2,8
+2026-04-17,Sakshi Verma,MCA Game Development,Godot;GDScript;UI;Animation,8.58,Game Development,HUD Design,1,4
+2026-04-17,Simran Nair,MCA Game Development,Godot;GDScript;UI;Animation,8.76,Game Development,,0,8
+2026-04-17,Tanya Jain,B.Tech Game Development,Python;AI;Reinforcement Learning,7.89,Game Development,AI Game Agent,1,8
+2026-04-17,Aarav Mehta,BCA Game Design,Unreal Engine;C++;Rendering;Lighting,8.31,Game Development,Shadow Mapping Demo;Realistic Lighting Scene;Ray Tracing Demo,3,8
+2026-04-17,Varun Kapoor,MCA Game Development,Godot;GDScript;UI;Animation,8.54,Game Development,,0,4
+2026-04-17,Ritika Sharma,B.Sc Game Development,Unreal Engine;C++;Niagara;VFX,8.7,Game Development,,0,4
+2026-04-17,Aditya Kapoor,B.Tech Game Development,Python;AI;Reinforcement Learning,9.29,Game Development,AI Game Agent;Self-learning Bot;Boss Fight AI;NPC Behavior System,4,7
+2026-04-17,Nikita Gupta,BCA Game Design,Unreal Engine;C++;Blueprints;Level Design,9.42,Game Development,Game Prototype,1,8
+2026-04-17,Tanya Yadav,B.Sc Game Development,Unity;C#;OpenXR;VR,8.5,Game Development,VR Escape Room;VR Training App,2,7
+2026-04-17,Ankit Kapoor,MCA Game Development,Python;Pygame;Game Logic,8.14,Game Development,,0,6
+2026-04-17,Neeraj Sharma,MCA Game Development,Unreal Engine;C++;Multiplayer;Replication,8.62,Game Development,Multiplayer Sync System;Lobby System,2,6
+2026-04-17,Imran Gupta,B.Sc Game Development,Godot;GDScript;UI;Animation,8.49,Game Development,Settings Panel UI;Cutscene System;Game Menu System;Inventory UI,4,6
+2026-04-17,Shivani Khan,BCA Game Design,Unity;C#;Physics;Blender,8.54,Game Development,Car Simulation Game,1,5
+2026-04-17,Kavya Iyer,BCA Game Design,C++;SFML;Game Engine Basics,8.36,Game Development,Game Prototype,1,7
+2026-04-17,Aman Yadav,MCA Game Development,Godot;GDScript;UI;Animation,8.63,Game Development,Inventory UI;Animation State Machine;Cutscene System,3,8
+2026-04-17,Rohit Yadav,B.Tech Game Development,Godot;GDScript;UI;Animation,8.44,Game Development,Game Menu System;Settings Panel UI;HUD Design;Inventory UI,4,5
+2026-04-17,Simran Sharma,BCA Game Design,Unity;C#;Addressables;Asset Management,7.84,Game Development,Game Prototype,1,4
+2026-04-17,Tanya Khan,MCA Game Development,Unity;C#;UI Toolkit;UX,8.08,Game Development,Game Prototype,1,7
+2026-04-17,Yash Mehta,BCA Game Design,Unity;C#;Addressables;Asset Management,8.98,Game Development,Game Prototype,1,4
+2026-04-17,Simran Iyer,MCA Game Development,Unity;C#;ShaderLab;VFX,8.36,Game Development,Toon Shader Demo;Magic Spell Effects;Water Shader,3,5
+2026-04-17,Kunal Kapoor,B.Sc Game Development,C++;OpenGL;Graphics Programming,9.02,Game Development,Basic Game Engine;Lighting Engine Demo;3D Rendering Engine,3,4
+2026-04-17,Ayush Yadav,BCA Game Design,Python;AI;Reinforcement Learning,8.82,Game Development,Self-learning Bot;NPC Behavior System;Pathfinding Visualizer,3,7
+2026-04-17,Alok Nair,BCA Game Design,Godot;GDScript;UI;Animation,8.3,Game Development,Cutscene System,1,5
+2026-04-17,Tanya Yadav,B.Sc Game Development,Unity;C#;Animation Rigging;Timeline,7.56,Game Development,Game Prototype,1,5
+2026-04-17,Simran Jain,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,9.3,Game Development,AR Object Placement App,1,8
+2026-04-17,Rohit Patel,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,9.09,Game Development,Stealth AI Game,1,7
+2026-04-17,Harsh Patel,B.Tech Game Development,Python;Pygame;Game Logic,8.57,Game Development,Breakout Game;Snake Game,2,5
+2026-04-17,Ankit Patel,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,8.31,Game Development,AR Object Placement App;AR Game;AR Navigation App,3,8
+2026-04-17,Simran Singh,B.Sc Game Development,Unity;C#;Animation Rigging;Timeline,7.53,Game Development,Game Prototype,1,4
+2026-04-17,Ankit Patel,MCA Game Development,Unreal Engine;C++;Niagara;VFX,9.47,Game Development,Particle Effects System,1,8
+2026-04-17,Riya Mehta,MCA Game Development,Unity;C#;ShaderLab;VFX,8.26,Game Development,Magic Spell Effects,1,7
+2026-04-17,Kunal Iyer,B.Tech Game Development,C++;OpenGL;Graphics Programming,7.69,Game Development,Lighting Engine Demo;3D Rendering Engine;Basic Game Engine,3,8
+2026-04-17,Raj Iyer,B.Tech Game Development,Godot;GDScript;Physics;2D,9.08,Game Development,Projectile System;2D Platformer Game;2D Puzzle Game;Ragdoll Physics Demo,4,8
+2026-04-17,Neha Patel,MCA Game Development,C++;OpenGL;Graphics Programming,7.52,Game Development,Lighting Engine Demo,1,7
+2026-04-17,Karan Jain,B.Tech Game Development,Unity;C#;Addressables;Asset Management,9.07,Game Development,Game Prototype,1,8
+2026-04-17,Kunal Patel,B.Tech Game Development,Unity;C#;Addressables;Asset Management,8.41,Game Development,Game Prototype,1,5
+2026-04-17,Kavya Yadav,B.Sc Game Development,Unity;C#;Animation Rigging;Timeline,8.49,Game Development,Game Prototype,1,8
+2026-04-17,Harsh Yadav,MCA Game Development,Unreal Engine;C++;Multiplayer;Replication,8.27,Game Development,,0,4
+2026-04-17,Aditya Sharma,MCA Game Development,Unreal Engine;C++;Rendering;Lighting,9.03,Game Development,Realistic Lighting Scene;Ray Tracing Demo;Shadow Mapping Demo,3,7
+2026-04-17,Ananya Iyer,B.Sc Game Development,Unreal Engine;C++;Rendering;Lighting,8.02,Game Development,Shadow Mapping Demo;Realistic Lighting Scene,2,4
+2026-04-17,Simran Jain,B.Tech Game Development,Unreal Engine;C++;Niagara;VFX,7.86,Game Development,Fire & Smoke System;Advanced VFX Demo;Particle Effects System,3,4
+2026-04-17,Swati Sharma,BCA Game Design,Unreal Engine;C++;Physics;Chaos Engine,8.83,Game Development,Physics Sandbox;Ragdoll Physics Demo,2,4
+2026-04-17,Yash Iyer,MCA Game Development,Python;AI;Reinforcement Learning,8.53,Game Development,Stealth AI Game;Pathfinding Visualizer;Enemy AI System;Self-learning Bot,4,4
+2026-04-17,Aarav Iyer,BCA Game Design,Godot;GDScript;Physics;2D,7.62,Game Development,Top-down Shooter;Gravity Simulation;2D Puzzle Game;2D Platformer Game,4,8
+2026-04-17,Rohit Iyer,MCA Game Development,Python;AI;Reinforcement Learning,8.05,Game Development,Boss Fight AI;Enemy AI System;Self-learning Bot,3,6
+2026-04-17,Ayush Gupta,B.Tech Game Development,Unity;C#;Addressables;Asset Management,9.46,Game Development,Game Prototype,1,4
+2026-04-17,Megha Kapoor,B.Sc Game Development,Unreal Engine;C++;Multiplayer;Replication,7.78,Game Development,,0,5
+2026-04-17,Ankit Kapoor,B.Tech Game Development,Unreal Engine;C++;Multiplayer;Replication,9.43,Game Development,Networked Physics Demo;Multiplayer Shooter,2,5
+2026-04-17,Ananya Kapoor,B.Sc Game Development,Unity;C#;OpenXR;VR,8.23,Game Development,VR Simulation;VR Escape Room,2,5
+2026-04-17,Rohit Iyer,MCA Game Development,C++;OpenGL;Graphics Programming,9.38,Game Development,3D Rendering Engine;Lighting Engine Demo;Basic Game Engine,3,4
+2026-04-17,Shivani Yadav,B.Tech Game Development,Unity;C#;ShaderLab;VFX,7.72,Game Development,Magic Spell Effects;Toon Shader Demo;Fire & Smoke System;Dissolve Effect Shader,4,7
+2026-04-17,Ayush Yadav,MCA Game Development,Unreal Engine;C++;AI;Behavior Trees,7.93,Game Development,Boss Fight AI;NPC Behavior System;Stealth AI Game;Pathfinding Visualizer,4,6
+2026-04-17,Sameer Khan,BCA Game Design,Godot;GDScript;2D;Tilemaps,8.41,Game Development,2D Platformer Game,1,4
+2026-04-17,Yash Mehta,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,9.37,Game Development,NPC Behavior System;Boss Fight AI;Enemy AI System,3,5
+2026-04-17,Alok Sharma,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,8.1,Game Development,AR Object Placement App;AR Navigation App;AR Game,3,7
+2026-04-17,Deepak Nair,BCA Game Design,Unreal Engine;C++;Blueprints;Level Design,8.49,Game Development,Game Prototype,1,8
+2026-04-17,Imran Gupta,B.Tech Game Development,C++;SFML;Game Engine Basics,9.2,Game Development,Game Prototype,1,6
+2026-04-17,Shivani Khan,BCA Game Design,Godot;GDScript;Shaders;2D Lighting,7.62,Game Development,,0,6
+2026-04-17,Tanya Khan,MCA Game Development,Unity;C#;AI;NavMesh,8.62,Game Development,Boss Fight AI;Pathfinding Visualizer;NPC Behavior System,3,4
+2026-04-17,Alok Gupta,B.Tech Game Development,Unity;C#;Addressables;Asset Management,9.42,Game Development,Game Prototype,1,5
+2026-04-17,Swati Mehta,MCA Game Development,Python;Pygame;Game Logic,8.36,Game Development,Space Shooter;Snake Game;Breakout Game,3,5
+2026-04-17,Ayush Yadav,MCA Game Development,Unity;C#;UI Toolkit;UX,7.99,Game Development,,0,5
+2026-04-17,Muskan Sharma,B.Sc Game Development,Unity;C#;Photon;Multiplayer,9.2,Game Development,,0,5
+2026-04-17,Kavya Nair,B.Sc Game Development,Godot;GDScript;UI;Animation,7.67,Game Development,,0,4
+2026-04-17,Nikita Kapoor,MCA Game Development,Python;Pygame;Game Logic,7.79,Game Development,,0,6
+2026-04-17,Sakshi Gupta,B.Tech Game Development,Unreal Engine;C++;AI;Behavior Trees,9.11,Game Development,Enemy AI System;NPC Behavior System,2,5
+2026-04-17,Ravi Khan,B.Tech Game Development,Python;AI;Reinforcement Learning,8.96,Game Development,Pathfinding Visualizer;Enemy AI System;Stealth AI Game;Self-learning Bot;Boss Fight AI,5,5
+2026-04-17,Simran Verma,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,8.26,Game Development,Enemy AI System;NPC Behavior System;Pathfinding Visualizer;Boss Fight AI,4,6
+2026-04-17,Neeraj Khan,BCA Game Design,Unity;C#;ShaderLab;VFX,8.02,Game Development,,0,7
+2026-04-17,Swati Mehta,MCA Game Development,Unity;C#;Animation Rigging;Timeline,8.56,Game Development,Game Prototype,1,7
+2026-04-17,Kunal Singh,BCA Game Design,Unity;C#;Animation Rigging;Timeline,9.17,Game Development,Game Prototype,1,5
+2026-04-17,Harsh Patel,BCA Game Design,Unreal Engine;C++;AI;Behavior Trees,8.91,Game Development,NPC Behavior System;Boss Fight AI;Stealth AI Game;Enemy AI System;Pathfinding Visualizer,5,6
+2026-04-17,Sakshi Patel,MCA Game Development,Godot;GDScript;UI;Animation,8.8,Game Development,Character Animation Demo;Settings Panel UI,2,6
+2026-04-17,Ayush Yadav,BCA Game Design,Python;AI;Reinforcement Learning,8.72,Game Development,Boss Fight AI;Enemy AI System;Stealth AI Game;Pathfinding Visualizer;Self-learning Bot,5,6
+2026-04-17,Neha Singh,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,7.58,Game Development,ECS Performance Demo;Mass Entity Simulation,2,7
+2026-04-17,Riya Sharma,B.Sc Game Development,C++;OpenGL;Graphics Programming,8.11,Game Development,3D Rendering Engine;Lighting Engine Demo;Basic Game Engine,3,8
+2026-04-17,Karan Iyer,B.Sc Game Development,Python;AI;Reinforcement Learning,8.32,Game Development,Boss Fight AI;Enemy AI System;Stealth AI Game;Pathfinding Visualizer,4,7
+2026-04-17,Kavya Singh,B.Sc Game Development,Unreal Engine;C++;Niagara;VFX,8.22,Game Development,Magic Spell Effects,1,7
+2026-04-17,Megha Nair,B.Sc Game Development,Unreal Engine;C++;Niagara;VFX,8.06,Game Development,Magic Spell Effects;Particle Effects System;Advanced VFX Demo,3,7
+2026-04-17,Yash Gupta,BCA Game Design,Unity;C#;UI Toolkit;UX,8.51,Game Development,Game Prototype,1,4
+2026-04-17,Shivani Sharma,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,9.34,Game Development,Mass Entity Simulation;ECS Performance Demo,2,7
+2026-04-17,Ritika Singh,B.Tech Game Development,Unity;C#;UI Toolkit;UX,8.67,Game Development,,0,6
+2026-04-17,Imran Kapoor,B.Sc Game Development,Unreal Engine;C++;Multiplayer;Replication,8.69,Game Development,Lobby System;Multiplayer Shooter;Matchmaking System,3,4
+2026-04-17,Aarav Patel,BCA Game Design,Unity;C#;OpenXR;VR,9.37,Game Development,VR Simulation;VR Escape Room;VR Training App,3,4
+2026-04-17,Varun Verma,BCA Game Design,C++;SFML;Game Engine Basics,9.2,Game Development,Game Prototype,1,7
+2026-04-17,Aarav Jain,B.Tech Game Development,Unreal Engine;C++;Rendering;Lighting,8.63,Game Development,,0,6
+2026-04-17,Kunal Gupta,B.Sc Game Development,C++;SFML;Game Engine Basics,7.72,Game Development,Game Prototype,1,5
+2026-04-17,Pooja Sharma,B.Sc Game Development,C++;OpenGL;Graphics Programming,7.55,Game Development,3D Rendering Engine;Lighting Engine Demo;Basic Game Engine,3,8
+2026-04-17,Muskan Verma,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,9.0,Game Development,Game Prototype,1,6
+2026-04-17,Pooja Sharma,BCA Game Design,Unity;C#;OpenXR;VR,8.44,Game Development,VR Simulation,1,4
+2026-04-17,Neha Singh,B.Sc Game Development,Godot;GDScript;2D;Tilemaps,8.43,Game Development,Endless Runner,1,5
+2026-04-17,Simran Jain,MCA Game Development,Unity;C#;OpenXR;VR,7.83,Game Development,VR Escape Room;VR Simulation;VR Training App,3,7
+2026-04-17,Megha Singh,B.Sc Game Development,Unreal Engine;C++;Niagara;VFX,8.23,Game Development,Particle Effects System,1,7
+2026-04-17,Kavya Sharma,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,9.15,Game Development,,0,4
+2026-04-17,Kavya Iyer,BCA Game Design,Godot;GDScript;2D;Tilemaps,7.84,Game Development,2D Platformer Levels,1,8
+2026-04-17,Sameer Mehta,B.Tech Game Development,Python;AI;Reinforcement Learning,8.47,Game Development,NPC Behavior System,1,5
+2026-04-17,Rohit Yadav,BCA Game Design,Unity;C#;Photon;Multiplayer,9.44,Game Development,Real-time Chat System;Lobby System,2,8
+2026-04-17,Muskan Jain,B.Sc Game Development,C++;SFML;Game Engine Basics,7.62,Game Development,Game Prototype,1,8
+2026-04-17,Harsh Verma,MCA Game Development,Unity;C#;Physics;Blender,7.62,Game Development,Ragdoll Physics Demo,1,7
+2026-04-17,Alok Nair,B.Tech Game Development,Unreal Engine;C++;Blueprints;Level Design,8.06,Game Development,Game Prototype,1,7
+2026-04-17,Rohit Mehta,MCA Game Development,Godot;GDScript;UI;Animation,8.04,Game Development,HUD Design;Inventory UI;Cutscene System;Game Menu System,4,8
+2026-04-17,Shivani Jain,B.Sc Game Development,Python;Pygame;Game Logic,8.02,Game Development,Breakout Game;Snake Game;Space Shooter,3,8
+2026-04-17,Swati Sharma,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,8.64,Game Development,,0,6
+2026-04-17,Ravi Yadav,MCA Game Development,Godot;GDScript;Shaders;2D Lighting,8.46,Game Development,Game Prototype,1,5
+2026-04-17,Riya Gupta,B.Sc Game Development,Godot;GDScript;UI;Animation,8.43,Game Development,,0,6
+2026-04-17,Swati Jain,B.Sc Game Development,Unity;C#;UI Toolkit;UX,8.59,Game Development,Game Prototype,1,4
+2026-04-17,Varun Verma,B.Sc Game Development,Unity;C#;Physics;Blender,8.73,Game Development,,0,5
+2026-04-17,Karan Iyer,BCA Game Design,C++;SFML;Game Engine Basics,8.13,Game Development,Game Prototype,1,6
+2026-04-17,Alok Iyer,MCA Game Development,Unity;C#;Photon;Multiplayer,8.75,Game Development,Lobby System;Real-time Chat System,2,7
+2026-04-17,Sakshi Jain,B.Sc Game Development,Godot;GDScript;2D;Tilemaps,7.76,Game Development,Top-down Shooter,1,7
+2026-04-17,Raj Singh,B.Tech Game Development,Python;Pygame;Game Logic,7.52,Game Development,Space Shooter;Breakout Game;Snake Game,3,7
+2026-04-17,Ritika Patel,MCA Game Development,Unity;C#;UI Toolkit;UX,7.9,Game Development,Game Prototype,1,7
+2026-04-17,Aditya Jain,MCA Game Development,Unity;C#;Photon;Multiplayer,9.27,Game Development,Multiplayer Shooter;Lobby System;Matchmaking System,3,4
+2026-04-17,Riya Sharma,BCA Game Design,Unreal Engine;C++;Blueprints;Level Design,9.17,Game Development,Game Prototype,1,4
+2026-04-17,Rohit Khan,BCA Game Design,Unreal Engine;C++;Niagara;VFX,8.53,Game Development,,0,8
+2026-04-17,Tanya Nair,MCA Game Development,Unity;C#;Physics;Blender,8.67,Game Development,,0,8
+2026-04-17,Kunal Patel,B.Sc Game Development,Godot;GDScript;Shaders;2D Lighting,9.43,Game Development,Game Prototype,1,5
+2026-04-17,Alok Jain,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,9.18,Game Development,AR Object Placement App;AR Game;AR Navigation App,3,8
+2026-04-17,Simran Patel,MCA Game Development,Unity;C#;AI;NavMesh,9.03,Game Development,Pathfinding Visualizer;NPC Behavior System;Stealth AI Game,3,5
+2026-04-17,Harsh Singh,B.Sc Game Development,C++;OpenGL;Graphics Programming,9.39,Game Development,,0,5
+2026-04-17,Nikita Iyer,B.Sc Game Development,Unreal Engine;C++;Niagara;VFX,8.11,Game Development,Magic Spell Effects;Advanced VFX Demo;Particle Effects System,3,7
+2026-04-17,Raj Jain,B.Sc Game Development,Godot;GDScript;2D;Tilemaps,8.36,Game Development,Top-down Shooter;Tilemap Level Editor,2,8
+2026-04-17,Alok Yadav,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,7.6,Game Development,AR Game;AR Navigation App;AR Object Placement App,3,6
+2026-04-17,Kavya Mehta,BCA Game Design,Unity;C#;AI;NavMesh,8.49,Game Development,,0,5
+2026-04-17,Aditya Singh,B.Tech Game Development,Unity;C#;ARCore;Mobile Dev,9.01,Game Development,AR Navigation App;AR Object Placement App,2,4
+2026-04-17,Nikita Verma,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,8.99,Game Development,,0,4
+2026-04-17,Harsh Verma,B.Tech Game Development,Unity;C#;Physics;Blender,9.3,Game Development,Physics Sandbox;Gravity Simulation;Projectile System;Ragdoll Physics Demo,4,6
+2026-04-17,Riya Gupta,BCA Game Design,Unity;C#;UI Toolkit;UX,7.99,Game Development,Game Prototype,1,8
+2026-04-17,Ankit Iyer,B.Tech Game Development,Unity;C#;ARCore;Mobile Dev,8.05,Game Development,AR Game,1,8
+2026-04-17,Riya Khan,BCA Game Design,Unity;C#;DOTS;Performance Optimization,7.66,Game Development,Mass Entity Simulation;ECS Performance Demo,2,5
+2026-04-17,Ravi Nair,B.Tech Game Development,Unity;C#;ShaderLab;VFX,8.9,Game Development,Explosion Effect;Water Shader;Toon Shader Demo,3,4
+2026-04-17,Neha Patel,BCA Game Design,Unity;C#;AI;NavMesh,9.06,Game Development,Stealth AI Game;NPC Behavior System;Pathfinding Visualizer,3,4
+2026-04-17,Varun Iyer,B.Sc Game Development,Godot;GDScript;UI;Animation,9.23,Game Development,Settings Panel UI,1,6
+2026-04-17,Sakshi Singh,B.Sc Game Development,Unity;C#;ShaderLab;VFX,8.8,Game Development,Dissolve Effect Shader;Fire & Smoke System;Water Shader,3,6
+2026-04-17,Ankit Patel,BCA Game Design,Unreal Engine;C++;Physics;Chaos Engine,9.29,Game Development,Ragdoll Physics Demo;Physics Sandbox;Gravity Simulation;Projectile System,4,7
+2026-04-17,Aditya Khan,MCA Game Development,Unreal Engine;C++;Niagara;VFX,7.82,Game Development,Magic Spell Effects;Fire & Smoke System;Explosion Effect;Advanced VFX Demo,4,6
+2026-04-17,Ritika Kapoor,B.Sc Game Development,Python;AI;Reinforcement Learning,9.15,Game Development,AI Game Agent;NPC Behavior System;Stealth AI Game;Self-learning Bot,4,5
+2026-04-17,Deepak Verma,MCA Game Development,Unity;C#;OpenXR;VR,7.79,Game Development,,0,7
+2026-04-17,Shivani Gupta,MCA Game Development,Unity;C#;Addressables;Asset Management,7.6,Game Development,Game Prototype,1,6
+2026-04-17,Simran Singh,BCA Game Design,Python;Pygame;Game Logic,8.26,Game Development,,0,8
+2026-04-17,Muskan Jain,MCA Game Development,Godot;GDScript;Shaders;2D Lighting,8.98,Game Development,Game Prototype,1,6
+2026-04-17,Shivani Iyer,B.Sc Game Development,Godot;GDScript;UI;Animation,8.22,Game Development,Character Animation Demo;Cutscene System;Game Menu System,3,7
+2026-04-17,Swati Iyer,MCA Game Development,Unity;C#;ShaderLab;VFX,9.26,Game Development,Water Shader;Toon Shader Demo;Explosion Effect,3,5
+2026-04-17,Alok Iyer,MCA Game Development,Unreal Engine;C++;Blueprints;Level Design,9.35,Game Development,,0,6
+2026-04-17,Ananya Yadav,BCA Game Design,Unreal Engine;C++;AI;Behavior Trees,8.26,Game Development,,0,6
+2026-04-17,Ananya Iyer,BCA Game Design,Unity;C#;DOTS;Performance Optimization,8.61,Game Development,Mass Entity Simulation;ECS Performance Demo,2,7
+2026-04-17,Aarav Khan,BCA Game Design,C++;OpenGL;Graphics Programming,8.34,Game Development,3D Rendering Engine;Basic Game Engine;Lighting Engine Demo,3,6
+2026-04-17,Aarav Sharma,B.Sc Game Development,Unity;C#;ShaderLab;VFX,9.33,Game Development,Dissolve Effect Shader;Magic Spell Effects;Toon Shader Demo;Fire & Smoke System;Explosion Effect,5,8
+2026-04-17,Neha Jain,B.Tech Game Development,Godot;GDScript;Shaders;2D Lighting,7.95,Game Development,Game Prototype,1,4
+2026-04-17,Nikita Nair,MCA Game Development,Godot;GDScript;Shaders;2D Lighting,7.86,Game Development,Game Prototype,1,5
+2026-04-17,Tanya Verma,B.Tech Game Development,Unity;C#;Photon;Multiplayer,8.71,Game Development,Multiplayer Shooter,1,6
+2026-04-17,Aarav Kapoor,BCA Game Design,Unity;C#;DOTS;Performance Optimization,8.01,Game Development,ECS Performance Demo;Mass Entity Simulation,2,8
+2026-04-17,Kavya Sharma,BCA Game Design,Unreal Engine;C++;Multiplayer;Replication,7.95,Game Development,Networked Physics Demo,1,8
+2026-04-17,Kunal Singh,B.Tech Game Development,C++;SFML;Game Engine Basics,8.51,Game Development,,0,5
+2026-04-17,Megha Singh,BCA Game Design,Unity;C#;AI;NavMesh,9.02,Game Development,Enemy AI System;Boss Fight AI;Stealth AI Game;Pathfinding Visualizer,4,8
+2026-04-17,Raj Iyer,B.Sc Game Development,Unity;C#;Addressables;Asset Management,7.85,Game Development,,0,5
+2026-04-17,Karan Kapoor,BCA Game Design,Godot;GDScript;UI;Animation,9.1,Game Development,HUD Design,1,7
+2026-04-17,Raj Verma,BCA Game Design,Unity;C#;OpenXR;VR,9.49,Game Development,VR Escape Room;VR Training App;VR Simulation,3,7
+2026-04-17,Imran Kapoor,MCA Game Development,Unreal Engine;C++;Rendering;Lighting,7.89,Game Development,,0,6
+2026-04-17,Nikita Singh,BCA Game Design,Unity;C#;ShaderLab;VFX,7.59,Game Development,Magic Spell Effects;Fire & Smoke System;Explosion Effect;Dissolve Effect Shader;Water Shader,5,4
+2026-04-17,Aman Patel,BCA Game Design,Unreal Engine;C++;Rendering;Lighting,8.31,Game Development,Realistic Lighting Scene;Shadow Mapping Demo,2,6
+2026-04-17,Nikita Sharma,MCA Game Development,Unreal Engine;C++;Niagara;VFX,7.7,Game Development,Fire & Smoke System;Advanced VFX Demo;Explosion Effect;Particle Effects System,4,8
+2026-04-17,Megha Kapoor,BCA Game Design,C++;SFML;Game Engine Basics,7.79,Game Development,Game Prototype,1,5
+2026-04-17,Pooja Sharma,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,8.83,Game Development,ECS Performance Demo;Mass Entity Simulation,2,6
+2026-04-17,Imran Mehta,B.Sc Game Development,Unreal Engine;C++;Physics;Chaos Engine,7.58,Game Development,Gravity Simulation;Car Simulation Game;Ragdoll Physics Demo,3,6
+2026-04-17,Riya Singh,B.Tech Game Development,Unity;C#;Photon;Multiplayer,8.42,Game Development,Real-time Chat System;Matchmaking System,2,6
+2026-04-17,Varun Gupta,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,8.71,Game Development,,0,6
+2026-04-17,Neha Jain,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,8.35,Game Development,Game Prototype,1,6
+2026-04-17,Neha Sharma,B.Sc Game Development,Godot;GDScript;UI;Animation,8.95,Game Development,HUD Design;Character Animation Demo,2,8
+2026-04-17,Aman Mehta,B.Sc Game Development,Unreal Engine;C++;Multiplayer;Replication,8.11,Game Development,Multiplayer Shooter;Multiplayer Sync System;Networked Physics Demo;Real-time Chat System;Lobby System,5,5
+2026-04-17,Aman Jain,MCA Game Development,Godot;GDScript;2D;Tilemaps,9.23,Game Development,Endless Runner;2D Platformer Levels;Tilemap Level Editor;2D Platformer Game,4,4
+2026-04-17,Sameer Gupta,B.Tech Game Development,Python;AI;Reinforcement Learning,9.06,Game Development,AI Game Agent;Pathfinding Visualizer;Stealth AI Game;Boss Fight AI,4,5
+2026-04-17,Ankit Gupta,B.Sc Game Development,Unity;C#;OpenXR;VR,8.0,Game Development,VR Escape Room;VR Simulation;VR Training App,3,6
+2026-04-17,Rohit Sharma,B.Tech Game Development,Godot;GDScript;2D;Tilemaps,8.7,Game Development,Endless Runner;Tilemap Level Editor;Top-down Shooter;2D Platformer Levels,4,8
+2026-04-17,Karan Kapoor,B.Sc Game Development,Unity;C#;Animation Rigging;Timeline,8.83,Game Development,Game Prototype,1,6
+2026-04-17,Kunal Patel,B.Tech Game Development,Unity;C#;UI Toolkit;UX,8.5,Game Development,Game Prototype,1,5
+2026-04-17,Ritika Singh,BCA Game Design,Godot;GDScript;Shaders;2D Lighting,9.45,Game Development,,0,4
+2026-04-17,Simran Nair,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,8.27,Game Development,Mass Entity Simulation;ECS Performance Demo,2,6
+2026-04-17,Harsh Sharma,BCA Game Design,Godot;GDScript;UI;Animation,9.34,Game Development,Inventory UI;Animation State Machine;Settings Panel UI;Cutscene System,4,7
+2026-04-17,Simran Verma,B.Sc Game Development,Godot;GDScript;2D;Tilemaps,8.23,Game Development,2D Platformer Levels;Tilemap Level Editor,2,8
+2026-04-17,Nikita Mehta,MCA Game Development,Unity;C#;AI;NavMesh,8.12,Game Development,Enemy AI System;NPC Behavior System;Pathfinding Visualizer,3,5
+2026-04-17,Ankit Jain,B.Sc Game Development,Unreal Engine;C++;Multiplayer;Replication,7.87,Game Development,Multiplayer Shooter;Multiplayer Sync System;Networked Physics Demo,3,5
+2026-04-17,Karan Patel,B.Sc Game Development,Unity;C#;OpenXR;VR,9.24,Game Development,VR Simulation;VR Escape Room;VR Training App,3,5
+2026-04-17,Neha Mehta,MCA Game Development,Unity;C#;ARCore;Mobile Dev,8.18,Game Development,AR Object Placement App;AR Navigation App;AR Game,3,8
+2026-04-17,Muskan Sharma,BCA Game Design,Unity;C#;UI Toolkit;UX,7.98,Game Development,Game Prototype,1,7
+2026-04-17,Ritika Yadav,B.Sc Game Development,Unreal Engine;C++;Rendering;Lighting,7.79,Game Development,,0,7
+2026-04-17,Harsh Kapoor,MCA Game Development,Unity;C#;UI Toolkit;UX,8.84,Game Development,Game Prototype,1,8
+2026-04-17,Pooja Singh,B.Sc Game Development,Godot;GDScript;Physics;2D,8.02,Game Development,Physics Sandbox;Gravity Simulation;Car Simulation Game;2D Platformer Game,4,4
+2026-04-17,Riya Gupta,B.Sc Game Development,C++;OpenGL;Graphics Programming,9.39,Game Development,Lighting Engine Demo;Basic Game Engine;3D Rendering Engine,3,8
+2026-04-17,Tanya Sharma,B.Sc Game Development,Godot;GDScript;Physics;2D,7.74,Game Development,2D Puzzle Game,1,4
+2026-04-17,Aman Singh,B.Sc Game Development,Unity;C#;OpenXR;VR,8.36,Game Development,VR Escape Room;VR Simulation;VR Training App,3,5
+2026-04-17,Kavya Jain,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,9.42,Game Development,Mass Entity Simulation,1,5
+2026-04-17,Harsh Kapoor,B.Sc Game Development,Unreal Engine;C++;Blueprints;Level Design,7.8,Game Development,Game Prototype,1,8
+2026-04-17,Ravi Jain,BCA Game Design,Godot;GDScript;2D;Tilemaps,9.36,Game Development,Top-down Shooter;Tilemap Level Editor;2D Platformer Game;2D Puzzle Game,4,4
+2026-04-17,Megha Iyer,MCA Game Development,Unity;C#;ShaderLab;VFX,8.44,Game Development,Magic Spell Effects;Water Shader;Fire & Smoke System,3,4
+2026-04-17,Tanya Kapoor,B.Sc Game Development,Godot;GDScript;Physics;2D,7.94,Game Development,Physics Sandbox;Endless Runner;Projectile System;Car Simulation Game;2D Platformer Game,5,6
+2026-04-17,Raj Jain,B.Sc Game Development,Unity;C#;ShaderLab;VFX,8.97,Game Development,Magic Spell Effects,1,6
+2026-04-17,Riya Sharma,B.Sc Game Development,Python;Pygame;Game Logic,8.61,Game Development,,0,7
+2026-04-17,Raj Nair,B.Sc Game Development,Unity;C#;Addressables;Asset Management,8.36,Game Development,Game Prototype,1,4
+2026-04-17,Karan Verma,B.Tech Game Development,Unreal Engine;C++;Physics;Chaos Engine,7.79,Game Development,Car Simulation Game;Physics Sandbox;Ragdoll Physics Demo;Projectile System,4,8
+2026-04-17,Deepak Iyer,BCA Game Design,Unity;C#;ShaderLab;VFX,7.72,Game Development,Fire & Smoke System;Explosion Effect,2,6
+2026-04-17,Sakshi Patel,BCA Game Design,Unreal Engine;C++;Niagara;VFX,8.62,Game Development,Particle Effects System;Advanced VFX Demo;Explosion Effect,3,7
+2026-04-17,Tanya Yadav,B.Sc Game Development,Python;AI;Reinforcement Learning,8.01,Game Development,,0,7
+2026-04-17,Raj Verma,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,8.94,Game Development,AR Object Placement App;AR Navigation App;AR Game,3,6
+2026-04-17,Sakshi Verma,B.Tech Game Development,Unity;C#;DOTS;Performance Optimization,8.1,Game Development,ECS Performance Demo;Mass Entity Simulation,2,5
+2026-04-17,Rohit Jain,BCA Game Design,Unity;C#;AI;NavMesh,7.59,Game Development,Enemy AI System,1,8
+2026-04-17,Tanya Jain,MCA Game Development,Unity;C#;ARCore;Mobile Dev,8.91,Game Development,,0,4
+2026-04-17,Swati Kapoor,MCA Game Development,Unity;C#;ARCore;Mobile Dev,8.65,Game Development,AR Game,1,6
+2026-04-17,Deepak Kapoor,MCA Game Development,Unity;C#;ARCore;Mobile Dev,8.04,Game Development,AR Navigation App;AR Object Placement App;AR Game,3,5
+2026-04-17,Megha Sharma,BCA Game Design,Python;AI;Reinforcement Learning,9.42,Game Development,NPC Behavior System;Enemy AI System;Self-learning Bot,3,5
+2026-04-17,Ravi Yadav,B.Tech Game Development,Unity;C#;AI;NavMesh,8.76,Game Development,NPC Behavior System;Boss Fight AI;Enemy AI System;Stealth AI Game,4,4
+2026-04-17,Nikita Singh,BCA Game Design,C++;OpenGL;Graphics Programming,8.95,Game Development,Lighting Engine Demo,1,5
+2026-04-17,Aarav Verma,B.Sc Game Development,Unity;C#;ShaderLab;VFX,9.11,Game Development,Fire & Smoke System;Dissolve Effect Shader;Magic Spell Effects,3,6
+2026-04-17,Nikita Jain,BCA Game Design,Unreal Engine;C++;Niagara;VFX,8.83,Game Development,Magic Spell Effects;Explosion Effect;Particle Effects System,3,8
+2026-04-17,Ravi Nair,B.Tech Game Development,Unreal Engine;C++;Physics;Chaos Engine,9.33,Game Development,Projectile System;Physics Sandbox;Ragdoll Physics Demo;Car Simulation Game,4,7
+2026-04-17,Harsh Jain,B.Sc Game Development,Godot;GDScript;Physics;2D,8.15,Game Development,Gravity Simulation;2D Platformer Game;Ragdoll Physics Demo;Physics Sandbox,4,7
+2026-04-17,Aarav Yadav,BCA Game Design,Unity;C#;Photon;Multiplayer,9.42,Game Development,Real-time Chat System;Lobby System,2,7
+2026-04-17,Ravi Jain,MCA Game Development,Unity;C#;AI;NavMesh,8.12,Game Development,Enemy AI System;Stealth AI Game;Pathfinding Visualizer;NPC Behavior System;Boss Fight AI,5,7
+2026-04-17,Riya Iyer,B.Tech Game Development,Unreal Engine;C++;Blueprints;Level Design,8.5,Game Development,,0,5
+2026-04-17,Aditya Yadav,MCA Game Development,Unity;C#;Photon;Multiplayer,7.59,Game Development,Matchmaking System;Lobby System;Real-time Chat System;Multiplayer Shooter,4,4
+2026-04-17,Megha Gupta,B.Tech Game Development,Unreal Engine;C++;Niagara;VFX,7.51,Game Development,Magic Spell Effects,1,6
+2026-04-17,Swati Yadav,BCA Game Design,Python;AI;Reinforcement Learning,7.67,Game Development,,0,7
+2026-04-17,Simran Patel,MCA Game Development,Python;Pygame;Game Logic,8.54,Game Development,Breakout Game;Snake Game;Space Shooter,3,5
+2026-04-17,Pooja Nair,B.Sc Game Development,Godot;GDScript;UI;Animation,8.9,Game Development,Cutscene System;Game Menu System;Inventory UI;Animation State Machine,4,6
+2026-04-17,Nikita Singh,MCA Game Development,Unity;C#;AI;NavMesh,7.66,Game Development,Stealth AI Game;Boss Fight AI;Pathfinding Visualizer,3,7
+2026-04-17,Riya Iyer,MCA Game Development,Godot;GDScript;UI;Animation,7.91,Game Development,Animation State Machine,1,5
+2026-04-17,Sakshi Patel,B.Tech Game Development,C++;SFML;Game Engine Basics,8.08,Game Development,Game Prototype,1,7
+2026-04-17,Aman Yadav,B.Sc Game Development,Unity;C#;ARCore;Mobile Dev,9.25,Game Development,AR Object Placement App;AR Game;AR Navigation App,3,6
+2026-04-17,Imran Kapoor,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,8.76,Game Development,Enemy AI System;Pathfinding Visualizer;Boss Fight AI;Stealth AI Game,4,5
+2026-04-17,Raj Iyer,BCA Game Design,Unreal Engine;C++;Rendering;Lighting,8.54,Game Development,Ray Tracing Demo,1,7
+2026-04-17,Deepak Jain,MCA Game Development,Python;AI;Reinforcement Learning,9.24,Game Development,AI Game Agent;NPC Behavior System,2,4
+2026-04-17,Alok Iyer,B.Tech Game Development,Unity;C#;OpenXR;VR,8.07,Game Development,VR Training App;VR Simulation;VR Escape Room,3,7
+2026-04-17,Ayush Khan,B.Tech Game Development,C++;OpenGL;Graphics Programming,7.91,Game Development,Lighting Engine Demo,1,7
+2026-04-17,Shivani Iyer,BCA Game Design,Unreal Engine;C++;Physics;Chaos Engine,9.49,Game Development,Gravity Simulation;Projectile System;Ragdoll Physics Demo;Physics Sandbox,4,8
+2026-04-17,Varun Mehta,B.Sc Game Development,Godot;GDScript;Shaders;2D Lighting,7.92,Game Development,Game Prototype,1,5
+2026-04-17,Simran Khan,B.Sc Game Development,Python;AI;Reinforcement Learning,8.48,Game Development,Stealth AI Game,1,8
+2026-04-17,Riya Nair,BCA Game Design,Python;Pygame;Game Logic,8.01,Game Development,,0,8
+2026-04-17,Swati Singh,B.Tech Game Development,Godot;GDScript;Shaders;2D Lighting,8.8,Game Development,,0,4
+2026-04-17,Tanya Jain,B.Tech Game Development,Unreal Engine;C++;Blueprints;Level Design,8.8,Game Development,Game Prototype,1,6
+2026-04-17,Karan Mehta,B.Sc Game Development,Unity;C#;Physics;Blender,8.68,Game Development,Gravity Simulation;Ragdoll Physics Demo;Physics Sandbox;Projectile System,4,6
+2026-04-17,Tanya Verma,B.Sc Game Development,Godot;GDScript;2D;Tilemaps,8.03,Game Development,2D Puzzle Game;2D Platformer Levels,2,4
+2026-04-17,Megha Mehta,BCA Game Design,Unity;C#;AI;NavMesh,9.47,Game Development,Enemy AI System;Stealth AI Game;NPC Behavior System,3,5
+2026-04-17,Aman Yadav,BCA Game Design,Unreal Engine;C++;Rendering;Lighting,8.13,Game Development,Ray Tracing Demo;Realistic Lighting Scene;Shadow Mapping Demo,3,4
+2026-04-17,Riya Verma,BCA Game Design,Unity;C#;AI;NavMesh,8.8,Game Development,,0,5
+2026-04-17,Raj Sharma,B.Tech Game Development,Unity;C#;OpenXR;VR,8.78,Game Development,VR Training App;VR Simulation;VR Escape Room,3,7
+2026-04-17,Ravi Mehta,BCA Game Design,Unreal Engine;C++;Niagara;VFX,9.21,Game Development,Advanced VFX Demo;Explosion Effect;Magic Spell Effects;Fire & Smoke System,4,5
+2026-04-17,Neha Mehta,B.Tech Game Development,Godot;GDScript;2D;Tilemaps,8.74,Game Development,2D Puzzle Game;2D Platformer Game;Tilemap Level Editor,3,5
+2026-04-17,Aditya Iyer,BCA Game Design,Unity;C#;Photon;Multiplayer,8.36,Game Development,Matchmaking System;Multiplayer Shooter;Real-time Chat System,3,7
+2026-04-17,Megha Jain,B.Tech Game Development,Unreal Engine;C++;Niagara;VFX,8.61,Game Development,Fire & Smoke System,1,4
+2026-04-17,Nikita Iyer,BCA Game Design,Unity;C#;Animation Rigging;Timeline,8.07,Game Development,Game Prototype,1,8
+2026-04-17,Ravi Khan,MCA Game Development,Unreal Engine;C++;Rendering;Lighting,9.47,Game Development,Shadow Mapping Demo;Ray Tracing Demo,2,5
+2026-04-17,Imran Gupta,MCA Game Development,Unity;C#;DOTS;Performance Optimization,8.08,Game Development,ECS Performance Demo;Mass Entity Simulation,2,6
+2026-04-17,Varun Verma,BCA Game Design,Unity;C#;OpenXR;VR,8.96,Game Development,VR Simulation;VR Escape Room,2,6
+2026-04-17,Neha Yadav,B.Sc Game Development,Godot;GDScript;Shaders;2D Lighting,9.29,Game Development,Game Prototype,1,6
+2026-04-17,Swati Khan,BCA Game Design,Unity;C#;Physics;Blender,8.4,Game Development,Physics Sandbox;Ragdoll Physics Demo,2,4
+2026-04-17,Sameer Patel,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,9.5,Game Development,Game Prototype,1,7
+2026-04-17,Sameer Patel,MCA Game Development,Unreal Engine;C++;Niagara;VFX,8.0,Game Development,Magic Spell Effects;Particle Effects System,2,5
+2026-04-17,Swati Mehta,MCA Game Development,C++;OpenGL;Graphics Programming,9.39,Game Development,3D Rendering Engine;Lighting Engine Demo;Basic Game Engine,3,5
+2026-04-17,Ritika Singh,BCA Game Design,C++;OpenGL;Graphics Programming,8.7,Game Development,Lighting Engine Demo;Basic Game Engine;3D Rendering Engine,3,6
+2026-04-17,Deepak Iyer,B.Sc Game Development,Unreal Engine;C++;Multiplayer;Replication,9.49,Game Development,Networked Physics Demo;Multiplayer Sync System;Real-time Chat System;Matchmaking System,4,7
+2026-04-17,Kunal Gupta,BCA Game Design,C++;SFML;Game Engine Basics,8.36,Game Development,Game Prototype,1,8
+2026-04-17,Nikita Iyer,B.Tech Game Development,C++;OpenGL;Graphics Programming,7.51,Game Development,Lighting Engine Demo;3D Rendering Engine,2,8
+2026-04-17,Raj Kapoor,MCA Game Development,C++;SFML;Game Engine Basics,9.33,Game Development,Game Prototype,1,8
+2026-04-17,Kunal Patel,B.Tech Game Development,Godot;GDScript;Shaders;2D Lighting,7.71,Game Development,Game Prototype,1,7
+2026-04-17,Ananya Patel,BCA Game Design,Godot;GDScript;UI;Animation,9.2,Game Development,Cutscene System,1,4
+2026-04-17,Rohit Khan,BCA Game Design,Unity;C#;Photon;Multiplayer,8.59,Game Development,,0,7
+2026-04-17,Yash Yadav,BCA Game Design,Unity;C#;Photon;Multiplayer,9.42,Game Development,Matchmaking System;Real-time Chat System,2,8
+2026-04-17,Shivani Verma,BCA Game Design,Unreal Engine;C++;Physics;Chaos Engine,8.74,Game Development,Gravity Simulation;Physics Sandbox;Ragdoll Physics Demo;Car Simulation Game,4,4
+2026-04-17,Nikita Khan,B.Sc Game Development,Unreal Engine;C++;Rendering;Lighting,8.74,Game Development,,0,7
+2026-04-17,Varun Sharma,B.Sc Game Development,Unity;C#;OpenXR;VR,7.73,Game Development,VR Simulation;VR Escape Room;VR Training App,3,8
+2026-04-17,Raj Verma,B.Sc Game Development,Unity;C#;OpenXR;VR,9.29,Game Development,,0,8
+2026-04-17,Swati Nair,BCA Game Design,Unity;C#;Photon;Multiplayer,7.86,Game Development,Real-time Chat System;Lobby System;Multiplayer Shooter;Matchmaking System,4,8
+2026-04-17,Aman Verma,B.Sc Game Development,Unity;C#;DOTS;Performance Optimization,7.85,Game Development,,0,7
+2026-04-17,Neeraj Gupta,B.Sc Game Development,Unreal Engine;C++;Blueprints;Level Design,9.16,Game Development,Game Prototype,1,6
+2026-04-17,Simran Gupta,B.Tech Game Development,Unreal Engine;C++;Multiplayer;Replication,8.59,Game Development,Real-time Chat System;Matchmaking System,2,8
+2026-04-17,Imran Nair,B.Tech Game Development,Unity;C#;Physics;Blender,8.77,Game Development,Projectile System;Physics Sandbox;Ragdoll Physics Demo;Car Simulation Game,4,8
+2026-04-17,Muskan Patel,B.Tech Game Development,Unreal Engine;C++;AI;Behavior Trees,8.54,Game Development,,0,8
+2026-04-17,Muskan Singh,B.Tech Game Development,Python;AI;Reinforcement Learning,7.64,Game Development,Pathfinding Visualizer;NPC Behavior System;Boss Fight AI,3,6
+2026-04-17,Neeraj Iyer,B.Tech Game Development,Unreal Engine;C++;AI;Behavior Trees,7.77,Game Development,,0,4
+2026-04-17,Neeraj Sharma,B.Sc Game Development,Godot;GDScript;UI;Animation,8.75,Game Development,Settings Panel UI;Cutscene System;Animation State Machine;HUD Design,4,5
+2026-04-17,Aman Gupta,BCA Game Design,Unity;C#;AI;NavMesh,9.19,Game Development,Enemy AI System;NPC Behavior System;Stealth AI Game,3,6
+2026-04-17,Aarav Verma,MCA Game Development,Godot;GDScript;UI;Animation,7.75,Game Development,Cutscene System;Inventory UI;Character Animation Demo;Settings Panel UI;HUD Design,5,5
+2026-04-17,Kavya Mehta,BCA Game Design,Godot;GDScript;2D;Tilemaps,8.05,Game Development,Tilemap Level Editor;2D Puzzle Game;Endless Runner,3,4
+2026-04-17,Raj Gupta,B.Tech Game Development,Godot;GDScript;Shaders;2D Lighting,8.61,Game Development,Game Prototype,1,7
+2026-04-17,Kavya Gupta,MCA Game Development,Python;AI;Reinforcement Learning,7.74,Game Development,Stealth AI Game;NPC Behavior System,2,7
+2026-04-17,Ankit Mehta,BCA Game Design,Unity;C#;ShaderLab;VFX,9.47,Game Development,Dissolve Effect Shader;Explosion Effect;Water Shader,3,4
+2026-04-17,Neha Iyer,B.Sc Game Development,Unity;C#;OpenXR;VR,8.0,Game Development,VR Escape Room;VR Simulation;VR Training App,3,7
+2026-04-17,Swati Patel,MCA Game Development,Python;Pygame;Game Logic,8.11,Game Development,,0,4
+2026-04-17,Ayush Nair,B.Sc Game Development,Unity;C#;DOTS;Performance Optimization,8.69,Game Development,Mass Entity Simulation;ECS Performance Demo,2,8
+2026-04-17,Kavya Sharma,MCA Game Development,Unity;C#;AI;NavMesh,7.8,Game Development,,0,4
+2026-04-17,Neha Khan,MCA Game Development,Unreal Engine;C++;AI;Behavior Trees,8.76,Game Development,Pathfinding Visualizer;Boss Fight AI;NPC Behavior System,3,8
+2026-04-17,Shivani Kapoor,B.Sc Game Development,Unity;C#;Animation Rigging;Timeline,8.24,Game Development,Game Prototype,1,5
+2026-04-17,Karan Khan,B.Tech Game Development,Python;AI;Reinforcement Learning,8.32,Game Development,Boss Fight AI,1,7
+2026-04-17,Simran Khan,B.Tech Game Development,Unity;C#;Physics;Blender,8.06,Game Development,Projectile System;Ragdoll Physics Demo;Physics Sandbox,3,8
+2026-04-17,Neeraj Sharma,B.Tech Game Development,Unity;C#;OpenXR;VR,7.98,Game Development,VR Simulation;VR Escape Room;VR Training App,3,5
+2026-04-17,Ankit Gupta,B.Tech Game Development,Unity;C#;ShaderLab;VFX,8.33,Game Development,,0,4
+2026-04-17,Megha Sharma,B.Tech Game Development,Unity;C#;ARCore;Mobile Dev,9.0,Game Development,AR Game;AR Object Placement App,2,8
+2026-04-17,Kunal Kapoor,B.Tech Game Development,Python;Pygame;Game Logic,8.07,Game Development,,0,5
+2026-04-17,Alok Verma,BCA Game Design,Unreal Engine;C++;Multiplayer;Replication,7.61,Game Development,Real-time Chat System;Multiplayer Sync System,2,6
+2026-04-17,Aarav Singh,BCA Game Design,Unity;C#;AI;NavMesh,8.45,Game Development,Boss Fight AI,1,4
+2026-04-17,Ravi Iyer,B.Tech Game Development,Unreal Engine;C++;Rendering;Lighting,8.96,Game Development,Shadow Mapping Demo;Ray Tracing Demo;Realistic Lighting Scene,3,8
+2026-04-17,Ravi Khan,BCA Game Design,Unity;C#;OpenXR;VR,8.29,Game Development,VR Simulation;VR Training App;VR Escape Room,3,8
+2026-04-17,Yash Jain,B.Tech Game Development,C++;OpenGL;Graphics Programming,8.86,Game Development,Basic Game Engine;3D Rendering Engine;Lighting Engine Demo,3,4
+2026-04-17,Deepak Singh,B.Sc Game Development,Unity;C#;UI Toolkit;UX,7.9,Game Development,Game Prototype,1,4
+2026-04-17,Shivani Khan,BCA Game Design,Unity;C#;OpenXR;VR,8.49,Game Development,VR Simulation;VR Training App;VR Escape Room,3,5
+2026-04-17,Kavya Patel,BCA Game Design,Unity;C#;Photon;Multiplayer,7.84,Game Development,Real-time Chat System;Matchmaking System,2,5
+2026-04-17,Ananya Khan,B.Tech Game Development,Unity;C#;Animation Rigging;Timeline,9.44,Game Development,Game Prototype,1,6
+2026-04-17,Alok Nair,MCA Game Development,Unreal Engine;C++;Physics;Chaos Engine,8.93,Game Development,Physics Sandbox;Gravity Simulation;Projectile System;Ragdoll Physics Demo,4,7
+2026-04-17,Aditya Patel,BCA Game Design,Unity;C#;ARCore;Mobile Dev,8.42,Game Development,AR Object Placement App;AR Game;AR Navigation App,3,4
+2026-04-17,Ananya Khan,B.Tech Game Development,Unity;C#;OpenXR;VR,7.76,Game Development,VR Escape Room;VR Simulation,2,4
+2026-04-17,Muskan Yadav,BCA Game Design,Unreal Engine;C++;Physics;Chaos Engine,8.3,Game Development,Ragdoll Physics Demo;Physics Sandbox;Car Simulation Game,3,8
+2026-04-17,Karan Gupta,BCA Game Design,Unreal Engine;C++;Niagara;VFX,8.01,Game Development,Particle Effects System;Fire & Smoke System;Explosion Effect,3,4
+2026-04-17,Ayush Iyer,MCA Game Development,Unity;C#;DOTS;Performance Optimization,8.85,Game Development,Mass Entity Simulation;ECS Performance Demo,2,8
+2026-04-17,Ravi Iyer,B.Sc Game Development,Unreal Engine;C++;Rendering;Lighting,7.61,Game Development,Shadow Mapping Demo;Ray Tracing Demo;Realistic Lighting Scene,3,6
+2026-04-17,Ankit Singh,MCA Game Development,Unity;C#;ShaderLab;VFX,9.36,Game Development,Water Shader;Fire & Smoke System,2,6
+2026-04-17,Sakshi Verma,MCA Game Development,C++;OpenGL;Graphics Programming,7.75,Game Development,Basic Game Engine;Lighting Engine Demo;3D Rendering Engine,3,8
+2026-04-17,Muskan Singh,BCA Game Design,C++;OpenGL;Graphics Programming,8.98,Game Development,Lighting Engine Demo;Basic Game Engine;3D Rendering Engine,3,5
+2026-04-17,Muskan Mehta,B.Sc Game Development,Unity;C#;ShaderLab;VFX,7.97,Game Development,Water Shader;Explosion Effect,2,7
+2026-04-17,Yash Verma,B.Tech Game Development,Unity;C#;ShaderLab;VFX,8.13,Game Development,Fire & Smoke System;Dissolve Effect Shader;Toon Shader Demo;Water Shader,4,7
+2026-04-17,Shivani Mehta,BCA Game Design,Unreal Engine;C++;Rendering;Lighting,7.68,Game Development,Shadow Mapping Demo;Realistic Lighting Scene;Ray Tracing Demo,3,4
+2026-04-17,Shivani Mehta,BCA Game Design,Unity;C#;OpenXR;VR,8.1,Game Development,,0,6
+2026-04-17,Shivani Kapoor,MCA Game Development,Unreal Engine;C++;Rendering;Lighting,8.63,Game Development,Ray Tracing Demo;Realistic Lighting Scene;Shadow Mapping Demo,3,7
+2026-04-17,Muskan Patel,B.Tech Game Development,Unity;C#;OpenXR;VR,9.28,Game Development,VR Escape Room;VR Simulation,2,7
+2026-04-17,Kavya Kapoor,BCA Game Design,Unity;C#;UI Toolkit;UX,8.02,Game Development,Game Prototype,1,6
+2026-04-17,Ankit Patel,MCA Game Development,Unity;C#;Physics;Blender,8.93,Game Development,,0,6
+2026-04-17,Harsh Khan,BCA Game Design,Unity;C#;UI Toolkit;UX,7.68,Game Development,Game Prototype,1,7
+2026-04-17,Yash Gupta,B.Tech Game Development,Unreal Engine;C++;Physics;Chaos Engine,9.17,Game Development,Projectile System;Physics Sandbox;Car Simulation Game;Ragdoll Physics Demo,4,4
+2026-04-17,Aman Nair,BCA Game Design,Godot;GDScript;Physics;2D,8.59,Game Development,Top-down Shooter;Projectile System;Gravity Simulation;Car Simulation Game;2D Puzzle Game,5,7
+2026-04-17,Tanya Singh,BCA Game Design,Unity;C#;ARCore;Mobile Dev,8.43,Game Development,AR Navigation App;AR Game,2,4
+2026-04-17,Simran Khan,B.Sc Game Development,Python;AI;Reinforcement Learning,9.29,Game Development,Boss Fight AI;Enemy AI System;AI Game Agent;NPC Behavior System;Stealth AI Game,5,4
+2026-04-17,Tanya Nair,B.Sc Game Development,Unity;C#;UI Toolkit;UX,7.87,Game Development,Game Prototype,1,5
+2026-04-17,Pooja Iyer,B.Sc Game Development,Godot;GDScript;Shaders;2D Lighting,7.51,Game Development,Game Prototype,1,5
+2026-04-17,Imran Sharma,BCA Game Design,Unity;C#;Animation Rigging;Timeline,9.14,Game Development,,0,4
+2026-04-17,Kunal Mehta,B.Sc Game Development,Unity;C#;Addressables;Asset Management,9.06,Game Development,Game Prototype,1,8
+2026-04-17,Neha Khan,BCA Game Design,Godot;GDScript;Physics;2D,8.52,Game Development,2D Puzzle Game,1,5
+2026-04-17,Aarav Kapoor,B.Sc Game Development,Unreal Engine;C++;AI;Behavior Trees,8.96,Game Development,Enemy AI System;Boss Fight AI;Stealth AI Game,3,6

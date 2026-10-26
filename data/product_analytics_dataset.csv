@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Dalaja Ravel,MCA Data Analytics,Tableau;Dashboarding;Storytelling,6.96,Product / Analytics Engineer,Business Dashboard,1,6
+2026-04-17,Sneha Zachariah,B.Tech Analytics,BigQuery;Data Warehouse;Analytics,8.2,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,4
+2026-04-17,Naveen Nath,B.Tech Data Science,Statistical Analysis;Inference;Testing,7.24,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Nilima Sathe,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,9.23,Product / Analytics Engineer,,0,6
+2026-04-17,Vasatika Borah,B.Tech Analytics,SQL;Excel;Data Analysis;Metrics,7.82,Product / Analytics Engineer,KPI Tracking System;Product Metrics Dashboard;User Analytics Queries,3,4
+2026-04-17,Maanav Bhatti,MCA Data Analytics,Revenue Analysis;Conversion Optimization,8.63,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,8
+2026-04-17,Rayaan Soni,MCA Data Analytics,User Analytics;Product Tracking;Logs,8.98,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Gabriel Arora,B.Tech Analytics,SQL;Data Pipelines;ETL,7.97,Product / Analytics Engineer,User Analytics Queries;Product Metrics Dashboard,2,8
+2026-04-17,Ganga Patil,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.37,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,7
+2026-04-17,Bakhshi Bora,MCA Data Analytics,Segmentation;Customer Insights;Clustering,8.79,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,5
+2026-04-17,Arjun Lad,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,8.92,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,8
+2026-04-17,Vrinda Madan,B.Tech Data Science,Tableau;Dashboarding;Storytelling,7.28,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,5
+2026-04-17,Jagat Aurora,B.Sc Statistics,Power BI;Data Visualization;KPIs,8.35,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,8
+2026-04-17,Eiravati Sawhney,B.Sc Statistics,Revenue Analysis;Conversion Optimization,9.08,Product / Analytics Engineer,,0,4
+2026-04-17,Harish Savant,B.Sc Statistics,SQL;Excel;Data Analysis;Metrics,7.92,Product / Analytics Engineer,,0,6
+2026-04-17,Faras Murthy,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,9.49,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,6
+2026-04-17,Parth Tata,B.Sc Statistics,BigQuery;Data Warehouse;Analytics,8.05,Product / Analytics Engineer,,0,4
+2026-04-17,Janani Ramesh,MCA Data Analytics,User Analytics;Product Tracking;Logs,7.91,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Priya Bir,B.Sc Statistics,Revenue Analysis;Conversion Optimization,7.75,Product / Analytics Engineer,,0,8
+2026-04-17,Rachana Natt,B.Tech Analytics,User Analytics;Product Tracking;Logs,7.02,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Yashawini Som,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,9.03,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,6
+2026-04-17,Sanya Anne,B.Tech Analytics,SQL;Excel;Data Analysis;Metrics,7.19,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries;Product Metrics Dashboard,3,5
+2026-04-17,Pranav Kari,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,7.23,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,8
+2026-04-17,Maanav Nayar,B.Sc Statistics,Python;Forecasting;Time Series,7.12,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,6
+2026-04-17,Faraj Pillai,B.Sc Statistics,SQL;Python;Pandas;EDA,7.4,Product / Analytics Engineer,User Behavior Analysis;User Analytics Queries;KPI Tracking System;Product Metrics Dashboard;Data Exploration Project,5,4
+2026-04-17,Ekantika Bhardwaj,B.Sc Statistics,Revenue Analysis;Conversion Optimization,8.15,Product / Analytics Engineer,,0,7
+2026-04-17,Urishilla Patla,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,8.55,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,8
+2026-04-17,Ojasvi Sha,B.Sc Statistics,Segmentation;Customer Insights;Clustering,7.57,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,5
+2026-04-17,Gaurav Golla,B.Sc Statistics,SQL;Excel;Data Analysis;Metrics,6.96,Product / Analytics Engineer,User Analytics Queries;KPI Tracking System;Product Metrics Dashboard,3,8
+2026-04-17,Aradhana Sule,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,7.74,Product / Analytics Engineer,Product Analytics Pipeline,1,7
+2026-04-17,Irya Pillai,B.Tech Data Science,Segmentation;Customer Insights;Clustering,8.93,Product / Analytics Engineer,,0,7
+2026-04-17,Devansh Dube,B.Tech Data Science,Python;Forecasting;Time Series,8.96,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,8
+2026-04-17,Farhan Narain,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,9.13,Product / Analytics Engineer,Retention Dashboard;Cohort Analysis System,2,7
+2026-04-17,Girish Thakur,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,7.43,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,8
+2026-04-17,Charvi Subramanian,B.Tech Analytics,User Analytics;Product Tracking;Logs,6.92,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Saksham Deep,B.Tech Analytics,Revenue Analysis;Conversion Optimization,8.88,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,5
+2026-04-17,Pushti Naidu,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,8.84,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Pallavi Dave,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,8.78,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,7
+2026-04-17,Chandran Subramanian,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,7.16,Product / Analytics Engineer,Cohort Analysis System,1,6
+2026-04-17,Radhika Krishnan,B.Sc Statistics,Tableau;Dashboarding;Storytelling,8.23,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,4
+2026-04-17,Rachita Ahluwalia,MCA Data Analytics,User Analytics;Product Tracking;Logs,7.06,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Hiral Gala,B.Tech Data Science,SQL;Python;Pandas;EDA,8.87,Product / Analytics Engineer,User Analytics Queries;KPI Tracking System;User Behavior Analysis;Product Metrics Dashboard;Data Exploration Project,5,4
+2026-04-17,Samaksh Kala,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,7.56,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,4
+2026-04-17,Isaac Luthra,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.84,Product / Analytics Engineer,Retention Dashboard;Cohort Analysis System,2,4
+2026-04-17,Harish Sodhi,MCA Data Analytics,SQL;Excel;Data Analysis;Metrics,7.79,Product / Analytics Engineer,User Analytics Queries,1,4
+2026-04-17,Wriddhish Batra,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.62,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,7
+2026-04-17,Nakul Thaker,B.Tech Analytics,Business Metrics;Growth Analytics;KPI Design,7.97,Product / Analytics Engineer,,0,5
+2026-04-17,Vamakshi Patla,B.Tech Data Science,Tableau;Dashboarding;Storytelling,7.84,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,6
+2026-04-17,Januja Parikh,B.Tech Data Science,Segmentation;Customer Insights;Clustering,6.99,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,5
+2026-04-17,Aahana Aurora,B.Tech Data Science,Tableau;Dashboarding;Storytelling,8.67,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,7
+2026-04-17,Oni Kamdar,B.Tech Analytics,Business Metrics;Growth Analytics;KPI Design,9.15,Product / Analytics Engineer,,0,6
+2026-04-17,Hemang Mani,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,8.46,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,8
+2026-04-17,Anusha Banerjee,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,8.91,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,7
+2026-04-17,Chaitanya Rai,B.Sc Statistics,Statistical Analysis;Inference;Testing,6.94,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Chandran Mangat,B.Sc Statistics,Segmentation;Customer Insights;Clustering,8.52,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,8
+2026-04-17,Abha Shanker,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,9.02,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Manan Tak,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,7.97,Product / Analytics Engineer,Conversion Funnel Analysis,1,6
+2026-04-17,Nimrat Chaudhary,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,6.82,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,4
+2026-04-17,Manya Din,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,8.52,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,7
+2026-04-17,Aarini Bahri,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,7.53,Product / Analytics Engineer,Conversion Funnel Analysis,1,7
+2026-04-17,Yashica Luthra,B.Tech Analytics,Python;Forecasting;Time Series,8.59,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,6
+2026-04-17,Balhaar Naik,B.Sc Statistics,Statistical Analysis;Inference;Testing,7.07,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Fitan Zacharia,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,7.24,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,5
+2026-04-17,Vasudha Sandhu,B.Tech Analytics,Event Tracking;Mixpanel;Amplitude,8.35,Product / Analytics Engineer,,0,4
+2026-04-17,Vaishnavi Salvi,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,9.35,Product / Analytics Engineer,,0,4
+2026-04-17,Thomas Virk,MCA Data Analytics,SQL;Python;Pandas;EDA,8.16,Product / Analytics Engineer,Data Exploration Project;KPI Tracking System;User Analytics Queries;Product Metrics Dashboard;User Behavior Analysis,5,8
+2026-04-17,Pavani Setty,MCA Data Analytics,Statistical Analysis;Inference;Testing,8.78,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Samaksh Krish,B.Tech Analytics,Tableau;Dashboarding;Storytelling,7.92,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,7
+2026-04-17,Xalak Manda,B.Sc Statistics,Tableau;Dashboarding;Storytelling,7.45,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,7
+2026-04-17,Indira Maharaj,MCA Data Analytics,Power BI;Data Visualization;KPIs,8.49,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,7
+2026-04-17,Gautam Sinha,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,7.28,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,6
+2026-04-17,Riya Parmer,B.Sc Statistics,SQL;Python;Pandas;EDA,8.3,Product / Analytics Engineer,Data Exploration Project,1,4
+2026-04-17,Victor Char,B.Tech Analytics,SQL;Data Pipelines;ETL,8.96,Product / Analytics Engineer,User Analytics Queries;KPI Tracking System;Product Metrics Dashboard,3,7
+2026-04-17,Advik Kanda,B.Tech Analytics,Segmentation;Customer Insights;Clustering,6.91,Product / Analytics Engineer,,0,5
+2026-04-17,Sanya Nayar,MCA Data Analytics,Statistical Analysis;Inference;Testing,8.02,Product / Analytics Engineer,,0,8
+2026-04-17,Girik Dara,B.Sc Statistics,Statistical Analysis;Inference;Testing,8.92,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Chatresh Dhaliwal,B.Tech Analytics,Python;Forecasting;Time Series,8.81,Product / Analytics Engineer,Revenue Forecast Model;User Growth Forecasting,2,7
+2026-04-17,Ekantika Wali,MCA Data Analytics,SQL;Python;Pandas;EDA,7.07,Product / Analytics Engineer,User Behavior Analysis;Product Metrics Dashboard;KPI Tracking System,3,6
+2026-04-17,Ishaan Dutt,B.Tech Data Science,SQL;Data Pipelines;ETL,9.19,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries,2,7
+2026-04-17,Michael Dua,B.Sc Statistics,Python;Forecasting;Time Series,8.51,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,8
+2026-04-17,Ekansh Banik,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,7.65,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,4
+2026-04-17,Dayamai Naidu,B.Tech Data Science,Event Tracking;Mixpanel;Amplitude,7.79,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,4
+2026-04-17,Ekiya Kara,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.39,Product / Analytics Engineer,,0,7
+2026-04-17,Ayaan Ramachandran,B.Tech Data Science,SQL;Data Pipelines;ETL,7.23,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries;Product Metrics Dashboard,3,4
+2026-04-17,Nidhi Memon,MCA Data Analytics,Tableau;Dashboarding;Storytelling,8.13,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,4
+2026-04-17,Jack Borde,B.Sc Statistics,A/B Testing;Hypothesis Testing;Experiment Design,7.97,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,7
+2026-04-17,Janaki Tailor,B.Sc Statistics,User Analytics;Product Tracking;Logs,7.91,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,William Nayak,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,7.19,Product / Analytics Engineer,,0,7
+2026-04-17,Abeer Gour,B.Tech Data Science,Tableau;Dashboarding;Storytelling,8.61,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,4
+2026-04-17,Aadhya Varkey,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,9.4,Product / Analytics Engineer,Conversion Funnel Analysis,1,7
+2026-04-17,Pratyush Sama,B.Tech Analytics,Revenue Analysis;Conversion Optimization,8.2,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,8
+2026-04-17,Manbir Hari,B.Sc Statistics,SQL;Data Pipelines;ETL,9.06,Product / Analytics Engineer,User Analytics Queries;Product Metrics Dashboard;KPI Tracking System,3,6
+2026-04-17,Jeremiah Dada,B.Tech Data Science,Python;Forecasting;Time Series,7.35,Product / Analytics Engineer,Revenue Forecast Model,1,6
+2026-04-17,Avni Choudhury,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,7.97,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,8
+2026-04-17,Avni Wagle,MCA Data Analytics,Segmentation;Customer Insights;Clustering,8.68,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,4
+2026-04-17,Qarin Palla,MCA Data Analytics,Statistical Analysis;Inference;Testing,7.27,Product / Analytics Engineer,,0,5
+2026-04-17,Matthew Sridhar,B.Tech Data Science,SQL;Data Pipelines;ETL,9.21,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries,2,7
+2026-04-17,Vamakshi Mane,B.Tech Analytics,SQL;Python;Pandas;EDA,8.73,Product / Analytics Engineer,Product Metrics Dashboard,1,5
+2026-04-17,Tanmayi Arya,MCA Data Analytics,User Analytics;Product Tracking;Logs,7.89,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Aarini Contractor,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.8,Product / Analytics Engineer,A/B Testing Framework,1,8
+2026-04-17,Onkar Magar,B.Tech Analytics,Tableau;Dashboarding;Storytelling,7.18,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,8
+2026-04-17,Edhitha Handa,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,8.99,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,7
+2026-04-17,Yashoda Chana,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,6.92,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,6
+2026-04-17,Yahvi Date,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.42,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,4
+2026-04-17,Neelima Mohanty,MCA Data Analytics,Statistical Analysis;Inference;Testing,7.74,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Udyati Parmer,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,6.98,Product / Analytics Engineer,,0,6
+2026-04-17,Jasmit Kunda,B.Sc Statistics,User Analytics;Product Tracking;Logs,8.59,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Hemang Jaggi,B.Tech Analytics,Power BI;Data Visualization;KPIs,8.82,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,4
+2026-04-17,Azad Padmanabhan,MCA Data Analytics,Revenue Analysis;Conversion Optimization,7.53,Product / Analytics Engineer,Revenue Analysis Dashboard,1,7
+2026-04-17,Ishita Dasgupta,B.Sc Statistics,Segmentation;Customer Insights;Clustering,7.05,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,4
+2026-04-17,Leela Varma,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,7.78,Product / Analytics Engineer,Warehouse-based Reporting,1,5
+2026-04-17,Jonathan Datta,B.Tech Analytics,Revenue Analysis;Conversion Optimization,9.3,Product / Analytics Engineer,,0,6
+2026-04-17,Gauri Bakshi,B.Sc Statistics,SQL;Python;Pandas;EDA,7.27,Product / Analytics Engineer,User Analytics Queries;User Behavior Analysis;KPI Tracking System;Data Exploration Project,4,5
+2026-04-17,Harrison Choudhary,B.Sc Statistics,Tableau;Dashboarding;Storytelling,7.23,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,4
+2026-04-17,Adweta Borah,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,7.1,Product / Analytics Engineer,Product Metrics Dashboard;User Analytics Queries,2,8
+2026-04-17,Nachiket Murty,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,9.23,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Triveni Upadhyay,B.Sc Statistics,User Analytics;Product Tracking;Logs,8.48,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Aarush Anne,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,8.92,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,8
+2026-04-17,Rohan Savant,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,9.05,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,6
+2026-04-17,Dakshesh Johal,B.Tech Data Science,Revenue Analysis;Conversion Optimization,7.37,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,5
+2026-04-17,Hema Ramakrishnan,B.Tech Analytics,SQL;Data Pipelines;ETL,8.52,Product / Analytics Engineer,User Analytics Queries,1,6
+2026-04-17,Bimala Walia,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,8.77,Product / Analytics Engineer,,0,4
+2026-04-17,Radha Chaudhry,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,7.52,Product / Analytics Engineer,User Analytics Queries,1,5
+2026-04-17,Arin Mahajan,B.Sc Statistics,Business Metrics;Growth Analytics;KPI Design,6.94,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Kai Dash,MCA Data Analytics,Power BI;Data Visualization;KPIs,8.19,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,7
+2026-04-17,Yashoda Cherian,MCA Data Analytics,User Analytics;Product Tracking;Logs,8.65,Product / Analytics Engineer,,0,5
+2026-04-17,Shivansh Oommen,B.Tech Data Science,SQL;Python;Pandas;EDA,6.91,Product / Analytics Engineer,KPI Tracking System;Product Metrics Dashboard;User Behavior Analysis;Data Exploration Project;User Analytics Queries,5,4
+2026-04-17,Januja Thaker,B.Sc Statistics,BigQuery;Data Warehouse;Analytics,8.54,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,6
+2026-04-17,Lakshit Talwar,B.Sc Statistics,Segmentation;Customer Insights;Clustering,9.22,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,7
+2026-04-17,Aadhya Mukhopadhyay,MCA Data Analytics,Revenue Analysis;Conversion Optimization,7.64,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,6
+2026-04-17,Sanaya Bhattacharyya,B.Tech Data Science,Statistical Analysis;Inference;Testing,8.83,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Chakrika Minhas,B.Tech Data Science,Power BI;Data Visualization;KPIs,7.36,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,4
+2026-04-17,Megha Datta,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,8.57,Product / Analytics Engineer,,0,6
+2026-04-17,Hardik Som,MCA Data Analytics,User Analytics;Product Tracking;Logs,7.46,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Ayushman Palla,B.Tech Analytics,Segmentation;Customer Insights;Clustering,9.15,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,5
+2026-04-17,Sara Choudhary,B.Tech Data Science,Product Metrics;Funnel Analysis;User Behavior,8.76,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,4
+2026-04-17,Peter Sant,B.Sc Statistics,SQL;Python;Pandas;EDA,9.02,Product / Analytics Engineer,Data Exploration Project;User Behavior Analysis,2,6
+2026-04-17,Rajata Sabharwal,B.Tech Analytics,SQL;Data Pipelines;ETL,8.13,Product / Analytics Engineer,,0,6
+2026-04-17,Ishaan Kuruvilla,B.Sc Statistics,SQL;Data Pipelines;ETL,8.04,Product / Analytics Engineer,User Analytics Queries;Product Metrics Dashboard;KPI Tracking System,3,4
+2026-04-17,Darpan Kari,B.Tech Data Science,Product Metrics;Funnel Analysis;User Behavior,8.72,Product / Analytics Engineer,Conversion Funnel Analysis,1,6
+2026-04-17,Brijesh Upadhyay,B.Tech Data Science,SQL;Data Pipelines;ETL,8.34,Product / Analytics Engineer,Product Metrics Dashboard;User Analytics Queries,2,7
+2026-04-17,Janaki Grewal,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,9.25,Product / Analytics Engineer,,0,4
+2026-04-17,Ekavir Kumer,B.Tech Data Science,Tableau;Dashboarding;Storytelling,6.92,Product / Analytics Engineer,Business Dashboard,1,7
+2026-04-17,Amaira Prakash,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,9.11,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,5
+2026-04-17,Charan Pall,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,9.12,Product / Analytics Engineer,User Event Tracking System,1,7
+2026-04-17,Praneel Srivastava,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,9.16,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,6
+2026-04-17,Xiti Pingle,MCA Data Analytics,User Analytics;Product Tracking;Logs,9.2,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Gunbir Lanka,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,7.06,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,5
+2026-04-17,Nidhi Mahajan,B.Tech Analytics,Statistical Analysis;Inference;Testing,8.24,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Divya Ben,MCA Data Analytics,SQL;Data Pipelines;ETL,6.98,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries;Product Metrics Dashboard,3,4
+2026-04-17,Yashica Sanghvi,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,8.32,Product / Analytics Engineer,,0,5
+2026-04-17,Anamika Deep,B.Tech Analytics,Event Tracking;Mixpanel;Amplitude,7.21,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,8
+2026-04-17,Theodore Vohra,B.Sc Statistics,User Analytics;Product Tracking;Logs,9.18,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Ayushman Lad,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,7.17,Product / Analytics Engineer,Conversion Funnel Analysis,1,5
+2026-04-17,Kamala Upadhyay,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,9.39,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,4
+2026-04-17,Sarthak Swamy,MCA Data Analytics,Python;Forecasting;Time Series,7.04,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,4
+2026-04-17,Janani Samra,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,7.33,Product / Analytics Engineer,,0,5
+2026-04-17,Ayush Bhatnagar,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,8.17,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,5
+2026-04-17,Ansh Misra,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,9.06,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,4
+2026-04-17,Ria Dewan,B.Tech Data Science,Revenue Analysis;Conversion Optimization,7.36,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,5
+2026-04-17,Anusha Ray,B.Sc Statistics,A/B Testing;Hypothesis Testing;Experiment Design,9.37,Product / Analytics Engineer,,0,7
+2026-04-17,Darpan Mander,MCA Data Analytics,SQL;Data Pipelines;ETL,8.96,Product / Analytics Engineer,,0,7
+2026-04-17,Upma Raj,MCA Data Analytics,SQL;Python;Pandas;EDA,7.04,Product / Analytics Engineer,User Analytics Queries;Data Exploration Project,2,7
+2026-04-17,Victor Muni,B.Tech Data Science,User Analytics;Product Tracking;Logs,7.69,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Yashvi Pandey,B.Sc Statistics,SQL;Python;Pandas;EDA,9.27,Product / Analytics Engineer,Data Exploration Project;User Behavior Analysis;KPI Tracking System;User Analytics Queries,4,6
+2026-04-17,Pushti Gandhi,B.Tech Analytics,Tableau;Dashboarding;Storytelling,6.97,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,6
+2026-04-17,Omaja Kale,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,7.21,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,5
+2026-04-17,Hema Ahluwalia,B.Sc Statistics,Power BI;Data Visualization;KPIs,7.4,Product / Analytics Engineer,Growth Dashboard;Sales Dashboard,2,6
+2026-04-17,Girindra Lala,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,7.55,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,6
+2026-04-17,Brinda Aggarwal,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,8.68,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Wahab Lalla,MCA Data Analytics,Tableau;Dashboarding;Storytelling,8.47,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,8
+2026-04-17,Charan Andra,B.Tech Data Science,Revenue Analysis;Conversion Optimization,9.48,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,8
+2026-04-17,Gautami Reddy,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,9.03,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,7
+2026-04-17,Lipika Chahal,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,8.93,Product / Analytics Engineer,,0,4
+2026-04-17,Eshana Oommen,B.Tech Analytics,Business Metrics;Growth Analytics;KPI Design,9.03,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Devansh Mutti,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,7.42,Product / Analytics Engineer,Product Analytics Pipeline,1,4
+2026-04-17,Krish Wali,B.Sc Statistics,BigQuery;Data Warehouse;Analytics,8.64,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,8
+2026-04-17,Idika Prakash,B.Tech Analytics,BigQuery;Data Warehouse;Analytics,7.23,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,6
+2026-04-17,Yashica Shere,B.Sc Statistics,Python;Forecasting;Time Series,8.25,Product / Analytics Engineer,Revenue Forecast Model,1,8
+2026-04-17,Indrajit Kalita,B.Sc Statistics,Python;Forecasting;Time Series,7.68,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,7
+2026-04-17,Charvi Khosla,B.Sc Statistics,Power BI;Data Visualization;KPIs,9.26,Product / Analytics Engineer,,0,4
+2026-04-17,Gopal Anne,MCA Data Analytics,Power BI;Data Visualization;KPIs,7.07,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,6
+2026-04-17,Nakul Mukherjee,B.Tech Analytics,Statistical Analysis;Inference;Testing,7.03,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Turvi Babu,B.Tech Analytics,Segmentation;Customer Insights;Clustering,9.42,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,7
+2026-04-17,Rajeshri Jhaveri,B.Sc Statistics,Segmentation;Customer Insights;Clustering,7.05,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,6
+2026-04-17,Aishani Bera,B.Tech Analytics,Power BI;Data Visualization;KPIs,7.23,Product / Analytics Engineer,Growth Dashboard;Sales Dashboard,2,6
+2026-04-17,Naveen Nanda,MCA Data Analytics,Tableau;Dashboarding;Storytelling,8.26,Product / Analytics Engineer,,0,5
+2026-04-17,Oeshi Sarkar,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.96,Product / Analytics Engineer,Experiment Analysis System,1,7
+2026-04-17,Mitali Hayer,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,8.89,Product / Analytics Engineer,,0,6
+2026-04-17,Azad De,B.Tech Data Science,Tableau;Dashboarding;Storytelling,8.87,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,8
+2026-04-17,Chaitanya Borra,B.Tech Analytics,Business Metrics;Growth Analytics;KPI Design,8.65,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Bhavani Deep,B.Tech Data Science,Python;Forecasting;Time Series,8.65,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,6
+2026-04-17,Onkar Agarwal,B.Tech Data Science,Segmentation;Customer Insights;Clustering,6.94,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,7
+2026-04-17,Ryan Narayan,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,8.57,Product / Analytics Engineer,Conversion Funnel Analysis,1,5
+2026-04-17,Lucky Narasimhan,B.Sc Statistics,Revenue Analysis;Conversion Optimization,7.91,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,6
+2026-04-17,Aarnav Sama,B.Sc Statistics,Tableau;Dashboarding;Storytelling,9.35,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,5
+2026-04-17,Oni Cherian,MCA Data Analytics,Revenue Analysis;Conversion Optimization,8.5,Product / Analytics Engineer,,0,6
+2026-04-17,Rajata Ahuja,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,9.0,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,7
+2026-04-17,Vivaan Agarwal,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,7.89,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,6
+2026-04-17,Ekavir Karan,B.Tech Analytics,User Analytics;Product Tracking;Logs,6.87,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Wriddhish Gupta,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,6.88,Product / Analytics Engineer,Product Analytics Pipeline,1,8
+2026-04-17,Ira Ramakrishnan,MCA Data Analytics,Segmentation;Customer Insights;Clustering,7.23,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,6
+2026-04-17,Michael Mohan,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,9.35,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,7
+2026-04-17,Jacob Pillay,B.Tech Analytics,Segmentation;Customer Insights;Clustering,6.83,Product / Analytics Engineer,User Clustering Project,1,6
+2026-04-17,Sanaya Kade,B.Tech Analytics,Revenue Analysis;Conversion Optimization,9.5,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,4
+2026-04-17,Amaira Narayanan,B.Tech Data Science,Product Metrics;Funnel Analysis;User Behavior,9.48,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,6
+2026-04-17,Dayamai Bora,B.Sc Statistics,A/B Testing;Hypothesis Testing;Experiment Design,9.22,Product / Analytics Engineer,,0,4
+2026-04-17,Vaishnavi Wali,B.Sc Statistics,Business Metrics;Growth Analytics;KPI Design,9.06,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Janaki Sharaf,B.Sc Statistics,User Analytics;Product Tracking;Logs,6.89,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Fitan Vala,MCA Data Analytics,SQL;Data Pipelines;ETL,6.93,Product / Analytics Engineer,User Analytics Queries;KPI Tracking System;Product Metrics Dashboard,3,5
+2026-04-17,Manya Uppal,B.Tech Analytics,Statistical Analysis;Inference;Testing,9.07,Product / Analytics Engineer,,0,4
+2026-04-17,Omkaar Srivastava,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,9.11,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,4
+2026-04-17,Anjali Nanda,MCA Data Analytics,Power BI;Data Visualization;KPIs,7.5,Product / Analytics Engineer,Sales Dashboard,1,4
+2026-04-17,Chakrika Wadhwa,MCA Data Analytics,Segmentation;Customer Insights;Clustering,7.72,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,6
+2026-04-17,Vedika Talwar,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,7.63,Product / Analytics Engineer,Retention Dashboard;Cohort Analysis System,2,6
+2026-04-17,Anay Taneja,B.Sc Statistics,SQL;Excel;Data Analysis;Metrics,8.4,Product / Analytics Engineer,Product Metrics Dashboard;User Analytics Queries;KPI Tracking System,3,6
+2026-04-17,Zaid Dugal,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.7,Product / Analytics Engineer,Cohort Analysis System,1,5
+2026-04-17,Sanya Dewan,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,9.18,Product / Analytics Engineer,,0,6
+2026-04-17,Vrishti Shan,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,9.01,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,8
+2026-04-17,Jhalak Apte,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,7.79,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Gaurangi Talwar,MCA Data Analytics,Revenue Analysis;Conversion Optimization,8.64,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,8
+2026-04-17,Yadavi More,B.Tech Data Science,Power BI;Data Visualization;KPIs,8.52,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,4
+2026-04-17,Megha Thakur,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,9.49,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Baljiwan Choudhary,B.Tech Analytics,Tableau;Dashboarding;Storytelling,7.03,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,5
+2026-04-17,Champak Bhardwaj,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,7.1,Product / Analytics Engineer,KPI Tracking System,1,4
+2026-04-17,Ishani Sandhu,B.Sc Statistics,Revenue Analysis;Conversion Optimization,7.5,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,4
+2026-04-17,Joshua Mammen,B.Tech Analytics,User Analytics;Product Tracking;Logs,8.47,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Lopa Toor,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.16,Product / Analytics Engineer,Experiment Analysis System;A/B Testing Framework,2,7
+2026-04-17,Ayaan Chauhan,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.88,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,4
+2026-04-17,Naveen Dalal,B.Tech Data Science,Tableau;Dashboarding;Storytelling,9.01,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,7
+2026-04-17,Shaurya Naidu,B.Sc Statistics,Power BI;Data Visualization;KPIs,8.65,Product / Analytics Engineer,Growth Dashboard;Sales Dashboard,2,4
+2026-04-17,Vyanjana Dass,MCA Data Analytics,SQL;Excel;Data Analysis;Metrics,6.99,Product / Analytics Engineer,,0,4
+2026-04-17,Leela Chahal,MCA Data Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.97,Product / Analytics Engineer,,0,6
+2026-04-17,Abhimanyu Murty,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,7.57,Product / Analytics Engineer,,0,5
+2026-04-17,Kevin Murty,B.Sc Statistics,Event Tracking;Mixpanel;Amplitude,8.96,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,6
+2026-04-17,Netra Keer,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,8.56,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Girik Ramesh,B.Sc Statistics,Statistical Analysis;Inference;Testing,9.03,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Hamsini Oommen,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,8.8,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,8
+2026-04-17,Dalaja Kata,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,8.71,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,5
+2026-04-17,Meera Saraf,B.Tech Analytics,Business Metrics;Growth Analytics;KPI Design,7.98,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Manbir Pillai,B.Tech Data Science,SQL;Excel;Data Analysis;Metrics,7.0,Product / Analytics Engineer,Product Metrics Dashboard,1,8
+2026-04-17,Ekta Barad,B.Sc Statistics,SQL;Data Pipelines;ETL,7.65,Product / Analytics Engineer,KPI Tracking System;User Analytics Queries;Product Metrics Dashboard,3,5
+2026-04-17,Simon Bhardwaj,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,9.03,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Saumya Virk,B.Tech Analytics,User Analytics;Product Tracking;Logs,7.88,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Anvi Naik,MCA Data Analytics,Statistical Analysis;Inference;Testing,9.34,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Quincy Dayal,MCA Data Analytics,Tableau;Dashboarding;Storytelling,7.62,Product / Analytics Engineer,Business Dashboard,1,6
+2026-04-17,Nihal Dhawan,B.Tech Data Science,SQL;Python;Pandas;EDA,7.68,Product / Analytics Engineer,,0,8
+2026-04-17,Amara Chawla,B.Tech Data Science,Segmentation;Customer Insights;Clustering,8.99,Product / Analytics Engineer,User Clustering Project;Customer Segmentation System,2,7
+2026-04-17,Tripti Sarma,MCA Data Analytics,Segmentation;Customer Insights;Clustering,7.3,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,4
+2026-04-17,Imaran Choudhury,B.Sc Statistics,Statistical Analysis;Inference;Testing,9.39,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Abhimanyu Parsa,B.Sc Statistics,SQL;Python;Pandas;EDA,8.97,Product / Analytics Engineer,Product Metrics Dashboard;KPI Tracking System;Data Exploration Project;User Analytics Queries;User Behavior Analysis,5,7
+2026-04-17,Hamsini Buch,B.Tech Analytics,User Analytics;Product Tracking;Logs,7.75,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Aarav Datta,B.Sc Statistics,Power BI;Data Visualization;KPIs,7.21,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,8
+2026-04-17,Eesha Barad,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,6.81,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Faqid Lata,MCA Data Analytics,Tableau;Dashboarding;Storytelling,9.15,Product / Analytics Engineer,Product KPI Dashboard;Business Dashboard,2,7
+2026-04-17,Anthony Barad,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,8.67,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,5
+2026-04-17,Panini Rattan,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,8.13,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,4
+2026-04-17,Aayush Pai,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,8.25,Product / Analytics Engineer,Cloud Analytics System,1,5
+2026-04-17,Hritik More,B.Tech Analytics,User Analytics;Product Tracking;Logs,8.36,Product / Analytics Engineer,Analytics Project,1,5
+2026-04-17,Jonathan Sathe,MCA Data Analytics,Tableau;Dashboarding;Storytelling,8.6,Product / Analytics Engineer,Business Dashboard,1,5
+2026-04-17,Udyati Goel,B.Tech Data Science,Event Tracking;Mixpanel;Amplitude,8.01,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,8
+2026-04-17,Reyansh Rana,MCA Data Analytics,Python;Forecasting;Time Series,7.7,Product / Analytics Engineer,Revenue Forecast Model;User Growth Forecasting,2,8
+2026-04-17,Gautam Kumer,MCA Data Analytics,Revenue Analysis;Conversion Optimization,9.38,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,5
+2026-04-17,Anjali Bains,B.Tech Analytics,SQL;Data Pipelines;ETL,7.17,Product / Analytics Engineer,Product Metrics Dashboard;User Analytics Queries,2,7
+2026-04-17,Keya Prasad,B.Sc Statistics,BigQuery;Data Warehouse;Analytics,6.92,Product / Analytics Engineer,,0,6
+2026-04-17,Hamsini Saha,B.Tech Data Science,Statistical Analysis;Inference;Testing,7.54,Product / Analytics Engineer,,0,4
+2026-04-17,Bhavika Sura,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,8.04,Product / Analytics Engineer,,0,8
+2026-04-17,Yuvraj Tailor,B.Tech Data Science,SQL;Data Pipelines;ETL,7.72,Product / Analytics Engineer,Product Metrics Dashboard;User Analytics Queries;KPI Tracking System,3,8
+2026-04-17,Idika Sami,B.Tech Analytics,Product Metrics;Funnel Analysis;User Behavior,7.3,Product / Analytics Engineer,Conversion Funnel Analysis,1,8
+2026-04-17,Quincy Andra,B.Tech Analytics,Event Tracking;Mixpanel;Amplitude,7.13,Product / Analytics Engineer,,0,7
+2026-04-17,Waida Nadig,B.Tech Data Science,Statistical Analysis;Inference;Testing,8.46,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Anita Garg,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,7.03,Product / Analytics Engineer,,0,5
+2026-04-17,Champak Desai,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,8.6,Product / Analytics Engineer,,0,6
+2026-04-17,Diya Merchant,B.Tech Data Science,SQL;Python;Pandas;EDA,8.66,Product / Analytics Engineer,KPI Tracking System,1,6
+2026-04-17,Adya Rao,B.Tech Data Science,A/B Testing;Hypothesis Testing;Experiment Design,7.33,Product / Analytics Engineer,,0,7
+2026-04-17,Jhalak Sani,B.Tech Data Science,Revenue Analysis;Conversion Optimization,9.05,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,5
+2026-04-17,Mahika Ravi,B.Tech Data Science,Revenue Analysis;Conversion Optimization,8.32,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,8
+2026-04-17,Abeer Borde,MCA Data Analytics,Power BI;Data Visualization;KPIs,8.05,Product / Analytics Engineer,,0,5
+2026-04-17,Ronith Raja,B.Tech Analytics,Tableau;Dashboarding;Storytelling,8.88,Product / Analytics Engineer,Product KPI Dashboard,1,7
+2026-04-17,Farhan Ghosh,B.Sc Statistics,SQL;Excel;Data Analysis;Metrics,8.61,Product / Analytics Engineer,User Analytics Queries;Product Metrics Dashboard;KPI Tracking System,3,4
+2026-04-17,Raksha Chandra,B.Tech Analytics,Segmentation;Customer Insights;Clustering,9.23,Product / Analytics Engineer,,0,4
+2026-04-17,Nicholas Mander,MCA Data Analytics,SQL;Excel;Data Analysis;Metrics,7.87,Product / Analytics Engineer,Product Metrics Dashboard,1,7
+2026-04-17,Ayaan Issac,B.Tech Data Science,Revenue Analysis;Conversion Optimization,7.7,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,7
+2026-04-17,Jagrati Sani,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,7.34,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Parth Bhalla,B.Tech Data Science,Event Tracking;Mixpanel;Amplitude,7.35,Product / Analytics Engineer,User Event Tracking System,1,4
+2026-04-17,Vritti Iyer,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,7.06,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,7
+2026-04-17,Jagvi Arya,B.Tech Data Science,Product Metrics;Funnel Analysis;User Behavior,8.0,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,5
+2026-04-17,Hema Reddy,B.Sc Statistics,Product Metrics;Funnel Analysis;User Behavior,8.17,Product / Analytics Engineer,Conversion Funnel Analysis,1,6
+2026-04-17,Arin Jha,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,7.99,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Anusha Bajaj,B.Sc Statistics,SQL;Python;Pandas;EDA,9.11,Product / Analytics Engineer,User Behavior Analysis,1,5
+2026-04-17,Anamika Sule,MCA Data Analytics,Python;Forecasting;Time Series,7.29,Product / Analytics Engineer,User Growth Forecasting,1,4
+2026-04-17,Sanaya Mahajan,MCA Data Analytics,Business Metrics;Growth Analytics;KPI Design,9.32,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Caleb Chaudhry,B.Tech Analytics,SQL;Data Pipelines;ETL,7.67,Product / Analytics Engineer,KPI Tracking System,1,7
+2026-04-17,Teerth Bail,B.Tech Analytics,Power BI;Data Visualization;KPIs,8.92,Product / Analytics Engineer,,0,7
+2026-04-17,Devansh Balan,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.78,Product / Analytics Engineer,Cohort Analysis System,1,6
+2026-04-17,Ekani Prabhakar,MCA Data Analytics,Event Tracking;Mixpanel;Amplitude,7.82,Product / Analytics Engineer,Product Analytics Pipeline;User Event Tracking System,2,6
+2026-04-17,Leela Ghosh,B.Sc Statistics,Business Metrics;Growth Analytics;KPI Design,9.46,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Ekbal Misra,B.Tech Data Science,A/B Testing;Hypothesis Testing;Experiment Design,6.97,Product / Analytics Engineer,Experiment Analysis System;A/B Testing Framework,2,6
+2026-04-17,Balvan Atwal,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,7.4,Product / Analytics Engineer,Experiment Analysis System;A/B Testing Framework,2,8
+2026-04-17,Frederick Bahri,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,8.77,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,4
+2026-04-17,Max Bhagat,B.Tech Analytics,User Analytics;Product Tracking;Logs,7.73,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Gaurika Roy,B.Tech Data Science,Statistical Analysis;Inference;Testing,8.25,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Guneet Sankar,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,8.29,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,8
+2026-04-17,Keya Khosla,B.Sc Statistics,Tableau;Dashboarding;Storytelling,7.82,Product / Analytics Engineer,Product KPI Dashboard,1,6
+2026-04-17,Chameli Merchant,B.Sc Statistics,SQL;Python;Pandas;EDA,8.88,Product / Analytics Engineer,KPI Tracking System,1,8
+2026-04-17,Zashil Kashyap,B.Sc Statistics,Business Metrics;Growth Analytics;KPI Design,8.15,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Januja Sangha,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,9.04,Product / Analytics Engineer,Experiment Analysis System;A/B Testing Framework,2,7
+2026-04-17,Zashil Ratta,B.Sc Statistics,User Analytics;Product Tracking;Logs,8.55,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Oni Shankar,B.Tech Analytics,BigQuery;Data Warehouse;Analytics,7.21,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,8
+2026-04-17,Upadhriti Ravel,B.Sc Statistics,SQL;Python;Pandas;EDA,7.96,Product / Analytics Engineer,User Analytics Queries;KPI Tracking System;Data Exploration Project;Product Metrics Dashboard,4,7
+2026-04-17,Matthew Badal,B.Tech Data Science,Power BI;Data Visualization;KPIs,8.16,Product / Analytics Engineer,Sales Dashboard,1,4
+2026-04-17,Divya Sarin,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,8.95,Product / Analytics Engineer,Cloud Analytics System,1,5
+2026-04-17,Eta Cheema,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,7.51,Product / Analytics Engineer,A/B Testing Framework;Experiment Analysis System,2,6
+2026-04-17,Kala Kashyap,B.Tech Analytics,BigQuery;Data Warehouse;Analytics,8.22,Product / Analytics Engineer,Warehouse-based Reporting;Cloud Analytics System,2,7
+2026-04-17,Ishita Soni,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,6.9,Product / Analytics Engineer,,0,8
+2026-04-17,Nirja Mitra,B.Sc Statistics,Power BI;Data Visualization;KPIs,8.69,Product / Analytics Engineer,Growth Dashboard;Sales Dashboard,2,5
+2026-04-17,Sneha Walla,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,9.28,Product / Analytics Engineer,,0,4
+2026-04-17,Hiral Kapur,MCA Data Analytics,Product Metrics;Funnel Analysis;User Behavior,7.45,Product / Analytics Engineer,Conversion Funnel Analysis;Drop-off Analysis System,2,6
+2026-04-17,Sara Vasa,B.Tech Analytics,Event Tracking;Mixpanel;Amplitude,7.67,Product / Analytics Engineer,User Event Tracking System;Product Analytics Pipeline,2,6
+2026-04-17,Nikita Gokhale,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,9.4,Product / Analytics Engineer,Cohort Analysis System,1,6
+2026-04-17,Kashish Walla,B.Tech Analytics,Python;Forecasting;Time Series,7.35,Product / Analytics Engineer,Revenue Forecast Model;User Growth Forecasting,2,4
+2026-04-17,Siya Kunda,B.Sc Statistics,User Analytics;Product Tracking;Logs,7.62,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Deepa Parsa,MCA Data Analytics,Revenue Analysis;Conversion Optimization,8.05,Product / Analytics Engineer,Revenue Analysis Dashboard;Pricing Optimization Study,2,8
+2026-04-17,Zaitra Basu,B.Tech Analytics,Statistical Analysis;Inference;Testing,7.83,Product / Analytics Engineer,Analytics Project,1,6
+2026-04-17,Warhi Wali,B.Tech Analytics,SQL;Python;Pandas;EDA,8.55,Product / Analytics Engineer,User Analytics Queries;Data Exploration Project,2,7
+2026-04-17,Peter Narayan,B.Tech Data Science,Python;Forecasting;Time Series,8.99,Product / Analytics Engineer,User Growth Forecasting;Revenue Forecast Model,2,8
+2026-04-17,Nakul Uppal,B.Tech Analytics,Retention Analysis;Cohort Analysis;Churn Metrics,7.82,Product / Analytics Engineer,Retention Dashboard;Cohort Analysis System,2,5
+2026-04-17,Omisha Devi,B.Sc Statistics,Statistical Analysis;Inference;Testing,8.04,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Reva Kibe,B.Sc Statistics,Python;Forecasting;Time Series,9.33,Product / Analytics Engineer,User Growth Forecasting,1,7
+2026-04-17,Yochana Amble,B.Sc Statistics,SQL;Python;Pandas;EDA,7.97,Product / Analytics Engineer,User Behavior Analysis;User Analytics Queries;Data Exploration Project;Product Metrics Dashboard;KPI Tracking System,5,8
+2026-04-17,Hritik Nori,B.Tech Analytics,Tableau;Dashboarding;Storytelling,8.03,Product / Analytics Engineer,Business Dashboard;Product KPI Dashboard,2,8
+2026-04-17,Irya Dewan,B.Tech Data Science,Python;Forecasting;Time Series,7.05,Product / Analytics Engineer,,0,6
+2026-04-17,Praneel Sanghvi,B.Tech Analytics,A/B Testing;Hypothesis Testing;Experiment Design,9.25,Product / Analytics Engineer,Experiment Analysis System;A/B Testing Framework,2,6
+2026-04-17,Lucky Dayal,B.Tech Analytics,SQL;Excel;Data Analysis;Metrics,9.07,Product / Analytics Engineer,,0,5
+2026-04-17,Omaja Mani,MCA Data Analytics,User Analytics;Product Tracking;Logs,6.87,Product / Analytics Engineer,,0,4
+2026-04-17,Omya Gola,MCA Data Analytics,A/B Testing;Hypothesis Testing;Experiment Design,6.85,Product / Analytics Engineer,A/B Testing Framework,1,5
+2026-04-17,Imaran Prashad,B.Tech Data Science,User Analytics;Product Tracking;Logs,7.27,Product / Analytics Engineer,Analytics Project,1,8
+2026-04-17,Ekansh Kohli,B.Tech Data Science,Power BI;Data Visualization;KPIs,9.04,Product / Analytics Engineer,Sales Dashboard;Growth Dashboard,2,5
+2026-04-17,Gaurang Mukherjee,B.Tech Analytics,SQL;Excel;Data Analysis;Metrics,7.15,Product / Analytics Engineer,KPI Tracking System,1,4
+2026-04-17,Yashodhara Mani,B.Tech Data Science,Statistical Analysis;Inference;Testing,8.45,Product / Analytics Engineer,Analytics Project,1,7
+2026-04-17,Indali Ghose,B.Tech Data Science,Retention Analysis;Cohort Analysis;Churn Metrics,9.31,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,4
+2026-04-17,Yashawini Choudhury,B.Sc Statistics,Revenue Analysis;Conversion Optimization,7.32,Product / Analytics Engineer,Pricing Optimization Study;Revenue Analysis Dashboard,2,5
+2026-04-17,Indira Loke,B.Tech Data Science,BigQuery;Data Warehouse;Analytics,7.41,Product / Analytics Engineer,,0,6
+2026-04-17,Onkar Barad,MCA Data Analytics,BigQuery;Data Warehouse;Analytics,7.59,Product / Analytics Engineer,Cloud Analytics System;Warehouse-based Reporting,2,5
+2026-04-17,Bimala Majumdar,B.Tech Data Science,Product Metrics;Funnel Analysis;User Behavior,8.53,Product / Analytics Engineer,Drop-off Analysis System;Conversion Funnel Analysis,2,7
+2026-04-17,Ubika Goda,B.Tech Data Science,Python;Forecasting;Time Series,7.65,Product / Analytics Engineer,Revenue Forecast Model;User Growth Forecasting,2,4
+2026-04-17,Rushil Dave,B.Tech Data Science,Business Metrics;Growth Analytics;KPI Design,8.73,Product / Analytics Engineer,Analytics Project,1,4
+2026-04-17,Kamya Sarkar,B.Sc Statistics,Retention Analysis;Cohort Analysis;Churn Metrics,7.22,Product / Analytics Engineer,Cohort Analysis System;Retention Dashboard,2,6
+2026-04-17,Imaran Koshy,B.Tech Data Science,Segmentation;Customer Insights;Clustering,8.2,Product / Analytics Engineer,Customer Segmentation System;User Clustering Project,2,6
+2026-04-17,Noah Ratti,B.Tech Data Science,Power BI;Data Visualization;KPIs,8.29,Product / Analytics Engineer,Growth Dashboard;Sales Dashboard,2,6

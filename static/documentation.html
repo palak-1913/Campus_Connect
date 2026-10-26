@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CampusConnect | Documentation</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .doc-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 2rem;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: 1rem;
+            color: var(--text-primary);
+            line-height: 1.8;
+            backdrop-filter: blur(12px);
+        }
+        .doc-container h1 { font-size: 2.2rem; color: #fff; margin-bottom: 1.5rem; text-align: center; }
+        .doc-container h2 { font-size: 1.5rem; color: var(--primary); margin-top: 2.5rem; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 0.5rem; }
+        .doc-container p { color: var(--text-secondary); margin-bottom: 1rem; }
+        .doc-container ul, .doc-container ol { margin-left: 2rem; color: var(--text-secondary); margin-bottom: 1.5rem; }
+        .doc-container li { margin-bottom: 0.5rem; }
+        .doc-highlight { background: rgba(59, 130, 246, 0.1); border-left: 4px solid var(--primary); padding: 1rem; margin: 1.5rem 0; font-style: italic; color: #e2e8f0;}
+        .code-block { background: rgba(15, 23, 42, 0.8); padding: 1rem; border-radius: 0.5rem; font-family: monospace; font-size: 0.9rem; overflow-x: auto; margin: 1rem 0; color: #a78bfa; }
+    </style>
+</head>
+<body>
+    <div class="app-container">
+        <header class="header">
+            <div class="logo">
+                <i class="fa-solid fa-book"></i>
+                <h1>Project Documentation</h1>
+            </div>
+            <div class="subtitle">Behind the Scenes of the CampusConnect Engine</div>
+        </header>
+
+        <main class="main-content">
+            <div class="doc-container fade-in">
+                <h1>How It Works</h1>
+                <p>Welcome to the technical summary of the CampusConnect Recommendation Engine! This document outlines every step taken in the original Jupyter Notebook analysis to transform raw student data into a highly accurate semantic recommendation system.</p>
+
+                <h2>1. Data Ingestion & Normalization</h2>
+                <p>The raw dataset `final_data.csv` is loaded into a Pandas DataFrame. The primary features include Academic History (`Course`, `Semester`, `CGPA`), Technical Proficiencies (`Skills`, `Interested_domain`), and Extracurricular work (`Projects`, `Number of Projects`).</p>
+                <ul>
+                    <li><strong>Null Handling:</strong> Any missing values under the projects section are replaced with "no projects".</li>
+                    <li><strong>Standardization:</strong> All textual fields are transformed to strictly lowercase to ensure matching uniformity.</li>
+                    <li><strong>Feature Normalization:</strong> Because variables like `CGPA` (0-10) and `Number of Projects` exist on vastly different scales, Min-Max Scaling equations are utilized to compress them both individually into a uniform <code>[0.0, 1.0]</code> scale framework.</li>
+                </ul>
+
+                <h2>2. Text Vectorization</h2>
+                <p>Historically, Term Frequency-Inverse Document Frequency (TF-IDF) was tested. However, TF-IDF relies primarily on exact keyword matches, and struggles to comprehend synonyms or abstract phrases.</p>
+                <div class="doc-highlight">
+                    "Transitioning to advanced NLP..."
+                </div>
+                <p>We implemented <strong>SentenceTransformers (all-MiniLM-L6-v2)</strong> to compute high-density embeddings. Every student's combined <code>Skills</code> and <code>Projects</code> text is mapped into a rich 384-dimensional mathematical vector space, encapsulating the true abstract <em>meaning</em> of their technological stack.</p>
+
+                <h2>3. Unsupervised Clustering (K-Means)</h2>
+                <p>Before peer recommendation, clustering attempts were visualized. By running a standard K-Means across the entire dataset utilizing our newly calculated sentence embeddings, we observed groupings of similar technical domains.</p>
+                <p>An <strong>Elbow Method</strong> graph comparing the number of clusters (K) against Model Inertia was plotted to determine the optimal subset size.</p>
+
+                <h2>4. The Recommendation Formula</h2>
+                <p>At the engine's core is our multi-variable scoring calculation algorithm.</p>
+                <div class="code-block">
+Final Score = (0.80 * Cosine Similarity)<br>            + (0.12 * Normalized Project Count)<br>            + (0.08 * Normalized CGPA)
+                </div>
+                <p>This ensures semantic relevance guarantees 80% weight, while raw academic hustle (Projects) holds 12% sway, and structural grades (CGPA) dictate the final 8%. The system filters, ranks, and returns the highest predictive scores to the user securely on the FastAPI backend.</p>
+
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2026 CampusConnect. Powered by SentenceTransformers.</p>
+        </footer>
+    </div>
+</body>
+</html>

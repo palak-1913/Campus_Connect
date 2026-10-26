@@ -1,0 +1,351 @@
+Timestamp,Name,Course,Skills,CGPA,Domain,Projects,Num_Projects,Semester
+2026-04-17,Matthew Din,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,6.61,Cloud Engineer,,0,7
+2026-04-17,Varenya Ghose,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,6.98,Cloud Engineer,Managed DB Backend;Cloud Database System,2,4
+2026-04-17,Bhavya Nagi,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.21,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Kavya Zachariah,MCA Cloud Computing,Docker;Kubernetes;Cloud Deployment,7.25,Cloud Engineer,,0,6
+2026-04-17,Yamini Kuruvilla,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,7.08,Cloud Engineer,,0,4
+2026-04-17,Amruta Dewan,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,6.9,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Faraj Karpe,B.Tech Computer Science,VPC;Subnets;Load Balancer,8.33,Cloud Engineer,Secure VPC Setup,1,8
+2026-04-17,Nicholas Bahri,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.09,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Bishakha Wason,B.Tech Cloud Computing,Prometheus;Grafana;Monitoring,7.8,Cloud Engineer,Alerting Pipeline,1,4
+2026-04-17,Jeevika Kumar,B.Tech Cloud Computing,Microservices;Cloud Architecture;Scalability,8.79,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,7
+2026-04-17,Lakshit Kapoor,MCA Cloud Computing,Prometheus;Grafana;Monitoring,8.61,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,5
+2026-04-17,Ethan Madan,BCA,Auto Scaling;High Availability;Fault Tolerance,6.58,Cloud Engineer,Auto Scaling Web App;Fault Tolerant System,2,6
+2026-04-17,Krishna Gala,BCA,Docker;Kubernetes;Cloud Deployment,9.27,Cloud Engineer,,0,8
+2026-04-17,Amol Oza,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,7.78,Cloud Engineer,GCP Deployment Project,1,4
+2026-04-17,Charita Dhillon,B.Tech Computer Science,CloudWatch;Monitoring;Logging,7.06,Cloud Engineer,Monitoring Dashboard;Logging System,2,6
+2026-04-17,Quincy Brahmbhatt,B.Tech Cloud Computing,AWS;EC2;S3;IAM,6.53,Cloud Engineer,Access Control System;Secure IAM Setup,2,4
+2026-04-17,Wakeeta Agate,MCA Cloud Computing,Security Groups;Access Control,8.69,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Yashoda Butala,MCA Cloud Computing,AWS;Lambda;Serverless;API Gateway,7.29,Cloud Engineer,Event-driven Backend;Serverless API System,2,5
+2026-04-17,Madhavi Chaudhari,BCA,AWS;Lambda;Serverless;API Gateway,8.07,Cloud Engineer,,0,7
+2026-04-17,Rohan Naidu,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,9.16,Cloud Engineer,Cloud Database System;Managed DB Backend,2,5
+2026-04-17,Bahadurjit Shah,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,7.68,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Varenya Krish,BCA,BigQuery;Cloud Data Warehouse,7.14,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Aarna Bhatt,B.Tech Computer Science,CloudFormation;AWS;IaC,8.42,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Rajeshri Char,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,7.25,Cloud Engineer,Serverless API System,1,7
+2026-04-17,Shivansh Bajaj,B.Tech Cloud Computing,AWS;EC2;S3;IAM,6.8,Cloud Engineer,Web App Deployment on EC2;Secure IAM Setup;Access Control System;Scalable Backend on EC2;Static Website Hosting,5,4
+2026-04-17,Ganga Balan,BCA,CloudWatch;Monitoring;Logging,8.24,Cloud Engineer,Monitoring Dashboard;Logging System,2,5
+2026-04-17,Niharika Agate,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,7.14,Cloud Engineer,,0,6
+2026-04-17,Sanaya Desai,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,8.46,Cloud Engineer,,0,5
+2026-04-17,Ryan Palla,MCA Cloud Computing,Networking;DNS;Cloud Security,9.36,Cloud Engineer,,0,8
+2026-04-17,Amrita Deshpande,MCA Cloud Computing,AWS;EC2;S3;IAM,6.62,Cloud Engineer,Scalable Backend on EC2;Secure IAM Setup;Static Website Hosting,3,6
+2026-04-17,Jairaj Chaudhari,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,9.13,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Rishi Dalal,BCA,GCP;Compute Engine;Cloud Storage,9.26,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,7
+2026-04-17,Yochana Bedi,B.Tech Cloud Computing,Azure;VMs;Blob Storage,8.25,Cloud Engineer,Azure Cloud Deployment,1,5
+2026-04-17,Rushil Tara,BCA,Docker;Kubernetes;Cloud Deployment,6.69,Cloud Engineer,,0,7
+2026-04-17,Suhani Aggarwal,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,9.17,Cloud Engineer,Serverless API System,1,5
+2026-04-17,Lekha Sharma,B.Tech Cloud Computing,VPC;Subnets;Load Balancer,6.98,Cloud Engineer,Secure VPC Setup;Private Cloud Network,2,7
+2026-04-17,Manan Kota,B.Tech Computer Science,Prometheus;Grafana;Monitoring,7.17,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,6
+2026-04-17,Daksha Bora,B.Tech Computer Science,Security Groups;Access Control,7.82,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Arunima Karan,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,7.6,Cloud Engineer,,0,6
+2026-04-17,Arya Lall,B.Tech Computer Science,Security Groups;Access Control,8.45,Cloud Engineer,,0,5
+2026-04-17,Advaith Rastogi,B.Tech Computer Science,AWS;EC2;S3;IAM,9.27,Cloud Engineer,Static Website Hosting,1,4
+2026-04-17,Vedant Mahal,B.Tech Cloud Computing,Azure;VMs;Blob Storage,9.04,Cloud Engineer,Azure Cloud Deployment;Cloud App on Azure,2,4
+2026-04-17,Charvi Chawla,B.Tech Cloud Computing,Security Groups;Access Control,8.53,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Thomas Lalla,BCA,GCP;Compute Engine;Cloud Storage,9.22,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,7
+2026-04-17,Lucky Dutt,BCA,CI/CD;Jenkins;Cloud Pipelines,8.76,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Shravya Kapadia,BCA,AWS;EC2;S3;IAM,8.22,Cloud Engineer,Secure IAM Setup;Cloud Storage System;Access Control System;Web App Deployment on EC2;Static Website Hosting,5,7
+2026-04-17,Ekansh Kant,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,9.34,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Urvashi Borra,B.Tech Computer Science,Networking;DNS;Cloud Security,6.86,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Ethan Balakrishnan,B.Tech Cloud Computing,Networking;DNS;Cloud Security,9.01,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Onkar Anne,BCA,RDS;DynamoDB;Cloud Databases,8.68,Cloud Engineer,Managed DB Backend;Cloud Database System,2,6
+2026-04-17,Adya Sharma,B.Tech Cloud Computing,Microservices;Cloud Architecture;Scalability,9.25,Cloud Engineer,,0,8
+2026-04-17,Hemang Puri,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,7.0,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,8
+2026-04-17,Bhavani Nayak,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,9.14,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,4
+2026-04-17,Bahadurjit Subramaniam,BCA,Docker;Kubernetes;Cloud Deployment,6.89,Cloud Engineer,Containerized Deployment,1,4
+2026-04-17,Fitan Dada,BCA,RDS;DynamoDB;Cloud Databases,6.58,Cloud Engineer,Managed DB Backend;Cloud Database System,2,6
+2026-04-17,Naksh Golla,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,7.3,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Abeer Dasgupta,BCA,Security Groups;Access Control,9.44,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Chatura Andra,B.Tech Computer Science,IAM;Cloud Security;Encryption,6.67,Cloud Engineer,Access Control System;Secure IAM Setup,2,8
+2026-04-17,Aashi Rajagopal,MCA Cloud Computing,Networking;DNS;Cloud Security,7.92,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Sachi Balay,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.5,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Ira Bahl,MCA Cloud Computing,IAM;Cloud Security;Encryption,8.19,Cloud Engineer,Secure IAM Setup;Access Control System,2,5
+2026-04-17,Yauvani Nayak,BCA,Azure;VMs;Blob Storage,8.49,Cloud Engineer,Cloud App on Azure;Azure Cloud Deployment,2,8
+2026-04-17,Damyanti Sarna,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,9.16,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,5
+2026-04-17,Maya Hans,BCA,Azure;VMs;Blob Storage,6.55,Cloud Engineer,Azure Cloud Deployment;Cloud App on Azure,2,7
+2026-04-17,Advay Dash,B.Tech Computer Science,Microservices;Cloud Architecture;Scalability,9.27,Cloud Engineer,Distributed Cloud System,1,4
+2026-04-17,Warinder Sekhon,B.Tech Cloud Computing,IAM;Cloud Security;Encryption,9.14,Cloud Engineer,Access Control System,1,8
+2026-04-17,Nirja Ramanathan,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,9.29,Cloud Engineer,,0,8
+2026-04-17,Aditya Halder,B.Tech Computer Science,Auto Scaling;High Availability;Fault Tolerance,6.88,Cloud Engineer,Fault Tolerant System;Auto Scaling Web App,2,7
+2026-04-17,Brinda Arora,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,8.04,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Turvi Khatri,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,8.18,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Samaksh Parikh,MCA Cloud Computing,CloudFormation;AWS;IaC,8.69,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Yash Wali,MCA Cloud Computing,Prometheus;Grafana;Monitoring,7.9,Cloud Engineer,Metrics Monitoring System;Alerting Pipeline,2,4
+2026-04-17,Om Taneja,B.Tech Cloud Computing,CloudFormation;AWS;IaC,8.84,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Theodore Patel,BCA,CI/CD;Jenkins;Cloud Pipelines,8.6,Cloud Engineer,,0,6
+2026-04-17,Yatan Dewan,B.Tech Computer Science,Prometheus;Grafana;Monitoring,6.75,Cloud Engineer,Metrics Monitoring System;Alerting Pipeline,2,6
+2026-04-17,Libni Mane,BCA,VPC;Subnets;Load Balancer,7.01,Cloud Engineer,Secure VPC Setup;Load Balanced System;Private Cloud Network;High Availability Setup,4,5
+2026-04-17,Manya Sarma,MCA Cloud Computing,CloudFormation;AWS;IaC,8.36,Cloud Engineer,,0,5
+2026-04-17,Girik More,B.Tech Cloud Computing,Azure;VMs;Blob Storage,8.69,Cloud Engineer,Cloud App on Azure,1,7
+2026-04-17,Ria Ramakrishnan,MCA Cloud Computing,Docker;Kubernetes;Cloud Deployment,8.0,Cloud Engineer,Dockerized Application,1,6
+2026-04-17,Faras Patel,BCA,Terraform;Infrastructure as Code;AWS,9.37,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,6
+2026-04-17,Anvi Suri,B.Tech Computer Science,AWS;EC2;S3;IAM,8.48,Cloud Engineer,Web App Deployment on EC2;Static Website Hosting;Access Control System;Cloud Storage System,4,4
+2026-04-17,Nathaniel Kota,MCA Cloud Computing,IAM;Cloud Security;Encryption,9.35,Cloud Engineer,Secure IAM Setup;Access Control System,2,8
+2026-04-17,Wyatt Ravi,MCA Cloud Computing,IAM;Cloud Security;Encryption,9.33,Cloud Engineer,Secure IAM Setup;Access Control System,2,4
+2026-04-17,Vedika Shan,BCA,GCP;Compute Engine;Cloud Storage,9.3,Cloud Engineer,,0,8
+2026-04-17,Hemangini Sarin,MCA Cloud Computing,Security Groups;Access Control,9.45,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Henry Saran,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,6.8,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,6
+2026-04-17,Divya Krish,BCA,Prometheus;Grafana;Monitoring,7.12,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,4
+2026-04-17,Kala Dhillon,MCA Cloud Computing,Prometheus;Grafana;Monitoring,7.71,Cloud Engineer,Metrics Monitoring System;Alerting Pipeline,2,5
+2026-04-17,Robert Lala,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,6.66,Cloud Engineer,Serverless API System,1,7
+2026-04-17,Max Dara,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,8.99,Cloud Engineer,Dockerized Application;K8s Deployment System,2,8
+2026-04-17,Leena Chaudhuri,B.Tech Computer Science,CloudWatch;Monitoring;Logging,9.08,Cloud Engineer,,0,8
+2026-04-17,Peter Rajagopal,BCA,GCP;Compute Engine;Cloud Storage,8.11,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,6
+2026-04-17,Jalsa Pal,B.Tech Cloud Computing,Azure;VMs;Blob Storage,7.87,Cloud Engineer,Cloud App on Azure;Azure Cloud Deployment,2,5
+2026-04-17,Sachi Divan,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,6.77,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Krishna Chandra,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,8.36,Cloud Engineer,Event-driven Backend;Serverless API System,2,5
+2026-04-17,Anya Hora,BCA,CI/CD;Jenkins;Cloud Pipelines,6.98,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Indali Sankaran,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,6.97,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Ekantika Garde,BCA,Auto Scaling;High Availability;Fault Tolerance,7.91,Cloud Engineer,Fault Tolerant System;Auto Scaling Web App,2,8
+2026-04-17,Raagini Bala,B.Tech Computer Science,BigQuery;Cloud Data Warehouse,9.31,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Yuvraj Wason,B.Tech Computer Science,CloudWatch;Monitoring;Logging,6.87,Cloud Engineer,Monitoring Dashboard;Logging System,2,8
+2026-04-17,Jason Seshadri,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,7.26,Cloud Engineer,Cloud Pipeline on GCP,1,5
+2026-04-17,Ekaraj Vasa,MCA Cloud Computing,Security Groups;Access Control,9.01,Cloud Engineer,,0,6
+2026-04-17,Madhavi Ram,B.Tech Cloud Computing,CloudFormation;AWS;IaC,6.64,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Harini Vala,B.Tech Cloud Computing,Security Groups;Access Control,6.61,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Maya Buch,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,8.17,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,7
+2026-04-17,Adweta Naidu,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,7.08,Cloud Engineer,Managed DB Backend;Cloud Database System,2,7
+2026-04-17,Nathaniel Dutt,BCA,Auto Scaling;High Availability;Fault Tolerance,7.18,Cloud Engineer,Auto Scaling Web App;Fault Tolerant System,2,7
+2026-04-17,Xavier Batta,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,7.64,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,5
+2026-04-17,Wishi Basak,BCA,BigQuery;Cloud Data Warehouse,8.82,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Timothy Raman,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,7.1,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,6
+2026-04-17,Ganga Khosla,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,6.91,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,5
+2026-04-17,Chaman Prakash,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,9.18,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,6
+2026-04-17,Brijesh Kapadia,MCA Cloud Computing,CloudFormation;AWS;IaC,9.48,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Vedika Saha,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,8.92,Cloud Engineer,Serverless API System;Event-driven Backend,2,6
+2026-04-17,Daksha Nazareth,BCA,BigQuery;Cloud Data Warehouse,8.01,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Vedhika Golla,B.Tech Computer Science,Auto Scaling;High Availability;Fault Tolerance,8.04,Cloud Engineer,Auto Scaling Web App;Fault Tolerant System,2,8
+2026-04-17,Hredhaan Master,BCA,CloudWatch;Monitoring;Logging,8.92,Cloud Engineer,Logging System;Monitoring Dashboard,2,5
+2026-04-17,Urishilla Bhatti,BCA,Azure;VMs;Blob Storage,8.74,Cloud Engineer,Cloud App on Azure;Azure Cloud Deployment,2,5
+2026-04-17,Reva Divan,BCA,AWS;EC2;S3;IAM,7.25,Cloud Engineer,Secure IAM Setup;Cloud Storage System;Web App Deployment on EC2,3,8
+2026-04-17,Gavin Bail,MCA Cloud Computing,VPC;Subnets;Load Balancer,8.01,Cloud Engineer,Load Balanced System,1,4
+2026-04-17,Samuel Naik,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,8.28,Cloud Engineer,Cloud Database System,1,6
+2026-04-17,Chakradhar Dube,MCA Cloud Computing,VPC;Subnets;Load Balancer,8.98,Cloud Engineer,Private Cloud Network,1,5
+2026-04-17,Vasudha Behl,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,7.82,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,7
+2026-04-17,Yatin Din,B.Tech Cloud Computing,VPC;Subnets;Load Balancer,8.36,Cloud Engineer,Private Cloud Network;Load Balanced System;High Availability Setup;Secure VPC Setup,4,4
+2026-04-17,Yashoda Badami,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,8.74,Cloud Engineer,K8s Deployment System;Dockerized Application;Containerized Deployment;Scalable Microservices Platform,4,4
+2026-04-17,Maanav Aggarwal,B.Tech Computer Science,AWS;EC2;S3;IAM,7.06,Cloud Engineer,Secure IAM Setup;Access Control System;Cloud Storage System;Scalable Backend on EC2,4,5
+2026-04-17,Pahal Sahota,BCA,RDS;DynamoDB;Cloud Databases,7.65,Cloud Engineer,Managed DB Backend,1,6
+2026-04-17,Dipta Dalal,BCA,AWS;EC2;S3;IAM,9.11,Cloud Engineer,Access Control System;Static Website Hosting;Web App Deployment on EC2;Cloud Storage System;Scalable Backend on EC2,5,7
+2026-04-17,Gunbir Bali,BCA,AWS;Lambda;Serverless;API Gateway,7.09,Cloud Engineer,Event-driven Backend;Serverless API System,2,5
+2026-04-17,Anthony Thaker,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,8.47,Cloud Engineer,Managed DB Backend;Cloud Database System,2,8
+2026-04-17,Shravya Sethi,BCA,RDS;DynamoDB;Cloud Databases,8.88,Cloud Engineer,Managed DB Backend;Cloud Database System,2,7
+2026-04-17,Janaki Swaminathan,BCA,AWS;Lambda;Serverless;API Gateway,6.8,Cloud Engineer,Serverless API System;Event-driven Backend,2,5
+2026-04-17,Bahadurjit Wali,B.Tech Computer Science,Auto Scaling;High Availability;Fault Tolerance,8.01,Cloud Engineer,Auto Scaling Web App;Fault Tolerant System,2,5
+2026-04-17,Gunbir Nayar,B.Tech Cloud Computing,Prometheus;Grafana;Monitoring,8.04,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,6
+2026-04-17,Abhiram Rama,B.Tech Computer Science,CloudFormation;AWS;IaC,7.7,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Ikbal Narasimhan,B.Tech Cloud Computing,Networking;DNS;Cloud Security,8.72,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Ijaya Munshi,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,7.13,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Falan Mittal,BCA,Networking;DNS;Cloud Security,8.54,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Aachal Bala,BCA,CloudFormation;AWS;IaC,6.5,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Anusha Salvi,BCA,RDS;DynamoDB;Cloud Databases,6.59,Cloud Engineer,Managed DB Backend,1,6
+2026-04-17,Maanav Chad,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,7.52,Cloud Engineer,Cloud Database System;Managed DB Backend,2,8
+2026-04-17,Charles Kibe,B.Tech Cloud Computing,Networking;DNS;Cloud Security,9.41,Cloud Engineer,,0,4
+2026-04-17,Kashish Prasad,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,8.07,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,5
+2026-04-17,Zaid Mani,MCA Cloud Computing,CloudFormation;AWS;IaC,8.83,Cloud Engineer,,0,5
+2026-04-17,Vrishti Prakash,B.Tech Cloud Computing,Docker;Kubernetes;Cloud Deployment,7.99,Cloud Engineer,Dockerized Application;Containerized Deployment;Scalable Microservices Platform;K8s Deployment System,4,5
+2026-04-17,Kamya Das,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,6.5,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,4
+2026-04-17,Aarna Koshy,B.Tech Cloud Computing,Networking;DNS;Cloud Security,7.55,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Mekhala Bala,BCA,Microservices;Cloud Architecture;Scalability,8.51,Cloud Engineer,,0,5
+2026-04-17,Dev Sule,MCA Cloud Computing,CloudFormation;AWS;IaC,7.18,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Leena Venkatesh,B.Tech Cloud Computing,Microservices;Cloud Architecture;Scalability,6.51,Cloud Engineer,,0,8
+2026-04-17,Bachittar Sibal,MCA Cloud Computing,AWS;Lambda;Serverless;API Gateway,9.04,Cloud Engineer,Serverless API System;Event-driven Backend,2,5
+2026-04-17,Unnati Sahni,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,9.02,Cloud Engineer,Event-driven Backend;Serverless API System,2,4
+2026-04-17,Chakradhar Aggarwal,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,8.69,Cloud Engineer,Scalable Microservices Platform,1,7
+2026-04-17,Kashish Pant,B.Tech Cloud Computing,CloudFormation;AWS;IaC,9.25,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Anamika Koshy,BCA,Security Groups;Access Control,9.11,Cloud Engineer,,0,8
+2026-04-17,Rachit Varma,MCA Cloud Computing,Prometheus;Grafana;Monitoring,7.37,Cloud Engineer,Metrics Monitoring System,1,7
+2026-04-17,Rayaan Rajan,MCA Cloud Computing,AWS;EC2;S3;IAM,6.74,Cloud Engineer,Secure IAM Setup;Cloud Storage System;Scalable Backend on EC2;Access Control System;Web App Deployment on EC2,5,5
+2026-04-17,Nandini Ratti,B.Tech Computer Science,Prometheus;Grafana;Monitoring,7.55,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,7
+2026-04-17,Warjas Rana,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,8.44,Cloud Engineer,,0,7
+2026-04-17,Ekaja Nagi,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,8.86,Cloud Engineer,,0,4
+2026-04-17,Niharika Sarraf,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,8.74,Cloud Engineer,Cloud Database System;Managed DB Backend,2,7
+2026-04-17,Dayamai Patla,MCA Cloud Computing,Azure;VMs;Blob Storage,8.48,Cloud Engineer,Azure Cloud Deployment;Cloud App on Azure,2,8
+2026-04-17,Hemangini Sunder,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,9.25,Cloud Engineer,GCP Deployment Project,1,8
+2026-04-17,Victor Peri,MCA Cloud Computing,Auto Scaling;High Availability;Fault Tolerance,9.49,Cloud Engineer,Fault Tolerant System;Auto Scaling Web App,2,6
+2026-04-17,Darika Tripathi,BCA,Security Groups;Access Control,8.36,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Manthan Verma,MCA Cloud Computing,Security Groups;Access Control,8.19,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Libni Kapoor,MCA Cloud Computing,Prometheus;Grafana;Monitoring,8.28,Cloud Engineer,Metrics Monitoring System,1,8
+2026-04-17,Amrita Kala,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,6.99,Cloud Engineer,Managed DB Backend;Cloud Database System,2,4
+2026-04-17,Fitan Sunder,MCA Cloud Computing,Networking;DNS;Cloud Security,9.43,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Ishanvi Dora,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,9.11,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,4
+2026-04-17,Aishani Shetty,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,9.16,Cloud Engineer,Cloud Database System;Managed DB Backend,2,6
+2026-04-17,Chandran Oza,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,6.71,Cloud Engineer,Infrastructure Automation,1,7
+2026-04-17,Bakhshi Suri,B.Tech Computer Science,BigQuery;Cloud Data Warehouse,7.81,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Ekaja Devi,BCA,Networking;DNS;Cloud Security,7.46,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Ansh Dewan,MCA Cloud Computing,AWS;EC2;S3;IAM,7.91,Cloud Engineer,Cloud Storage System;Secure IAM Setup;Static Website Hosting,3,4
+2026-04-17,Advika Goel,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,7.92,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,5
+2026-04-17,Lohit Oommen,B.Tech Computer Science,Networking;DNS;Cloud Security,8.45,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Xavier Patel,B.Tech Computer Science,Auto Scaling;High Availability;Fault Tolerance,6.98,Cloud Engineer,Auto Scaling Web App;Fault Tolerant System,2,8
+2026-04-17,Kalpit Talwar,BCA,GCP;Compute Engine;Cloud Storage,7.14,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,4
+2026-04-17,Kevin Bala,MCA Cloud Computing,Docker;Kubernetes;Cloud Deployment,7.06,Cloud Engineer,K8s Deployment System;Containerized Deployment,2,6
+2026-04-17,Vrishti Mannan,BCA,AWS;EC2;S3;IAM,8.31,Cloud Engineer,Scalable Backend on EC2;Secure IAM Setup;Static Website Hosting;Cloud Storage System,4,4
+2026-04-17,Agastya Bath,B.Tech Cloud Computing,Azure;VMs;Blob Storage,8.68,Cloud Engineer,Azure Cloud Deployment;Cloud App on Azure,2,6
+2026-04-17,Falguni Choudhary,BCA,Terraform;Infrastructure as Code;AWS,7.65,Cloud Engineer,IaC Deployment System,1,7
+2026-04-17,Champak Sunder,BCA,VPC;Subnets;Load Balancer,6.94,Cloud Engineer,Load Balanced System;Secure VPC Setup;Private Cloud Network;High Availability Setup,4,4
+2026-04-17,Yauvani Bobal,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,6.71,Cloud Engineer,,0,5
+2026-04-17,Ucchal Lanka,B.Tech Cloud Computing,Docker;Kubernetes;Cloud Deployment,6.81,Cloud Engineer,Containerized Deployment;Dockerized Application;Scalable Microservices Platform;K8s Deployment System,4,8
+2026-04-17,Samuel Butala,BCA,VPC;Subnets;Load Balancer,8.19,Cloud Engineer,Private Cloud Network;High Availability Setup;Load Balanced System,3,7
+2026-04-17,Ekapad Badal,BCA,CloudFormation;AWS;IaC,6.95,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Darpan Singh,BCA,Microservices;Cloud Architecture;Scalability,8.94,Cloud Engineer,Distributed Cloud System;Microservices Architecture,2,7
+2026-04-17,Yutika Rastogi,B.Tech Cloud Computing,Networking;DNS;Cloud Security,6.51,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Pranit Bhardwaj,BCA,AWS;Lambda;Serverless;API Gateway,8.7,Cloud Engineer,Serverless API System,1,5
+2026-04-17,Neha Nagy,MCA Cloud Computing,Docker;Kubernetes;Cloud Deployment,7.23,Cloud Engineer,,0,4
+2026-04-17,Chandran Krishnan,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,6.76,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Chanchal Bajwa,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,7.41,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Damini Parikh,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,8.21,Cloud Engineer,,0,5
+2026-04-17,Umang Merchant,MCA Cloud Computing,CloudWatch;Monitoring;Logging,7.14,Cloud Engineer,Monitoring Dashboard;Logging System,2,7
+2026-04-17,Rohan Virk,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,6.87,Cloud Engineer,,0,6
+2026-04-17,Radha Baria,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,7.11,Cloud Engineer,Event-driven Backend,1,7
+2026-04-17,Ranbir Gopal,BCA,RDS;DynamoDB;Cloud Databases,6.62,Cloud Engineer,Managed DB Backend;Cloud Database System,2,6
+2026-04-17,Yagnesh Salvi,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,7.58,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,7
+2026-04-17,Maanav Bajaj,BCA,Auto Scaling;High Availability;Fault Tolerance,8.96,Cloud Engineer,,0,4
+2026-04-17,Diya Borah,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,8.76,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,4
+2026-04-17,George Sibal,MCA Cloud Computing,VPC;Subnets;Load Balancer,8.28,Cloud Engineer,Secure VPC Setup,1,7
+2026-04-17,Advaith Dar,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,7.56,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,6
+2026-04-17,Faras Narain,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,7.8,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,6
+2026-04-17,Mitali Hegde,BCA,CloudWatch;Monitoring;Logging,6.83,Cloud Engineer,Monitoring Dashboard;Logging System,2,7
+2026-04-17,Ojas Chander,B.Tech Computer Science,BigQuery;Cloud Data Warehouse,9.22,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Jason Pai,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,8.42,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,7
+2026-04-17,Eshana Vaidya,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,8.59,Cloud Engineer,Dockerized Application,1,5
+2026-04-17,Pushti Pandit,B.Tech Computer Science,CloudFormation;AWS;IaC,7.13,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Quincy Kannan,B.Tech Computer Science,Microservices;Cloud Architecture;Scalability,7.71,Cloud Engineer,Microservices Architecture;Distributed Cloud System,2,7
+2026-04-17,Oscar Issac,BCA,Azure;VMs;Blob Storage,8.82,Cloud Engineer,,0,7
+2026-04-17,Faras Garg,B.Tech Cloud Computing,IAM;Cloud Security;Encryption,8.15,Cloud Engineer,Access Control System;Secure IAM Setup,2,6
+2026-04-17,Anya Devi,MCA Cloud Computing,CloudWatch;Monitoring;Logging,7.94,Cloud Engineer,Logging System;Monitoring Dashboard,2,8
+2026-04-17,Ronith Bala,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,7.98,Cloud Engineer,Managed DB Backend;Cloud Database System,2,6
+2026-04-17,Aishani Mukhopadhyay,MCA Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.55,Cloud Engineer,,0,7
+2026-04-17,Neel Agate,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,8.54,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,5
+2026-04-17,Alexander Tiwari,BCA,RDS;DynamoDB;Cloud Databases,9.18,Cloud Engineer,Managed DB Backend;Cloud Database System,2,4
+2026-04-17,Janya Guha,B.Tech Cloud Computing,Networking;DNS;Cloud Security,9.22,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Udarsh Kala,B.Tech Computer Science,Security Groups;Access Control,7.98,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Henry Setty,BCA,CloudWatch;Monitoring;Logging,7.46,Cloud Engineer,Monitoring Dashboard;Logging System,2,7
+2026-04-17,Sarthak Bath,BCA,AWS;Lambda;Serverless;API Gateway,7.2,Cloud Engineer,Event-driven Backend;Serverless API System,2,5
+2026-04-17,Urvi Sehgal,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,7.3,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,8
+2026-04-17,Urvi Sarma,BCA,BigQuery;Cloud Data Warehouse,6.52,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Caleb Singh,B.Tech Cloud Computing,Security Groups;Access Control,8.14,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Aishani Sharma,BCA,Terraform;Infrastructure as Code;AWS,8.01,Cloud Engineer,IaC Deployment System,1,4
+2026-04-17,Gaurika Misra,MCA Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.45,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Laban Chada,BCA,CI/CD;Jenkins;Cloud Pipelines,8.9,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Madhavi Mander,B.Tech Cloud Computing,CloudWatch;Monitoring;Logging,6.99,Cloud Engineer,,0,5
+2026-04-17,Abhimanyu Babu,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,8.59,Cloud Engineer,,0,4
+2026-04-17,Arin Patla,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,7.79,Cloud Engineer,,0,4
+2026-04-17,Chaitanya Rattan,BCA,IAM;Cloud Security;Encryption,7.32,Cloud Engineer,Access Control System;Secure IAM Setup,2,7
+2026-04-17,Urishilla Dave,B.Tech Cloud Computing,Auto Scaling;High Availability;Fault Tolerance,9.27,Cloud Engineer,Fault Tolerant System;Auto Scaling Web App,2,4
+2026-04-17,Krisha Buch,B.Tech Cloud Computing,Security Groups;Access Control,7.65,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Neel Hans,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,7.41,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,4
+2026-04-17,Hardik Wable,BCA,CloudFormation;AWS;IaC,6.91,Cloud Engineer,,0,5
+2026-04-17,Waida Dhar,B.Tech Cloud Computing,CloudFormation;AWS;IaC,7.3,Cloud Engineer,,0,6
+2026-04-17,Pushti Memon,MCA Cloud Computing,Docker;Kubernetes;Cloud Deployment,6.51,Cloud Engineer,Containerized Deployment;Scalable Microservices Platform;K8s Deployment System,3,5
+2026-04-17,Praneel Malhotra,MCA Cloud Computing,Networking;DNS;Cloud Security,7.13,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Triya Nagi,B.Tech Cloud Computing,AWS;Lambda;Serverless;API Gateway,8.39,Cloud Engineer,Serverless API System;Event-driven Backend,2,8
+2026-04-17,Varsha Pillay,B.Tech Cloud Computing,Security Groups;Access Control,7.26,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Tarak Dara,BCA,IAM;Cloud Security;Encryption,7.47,Cloud Engineer,Access Control System,1,7
+2026-04-17,Abha Morar,B.Tech Cloud Computing,Prometheus;Grafana;Monitoring,7.96,Cloud Engineer,Metrics Monitoring System;Alerting Pipeline,2,8
+2026-04-17,Chandran Sachar,BCA,Azure;VMs;Blob Storage,7.26,Cloud Engineer,Cloud App on Azure;Azure Cloud Deployment,2,6
+2026-04-17,Rudra Gade,BCA,Terraform;Infrastructure as Code;AWS,6.89,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,7
+2026-04-17,Rajeshri Pathak,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,6.68,Cloud Engineer,Serverless API System;Event-driven Backend,2,5
+2026-04-17,Panini Walia,B.Tech Computer Science,IAM;Cloud Security;Encryption,8.92,Cloud Engineer,Access Control System,1,5
+2026-04-17,Januja Tiwari,BCA,AWS;EC2;S3;IAM,8.25,Cloud Engineer,Cloud Storage System;Web App Deployment on EC2;Static Website Hosting;Secure IAM Setup,4,7
+2026-04-17,Ranveer Devi,BCA,Terraform;Infrastructure as Code;AWS,9.13,Cloud Engineer,,0,8
+2026-04-17,Ijaya Ben,MCA Cloud Computing,CloudFormation;AWS;IaC,7.38,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Prisha Oza,BCA,AWS;EC2;S3;IAM,7.07,Cloud Engineer,,0,7
+2026-04-17,Damini Sethi,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,8.09,Cloud Engineer,,0,7
+2026-04-17,Abdul Parekh,MCA Cloud Computing,Security Groups;Access Control,7.89,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Priya Khalsa,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,7.1,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Samuel Jani,MCA Cloud Computing,AWS;EC2;S3;IAM,7.29,Cloud Engineer,Access Control System;Static Website Hosting;Scalable Backend on EC2;Web App Deployment on EC2;Secure IAM Setup,5,8
+2026-04-17,Kevin Dada,B.Tech Computer Science,Terraform;Infrastructure as Code;AWS,7.14,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,4
+2026-04-17,Gautam Agarwal,B.Tech Cloud Computing,CI/CD;Jenkins;Cloud Pipelines,7.79,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Gayathri Solanki,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,8.43,Cloud Engineer,Event-driven Backend;Serverless API System,2,8
+2026-04-17,Barkha Raman,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,9.35,Cloud Engineer,,0,5
+2026-04-17,Kevin Soni,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,8.57,Cloud Engineer,,0,6
+2026-04-17,Harrison Lad,B.Tech Computer Science,Security Groups;Access Control,8.17,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Ekantika Chaudhary,BCA,Prometheus;Grafana;Monitoring,8.49,Cloud Engineer,Metrics Monitoring System;Alerting Pipeline,2,8
+2026-04-17,Upasna Mall,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,7.78,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Yashawini Dhar,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,7.93,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Jeremiah Chana,BCA,BigQuery;Cloud Data Warehouse,8.47,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Omisha Malhotra,B.Tech Cloud Computing,Security Groups;Access Control,6.93,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Nitara Dyal,B.Tech Cloud Computing,Auto Scaling;High Availability;Fault Tolerance,9.46,Cloud Engineer,Auto Scaling Web App,1,8
+2026-04-17,Tanveer Yadav,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,7.24,Cloud Engineer,Cloud Database System;Managed DB Backend,2,6
+2026-04-17,Xalak Zacharia,BCA,Prometheus;Grafana;Monitoring,7.52,Cloud Engineer,Alerting Pipeline,1,7
+2026-04-17,Meghana Prakash,MCA Cloud Computing,AWS;EC2;S3;IAM,8.29,Cloud Engineer,,0,8
+2026-04-17,Manan Chana,MCA Cloud Computing,AWS;EC2;S3;IAM,6.63,Cloud Engineer,Secure IAM Setup;Scalable Backend on EC2,2,7
+2026-04-17,Matthew Narayan,BCA,AWS;EC2;S3;IAM,7.16,Cloud Engineer,Cloud Storage System;Web App Deployment on EC2;Secure IAM Setup;Static Website Hosting;Access Control System,5,8
+2026-04-17,Matthew Ganguly,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,7.74,Cloud Engineer,,0,7
+2026-04-17,Nisha Jani,BCA,CloudWatch;Monitoring;Logging,9.39,Cloud Engineer,Monitoring Dashboard;Logging System,2,6
+2026-04-17,Amaira Kapur,B.Tech Computer Science,Networking;DNS;Cloud Security,8.55,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Dalbir Rajagopalan,B.Tech Cloud Computing,RDS;DynamoDB;Cloud Databases,8.06,Cloud Engineer,Cloud Database System;Managed DB Backend,2,7
+2026-04-17,Yashvi Gulati,B.Tech Cloud Computing,Auto Scaling;High Availability;Fault Tolerance,7.24,Cloud Engineer,Fault Tolerant System;Auto Scaling Web App,2,6
+2026-04-17,Omaja Roy,BCA,Docker;Kubernetes;Cloud Deployment,8.4,Cloud Engineer,Scalable Microservices Platform;K8s Deployment System;Containerized Deployment;Dockerized Application,4,4
+2026-04-17,Upkaar Seshadri,BCA,AWS;EC2;S3;IAM,8.57,Cloud Engineer,Static Website Hosting;Access Control System;Secure IAM Setup;Cloud Storage System;Scalable Backend on EC2,5,4
+2026-04-17,Netra Basu,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,7.57,Cloud Engineer,Cloud Database System;Managed DB Backend,2,6
+2026-04-17,Yashica Viswanathan,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,7.9,Cloud Engineer,,0,5
+2026-04-17,Gayathri Buch,B.Tech Cloud Computing,Docker;Kubernetes;Cloud Deployment,9.31,Cloud Engineer,,0,6
+2026-04-17,Ishani Prashad,BCA,CI/CD;Jenkins;Cloud Pipelines,8.58,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Tarak Kohli,BCA,Docker;Kubernetes;Cloud Deployment,8.81,Cloud Engineer,Containerized Deployment,1,5
+2026-04-17,Kabir Deshpande,BCA,Terraform;Infrastructure as Code;AWS,9.06,Cloud Engineer,Infrastructure Automation;IaC Deployment System,2,4
+2026-04-17,Samarth Thaman,B.Tech Cloud Computing,Azure;VMs;Blob Storage,8.5,Cloud Engineer,,0,4
+2026-04-17,Finn Dugar,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,7.14,Cloud Engineer,Infrastructure Automation,1,5
+2026-04-17,Devansh Trivedi,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,8.1,Cloud Engineer,,0,4
+2026-04-17,Laksh Srinivasan,BCA,Microservices;Cloud Architecture;Scalability,7.77,Cloud Engineer,Distributed Cloud System;Microservices Architecture,2,4
+2026-04-17,Teerth Cherian,MCA Cloud Computing,Auto Scaling;High Availability;Fault Tolerance,8.82,Cloud Engineer,,0,4
+2026-04-17,Gauri Borde,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,8.71,Cloud Engineer,Serverless API System,1,4
+2026-04-17,Orinder Nayar,BCA,BigQuery;Cloud Data Warehouse,8.16,Cloud Engineer,Cloud Deployment Project,1,5
+2026-04-17,Anamika Mohanty,B.Tech Computer Science,GCP;Compute Engine;Cloud Storage,7.1,Cloud Engineer,,0,4
+2026-04-17,Dev Bhatia,B.Tech Cloud Computing,Terraform;Infrastructure as Code;AWS,7.69,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,7
+2026-04-17,Pavani Borah,BCA,AWS;Lambda;Serverless;API Gateway,8.46,Cloud Engineer,,0,6
+2026-04-17,Aarnav Aggarwal,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,8.98,Cloud Engineer,,0,8
+2026-04-17,Ojas Wali,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,9.49,Cloud Engineer,K8s Deployment System,1,4
+2026-04-17,Chandran Parmar,B.Tech Cloud Computing,BigQuery;Cloud Data Warehouse,7.04,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Yashoda Nayak,B.Tech Cloud Computing,Docker;Kubernetes;Cloud Deployment,8.28,Cloud Engineer,Scalable Microservices Platform,1,6
+2026-04-17,Chanakya Contractor,BCA,CloudWatch;Monitoring;Logging,8.26,Cloud Engineer,Monitoring Dashboard;Logging System,2,8
+2026-04-17,Yug Salvi,BCA,AWS;EC2;S3;IAM,6.66,Cloud Engineer,Cloud Storage System;Web App Deployment on EC2,2,5
+2026-04-17,Darpan Kuruvilla,MCA Cloud Computing,Microservices;Cloud Architecture;Scalability,8.33,Cloud Engineer,Distributed Cloud System;Microservices Architecture,2,8
+2026-04-17,Shivansh Sachar,MCA Cloud Computing,Security Groups;Access Control,7.31,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Urmi Bhat,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,8.03,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,8
+2026-04-17,Shaurya Dara,MCA Cloud Computing,BigQuery;Cloud Data Warehouse,7.57,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Aarush Rau,BCA,BigQuery;Cloud Data Warehouse,7.88,Cloud Engineer,,0,4
+2026-04-17,Reyansh Parekh,BCA,CloudWatch;Monitoring;Logging,9.41,Cloud Engineer,Monitoring Dashboard;Logging System,2,7
+2026-04-17,Nikita Balakrishnan,B.Tech Cloud Computing,IAM;Cloud Security;Encryption,8.59,Cloud Engineer,Access Control System;Secure IAM Setup,2,8
+2026-04-17,Chasmum Karan,BCA,Terraform;Infrastructure as Code;AWS,8.94,Cloud Engineer,IaC Deployment System,1,5
+2026-04-17,Jairaj Wagle,B.Tech Cloud Computing,Prometheus;Grafana;Monitoring,8.79,Cloud Engineer,Alerting Pipeline,1,4
+2026-04-17,Qadim Seshadri,B.Tech Computer Science,CloudWatch;Monitoring;Logging,7.3,Cloud Engineer,Monitoring Dashboard;Logging System,2,6
+2026-04-17,Faras Ratti,MCA Cloud Computing,Terraform;Infrastructure as Code;AWS,9.07,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,7
+2026-04-17,Aradhana Bajwa,MCA Cloud Computing,GCP;Compute Engine;Cloud Storage,6.7,Cloud Engineer,GCP Deployment Project;Cloud Pipeline on GCP,2,8
+2026-04-17,Bhavika Rao,MCA Cloud Computing,RDS;DynamoDB;Cloud Databases,8.97,Cloud Engineer,Managed DB Backend;Cloud Database System,2,4
+2026-04-17,Darsh Sodhi,B.Tech Cloud Computing,CloudFormation;AWS;IaC,7.75,Cloud Engineer,Cloud Deployment Project,1,4
+2026-04-17,Guneet Gola,BCA,Security Groups;Access Control,8.75,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Damini Sachdeva,BCA,CloudFormation;AWS;IaC,8.24,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Meera Dhillon,BCA,Microservices;Cloud Architecture;Scalability,9.2,Cloud Engineer,,0,4
+2026-04-17,Aahana Rama,BCA,AWS;EC2;S3;IAM,8.07,Cloud Engineer,Access Control System,1,8
+2026-04-17,Kai Kumar,B.Tech Computer Science,Microservices;Cloud Architecture;Scalability,6.94,Cloud Engineer,Distributed Cloud System;Microservices Architecture,2,7
+2026-04-17,Om Mohanty,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,7.42,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Harrison Pillay,B.Tech Computer Science,Terraform;Infrastructure as Code;AWS,7.48,Cloud Engineer,IaC Deployment System,1,4
+2026-04-17,Thomas Karpe,B.Tech Computer Science,Auto Scaling;High Availability;Fault Tolerance,8.07,Cloud Engineer,Fault Tolerant System,1,5
+2026-04-17,Anmol Naik,BCA,VPC;Subnets;Load Balancer,7.2,Cloud Engineer,Secure VPC Setup;Private Cloud Network;Load Balanced System;High Availability Setup,4,4
+2026-04-17,Ekaja Bala,B.Tech Computer Science,AWS;Lambda;Serverless;API Gateway,7.69,Cloud Engineer,Serverless API System;Event-driven Backend,2,7
+2026-04-17,Aarnav Kashyap,MCA Cloud Computing,CloudWatch;Monitoring;Logging,6.98,Cloud Engineer,Logging System;Monitoring Dashboard,2,5
+2026-04-17,Megha Murthy,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,8.06,Cloud Engineer,Dockerized Application;Scalable Microservices Platform,2,7
+2026-04-17,Warhi Sahni,B.Tech Cloud Computing,Azure;VMs;Blob Storage,7.27,Cloud Engineer,Azure Cloud Deployment;Cloud App on Azure,2,7
+2026-04-17,Faraj Krish,BCA,AWS;EC2;S3;IAM,7.62,Cloud Engineer,Cloud Storage System;Web App Deployment on EC2;Secure IAM Setup,3,5
+2026-04-17,Megha Mallick,B.Tech Computer Science,VPC;Subnets;Load Balancer,7.83,Cloud Engineer,High Availability Setup;Secure VPC Setup,2,7
+2026-04-17,Pushti Sunder,B.Tech Computer Science,BigQuery;Cloud Data Warehouse,8.91,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Jeet Doctor,B.Tech Computer Science,CI/CD;Jenkins;Cloud Pipelines,7.9,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,David Pillay,BCA,CI/CD;Jenkins;Cloud Pipelines,9.26,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Vihaan Reddy,B.Tech Cloud Computing,GCP;Compute Engine;Cloud Storage,7.46,Cloud Engineer,Cloud Pipeline on GCP;GCP Deployment Project,2,7
+2026-04-17,Nandini Kamdar,B.Tech Computer Science,Security Groups;Access Control,6.65,Cloud Engineer,,0,7
+2026-04-17,Zayan Munshi,B.Tech Computer Science,IAM;Cloud Security;Encryption,8.53,Cloud Engineer,Access Control System;Secure IAM Setup,2,6
+2026-04-17,Arunima Saraf,B.Tech Computer Science,Prometheus;Grafana;Monitoring,6.52,Cloud Engineer,,0,8
+2026-04-17,Arin Singh,MCA Cloud Computing,CloudFormation;AWS;IaC,7.67,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Yashawini Modi,BCA,Terraform;Infrastructure as Code;AWS,7.04,Cloud Engineer,IaC Deployment System;Infrastructure Automation,2,6
+2026-04-17,Urmi Parikh,B.Tech Computer Science,RDS;DynamoDB;Cloud Databases,7.82,Cloud Engineer,Managed DB Backend;Cloud Database System,2,8
+2026-04-17,Oliver Dani,B.Tech Computer Science,VPC;Subnets;Load Balancer,9.08,Cloud Engineer,Load Balanced System;Private Cloud Network;Secure VPC Setup;High Availability Setup,4,4
+2026-04-17,Vidhi Mangat,B.Tech Computer Science,Prometheus;Grafana;Monitoring,7.34,Cloud Engineer,Alerting Pipeline;Metrics Monitoring System,2,4
+2026-04-17,Charita Chakrabarti,BCA,VPC;Subnets;Load Balancer,7.08,Cloud Engineer,High Availability Setup;Load Balanced System,2,4
+2026-04-17,Christopher Choudhry,B.Tech Cloud Computing,VPC;Subnets;Load Balancer,8.0,Cloud Engineer,High Availability Setup;Secure VPC Setup;Load Balanced System,3,7
+2026-04-17,Faraj Shetty,B.Tech Computer Science,Docker;Kubernetes;Cloud Deployment,7.98,Cloud Engineer,Containerized Deployment;Scalable Microservices Platform;Dockerized Application;K8s Deployment System,4,5
+2026-04-17,Ekaja Palan,MCA Cloud Computing,VPC;Subnets;Load Balancer,7.12,Cloud Engineer,,0,7
+2026-04-17,Chatura Patla,BCA,BigQuery;Cloud Data Warehouse,6.78,Cloud Engineer,Cloud Deployment Project,1,7
+2026-04-17,Mason Lad,B.Tech Cloud Computing,Networking;DNS;Cloud Security,8.5,Cloud Engineer,Cloud Deployment Project,1,6
+2026-04-17,Chanakya Date,B.Tech Computer Science,CloudFormation;AWS;IaC,7.76,Cloud Engineer,Cloud Deployment Project,1,8
+2026-04-17,Bhavna Pau,B.Tech Cloud Computing,Security Groups;Access Control,8.37,Cloud Engineer,Cloud Deployment Project,1,5
