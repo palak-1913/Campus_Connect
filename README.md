@@ -270,9 +270,9 @@ flask
 
 ## 👤 Author
 
-**Nikhil Singh Bisht**  
-*Linkiden* - www.linkedin.com/in/nikhibisht00 -
-*medium* - https://medium.com/@nikhilbisht226
+**Palak Pandey**  
+*Linkiden* - www.linkedin.com/in/palak-pandey-98674135b-
+
 ---
 
 ## 📄 License
